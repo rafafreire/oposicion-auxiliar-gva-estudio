@@ -22,3 +22,15 @@ Las preguntas de práctica son material didáctico, no preguntas oficiales. Los 
 
 - [Orden 9/2026, convocatoria 70/26, DOGV núm. 10331 (PDF)](https://dogv.gva.es/datos/2026/03/27/pdf/2026_8071_es.pdf)
 - [Ficha oficial de la convocatoria en la Sede GVA](https://sede.gva.es/es/detall-ocupacio-publica?id_emp=110135)
+
+## Publicar en GitHub Pages
+
+El repositorio incluye un flujo de GitHub Actions que publica la aplicación al hacer push a la rama `main`:
+
+1. Sube el proyecto a GitHub y confirma que la rama principal se llama `main`.
+2. En el repositorio, abre **Settings → Pages** y selecciona **GitHub Actions** como origen de publicación.
+3. Cuando termine el flujo **Publicar OpoGVA en GitHub Pages** en la pestaña **Actions**, usa la URL que muestra **Settings → Pages** para abrir la app desde cualquier dispositivo.
+
+El flujo publica la app, sus temas y los cuatro PDF enlazados; no copia el resto de los archivos locales al sitio. Si el repositorio es público, el sitio y su contenido también serán accesibles públicamente.
+
+El progreso se guarda en el almacenamiento local del navegador. Se conserva en cada dispositivo, pero no se sincroniza entre ellos.

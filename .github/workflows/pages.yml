@@ -1,0 +1,49 @@
+name: Publicar OpoGVA en GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Preparar archivos del sitio
+        shell: bash
+        run: |
+          mkdir -p _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES
+          cp index.html _site/
+          cp -R css js assets _site/
+          cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2018_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
+          cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2021_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
+          cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2022_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
+          cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2023_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
+          touch _site/.nojekyll
+
+      - name: Subir el sitio
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Publicar el sitio
+        id: deployment
+        uses: actions/deploy-pages@v4
