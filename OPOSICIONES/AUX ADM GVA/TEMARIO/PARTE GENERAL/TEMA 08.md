@@ -8,23 +8,29 @@ Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral con
 
 ### Artículo 1
 
+
+[[EXAM-REF:2018: pregunta 30]]
+
 ### Objeto de la Ley
 
 1. La presente Ley tiene por objeto actuar contra la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.
 
 2. Por esta ley se establecen medidas de protección integral cuya finalidad es prevenir, sancionar y erradicar esta violencia y prestar asistencia a las mujeres, a sus hijos menores y a los menores sujetos a su tutela, o guarda y custodia, víctimas de esta violencia.
 
-3. La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.
+3. La violencia de género a que se refiere la presente Ley comprende [[HIGHLIGHT]]todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad[[/HIGHLIGHT]].
 
 4. La violencia de género a que se refiere esta Ley también comprende la violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o allegados menores de edad por parte de las personas indicadas en el apartado primero.
 
 ### Artículo 2
 
+
+[[EXAM-REF:2021: pregunta 73]]
+
 ### Principios rectores
 
 A través de esta Ley se articula un conjunto integral de medidas encaminadas a alcanzar los siguientes fines:
 
-a) Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático.
+a) [[HIGHLIGHT]]Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático[[/HIGHLIGHT]].
 
 b) Consagrar derechos de las mujeres víctimas de violencia de género, exigibles ante las Administraciones Públicas, y así asegurar un acceso rápido, transparente y eficaz a los servicios establecidos al efecto.
 
@@ -70,13 +76,19 @@ c) Cuando se disponga una diferencia de trato deben emplearse los medios que res
 
 ### Artículo 3
 
+
+[[EXAM-REF:2018: pregunta 29|2023: pregunta 75]]
+
 ### Ámbito de la ley
 
-La presente ley será de aplicación en todo el ámbito territorial de la Comunidad Valenciana, en todas las actuaciones referidas a la planificación, acciones, gestión y ejecución de actuaciones en materia de igualdad de oportunidades entre mujeres y hombres.
+La presente ley será de aplicación [[HIGHLIGHT]]en todo el ámbito territorial de la Comunidad Valenciana, en todas las actuaciones referidas a la planificación, acciones, gestión y ejecución de actuaciones en materia de igualdad de oportunidades entre mujeres y hombres[[/HIGHLIGHT]].
 
 Las actuaciones reguladas están referidas tanto a las nuevas medidas que se implementen como a las que actualmente se están realizando, así como las que ya existen en materia de igualdad de oportunidades entre mujeres y hombres, ya sean promovidas o realizadas por personas físicas o jurídicas, de naturaleza pública o privada.
 
 ### Artículo 4
+
+
+[[EXAM-REF:2022: preguntas 28, 29]]
 
 ### Principios rectores de la acción administrativa
 
@@ -90,7 +102,7 @@ Art. 4 bis
 
 ### Informes de impacto de género
 
-Los proyectos normativos incorporarán un informe de impacto por razón de género que se elaborará por el departamento o centro directivo que propone el anteproyecto de ley o proyecto de norma, plan o programa de acuerdo con las instrucciones y directrices que dicte el órgano competente en la materia, y deberá acompañar la propuesta desde el inicio del proceso de tramitación.
+Los proyectos normativos incorporarán un informe de impacto por razón de género que se elaborará por el [[HIGHLIGHT]]departamento o centro directivo que propone el anteproyecto[[/HIGHLIGHT]] de ley o proyecto de norma, plan o programa de acuerdo con las instrucciones y directrices que dicte el órgano competente en la materia, y deberá acompañar la propuesta desde el inicio del proceso de tramitación.
 
 ### Artículo 5
 
@@ -422,9 +434,12 @@ En la programación de los medios de comunicación señalados en el artículo an
 
 ### Artículo 42
 
+
+[[EXAM-REF:2021: pregunta 75]]
+
 ### Publicidad no sexista en la Comunitat Valenciana
 
-La Generalitat velará, de manera específica, por el cumplimiento del principio de igualdad y no discriminación en la publicidad en los medios de comunicación social o cualquier otro medio de difusión.
+La Generalitat velará, de manera específica, por [[HIGHLIGHT]]el cumplimiento del principio de igualdad y no discriminación en la publicidad en los medios de comunicación social o cualquier otro medio de difusión[[/HIGHLIGHT]].
 
 ### Artículo 43
 
@@ -498,9 +513,12 @@ Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hom
 
 ### Artículo 1
 
+
+[[EXAM-REF:2021: pregunta 74]]
+
 ### Objeto de la Ley
 
-1. Las mujeres y los hombres son iguales en dignidad humana, e iguales en derechos y deberes. Esta Ley tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición, en cualesquiera de los ámbitos de la vida y, singularmente, en las esferas política, civil, laboral, económica, social y cultural para, en el desarrollo de los artículos 9.2 y 14 de la Constitución, alcanzar una sociedad más democrática, más justa y más solidaria.
+1. Las mujeres y los hombres son iguales en dignidad humana, e iguales en derechos y deberes. Esta Ley tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición, en cualesquiera de los ámbitos de la vida y, singularmente, en las esferas política, civil, laboral, económica, social y cultural para, en el desarrollo [[HIGHLIGHT]]de los artículos 9.2 y 14 de la Constitución[[/HIGHLIGHT]], alcanzar una sociedad más democrática, más justa y más solidaria.
 
 2. A estos efectos, la Ley establece principios de actuación de los Poderes Públicos, regula derechos y deberes de las personas físicas y jurídicas, tanto públicas como privadas, y prevé medidas destinadas a eliminar y corregir en los sectores público y privado, toda forma de discriminación por razón de sexo.
 
@@ -526,7 +544,10 @@ La igualdad de trato y de oportunidades entre mujeres y hombres es un principio 
 
 ### Artículo 5
 
-### Igualdad de trato y de oportunidades en el acceso al empleo, en la formación y en la promoción profesionales, y en las condiciones de trabajo
+
+[[EXAM-REF:2022: pregunta 30]]
+
+### [[HIGHLIGHT]]Igualdad de trato y de oportunidades en el acceso al empleo, en la formación y en la promoción profesionales, y en las condiciones de trabajo[[/HIGHLIGHT]]
 
 El principio de igualdad de trato y de oportunidades entre mujeres y hombres, aplicable en el ámbito del empleo privado y en el del empleo público, se garantizará, en los términos previstos en la normativa aplicable, en el acceso al empleo, incluso al trabajo por cuenta propia, en la formación profesional, en la promoción profesional, en las condiciones de trabajo, incluidas las retributivas y las de despido, y en la afiliación y participación en las organizaciones sindicales y empresariales, o en cualquier organización cuyos miembros ejerzan una profesión concreta, incluidas las prestaciones concedidas por las mismas.
 
@@ -568,9 +589,12 @@ También se considerará discriminación por razón de sexo cualquier trato adve
 
 ### Artículo 10
 
+
+[[EXAM-REF:2018: pregunta 28]]
+
 ### Consecuencias jurídicas de las conductas discriminatorias
 
-Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán nulos y sin efecto, y darán lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido, así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones que prevenga la realización de conductas discriminatorias.
+[[HIGHLIGHT]]Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán[[/HIGHLIGHT]] nulos y sin efecto, y darán lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido, así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones que prevenga la realización de conductas discriminatorias.
 
 ### Artículo 11
 
@@ -591,6 +615,9 @@ Los actos y las cláusulas de los negocios jurídicos que constituyan o causen d
 3. La persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso por razón de sexo.
 
 ### Artículo 13
+
+
+[[EXAM-REF:2023: pregunta 74]]
 
 ### Prueba
 

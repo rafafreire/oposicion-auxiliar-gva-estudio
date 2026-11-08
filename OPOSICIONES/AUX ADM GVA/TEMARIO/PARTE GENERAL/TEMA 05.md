@@ -86,6 +86,9 @@ d) Utilizar la bandera de la Comunitat Valenciana como guión.
 
 ### Artículo 10
 
+
+[[EXAM-REF:2023: pregunta 65]]
+
 Al President de la Generalitat, como más alto representante de la Comunitat Valenciana, le corresponden las siguientes funciones:
 
 a) La representación legal de la Comunitat Valenciana, sin perjuicio de las facultades conferidas por las normas a otros órganos de la Generalitat.
@@ -100,7 +103,7 @@ e) Solicitar de las Cortes Generales, previo acuerdo de Les Corts, la facultad d
 
 f) Solicitar de la Administración del Estado, previo acuerdo del Consell, la transferencia o delegación de competencias previstas en los apartados 2 y 3 del artículo 60 del Estatut d’Autonomia de la Comunitat Valenciana.
 
-g) Fomentar las peculiaridades del pueblo valenciano y solicitar la participación de los valencianos en la vida política, económica, cultural y social.
+g) [[HIGHLIGHT]]Fomentar las peculiaridades del pueblo valenciano y solicitar la participación de los valencianos en la vida política, económica, cultural y social[[/HIGHLIGHT]].
 
 h) Designar representante de la Comunitat Valenciana en el Patronato del Archivo de la Corona de Aragón.
 
@@ -182,7 +185,10 @@ El President podrá designar de entre los miembros del Consell un portavoz.
 
 ### Artículo 16
 
-En materia de política general de la Generalitat corresponden al Consell las siguientes competencias:
+
+[[EXAM-REF:2021: pregunta 66|2023: preguntas 66, 69]]
+
+[[HIGHLIGHT]]En materia de política general de la Generalitat corresponden al Consell las siguientes competencias[[/HIGHLIGHT]]:
 
 a) Determinar las directrices de la acción de Gobierno, de acuerdo con lo que establezca al respecto el President de la Generalitat.
 
@@ -193,6 +199,9 @@ c) El ejercicio de las facultades que el Estatuto de Autonomía o Ley de Les Cor
 d) Ejercer las competencias en materia de acción exterior atribuidas por el artículo 62 del Estatut d’Autonomia.
 
 ### Artículo 17
+
+
+[[EXAM-REF:2021: pregunta 65]]
 
 En uso de sus funciones ejecutivas y administrativas, compete al Consell:
 
@@ -208,7 +217,7 @@ e) Proponer a Les Corts, para su debate y aprobación, los convenios y acuerdos 
 
 f) Suscribir convenios y acuerdos de cooperación con el estado, otras comunidades autónomas e instituciones públicas sin perjuicio de su debate y previa aprobación por Les Corts y autorización de las Cortes Generales en los casos en que ésta procediera.
 
-g) Proponer a Les Corts la creación de personas jurídicas públicas y privadas o, en su caso, crearlas, para el ejercicio de competencias de la Generalitat.
+g) [[HIGHLIGHT]]Proponer a Les Corts la creación de personas jurídicas públicas y privadas o, en su caso, crearlas, para el ejercicio de competencias de la Generalitat[[/HIGHLIGHT]].
 
 h) Proponer ante el órgano competente la convocatoria de concursos y oposiciones para cubrir plazas vacantes de Magistrados, Jueces, Secretarios judiciales y demás personal al servicio de la Administración de Justicia.
 
@@ -216,7 +225,10 @@ i) Participar en la fijación de demarcaciones correspondientes a los Registros 
 
 ### Artículo 18
 
-Las funciones del Consell en materia normativa se concretan en las siguientes competencias:
+
+[[EXAM-REF:2023: pregunta 70]]
+
+Las funciones [[HIGHLIGHT]]del Consell en materia normativa[[/HIGHLIGHT]] se concretan en las siguientes competencias:
 
 a) Proponer a Les Corts la reforma del Estatut d’Autonomia de la Comunitat Valenciana.
 
@@ -294,7 +306,10 @@ La Administración de la Generalitat Valenciana se organiza en Consellerías o D
 
 ### Artículo 28
 
-Los Consellers, como miembros del Consell y Jefes de Departamento, tienen las siguientes funciones:
+
+[[EXAM-REF:2021: pregunta 67|2022: pregunta 25|2023: pregunta 68]]
+
+[[HIGHLIGHT]]Los Consellers, como miembros del Consell y Jefes de Departamento, tienen las siguientes funciones[[/HIGHLIGHT]]:
 
 a) Asistir a las reuniones del Consell.
 

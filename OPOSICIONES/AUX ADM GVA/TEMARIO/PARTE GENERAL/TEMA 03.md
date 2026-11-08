@@ -14,7 +14,10 @@ El Gobierno dirige la política interior y exterior, la Administración civil y 
 
 ### Artículo 98
 
-1. El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.
+
+[[EXAM-REF:2021: pregunta 52|2023: pregunta 52]]
+
+1. El Gobierno se compone [[HIGHLIGHT]]del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley[[/HIGHLIGHT]].
 
 2. El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión.
 
@@ -36,11 +39,15 @@ El Gobierno dirige la política interior y exterior, la Administración civil y 
 
 ### Artículo 100
 
+
+[[EXAM-REF:2018: pregunta 9]]
+
 ### Los demás miembros del Gobierno serán nombrados y separados por el Rey
 
-Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.
+Los demás miembros del Gobierno serán [[HIGHLIGHT]]nombrados y separados por el Rey, a propuesta de su Presidente[[/HIGHLIGHT]].
 
 ### Artículo 101
+
 
 1. El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente.
 
@@ -56,7 +63,10 @@ Los demás miembros del Gobierno serán nombrados y separados por el Rey, a prop
 
 ### Artículo 103
 
-1. La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.
+
+[[EXAM-REF:2023: pregunta 53]]
+
+1. La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con [[HIGHLIGHT]]los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho[[/HIGHLIGHT]].
 
 2. Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley.
 
@@ -80,9 +90,12 @@ c) El procedimiento a través del cual deben producirse los actos administrativo
 
 ### Artículo 106
 
+
+[[EXAM-REF:2022: pregunta 11]]
+
 1. Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.
 
-2. Los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.
+2. Los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea [[HIGHLIGHT]]consecuencia del funcionamiento de los servicios públicos[[/HIGHLIGHT]].
 
 ### Artículo 107
 
@@ -92,7 +105,10 @@ El Consejo de Estado es el supremo órgano consultivo del Gobierno. Una ley org�
 
 ### Artículo 108
 
-### El Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados
+
+[[EXAM-REF:2021: pregunta 53]]
+
+### El Gobierno responde solidariamente en [[HIGHLIGHT]]su gestión política ante el Congreso de los Diputados[[/HIGHLIGHT]]
 
 El Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados.
 
@@ -108,19 +124,28 @@ Las Cámaras y sus Comisiones podrán recabar, a través de los Presidentes de a
 
 ### Artículo 111
 
-1. El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Para esta clase de debate los Reglamentos establecerán un tiempo mínimo semanal.
+
+[[EXAM-REF:2018: pregunta 7]]
+
+1. [[HIGHLIGHT]]El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Para esta clase de debate los Reglamentos establecerán un tiempo mínimo[[/HIGHLIGHT]] semanal.
 
 2. Toda interpelación podrá dar lugar a una moción en la que la Cámara manifieste su posición.
 
 ### Artículo 112
 
-El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.
+
+[[EXAM-REF:2022: pregunta 12]]
+
+El Presidente del Gobierno, previa [[HIGHLIGHT]]deliberación del Consejo de Ministros[[/HIGHLIGHT]], puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.
 
 ### Artículo 113
 
+
+[[EXAM-REF:2018: pregunta 8|2022: pregunta 8]]
+
 1. El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción por mayoría absoluta de la moción de censura.
 
-2. La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.
+2. La moción de censura deberá ser propuesta al menos por [[HIGHLIGHT]]la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno[[/HIGHLIGHT]].
 
 3. La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación. En los dos primeros días de dicho plazo podrán presentarse mociones alternativas.
 
@@ -134,9 +159,12 @@ El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede
 
 ### Artículo 115
 
+
+[[EXAM-REF:2022: pregunta 10]]
+
 1. El Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será decretada por el Rey. El decreto de disolución fijará la fecha de las elecciones.
 
-2. La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura.
+2. La propuesta de disolución no podrá presentarse [[HIGHLIGHT]]cuando esté en trámite una moción de censura[[/HIGHLIGHT]].
 
 3. No procederá nueva disolución antes de que transcurra un año desde la anterior, salvo lo dispuesto en el artículo 99, apartado 5.
 
@@ -184,9 +212,12 @@ La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respe
 
 ### Artículo 120
 
+
+[[EXAM-REF:2023: pregunta 55]]
+
 1. Las actuaciones judiciales serán públicas, con las excepciones que prevean las leyes de procedimiento.
 
-2. El procedimiento será predominantemente oral, sobre todo en materia criminal.
+2. [[HIGHLIGHT]]El procedimiento será predominantemente oral, sobre todo en materia criminal[[/HIGHLIGHT]].
 
 3. Las sentencias serán siempre motivadas y se pronunciarán en audiencia pública.
 
@@ -198,23 +229,32 @@ Los daños causados por error judicial, así como los que sean consecuencia del 
 
 ### Artículo 122
 
+
+[[EXAM-REF:2018: pregunta 10]]
+
 1. La ley orgánica del poder judicial determinará la constitución, funcionamiento y gobierno de los Juzgados y Tribunales, así como el estatuto jurídico de los Jueces y Magistrados de carrera, que formarán un Cuerpo único, y del personal al servicio de la Administración de Justicia.
 
 2. El Consejo General del Poder Judicial es el órgano de gobierno del mismo. La ley orgánica establecerá su estatuto y el régimen de incompatibilidades de sus miembros y sus funciones, en particular en materia de nombramientos, ascensos, inspección y régimen disciplinario.
 
-3. El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años. De éstos, doce entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica; cuatro a propuesta del Congreso de los Diputados, y cuatro a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de quince años de ejercicio en su profesión.
+3. [[HIGHLIGHT]]El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y[[/HIGHLIGHT]] por veinte miembros nombrados por el Rey por un período de cinco años. De éstos, doce entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica; cuatro a propuesta del Congreso de los Diputados, y cuatro a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de quince años de ejercicio en su profesión.
 
 ### Artículo 123
 
+
+[[EXAM-REF:2023: pregunta 56]]
+
 1. El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales.
 
-2. El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.
+2. El Presidente del Tribunal Supremo será nombrado por el Rey, [[HIGHLIGHT]]a propuesta del Consejo General del Poder Judicial[[/HIGHLIGHT]], en la forma que determine la ley.
 
 ### Artículo 124
 
+
+[[EXAM-REF:2021: pregunta 55]]
+
 1. El Ministerio Fiscal, sin perjuicio de las funciones encomendadas a otros órganos, tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como velar por la independencia de los Tribunales y procurar ante éstos la satisfacción del interés social.
 
-2. El Ministerio Fiscal ejerce sus funciones por medio de órganos propios conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad.
+2. El Ministerio Fiscal [[HIGHLIGHT]]ejerce sus funciones por medio de órganos propios conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad[[/HIGHLIGHT]].
 
 3. La ley regulará el estatuto orgánico del Ministerio Fiscal.
 
@@ -228,9 +268,12 @@ Los ciudadanos podrán ejercer la acción popular y participar en la Administrac
 
 ### Artículo 126
 
+
+[[EXAM-REF:2021: pregunta 56]]
+
 ### Policía judicial
 
-La policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, en los términos que la ley establezca.
+[[HIGHLIGHT]]La policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, en los términos que la ley establezca[[/HIGHLIGHT]].
 
 ### Artículo 127
 

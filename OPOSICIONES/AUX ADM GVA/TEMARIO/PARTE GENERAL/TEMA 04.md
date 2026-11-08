@@ -36,7 +36,10 @@ La Generalitat podrá solicitar del Estado la celebración de los correspondient
 
 ### Artículo 4
 
-1. La Bandera de la Comunitat Valenciana es la tradicional Senyera compuesta por cuatro barras rojas sobre fondo amarillo, coronadas sobre franja azul junto al asta.
+
+[[EXAM-REF:2018: pregunta 15]]
+
+1. [[HIGHLIGHT]]La Bandera de la Comunitat Valenciana es la tradicional Senyera compuesta por cuatro barras[[/HIGHLIGHT]] rojas sobre fondo amarillo, coronadas sobre franja azul junto al asta.
 
 2. Una Ley de Les Corts determinará la simbología heráldica propia de la Comunitat Valenciana que integra las tres provincias de Castellón, Valencia y Alicante.
 
@@ -78,11 +81,14 @@ La Generalitat podrá solicitar del Estado la celebración de los correspondient
 
 ### Artículo 9
 
+
+[[EXAM-REF:2023: pregunta 62]]
+
 1. Sin perjuicio de lo que dispone la legislación básica del Estado, una Ley de Les Corts regulará el derecho a una buena administración y el acceso a los documentos de las instituciones y administraciones públicas valencianas.
 
 2. Todos los ciudadanos tienen derecho a que las administraciones públicas de la Generalitat traten sus asuntos de modo equitativo e imparcial y en un plazo razonable y a gozar de servicios públicos de calidad.
 
-Asimismo, los ciudadanos valencianos tendrán derecho a dirigirse a la Administración de la Comunitat Valenciana en cualquiera de sus dos lenguas oficiales y a recibir respuesta en la misma lengua utilizada.
+Asimismo, los ciudadanos valencianos tendrán [[HIGHLIGHT]]derecho a dirigirse a la Administración de la Comunitat Valenciana en cualquiera de[[/HIGHLIGHT]] sus dos lenguas oficiales y a recibir respuesta en la misma lengua utilizada.
 
 3. La Generalitat velará por una Administración de Justicia sin demoras indebidas y próxima al ciudadano.
 
@@ -94,9 +100,12 @@ La Generalitat promoverá la participación de los agentes sociales y del conjun
 
 ### Artículo 10
 
+
+[[EXAM-REF:2018: pregunta 14|2022: pregunta 19]]
+
 1. La Generalitat defenderá y promoverá los derechos sociales de los valencianos que representan un ámbito inseparable del respeto de los valores y derechos universales de las personas y que constituyen uno de los fundamentos cívicos del progreso económico, cultural y tecnológico de la Comunitat Valenciana.
 
-2. Mediante una Ley de Les Corts se elaborará la Carta de Derechos Sociales de la Comunitat Valenciana, como expresión del espacio cívico de convivencia social de los valencianos, que contendrá el conjunto de principios, derechos y directrices que informen la actuación pública de la Generalitat en el ámbito de la política social.
+2. Mediante una Ley de Les Corts se elaborará [[HIGHLIGHT]]la Carta de Derechos Sociales de la Comunitat[[/HIGHLIGHT]] ValencianaIGHT]] Comunitat Valenciana, como expresión del espacio cívico de convivencia social de los valencianos, que contendrá el conjunto de principios, derechos y directrices que informen la actuación pública de la Generalitat en el ámbito de la política social.
 
 3. En todo caso, la actuación de la Generalitat se centrará primordialmente en los siguientes ámbitos: defensa integral de la familia; los derechos de las situaciones de unión legalizadas; protección específica y tutela social del menor; la no discriminación y derechos de las personas con discapacidad y sus familias a la igualdad de oportunidades, a la integración y a la accesibilidad universal en cualquier ámbito de la vida pública, social, educativa o económica; la articulación de políticas que garanticen la participación de la juventud en el desarrollo político, social, económico y cultural; participación y protección de las personas mayores y de los dependientes; asistencia social a las personas que sufran marginación, pobreza o exclusión y discriminación social; igualdad de derechos de hombres y mujeres en todos los ámbitos, en particular en materia de empleo y trabajo; protección social contra la violencia, especialmente de la violencia de género y actos terroristas; derechos y atención social de los inmigrantes con residencia en la Comunitat Valenciana.
 
@@ -168,6 +177,9 @@ La Generalitat promoverá políticas de equilibrio territorial entre las zonas c
 
 ### Artículo 22
 
+
+[[EXAM-REF:2023: pregunta 61]]
+
 Son funciones de Les Corts:
 
 a) Aprobar los presupuestos de la Generalitat y las emisiones de Deuda Pública.
@@ -178,7 +190,7 @@ c) Elegir al President de la Generalitat.
 
 d) Exigir, en su caso, la responsabilidad política del President y del Consell.
 
-e) Ejercer el control parlamentario sobre la acción de la Administración situada bajo la autoridad de la Generalitat. Con esta finalidad se podrán crear, en su caso, comisiones especiales de investigación, o atribuir esta facultad a las comisiones permanentes.
+e) Ejercer el control parlamentario sobre la acción de la Administración situada [[HIGHLIGHT]]bajo la autoridad de la Generalitat[[/HIGHLIGHT]]. Con esta finalidad se podrán crear, en su caso, comisiones especiales de investigación, o atribuir esta facultad a las comisiones permanentes.
 
 f) Presentar ante la Mesa del Congreso proposiciones de ley y nombrar a los Diputados encargados de defenderlas.
 
@@ -196,6 +208,9 @@ l) Aquellas otras que les atribuyan las leyes y este Estatuto.
 
 ### Artículo 23
 
+
+[[EXAM-REF:2018: pregunta 16]]
+
 1. Les Corts estarán constituidas por un número de Diputados y Diputadas no inferior a noventa y nueve, elegidos por sufragio universal, libre, igual, directo y secreto, en la forma que determina la Ley Electoral Valenciana, atendiendo a criterios de proporcionalidad y, en su caso, de comarcalización.
 
 2. Para poder ser proclamados electos y obtener escaño, los candidatos de cualquier circunscripción habrán de gozar de la condición política de valencianos y deberán haber sido presentados por partidos, federaciones, coaliciones o agrupaciones de electores que obtengan el número de votos exigido por la Ley Electoral valenciana.
@@ -206,7 +221,7 @@ Durante su mandato no podrán ser detenidos ni retenidos por actos delictivos re
 
 Igualmente, gozarán de aforamiento en materia de responsabilidad civil por actos cometidos y opiniones emitidas en el ejercicio de su cargo.
 
-4. Les Corts son elegidas por cuatro años. El mandato de sus Diputados finaliza cuatro años después de las elecciones, o el día de la disolución de la Cámara por el President de la Generalitat en la forma que establezca la Ley del Consell. A determinados efectos, el mandato de los Diputados finalizará el día antes de las elecciones.
+4. Les Corts son elegidas por cuatro años. El mandato de sus Diputados finaliza cuatro años después de las elecciones, o el día de la disolución de la Cámara por el President de la Generalitat en la forma que establezca la Ley del Consell. A determinados efectos, el mandato de los Diputados finalizará [[HIGHLIGHT]]el día antes de las elecciones[[/HIGHLIGHT]].
 
 La disolución y convocatoria de nuevas elecciones a Les Corts se realizará por medio de Decreto del President de la Generalitat. En cualquier caso, Les Corts electas se constituirán en un plazo máximo de noventa días, a partir de la fecha de finalización del mandato anterior. El Decreto, que entrará en vigor el día de su publicación en el «Diario Oficial de la Generalitat», especificará el número de Diputados a elegir en cada circunscripción, la duración de la campaña electoral, el día de votación y el día, hora y lugar de constitución de Les Corts de acuerdo con la Ley Electoral Valenciana.
 
@@ -215,6 +230,9 @@ La disolución y convocatoria de nuevas elecciones a Les Corts se realizará por
 La Ley Electoral Valenciana, prevista en el apartado 1 del artículo anterior, será aprobada en votación de conjunto por las dos terceras partes de Les Corts y garantizará un mínimo de 20 Diputados por cada circunscripción provincial, distribuyendo el resto del número total de los diputados entre dichas circunscripciones, según criterios de proporcionalidad respecto de la población, de manera que la desproporción que establezca el sistema resultante sea inferior a la relación de uno a tres.
 
 ### Artículo 25
+
+
+[[EXAM-REF:2022: pregunta 20]]
 
 1. Les Corts nombrarán a su Presidente, a la Mesa y a una Diputación Permanente.
 
@@ -268,7 +286,10 @@ La moción de censura no podrá ser votada hasta cinco días después de su pres
 
 ### Artículo 29
 
-1. El Consell es el órgano colegiado de gobierno de la Generalitat, que ostenta la potestad ejecutiva y reglamentaria. En particular, dirige la Administración, que se encuentra bajo la autoridad de la Generalitat.
+
+[[EXAM-REF:2018: pregunta 17|2023: pregunta 63]]
+
+1. [[HIGHLIGHT]]El Consell es el órgano colegiado de gobierno de la Generalitat[[/HIGHLIGHT]], que ostenta la potestad ejecutiva y reglamentaria. En particular, dirige la Administración, que se encuentra bajo la autoridad de la Generalitat.
 
 2. Los miembros del Consell que reciben el nombre de Consellers son designados por el President de la Generalitat. Sus funciones, composición, forma de nombramiento y de cese serán reguladas por Ley de Les Corts.
 
@@ -292,6 +313,7 @@ El Consell podrá interponer el recurso de inconstitucionalidad. También podrá
 
 ### Artículo 33
 
+
 1. El Tribunal Superior de Justicia de la Comunitat Valenciana es el órgano jurisdiccional en el que culmina la organización judicial en el ámbito territorial de la Comunitat Valenciana, de acuerdo con lo establecido en la Constitución.
 
 2. Por medio del pertinente sistema de instancias procesales y recursos que vienen determinados por la legislación del Estado, será competencia del Tribunal Superior de Justicia de la Comunitat Valenciana el establecimiento de la doctrina en los órdenes jurisdiccionales en los que así proceda, extendiéndose a todos aquellos cuyo conocimiento les fuera atribuido por el Estado, en el territorio de la Comunitat Valenciana, sin perjuicio de las competencias del Tribunal Supremo.
@@ -302,7 +324,9 @@ El Consell podrá interponer el recurso de inconstitucionalidad. También podrá
 
 ### Artículo 34
 
-1. El Presidente del Tribunal Superior de Justicia de la Comunitat Valenciana será nombrado por el Rey a propuesta del Consejo General del Poder Judicial.
+[[EXAM-REF:2021: pregunta 63]]
+
+1. [[HIGHLIGHT]]El Presidente del Tribunal Superior de Justicia de la Comunitat Valenciana será nombrado por el Rey a propuesta[[/HIGHLIGHT]] del Consejo General del Poder Judicial.
 
 2. El nombramiento de los Magistrados, Jueces y Secretarios del Tribunal Superior de Justicia de la Comunitat Valenciana se efectuará en la forma prevista en la Ley Orgánica del Poder Judicial.
 
@@ -421,6 +445,9 @@ Las normas reglamentarias, los acuerdos y otros actos administrativos de los ór
 En el ejercicio de sus competencias, la Generalitat gozará de las potestades y los privilegios propios de la Administración del Estado.
 
 ### Artículo 49
+
+
+[[EXAM-REF:2022: pregunta 18|2023: pregunta 64]]
 
 1. La Generalitat tiene competencia exclusiva sobre las siguientes materias:
 

@@ -276,9 +276,11 @@ En caso de fallecimiento de personas con discapacidad, estas facultades también
 
 ### Artículo 4
 
+[[EXAM-REF:2021: pregunta 54|2022: pregunta 54]]
+
 ### Exactitud de los datos
 
-1. Conforme al artículo 5.1.d) del Reglamento (UE) 2016/679 los datos serán exactos y, si fuere necesario, actualizados.
+1. [[HIGHLIGHT]]Conforme al artículo 5.1.d) del Reglamento (UE) 2016/679[[/HIGHLIGHT]] los datos serán exactos y, si fuere necesario, actualizados.
 
 2. A los efectos previstos en el artículo 5.1.d) del Reglamento (UE) 2016/679, no será imputable al responsable del tratamiento, siempre que este haya adoptado todas las medidas razonables para que se supriman o rectifiquen sin dilación, la inexactitud de los datos personales, con respecto a los fines para los que se tratan, cuando los datos inexactos:
 
@@ -291,6 +293,7 @@ c) Fuesen sometidos a tratamiento por el responsable por haberlos recibido de ot
 d) Fuesen obtenidos de un registro público por el responsable.
 
 ### Artículo 5
+
 
 ### Deber de confidencialidad
 
@@ -312,9 +315,12 @@ d) Fuesen obtenidos de un registro público por el responsable.
 
 ### Artículo 7
 
+
+[[EXAM-REF:2021: pregunta 24|2022: pregunta 53|2023: pregunta 24]]
+
 ### Consentimiento de los menores de edad
 
-1. El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años.
+1. El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento [[HIGHLIGHT]]cuando sea mayor de catorce años[[/HIGHLIGHT]].
 
 Se exceptúan los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela para la celebración del acto o negocio jurídico en cuyo contexto se recaba el consentimiento para el tratamiento.
 

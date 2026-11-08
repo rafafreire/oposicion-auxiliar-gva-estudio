@@ -56,7 +56,10 @@ La moción deberá ser propuesta, al menos, por la quinta parte de los Diputados
 
 ### Artículo 51
 
-1. El President de la Generalitat, previa deliberación del Consell, puede plantear ante Les Corts la cuestión de confianza sobre su programa, una decisión política o un proyecto de Ley, conforme se establece en el artículo 30 del Estatut d’Autonomia.
+
+[[EXAM-REF:2023: pregunta 67]]
+
+1. El President de la Generalitat, previa deliberación del Consell, puede plantear ante Les Corts la [[HIGHLIGHT]]cuestión de confianza sobre su programa, una decisión política o un proyecto de Ley[[/HIGHLIGHT]], conforme se establece en el artículo 30 del Estatut d’Autonomia.
 
 2. La cuestión de confianza se presentará, en escrito motivado, ante la Mesa de Les Corts acompañada del correspondiente certificado del Consell.
 
@@ -122,7 +125,10 @@ De acuerdo con lo establecido en el artículo 23 del Estatut d’Autonomia de la
 
 ### Artículo 60
 
-La Administración Pública de la Generalitat se organiza y actúa con personalidad jurídica única, conforme a criterios de eficacia, publicidad, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al derecho, dentro de la mayor economía de medios que permita la obtención de los fines que tiene encomendados.
+
+[[EXAM-REF:2022: pregunta 21]]
+
+[[HIGHLIGHT]]La Administración Pública de la Generalitat[[/HIGHLIGHT]] se organiza y actúa con personalidad jurídica única, conforme a criterios de eficacia, publicidad, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al derecho, dentro de la mayor economía de medios que permita la obtención de los fines que tiene encomendados.
 
 ### Artículo 61
 
@@ -134,11 +140,14 @@ La creación de todo órgano administrativo que suponga un incremento del gasto 
 
 ### Artículo 63
 
+
+[[EXAM-REF:2022: pregunta 23]]
+
 1. El ejercicio de las competencias propias de cada órgano podrá ser delegado por éste en el órgano jerárquico inmediato inferior, salvo que por la aplicación del principio de eficacia sea aconsejable atribuirlo a otro órgano, sin que quepa la delegación de competencias delegadas.
 
 2. Las competencias propias del Consell son delegables en cualquier caso en las Comisiones Delegadas del Consell.
 
-3. No son delegables las siguientes competencias:
+3. No [[HIGHLIGHT]]son delegables las siguientes competencias[[/HIGHLIGHT]]:
 
 a) Las que procedan de una atribución expresa del Estatuto de Autonomía.
 
@@ -174,11 +183,14 @@ El nivel directivo lo integran los Subsecretarios, Directores generales y demás
 
 ### Artículo 68
 
+
+[[EXAM-REF:2022: pregunta 24]]
+
 1. Bajo la dependencia del President, Vicepresidentes y Consellers, se podrán crear Secretarías Autonómicas.
 
 2. Los Secretarios autonómicos dirigen y coordinan los Centros Directivos que se adscriben bajo su dependencia y responden, ante el titular del que dependan, de la gestión de aquellas materias que les sean atribuidas.
 
-3. Los Secretarios autonómicos llevan a cabo las siguientes funciones ejecutivas:
+3. [[HIGHLIGHT]]Los Secretarios autonómicos llevan a cabo las siguientes funciones ejecutivas[[/HIGHLIGHT]]:
 
 a) Ejercer las facultades inherentes al sector o actividad de la competencia material que tengan atribuida por la norma de creación del órgano.
 

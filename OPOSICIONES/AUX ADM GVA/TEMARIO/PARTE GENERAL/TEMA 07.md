@@ -66,7 +66,10 @@ Las instituciones de la Unión aplicarán el principio de proporcionalidad de co
 
 ### Artículo 6
 
-1.   La Unión reconoce los derechos, libertades y principios enunciados en la Carta de los Derechos Fundamentales de la Unión Europea de 7 de diciembre de 2000, tal como fue adaptada el 12 de diciembre de 2007 en Estrasburgo, la cual tendrá el mismo valor jurídico que los Tratados.
+
+[[EXAM-REF:2021: pregunta 70]]
+
+1.   [[HIGHLIGHT]]La Unión reconoce los derechos, libertades y principios enunciados en la Carta de los Derechos Fundamentales de la Unión Europea de 7 de diciembre de 2000[[/HIGHLIGHT]], tal como fue adaptada el 12 de diciembre de 2007 en Estrasburgo, la cual tendrá el mismo valor jurídico que los Tratados.
 
 Las disposiciones de la Carta no ampliarán en modo alguno las competencias de la Unión tal como se definen en los Tratados.
 
@@ -104,9 +107,12 @@ Tratado de Funcionamiento de la Unión Europea (2009)
 
 ### Artículo 288
 
+
+[[EXAM-REF:2018: preguntas 25, 26|2021: pregunta 71|2022: preguntas 26, 27]]
+
 Para ejercer las competencias de la Unión, las instituciones adoptarán reglamentos, directivas, decisiones, recomendaciones y dictámenes.
 
-El reglamento tendrá un alcance general. Será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.
+El reglamento tendrá un alcance general. [[HIGHLIGHT]]Será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro[[/HIGHLIGHT]].
 
 La directiva obligará al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando, sin embargo, a las autoridades nacionales la elección de la forma y de los medios.
 
@@ -232,11 +238,14 @@ Cuando se les presente un proyecto de acto legislativo, el Parlamento Europeo y 
 
 ### Artículo 297
 
+
+[[EXAM-REF:2021: pregunta 72]]
+
 1.   Los actos legislativos adoptados con arreglo al procedimiento legislativo ordinario serán firmados por el Presidente del Parlamento Europeo y por el Presidente del Consejo.
 
 Los actos legislativos adoptados con arreglo a un procedimiento legislativo especial serán firmados por el Presidente de la institución que los haya adoptado.
 
-Los actos legislativos se publicarán en el Diario Oficial de la Unión Europea. Entrarán en vigor en la fecha que ellos mismos fijen o, a falta de ella, a los veinte días de su publicación.
+Los actos legislativos se publicarán [[HIGHLIGHT]]en el Diario Oficial de la Unión Europea[[/HIGHLIGHT]]. Entrarán en vigor en la fecha que ellos mismos fijen o, a falta de ella, a los veinte días de su publicación.
 
 2.   Los actos no legislativos adoptados en forma de reglamentos, directivas y decisiones, cuando éstas últimas no indiquen destinatario, serán firmados por el Presidente de la institución que los haya adoptado.
 

@@ -8,19 +8,25 @@ Constitución Española (1978)
 
 ### Artículo 56
 
+
+[[EXAM-REF:2018: pregunta 4]]
+
 1. El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes.
 
 2. Su título es el de Rey de España y podrá utilizar los demás que correspondan a la Corona.
 
-3. La persona del Rey es inviolable y no está sujeta a responsabilidad. Sus actos estarán siempre refrendados en la forma establecida en el artículo 64, careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65, 2.
+3. La persona del Rey [[HIGHLIGHT]]es inviolable y no está sujeta a responsabilidad[[/HIGHLIGHT]]. Sus actos estarán siempre refrendados en la forma establecida en el artículo 64, careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65, 2.
 
 ### Artículo 57
+
+
+[[EXAM-REF:2023: pregunta 51]]
 
 1. La Corona de España es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica. La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos.
 
 2. El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España.
 
-3. Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España.
+3. Extinguidas [[HIGHLIGHT]]todas las líneas llamadas en Derecho[[/HIGHLIGHT]], las Cortes Generales proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España.
 
 4. Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales, quedarán excluidas en la sucesión a la Corona por sí y sus descendientes.
 
@@ -34,6 +40,9 @@ La Reina consorte o el consorte de la Reina no podrán asumir funciones constitu
 
 ### Artículo 59
 
+
+[[EXAM-REF:2022: pregunta 6]]
+
 1. Cuando el Rey fuere menor de edad, el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona, según el orden establecido en la Constitución, entrará a ejercer inmediatamente la Regencia y la ejercerá durante el tiempo de la minoría de edad del Rey.
 
 2. Si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer inmediatamente la Regencia el Príncipe heredero de la Corona, si fuere mayor de edad. Si no lo fuere, se procederá de la manera prevista en el apartado anterior, hasta que el Príncipe heredero alcance la mayoría de edad.
@@ -42,11 +51,14 @@ La Reina consorte o el consorte de la Reina no podrán asumir funciones constitu
 
 4. Para ejercer la Regencia es preciso ser español y mayor de edad.
 
-5. La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey.
+5. La Regencia se ejercerá [[HIGHLIGHT]]por mandato constitucional y siempre en nombre del Rey[[/HIGHLIGHT]].
 
 ### Artículo 60
 
-1. Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey.
+
+[[EXAM-REF:2021: pregunta 49]]
+
+1. [[HIGHLIGHT]]Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey[[/HIGHLIGHT]].
 
 2. El ejercicio de la tutela es también incompatible con el de todo cargo o representación política.
 
@@ -118,6 +130,9 @@ j) El Alto Patronazgo de las Reales Academias.
 
 ### Artículo 68
 
+
+[[EXAM-REF:2021: pregunta 50|2022: pregunta 9|2023: pregunta 50]]
+
 1. El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley.
 
 2. La circunscripción electoral es la provincia. Las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por un Diputado. La ley distribuirá el número total de Diputados, asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.
@@ -130,7 +145,7 @@ j) El Alto Patronazgo de las Reales Academias.
 
 La ley reconocerá y el Estado facilitará el ejercicio del derecho de sufragio a los españoles que se encuentren fuera del territorio de España.
 
-6. Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.
+6. [[HIGHLIGHT]]Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones[[/HIGHLIGHT]].
 
 ### Artículo 69
 
@@ -178,9 +193,12 @@ f) A los miembros de las Juntas Electorales.
 
 ### Artículo 72
 
+
+[[EXAM-REF:2023: pregunta 49]]
+
 1. Las Cámaras establecen sus propios Reglamentos, aprueban autónomamente sus presupuestos y, de común acuerdo, regulan el Estatuto del Personal de las Cortes Generales. Los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría absoluta.
 
-2. Las Cámaras eligen sus respectivos Presidentes y los demás miembros de sus Mesas. Las sesiones conjuntas serán presididas por el Presidente del Congreso y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.
+2. Las Cámaras eligen sus respectivos Presidentes y los demás miembros de sus Mesas. Las sesiones conjuntas [[HIGHLIGHT]]serán presididas por el Presidente del Congreso[[/HIGHLIGHT]] y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.
 
 3. Los Presidentes de las Cámaras ejercen en nombre de las mismas todos los poderes administrativos y facultades de policía en el interior de sus respectivas sedes.
 
@@ -240,7 +258,10 @@ Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contra
 
 ### Artículo 81
 
-1. Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución.
+
+[[EXAM-REF:2018: pregunta 5]]
+
+1. Son leyes orgánicas [[HIGHLIGHT]]las relativas al desarrollo de los derechos fundamentales y de las libertades públicas[[/HIGHLIGHT]], las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución.
 
 2. La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.
 
@@ -288,11 +309,14 @@ Las disposiciones del Gobierno que contengan legislación delegada recibirán el
 
 ### Artículo 87
 
+
+[[EXAM-REF:2018: pregunta 6]]
+
 1. La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado, de acuerdo con la Constitución y los Reglamentos de las Cámaras.
 
 2. Las Asambleas de las Comunidades Autónomas podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de tres miembros de la Asamblea encargados de su defensa.
 
-3. Una ley orgánica regulará las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de ley. En todo caso se exigirán no menos de 500.000 firmas acreditadas. No procederá dicha iniciativa en materias propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia.
+3. Una ley orgánica regulará las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de ley. En todo caso se exigirán [[HIGHLIGHT]]no menos de 500.000 firmas acreditadas[[/HIGHLIGHT]]. No procederá dicha iniciativa en materias propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia.
 
 ### Artículo 88
 
@@ -308,9 +332,12 @@ Los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá
 
 ### Artículo 90
 
+
+[[EXAM-REF:2021: pregunta 51|2022: pregunta 7]]
+
 1. Aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, su Presidente dará inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de éste.
 
-2. El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo. El veto deberá ser aprobado por mayoría absoluta. El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos dos meses desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple.
+2. [[HIGHLIGHT]]El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo. El veto deberá ser aprobado por mayoría absoluta. El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos dos meses desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple[[/HIGHLIGHT]].
 
 3. El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de veinte días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados.
 
