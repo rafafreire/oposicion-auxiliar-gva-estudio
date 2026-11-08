@@ -65,7 +65,7 @@ async def generate(number: int, voice: str, rate: str) -> None:
     try:
         import edge_tts
     except ImportError as error:
-        raise SystemExit("Falta edge-tts. Instálalo con: py -m pip install -r scripts/requirements-audio.txt") from error
+        raise SystemExit("Falta edge-tts. Instala Python estandar con pip y ejecuta: py -m pip install -r scripts/requirements-audio.txt") from error
 
     source = topic_path(number)
     if not source.is_file():
