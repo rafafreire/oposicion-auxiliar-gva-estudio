@@ -2,6 +2,7 @@
 
 La Constitución Española de 1978: Título Preliminar; Título I, De los derechos y deberes fundamentales; Título VIII, De la organización territorial del Estado.
 
+
 ## Constitución Española de 1978
 
 Constitución Española (1978)
@@ -21,8 +22,10 @@ Constitución Española (1978)
 La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.
 
 ### Artículo 3
+[[EXAM-REF:2023: pregunta 46]]
 
-1. El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.
+
+1. [[HIGHLIGHT]]El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.[[/HIGHLIGHT]]
 
 2. Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.
 
@@ -47,22 +50,28 @@ Los partidos políticos expresan el pluralismo político, concurren a la formaci
 Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.
 
 ### Artículo 8
+[[EXAM-REF:2018: pregunta 1]]
 
-1. Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.
+
+1. Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión [[HIGHLIGHT]]garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.[[/HIGHLIGHT]]
 
 2. Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución.
 
 ### Artículo 9
+[[EXAM-REF:2021: pregunta 46|2022: pregunta 1]]
+
 
 1. Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.
 
 2. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
 
-3. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.
+3. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, [[HIGHLIGHT]]la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales[[/HIGHLIGHT]], la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.
 
 ### Artículo 10
+[[EXAM-REF:2023: pregunta 48]]
 
-1. La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social.
+
+1. [[HIGHLIGHT]]La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social.[[/HIGHLIGHT]]
 
 2. Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.
 
@@ -79,8 +88,10 @@ Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la
 Los españoles son mayores de edad a los dieciocho años.
 
 ### Artículo 13
+[[EXAM-REF:2022: pregunta 4]]
 
-1. Los extranjeros gozarán en España de las libertades públicas que garantiza el presente Título en los términos que establezcan los tratados y la ley.
+
+1. [[HIGHLIGHT]]Los extranjeros gozarán en España de las libertades públicas que garantiza el presente Título en los términos que establezcan los tratados y la ley.[[/HIGHLIGHT]]
 
 2. Solamente los españoles serán titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales.
 
@@ -105,6 +116,8 @@ Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ni
 3. Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia Católica y las demás confesiones.
 
 ### Artículo 17
+[[EXAM-REF:2018: pregunta 2]]
+
 
 1. Toda persona tiene derecho a la libertad y a la seguridad. Nadie puede ser privado de su libertad, sino con la observancia de lo establecido en este artículo y en los casos y en la forma previstos en la ley.
 
@@ -112,7 +125,7 @@ Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ni
 
 3. Toda persona detenida debe ser informada de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detención, no pudiendo ser obligada a declarar. Se garantiza la asistencia de abogado al detenido en las diligencias policiales y judiciales, en los términos que la ley establezca.
 
-4. La ley regulará un procedimiento de «habeas corpus» para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente. Asimismo, por ley se determinará el plazo máximo de duración de la prisión provisional.
+4. La ley regulará un procedimiento de «habeas corpus» [[HIGHLIGHT]]para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente.[[/HIGHLIGHT]] Asimismo, por ley se determinará el plazo máximo de duración de la prisión provisional.
 
 ### Artículo 18
 
@@ -131,6 +144,8 @@ Los españoles tienen derecho a elegir libremente su residencia y a circular por
 Asimismo, tienen derecho a entrar y salir libremente de España en los términos que la ley establezca. Este derecho no podrá ser limitado por motivos políticos o ideológicos.
 
 ### Artículo 20
+[[EXAM-REF:2023: pregunta 47]]
+
 
 1. Se reconocen y protegen los derechos:
 
@@ -138,7 +153,7 @@ a) A expresar y difundir libremente los pensamientos, ideas y opiniones mediante
 
 b) A la producción y creación literaria, artística, científica y técnica.
 
-c) A la libertad de cátedra.
+[[HIGHLIGHT]]c) A la libertad de cátedra.[[/HIGHLIGHT]]
 
 d) A comunicar o recibir libremente información veraz por cualquier medio de difusión. La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.
 
@@ -217,8 +232,10 @@ Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y
 10. Se reconoce la autonomía de las Universidades, en los términos que la ley establezca.
 
 ### Artículo 28
+[[EXAM-REF:2021: pregunta 47]]
 
-1. Todos tienen derecho a sindicarse libremente. La ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos. La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección, así como el derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales internacionales o a afiliarse a las mismas. Nadie podrá ser obligado a afiliarse a un sindicato.
+
+1. Todos tienen derecho a sindicarse libremente. [[HIGHLIGHT]]La ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos.[[/HIGHLIGHT]] La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección, así como el derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales internacionales o a afiliarse a las mismas. Nadie podrá ser obligado a afiliarse a un sindicato.
 
 2. Se reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses. La ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.
 
@@ -239,8 +256,10 @@ Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y
 4. Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.
 
 ### Artículo 31
+[[EXAM-REF:2021: pregunta 48]]
 
-1. Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.
+
+1. [[HIGHLIGHT]]Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.[[/HIGHLIGHT]]
 
 2. El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de eficiencia y economía.
 
@@ -311,8 +330,10 @@ Los poderes públicos mantendrán un régimen público de Seguridad Social para 
 El Estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y orientará su política hacia su retorno.
 
 ### Artículo 43
+[[EXAM-REF:2022: pregunta 5]]
 
-1. Se reconoce el derecho a la protección de la salud.
+
+1. [[HIGHLIGHT]]Se reconoce el derecho a la protección de la salud.[[/HIGHLIGHT]]
 
 2. Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. La ley establecerá los derechos y deberes de todos al respecto.
 
@@ -367,20 +388,26 @@ Los poderes públicos garantizarán, mediante pensiones adecuadas y periódicame
 La ley regulará las organizaciones profesionales que contribuyan a la defensa de los intereses económicos que les sean propios. Su estructura interna y funcionamiento deberán ser democráticos.
 
 ### Artículo 53
+[[EXAM-REF:2022: pregunta 13]]
+
 
 1. Los derechos y libertades reconocidos en el Capítulo segundo del presente Título vinculan a todos los poderes públicos. Sólo por ley, que en todo caso deberá respetar su contenido esencial, podrá regularse el ejercicio de tales derechos y libertades, que se tutelarán de acuerdo con lo previsto en el artículo 161, 1, a).
 
-2. Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo segundo ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional. Este último recurso será aplicable a la objeción de conciencia reconocida en el artículo 30.
+2. Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo segundo ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional. [[HIGHLIGHT]]Este último recurso será aplicable a la objeción de conciencia reconocida en el artículo 30.[[/HIGHLIGHT]]
 
 3. El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo tercero informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. Sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.
 
 ### Artículo 54
+[[EXAM-REF:2022: pregunta 3]]
 
-Una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales.
+
+[[HIGHLIGHT]]Una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales.[[/HIGHLIGHT]]
 
 ### Artículo 55
+[[EXAM-REF:2022: pregunta 2]]
 
-1. Los derechos reconocidos en los artículos 17, 18, apartados 2 y 3, artículos 19, 20, apartados 1, a) y d), y 5, artículos 21, 28, apartado 2, y artículo 37, apartado 2, podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución. Se exceptúa de lo establecido anteriormente el apartado 3 del artículo 17 para el supuesto de declaración de estado de excepción.
+
+1. Los derechos reconocidos en los [[HIGHLIGHT]]artículos 17, 18, apartados 2 y 3[[/HIGHLIGHT]], artículos 19, 20, apartados 1, a) y d), y 5, artículos 21, 28, apartado 2, y artículo 37, apartado 2, podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución. Se exceptúa de lo establecido anteriormente el apartado 3 del artículo 17 para el supuesto de declaración de estado de excepción.
 
 2. Una ley orgánica podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, los derechos reconocidos en los artículos 17, apartado 2, y 18, apartados 2 y 3, pueden ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas.
 
@@ -397,18 +424,24 @@ El Estado se organiza territorialmente en municipios, en provincias y en las Com
 2. Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales.
 
 ### Artículo 139
+[[EXAM-REF:2023: pregunta 58]]
 
-1. Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.
+
+1. [[HIGHLIGHT]]Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.[[/HIGHLIGHT]]
 
 2. Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.
 
 ### Artículo 140
+[[EXAM-REF:2018: pregunta 13]]
 
-La Constitución garantiza la autonomía de los municipios. Estos gozarán de personalidad jurídica plena. Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales. Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley. Los Alcaldes serán elegidos por los Concejales o por los vecinos. La ley regulará las condiciones en las que proceda el régimen del concejo abierto.
+
+La Constitución garantiza la autonomía de los municipios. Estos gozarán de personalidad jurídica plena. Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales. [[HIGHLIGHT]]Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.[[/HIGHLIGHT]] Los Alcaldes serán elegidos por los Concejales o por los vecinos. La ley regulará las condiciones en las que proceda el régimen del concejo abierto.
 
 ### Artículo 141
+[[EXAM-REF:2018: pregunta 11|2022: pregunta 16]]
 
-1. La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.
+
+1. La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. [[HIGHLIGHT]]Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.[[/HIGHLIGHT]]
 
 2. El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.
 
@@ -429,10 +462,12 @@ Las Haciendas locales deberán disponer de los medios suficientes para el desemp
 3. La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años.
 
 ### Artículo 144
+[[EXAM-REF:2021: pregunta 58]]
+
 
 Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional:
 
-a) Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo 143.
+a) [[HIGHLIGHT]]Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo 143.[[/HIGHLIGHT]]
 
 b) Autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial.
 
@@ -465,6 +500,8 @@ d) Las competencias asumidas dentro del marco establecido en la Constitución y 
 3. La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica.
 
 ### Artículo 148
+[[EXAM-REF:2021: preguntas 59, 60]]
+
 
 1. Las Comunidades Autónomas podrán asumir competencias en las siguientes materias:
 
@@ -482,7 +519,7 @@ d) Las competencias asumidas dentro del marco establecido en la Constitución y 
 
 7.ª La agricultura y ganadería, de acuerdo con la ordenación general de la economía.
 
-8.ª Los montes y aprovechamientos forestales.
+8.ª [[HIGHLIGHT]]Los montes y aprovechamientos forestales.[[/HIGHLIGHT]]
 
 9.ª La gestión en materia de protección del medio ambiente.
 
@@ -512,9 +549,11 @@ d) Las competencias asumidas dentro del marco establecido en la Constitución y 
 
 22.ª La vigilancia y protección de sus edificios e instalaciones. La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica.
 
-2. Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.
+2. [[HIGHLIGHT]]Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.[[/HIGHLIGHT]]
 
 ### Artículo 149
+[[EXAM-REF:2023: pregunta 59]]
+
 
 1. El Estado tiene competencia exclusiva sobre las siguientes materias:
 
@@ -534,7 +573,7 @@ d) Las competencias asumidas dentro del marco establecido en la Constitución y 
 
 8.ª Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.
 
-9.ª Legislación sobre propiedad intelectual e industrial.
+9.ª [[HIGHLIGHT]]Legislación sobre propiedad intelectual e industrial.[[/HIGHLIGHT]]
 
 10.ª Régimen aduanero y arancelario; comercio exterior.
 
@@ -587,10 +626,12 @@ d) Las competencias asumidas dentro del marco establecido en la Constitución y 
 3. Las materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos. La competencia sobre las materias que no se hayan asumido por los Estatutos de Autonomía corresponderá al Estado, cuyas normas prevalecerán, en caso de conflicto, sobre las de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de éstas. El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas.
 
 ### Artículo 150
+[[EXAM-REF:2022: pregunta 15]]
+
 
 1. Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal. Sin perjuicio de la competencia de los Tribunales, en cada ley marco se establecerá la modalidad del control de las Cortes Generales sobre estas normas legislativas de las Comunidades Autónomas.
 
-2. El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación. La ley preverá en cada caso la correspondiente transferencia de medios financieros, así como las formas de control que se reserve el Estado.
+2. [[HIGHLIGHT]]El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación.[[/HIGHLIGHT]] La ley preverá en cada caso la correspondiente transferencia de medios financieros, así como las formas de control que se reserve el Estado.
 
 3. El Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aun en el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés general. Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la apreciación de esta necesidad.
 
@@ -625,6 +666,8 @@ Sin perjuicio de lo dispuesto en el artículo 123, las sucesivas instancias proc
 3. Mediante la agrupación de municipios limítrofes, los Estatutos podrán establecer circunscripciones territoriales propias, que gozarán de plena personalidad jurídica.
 
 ### Artículo 153
+[[EXAM-REF:2018: pregunta 12|2022: pregunta 17|2023: pregunta 60]]
+
 
 El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá:
 
@@ -632,9 +675,9 @@ a) Por el Tribunal Constitucional, el relativo a la constitucionalidad de sus di
 
 b) Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150.
 
-c) Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.
+c) [[HIGHLIGHT]]Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.[[/HIGHLIGHT]]
 
-d) Por el Tribunal de Cuentas, el económico y presupuestario.
+d) [[HIGHLIGHT]]Por el Tribunal de Cuentas, el económico y presupuestario.[[/HIGHLIGHT]]
 
 ### Artículo 154
 
