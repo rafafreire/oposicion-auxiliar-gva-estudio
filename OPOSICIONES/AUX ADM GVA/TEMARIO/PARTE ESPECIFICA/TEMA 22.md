@@ -1,19 +1,10 @@
+# Tema 22: Correo electrónico y Outlook 365
 
 ## Outlook 365
 
 Correo electrónico. Outlook 365
 
-4 artículos
-
-Esta leyTodo el tema
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de Outlook 365 →](https://www.vence.es/leyes/correo-electronico?selected_articles=1,2,3,4&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/correo-electronico?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
+### Artículo 1
 
 ### Conceptos y funcionamiento
 
@@ -26,17 +17,16 @@ El correo electrónico es un **sistema de comunicación asíncrona**: el emisor 
 ### Ventajas del correo electrónico
 
 - **Rapidez**: entrega prácticamente inmediata.
-    
+
 - **Coste**: sin coste adicional más allá de la conexión a Internet.
-    
+
 - **Adjuntos**: permite enviar documentos, imágenes, vídeos, etc.
-    
+
 - **Registro**: queda constancia de todos los mensajes.
-    
+
 - **Accesibilidad**: desde cualquier dispositivo con Internet.
-    
+
 - **Masividad**: envío a múltiples destinatarios simultáneamente.
-    
 
 > **Importante**: El correo puede **dificultar la concentración** (interrumpe el flujo de trabajo); esto NO es una ventaja.
 
@@ -45,11 +35,10 @@ El correo electrónico es un **sistema de comunicación asíncrona**: el emisor 
 Para que un correo electrónico pueda enviarse correctamente son necesarios **tres elementos mínimos**:
 
 1. **Destinatario** (dirección de correo en el campo Para, CC o CCO)
-    
+
 2. **Remitente** (Sender / campo De) — la cuenta desde la que se envía
-    
+
 3. **Mensaje** (cuerpo del correo)
-    
 
 El asunto es **opcional** desde el punto de vista técnico, aunque se considera altamente recomendable porque ayuda al destinatario a identificar el contenido antes de abrir el mensaje. El único campo verdaderamente imprescindible para que Outlook permita el envío es la **dirección del destinatario**.
 
@@ -74,20 +63,18 @@ Ejemplos de direcciones válidas: `mi_nombre@mihogar.com`, `lope.de.vega@inap.es
 Según el estándar **RFC 5321**, las partes de una dirección de correo electrónico tienen estos límites:
 
 - Hasta **64 caracteres** para la parte local (nombre de usuario, antes de la @)
-    
+
 - Hasta **255 caracteres** para el dominio (parte tras la @)
-    
+
 - Hasta **254 caracteres** para la dirección completa: la ruta con la que SMTP la transmite admite 256, incluidos los signos < y > que la rodean
-    
 
 ### Partes estructurales de un mensaje de correo
 
 Un mensaje de correo electrónico se compone de **dos partes fundamentales**:
 
 - **Cabecera (header)**: contiene los campos De, Para, CC, CCO, Asunto, fecha y demás metadatos del mensaje.
-    
+
 - **Cuerpo del mensaje**: la zona donde el remitente redacta el contenido principal, el texto o información que desea comunicar.
-    
 
 Los archivos adjuntos forman parte del contenido del mensaje y se envían junto con él a través de los servidores de correo.
 
@@ -110,11 +97,10 @@ SMTP localiza al servidor destinatario mediante consultas al **DNS**. El servido
 Características clave de POP3:
 
 - **Descarga los mensajes** del servidor al dispositivo local.
-    
+
 - **Por defecto, elimina los mensajes del servidor** una vez descargados (configurable para conservar copias).
-    
+
 - Los mensajes quedan almacenados **localmente**; no sincroniza carpetas ni estado de lectura entre dispositivos.
-    
 
 ### IMAP — Protocolo de recepción moderno
 
@@ -123,13 +109,12 @@ Características clave de POP3:
 Características clave de IMAP:
 
 - Los mensajes permanecen **sincronizados en el servidor** de forma permanente.
-    
+
 - Permite acceso desde **múltiples dispositivos** con estado sincronizado (leído/no leído, carpetas...).
-    
+
 - **Requiere conexión a Internet** continua, ya que trabaja en línea con el servidor.
-    
+
 - Los cambios realizados en un dispositivo se reflejan en todos los demás.
-    
 
 ### Tabla comparativa: POP3 vs IMAP
 
@@ -150,13 +135,12 @@ Características clave de IMAP:
 A diferencia de IMAP y POP3, Exchange proporciona:
 
 - Sincronización bidireccional en tiempo real entre todos los dispositivos.
-    
+
 - Gestión integrada de **correo, calendario, contactos y tareas**.
-    
+
 - Funciones colaborativas: carpetas compartidas, delegación de acceso, convocatorias de reunión.
-    
+
 - La posibilidad de recuperar mensajes enviados (si el destinatario no los ha abierto y ambos usan Exchange).
-    
 
 ### MAPI
 
@@ -288,15 +272,14 @@ Outlook permite redactar correos en tres formatos de texto, accesibles desde la 
 La interfaz de Outlook 365 se organiza en varias áreas:
 
 - **Cinta de opciones**: contiene las pestañas **Archivo, Inicio, Enviar y Recibir, Carpeta y Vista**.
-    
+
 - **Panel de carpetas** (a la izquierda): muestra las carpetas del buzón. El número junto al nombre de cada carpeta indica sus **mensajes sin leer** o, si así se configura en las propiedades de la carpeta, el número total de elementos.
-    
+
 - **Panel de navegación** (inferior): accesos directos a Correo, Calendario, Contactos, Tareas. Muestra hasta **8 botones o iconos** como máximo. La opción "Vistas" no forma parte de esta barra.
-    
+
 - **Panel de lectura**: muestra el contenido del mensaje seleccionado.
-    
+
 - **Barra de estado** (inferior): muestra el número de elementos y el estado de conexión. NO muestra "Lista de contactos favoritos" ni "Mensajes en seguimiento".
-    
 
 ### Configuración inicial y gestión de cuentas
 
@@ -341,11 +324,10 @@ La función **Archivar** mueve el mensaje a la carpeta de archivo, donde permane
 La herramienta **Limpieza del buzón** (Archivo → Herramientas → Limpieza del buzón) ofrece:
 
 - Buscar elementos por antigüedad y tamaño
-    
+
 - Autoarchivar
-    
+
 - Vaciar elementos eliminados
-    
 
 ---
 
@@ -395,9 +377,8 @@ Las reglas permiten: clasificar mensajes, moverlos a carpetas, eliminarlos, marc
 Outlook 365 distingue **dos tipos de reglas**:
 
 - **Reglas basadas en servidor**: se ejecutan en el servidor Exchange aunque Outlook esté cerrado.
-    
+
 - **Reglas solo de cliente**: se ejecutan únicamente cuando Outlook está abierto en el equipo.
-    
 
 ### Crear una regla
 
@@ -464,17 +445,16 @@ Al marcar un correo con seguimiento, Outlook **crea automáticamente una tarea a
 Las marcas de seguimiento predeterminadas disponibles en Outlook son:
 
 - **Hoy**
-    
+
 - **Mañana**
-    
+
 - **Esta semana**
-    
+
 - **La próxima semana**
-    
+
 - **Sin fecha**
-    
+
 - **Personalizar**
-    
 
 > **"La semana pasada"**, **"Ayer"** y **"Este mes"** NO son marcas de seguimiento predeterminadas. El seguimiento se orienta hacia el futuro, no hacia el pasado.
 
@@ -513,26 +493,24 @@ La sincronización automática es cada **30 minutos** por defecto. Para forzar l
 > La **libreta de direcciones** en Outlook 365 integra los contactos propios del usuario con las listas de distribución y directorios disponibles según la cuenta configurada (p. ej. el directorio global de Exchange).
 
 - Se puede tener **más de una libreta de direcciones** (corresponden a carpetas de Contactos distintas).
-    
+
 - Los contactos se almacenan en el **servidor de correo** cuando se usa Outlook con Exchange/Microsoft 365, y se sincronizan en cada equipo: por eso **no es correcto** decir que la libreta «se almacena en el dispositivo».
-    
+
 - Qué la forma, según Microsoft: «Los contactos de la carpeta Contactos constituyen el contenido de la Libreta de direcciones de Outlook» y «Si su compañía tiene una lista global de direcciones (LGD), también la verá en la lista Libreta de direcciones» (para verla hace falta una cuenta de Microsoft Exchange Server). Fuentes: Microsoft Support es-ES, «Cambiar la libreta de direcciones predeterminada» ([https://support.microsoft.com/es-es/office/change-the-default-address-book-84c7be39-282a-4096-aeb8-89a2661a5162](https://support.microsoft.com/es-es/office/change-the-default-address-book-84c7be39-282a-4096-aeb8-89a2661a5162)) y en-US, «Change the default Address Book» ([https://support.microsoft.com/en-us/office/change-the-default-address-book-84c7be39-282a-4096-aeb8-89a2661a5162](https://support.microsoft.com/en-us/office/change-the-default-address-book-84c7be39-282a-4096-aeb8-89a2661a5162)).
-    
 
 ### Gestión de contactos
 
 Un contacto en Outlook puede tener múltiples **direcciones de correo** (correo 1, 2, 3...), teléfonos, dirección postal, empresa, campo **Notas** y categorías de color. Un contacto **no puede tener** el campo "Cuenta bancaria del sistema" ni "Carpeta de búsqueda". Sí se le pueden **adjuntar archivos** (por ejemplo, una hoja de cálculo): en la ficha del contacto, pestaña **Insertar** → **Adjuntar archivo** (grupo **Incluir**).
 
 - Para **compartir un contacto**: arrastrarlo a un correo como adjunto (genera un archivo VCard automáticamente).
-    
+
 - Para **crear un contacto desde un correo**: clic derecho sobre el remitente → "Agregar a contactos de Outlook".
-    
+
 - Los contactos eliminados van a **Elementos eliminados** y pueden recuperarse antes de vaciar esa carpeta.
-    
+
 - Si se cambia la dirección de un contacto, se **actualiza** su ficha sin afectar al historial de conversaciones.
-    
+
 - La **Vista Tarjeta** muestra cada contacto como una tarjeta individual.
-    
 
 ### Formato VCard
 
@@ -551,11 +529,10 @@ Para crearlo en Outlook 365: sección **"Personas"** → menú **"Inicio"** → 
 La función **Delegar acceso** de Outlook 365 permite que otra persona:
 
 - Envíe elementos en nombre del propietario de la cuenta.
-    
+
 - Cree y responda a convocatorias de reuniones.
-    
+
 - Acceda a la bandeja de entrada sin necesidad de compartir la contraseña.
-    
 
 El nivel de permiso **Editor** es el más completo de los niveles de delegación básica y permite enviar elementos en nombre del propietario y gestionar convocatorias de reunión.
 
@@ -595,11 +572,7 @@ El proceso completo: (1) el remitente redacta el mensaje en su cliente de correo
 
 Si la dirección del destinatario es incorrecta o inexistente, el servidor SMTP genera un **rebote** (bounced email) y el remitente recibe un aviso de error.
 
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/correo-electronico?selected_articles=1&source=temario)
-
-Art. 2
+### Artículo 2
 
 ### El entorno de trabajo
 
@@ -614,17 +587,16 @@ Microsoft Outlook 365 integra en una única ventana principal todos los módulos
 Al iniciar Outlook, la pantalla se divide en varias áreas funcionales que permanecen visibles en todo momento:
 
 - **Cinta de opciones** (parte superior): contiene las pestañas con todos los comandos organizados por función.
-    
+
 - **Panel de navegación / Barra de navegación** (lateral izquierdo): acceso rápido a los distintos módulos.
-    
+
 - **Lista de elementos** (centro): muestra los mensajes, citas, contactos o tareas del módulo activo.
-    
+
 - **Panel de lectura** (derecha o inferior): previsualiza el elemento seleccionado sin necesidad de abrirlo.
-    
+
 - **Barra de tareas pendientes** (derecha): resumen de tareas y citas próximas.
-    
+
 - **Barra de estado** (parte inferior): información contextual sobre el estado de la aplicación.
-    
 
 ---
 
@@ -690,15 +662,14 @@ Acceso a la ayuda en línea de Microsoft, formación y soporte técnico.
 Al hacer clic en **Archivo** (extremo izquierdo de la cinta), se abre la vista **Backstage**, que no es una pestaña de cinta al uso. Desde aquí se accede a:
 
 - **Información:** estado de la cuenta, configuración de la cuenta, herramientas de limpieza de buzón.
-    
+
 - **Abrir y exportar:** abrir archivos .pst, importar/exportar contactos y datos.
-    
+
 - **Guardar como:** guardar mensajes en formatos externos.
-    
+
 - **Opciones:** configuración general de Outlook (correo, calendario, contactos, tareas, firmas, etc.).
-    
+
 - **Administrar reglas y alertas:** crear y editar reglas de mensajes.
-    
 
 ---
 
@@ -709,13 +680,12 @@ Al hacer clic en **Archivo** (extremo izquierdo de la cinta), se abre la vista *
 La **barra de navegación** (lateral o inferior según la versión) permite cambiar entre los módulos principales de Outlook. De forma predeterminada muestra **4 iconos**:
 
 1. **Correo** (sobre)
-    
+
 2. **Calendario**
-    
+
 3. **Contactos** (Personas)
-    
+
 4. **Tareas** (To Do)
-    
 
 El número máximo de botones o iconos visibles que se pueden configurar en la barra de navegación es **8**. Los iconos adicionales se pueden agregar desde las opciones de configuración de la barra.
 
@@ -742,15 +712,14 @@ Dentro del módulo de Correo, el panel de carpetas muestra la jerarquía de carp
 Desde la pestaña **Carpeta** o haciendo clic derecho sobre una carpeta se puede:
 
 - **Crear** nuevas carpetas (también con Ctrl+Mayús+E).
-    
+
 - **Renombrar** carpetas existentes.
-    
+
 - **Mover** carpetas a otras ubicaciones.
-    
+
 - **Eliminar** carpetas (y su contenido pasa a Elementos eliminados).
-    
+
 - **Configurar el Autoarchivar** para cada carpeta individualmente.
-    
 
 ---
 
@@ -759,11 +728,10 @@ Desde la pestaña **Carpeta** o haciendo clic derecho sobre una carpeta se puede
 El **panel de lectura** muestra una vista previa del mensaje seleccionado sin necesidad de abrirlo. Se puede configurar en tres posiciones:
 
 - **A la derecha** (posición predeterminada): el panel aparece a la derecha de la lista de mensajes.
-    
+
 - **En la parte inferior**: el panel aparece debajo de la lista de mensajes.
-    
+
 - **Desactivado**: el panel queda oculto. Para ocultarlo completamente se usa la pestaña **Vista > Panel de lectura > Desactivado**.
-    
 
 ---
 
@@ -778,11 +746,10 @@ El **panel de personas** (People Pane) aparece en la parte inferior del panel de
 La **barra de tareas pendientes** (To-Do Bar) se muestra a la derecha de la ventana y ofrece un resumen accesible desde cualquier vista de Outlook. Muestra:
 
 - Un **miniconsultario** (navegador de fechas).
-    
+
 - Las **citas próximas** de los días siguientes.
-    
+
 - Las **tareas pendientes** con fecha de vencimiento.
-    
 
 > Es accesible y visible desde cualquier módulo de Outlook (correo, calendario, contactos, tareas).
 
@@ -793,15 +760,14 @@ La **barra de tareas pendientes** (To-Do Bar) se muestra a la derecha de la vent
 La **barra de estado** se sitúa en la parte inferior de la ventana de Outlook. Muestra información contextual sobre el módulo activo:
 
 - **Número de elementos** en la carpeta seleccionada.
-    
+
 - **Número de mensajes no leídos**.
-    
+
 - **Estado de conexión** (conectado / trabajando sin conexión).
-    
+
 - **Progreso** de operaciones de envío y recepción.
-    
+
 - **Controles de zoom** del panel de lectura.
-    
 
 > **Lo que NO muestra la barra de estado:** el espacio disponible en la cuenta o la dirección de correo del remitente del mensaje seleccionado.
 
@@ -832,13 +798,12 @@ La **vista de conversación** agrupa todos los mensajes que comparten el mismo *
 Dentro de la **Configuración de conversación** (pestaña Vista, grupo Mensajes) están disponibles estas opciones:
 
 - Mostrar mensajes de otras carpetas.
-    
+
 - Expandir siempre la conversación seleccionada.
-    
+
 - Usar vista con sangría clásica.
-    
+
 - Mostrar siempre los remitentes encima del asunto.
-    
 
 > **Lo que NO es una opción de Configuración de conversación:** "Ocultar remitentes duplicados" no existe como opción en este menú.
 
@@ -851,15 +816,14 @@ Al usar **"Responder a todos"** en un mensaje recibido, el nuevo mensaje tendrá
 La **barra de búsqueda** de Outlook 365 permite localizar mensajes, contactos, citas y tareas mediante texto libre u operadores de búsqueda:
 
 - **Búsqueda simple:** escribir una palabra devuelve todos los elementos que la contienen (coincidencia por prefijo). Ejemplo: escribir "proyecto" devuelve mensajes que contienen "proyecto", "proyectos", etc.
-    
+
 - **Búsqueda de frase exacta:** poner la frase entre comillas. Ejemplo: "solicitud aprobada".
-    
+
 - **Operadores de campo:** restringen la búsqueda a un campo concreto. Ejemplo: Asunto:oferta busca solo en el campo Asunto.
-    
+
 - **Operador NO (NOT):** excluye términos. Ejemplo: Asunto:oferta NO primera busca mensajes con "oferta" en el asunto pero sin la palabra "primera".
-    
+
 - **Búsqueda avanzada:** Ctrl+Mayús+F.
-    
 
 Desde la pestaña **Inicio**, el grupo **Buscar** incluye el comando **Filtrar correo electrónico** con opciones para mostrar solo mensajes: No leídos, Con marca, Adjuntos, A mí, En copia, Categorizados, Urgentes, Próximos 7 días, etc.
 
@@ -874,11 +838,10 @@ En Microsoft Outlook, el criterio de disposición **"Para"** permite agrupar los
 Los mensajes en Outlook pueden marcarse con tres niveles de **importancia**:
 
 - **Alta** (exclamación roja `!`): indica que el mensaje requiere atención prioritaria.
-    
+
 - **Normal**: valor predeterminado.
-    
+
 - **Baja** (flecha hacia abajo azul).
-    
 
 > **Atención:** Un correo con **exclamación roja** tiene marcada importancia alta.
 
@@ -905,15 +868,14 @@ Los **correos de phishing** son los que tratan de conseguir información confide
 ### Eliminar y purgar mensajes
 
 - **Supr:** mueve el mensaje a Elementos eliminados. _(Ctrl+D en el módulo Correo responde al mensaje; en Tareas sí elimina el elemento)_
-    
+
 - **Mayús+Supr:** elimina permanentemente (no pasa por Elementos eliminados).
-    
+
 - **Vaciar Elementos eliminados:** elimina definitivamente todos los mensajes de esa carpeta (con una cuenta Exchange pasan a la carpeta oculta Elementos recuperables, desde donde aún pueden rescatarse un tiempo).
-    
+
 - **Limpiar conversación:** el comando **Limpiar** de Outlook elimina los mensajes repetidos o redundantes de la conversación o de la carpeta seleccionada enviándolos a Elementos eliminados.
-    
+
 - **Purgar:** en una cuenta IMAP, un mensaje eliminado puede quedar marcado para su eliminación (tachado, sin salir de su carpeta); **Purgar** elimina definitivamente esos mensajes marcados del servidor IMAP, sin posibilidad de restaurarlos.
-    
 
 ---
 
@@ -956,9 +918,8 @@ La opción **Retrasar entrega** (pestaña Opciones del mensaje) permite programa
 Desde la pestaña Opciones del mensaje se pueden solicitar:
 
 - **Confirmación de entrega:** notifica cuando el mensaje llega al servidor del destinatario.
-    
+
 - **Confirmación de lectura:** notifica cuando el destinatario abre el mensaje (si este lo permite).
-    
 
 ### Responder, Responder a todos, Reenviar
 
@@ -991,9 +952,8 @@ Las **reglas** permiten automatizar la gestión del correo (mover, eliminar, ree
 Existen dos tipos:
 
 - **Reglas basadas en servidor:** se ejecutan en el servidor Exchange aunque Outlook no esté abierto.
-    
+
 - **Reglas solo de cliente:** se ejecutan únicamente cuando Outlook está en ejecución en el equipo local.
-    
 
 Para crear o gestionar reglas: **Inicio > Mover > Reglas > Administrar reglas y alertas** o desde **Archivo > Administrar reglas y alertas**.
 
@@ -1012,13 +972,12 @@ Los **grupos de envío y recepción** permiten configurar qué cuentas de correo
 Outlook 365 incluye varias herramientas para administrar el tamaño del buzón, accesibles desde **Archivo > Herramientas de limpieza del buzón**:
 
 - **Limpieza de buzón:** muestra estadísticas del tamaño del buzón y permite encontrar y eliminar elementos grandes o antiguos.
-    
+
 - **Autoarchivar:** mueve elementos antiguos a un archivo .pst automáticamente.
-    
+
 - **Vaciar carpeta Elementos eliminados.**
-    
+
 - **Limpiar carpeta Elementos eliminados.**
-    
 
 ---
 
@@ -1049,9 +1008,8 @@ El calendario de Outlook ofrece las siguientes vistas:
 |**Evento**|Ocupa todo el día (o varios días) sin bloquear franjas horarias específicas|
 
 - Las reuniones permiten usar el **Asistente para programación** (botón de la cinta del formulario de reunión) para ver la disponibilidad de todos los invitados y de las salas antes de confirmar la hora.
-    
+
 - Las citas recurrentes (diarias, semanales, mensuales, anuales) al eliminarse ofrecen la opción de borrar **solo esa ocurrencia** o **todas las recurrencias**.
-    
 
 ---
 
@@ -1064,15 +1022,14 @@ Outlook permite gestionar contactos individuales y **grupos de contactos** (ante
 Desde la vista de contactos se puede:
 
 - Ver, crear, editar y eliminar contactos.
-    
+
 - Enviar correo electrónico a un contacto.
-    
+
 - Programar una reunión con un contacto.
-    
+
 - Compartir contactos individuales (adjuntándolos como .vcf / vCard).
-    
+
 - Exportar contactos a CSV desde Archivo > Abrir y exportar > Importar/Exportar.
-    
 
 La **libreta de direcciones** centraliza todos los contactos y listas de distribución. Se abre con **Ctrl+Mayús+B**. Para verla, en la pestaña **Inicio**, grupo **Buscar**, se elige **Libreta de direcciones**; para **agregar** otra libreta de direcciones se va a **Archivo > Configuración de la cuenta > Configuración de la cuenta**, pestaña **Libretas de direcciones**, **Nuevo**.
 
@@ -1097,11 +1054,10 @@ Las tareas de Outlook permiten registrar compromisos con fecha de vencimiento, p
 |Aviso emergente|Se puede activar en la ventana de la tarea para que Outlook muestre un aviso emergente en la fecha y hora que se definan|
 
 - Si la tarea se hace periódica (botón **Periodicidad**), se crea una nueva ocurrencia de la tarea automáticamente al completar la anterior.
-    
+
 - Al **arrastrar un correo electrónico a la sección de Tareas**, Outlook crea una nueva tarea usando el asunto y el cuerpo del mensaje (copia del correo como tarea).
-    
+
 - Para **eliminar varias tareas a la vez**: seleccionarlas con Ctrl+clic y pulsar Supr.
-    
 
 ### Diferencia entre tarea, cita y reunión
 
@@ -1128,13 +1084,12 @@ Los **sistemas de acceso al correo que NO son webmail** (clientes de escritorio)
 Outlook permite **crear** un gráfico de Excel directamente desde el editor de mensajes, sin tener que crearlo antes en Excel:
 
 1. Haga clic en el cuerpo del mensaje.
-    
+
 2. En la pestaña **Insertar**, grupo **Ilustraciones**, elija **Gráfico**.
-    
+
 3. Elija el tipo de gráfico y pulse **Aceptar**.
-    
+
 4. En la hoja de cálculo de Excel que aparece, escriba los datos y ciérrela.
-    
 
 > **Fuente oficial:** Microsoft Support — «Agregar gráficos a mensajes en Outlook». La ruta correcta es **Insertar → Ilustraciones → Gráfico** (no «Opciones → grupo Excel»).
 
@@ -1148,11 +1103,7 @@ Al compartir una carpeta, Outlook ofrece niveles de permiso predefinidos que des
 
 > **Fuente oficial:** Microsoft Support — «Compartir y obtener acceso al buzón o carpeta de otra persona en Outlook». **Propietario SÍ es un nivel de permiso válido** (el más alto). «Solo lectura» se corresponde con **Revisor**. NO existe el nivel «Administrador del sistema».
 
-Elegir cuántas
-
-[Hacer test Art. 2](https://www.vence.es/leyes/correo-electronico?selected_articles=2&source=temario)
-
-Art. 3
+### Artículo 3
 
 ### Atajos de teclado
 
@@ -1407,11 +1358,7 @@ Estos atajos actúan sobre el párrafo del cuerpo de un mensaje al redactar (el 
 
 > **Fuente oficial:** Microsoft Support — «Métodos abreviados de teclado para Outlook», sección _Dar formato al texto_. **Ctrl+Mayús+T disminuye la sangría**; no crea correos (Ctrl+N / Ctrl+Mayús+M) ni abre la libreta de direcciones (Ctrl+Mayús+B).
 
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/correo-electronico?selected_articles=3&source=temario)
-
-Art. 4
+### Artículo 4
 
 ### Agenda electrónica
 
@@ -1425,24 +1372,11 @@ Dentro del módulo Calendario, sin salir de él, se puede: crear, editar y elimi
 
 Al organizar una reunión, el Asistente para programación muestra la disponibilidad de cada asistente (libre, ocupado, provisional o fuera de la oficina) en una cuadrícula de calendario, lo que permite localizar visualmente un intervalo horario en el que coincidan todos los participantes. También muestra la disponibilidad de salas y recursos añadidos a la convocatoria.
 
-Elegir cuántas
-
-[Hacer test Art. 4](https://www.vence.es/leyes/correo-electronico?selected_articles=4&source=temario)
-
-
 ## Microsoft Teams
 
 Microsoft Teams: chat, canales, reuniones y videollamadas
 
-2 de 4 artículos de tu programa
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de Microsoft Teams →](https://www.vence.es/leyes/microsoft-teams?selected_articles=1,2&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/microsoft-teams?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
+### Artículo 1
 
 ### Microsoft Teams: conceptos y canales
 
@@ -1451,26 +1385,24 @@ Microsoft Teams es la plataforma de comunicación y colaboración de Microsoft 3
 Conceptos fundamentales:
 
 - Equipos: grupos de personas que trabajan juntas en un proyecto o departamento
-    
+
 - Canales: espacios de conversación dentro de un equipo, organizados por tema
-    
+
 - Canales estándar: visibles para todos los miembros del equipo
-    
+
 - Canales privados: solo accesibles para miembros seleccionados
-    
 
 Funcionalidades principales:
 
 - Chat individual y grupal
-    
+
 - Compartir archivos (almacenados automáticamente en SharePoint)
-    
+
 - Integraciones con aplicaciones externas
-    
+
 - Notificaciones configurables por canal y tipo de actividad
-    
+
 - Los documentos descargados desde Teams se guardan por defecto en la carpeta Descargas
-    
 
 ### Gestión de notificaciones
 
@@ -1493,28 +1425,22 @@ Además de la aplicación de escritorio y la móvil, Teams se puede usar **en el
 ### Dónde se guardan los archivos
 
 - Al crear un equipo se crea automáticamente un **sitio de SharePoint** conectado a él: detrás de cada equipo de Teams hay un sitio de SharePoint.
-    
+
 - Los archivos de los **canales estándar** se guardan en ese sitio, en la biblioteca de documentos, con una carpeta para cada canal; es lo que se ve en la pestaña **Archivos** del canal.
-    
+
 - Cada **canal privado** y cada **canal compartido** tiene **su propio sitio de SharePoint**, al que solo acceden sus miembros.
-    
 
 ### Grabación y seguridad de las reuniones
 
 - La grabación de una reunión se guarda en el **OneDrive del organizador** (carpeta **Grabaciones**), aunque no haya asistido. La grabación de una **reunión de canal** se guarda en el **sitio de SharePoint** del equipo, en una carpeta **Grabaciones** dentro de Documentos.
-    
+
 - El **cifrado de un extremo a otro** de las reuniones **no está activado por defecto**: forma parte de **Teams Premium** (una licencia de complemento) y el organizador tiene que activarlo en las opciones de la reunión antes de que empiece. Solo cifra el audio, el vídeo y el uso compartido de pantalla basado en vídeo (no el chat ni las reacciones), y una reunión cifrada de un extremo a otro admite como máximo 200 participantes.
-    
 
 ### Búsqueda
 
 En la barra de búsqueda de la parte superior de Teams se escribe un nombre, una palabra clave o una frase, y los resultados se pueden filtrar para ver solo **mensajes**, **contactos** o **archivos**. Para buscar dentro de un chat o un canal concreto se pulsa **Ctrl+F** (cmd+F en macOS) estando en él.
 
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/microsoft-teams?selected_articles=1&source=temario)
-
-Art. 2
+### Artículo 2
 
 ### Microsoft Teams: reuniones y videollamadas
 
@@ -1523,51 +1449,48 @@ Reuniones y videollamadas en Microsoft Teams:
 Tipos de reuniones:
 
 - Reuniones programadas con invitación
-    
+
 - Reuniones instantáneas (Meet Now)
-    
+
 - Reuniones en vivo (Live Events) para grandes audiencias
-    
+
 - Webinars
-    
 
 Funcionalidades:
 
 - Pantalla compartida
-    
+
 - Grabación de reuniones en la nube
-    
+
 - Fondos virtuales y desenfoque
-    
+
 - Salas de grupos (breakout rooms)
-    
+
 - Transcripción automática
-    
+
 - Chat durante la reunión
-    
 
 Métodos abreviados de teclado (aplicación de escritorio para Windows, según la tabla «Reuniones y llamadas» de Microsoft Support):
 
 - Ctrl+Mayús+A: aceptar videollamada
-    
+
 - Ctrl+Mayús+S: aceptar llamada de audio
-    
+
 - Ctrl+Mayús+D: rechazar llamada
-    
+
 - Alt+Mayús+A: iniciar llamada de audio
-    
+
 - Alt+Mayús+V: iniciar videollamada
-    
+
 - Ctrl+Mayús+H: finalizar la llamada (de audio o de vídeo)
-    
+
 - Ctrl+Mayús+M: activar o desactivar el micrófono (alternar silencio)
-    
+
 - Ctrl+Mayús+O: activar o desactivar el vídeo (en la aplicación web no tiene acceso directo)
-    
+
 - Ctrl+Mayús+K: levantar o bajar la mano
-    
+
 - Ctrl+Mayús+Y: admitir personas desde la notificación de la sala de espera
-    
 
 En la aplicación web algunas combinaciones cambian: aceptar videollamada es Alt+Mayús+A y aceptar llamada de audio, Alt+Mayús+S.
 
@@ -1576,13 +1499,12 @@ En la aplicación web algunas combinaciones cambian: aceptar videollamada es Alt
 Además del organizador, en una reunión de Teams existen varios roles con distinto nivel de control:
 
 - **Organizador:** quien crea la reunión. Tiene el control máximo sobre su configuración y sus participantes.
-    
+
 - **Coorganizador:** comparte casi todas las funciones del organizador (gestionar participantes, grabar, silenciar), con una diferencia: no puede cambiar la configuración de la reunión antes de que ésta comience. Los coorganizadores se asignan desde el propio calendario de la reunión.
-    
+
 - **Presentador:** puede compartir contenido (pantalla, documentos) durante la reunión.
-    
+
 - **Asistente:** es el rol con más restricciones. Puede hablar, compartir vídeo y participar en el chat, pero no tiene control sobre otros participantes ni sobre la configuración de la reunión.
-    
 
 **Los roles pueden cambiarse con la reunión ya en marcha**, sin necesidad de finalizarla ni volver a convocarla: desde el botón "Personas" de los controles de la reunión, se pasa el cursor sobre el nombre del participante y se elige "Hacer presentador" o "Hacer asistente".
 
@@ -1592,23 +1514,11 @@ Además del organizador, en una reunión de Teams existen varios roles con disti
 
 **Y puede impedir que los asistentes se desmuteen a sí mismos**: es una opción de permisos de los asistentes disponible para el organizador, los coorganizadores y los presentadores; mientras está activada, solo ellos pueden reactivar el micrófono de un asistente.
 
-Elegir cuántas
-
-[Hacer test Art. 2](https://www.vence.es/leyes/microsoft-teams?selected_articles=2&source=temario)
-
 ## Microsoft 365
 
 Microsoft 365: Trabajo Colaborativo
 
-5 artículos
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de Microsoft 365 →](https://www.vence.es/leyes/microsoft-365?selected_articles=1,2,3,4,5&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/microsoft-365?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
+### Artículo 1
 
 ### OneDrive: conceptos y configuración
 
@@ -1617,33 +1527,30 @@ OneDrive es el servicio de almacenamiento en la nube de Microsoft, integrado de 
 Conceptos fundamentales:
 
 - Almacenamiento en la nube: archivos accesibles desde cualquier dispositivo
-    
+
 - Sincronización: los cambios se reflejan automáticamente en todos los dispositivos
-    
+
 - Archivos bajo demanda (solo en línea): los archivos aparecen en el explorador pero no ocupan espacio hasta que se abren
-    
 
 Configuración y estado:
 
 - Sincronización selectiva: elegir qué carpetas sincronizar en cada dispositivo
-    
+
 - Iconos de estado en el explorador: nube azul (solo en línea), marca verde (sincronizado), flechas circulares (sincronizando)
-    
+
 - Accesible desde web (office.com), aplicación de escritorio y dispositivos móviles (Android e iOS)
-    
+
 - Longitud máxima de ruta de acceso: 400 caracteres
-    
+
 - No requiere formato específico para guardar documentos
-    
 
 ### Los tres estados de un archivo en el Explorador (Archivos a petición)
 
 - **Solo en línea** (icono de **nube azul**): el archivo se ve en el Explorador pero **no ocupa espacio** en el equipo. **No se puede abrir cuando el dispositivo no está conectado a Internet.**
-    
+
 - **Disponible localmente** (**marca de verificación verde**): al abrir un archivo solo en línea, se descarga y pasa a este estado. Se puede abrir siempre, **incluso sin conexión**, y ocupa espacio.
-    
+
 - **Siempre disponible** (**círculo verde con la marca blanca**): es el archivo marcado con **«Mantener siempre en este dispositivo»** (clic derecho sobre el archivo o la carpeta). Se descarga, ocupa espacio y está siempre ahí, también sin conexión.
-    
 
 ### Cargar archivos en OneDrive (web)
 
@@ -1652,17 +1559,12 @@ En onedrive.com, en la ubicación deseada, se pulsa **Cargar** y se eligen los a
 ### Cómo protege OneDrive los archivos
 
 - Mientras viajan (del equipo al servicio y entre centros de datos), los datos van **cifrados con TLS**.
-    
+
 - Guardados en la nube, **cada archivo está cifrado** con su propia clave **AES256**.
-    
 
 Fuentes: [Microsoft Support — Ahorrar espacio en disco con Archivos a petición de OneDrive para Windows](https://support.microsoft.com/es-es/office/ahorrar-espacio-en-disco-con-archivos-a-petici%C3%B3n-de-onedrive-para-windows-0e6860d3-d9f3-4971-b321-7092438fb38e) · [Microsoft Support — Cargar fotografías y archivos en OneDrive](https://support.microsoft.com/es-es/office/cargue-y-guarde-archivos-y-carpetas-en-onedrive-a1397e56-61ec-4ed2-9dac-727bf8ac3357) · [Microsoft Support — Cómo protege OneDrive los datos en la nube](https://support.microsoft.com/es-es/office/c%C3%B3mo-protege-onedrive-los-datos-en-la-nube-23c6ea94-3608-48d7-8bf0-80e142edd1e1)
 
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/microsoft-365?selected_articles=1&source=temario)
-
-Art. 2
+### Artículo 2
 
 ### Microsoft Teams: conceptos y canales
 
@@ -1671,28 +1573,26 @@ Microsoft Teams es la plataforma de comunicación y colaboración de Microsoft 3
 Conceptos fundamentales:
 
 - Equipos: grupos de personas que trabajan juntas en un proyecto o departamento
-    
+
 - Canales: espacios de conversación dentro de un equipo, organizados por tema
-    
+
 - Canales estándar: visibles para todos los miembros del equipo
-    
+
 - Canales privados: solo accesibles para miembros seleccionados
-    
 
 Funcionalidades principales:
 
 - Chat individual y grupal
-    
-- Compartir archivos (almacenados automáticamente en SharePoint)
-    
-- Integraciones con aplicaciones externas
-    
-- Notificaciones configurables por canal y tipo de actividad
-    
-- Los documentos descargados desde Teams se guardan por defecto en la carpeta Descargas
-    
 
-Art. 3
+- Compartir archivos (almacenados automáticamente en SharePoint)
+
+- Integraciones con aplicaciones externas
+
+- Notificaciones configurables por canal y tipo de actividad
+
+- Los documentos descargados desde Teams se guardan por defecto en la carpeta Descargas
+
+### Artículo 3
 
 ### SharePoint y videoconferencias
 
@@ -1701,52 +1601,48 @@ SharePoint es la plataforma de gestión documental y colaboración empresarial d
 Incluye todas las funcionalidades de OneDrive más:
 
 - Sitios de equipo para departamentos o proyectos
-    
+
 - Bibliotecas de documentos compartidas
-    
+
 - Flujos de trabajo automatizados
-    
+
 - Listas y páginas web internas (intranet)
-    
 
 Trabajo colaborativo:
 
 - Varias personas pueden editar simultáneamente documentos de Word, Excel o PowerPoint almacenados en OneDrive o SharePoint
-    
+
 - Los cambios se sincronizan en tiempo real
-    
+
 - Se puede ver quién está editando y dónde
-    
 
 Videoconferencias en Teams:
 
 - Reuniones con cientos o miles de participantes
-    
+
 - Funciones de moderación y control de asistentes
-    
+
 - Salas de grupos (breakout rooms)
-    
+
 - Transcripción automática
-    
+
 - Grabación en la nube
-    
+
 - Fondos virtuales y desenfoque
-    
 
 ### Niveles de permisos en SharePoint
 
 A diferencia de OneDrive personal, SharePoint permite asignar permisos de forma granular en varios niveles jerárquicos, de más amplio a más estrecho:
 
 - Colección de sitios
-    
+
 - Sitio y subsitio
-    
+
 - Biblioteca o lista
-    
+
 - Carpeta
-    
+
 - Elemento individual (documento o elemento de lista)
-    
 
 Por defecto, cada nivel hereda los permisos de su nivel superior (herencia de permisos): un sitio hereda del sitio raíz de su colección, las bibliotecas y listas heredan del sitio, y los elementos heredan de su biblioteca o lista. Un propietario puede romper esa herencia y asignar permisos exclusivos a un nivel concreto sin afectar al resto.
 
@@ -1760,42 +1656,35 @@ Cuando varias personas trabajan **al mismo tiempo** en el mismo documento, se ll
 
 Fuentes: [Microsoft Support — Colaboración y coautoría de documentos](https://support.microsoft.com/es-es/sharepoint/get-started-with-sharepoint/document-collaboration-and-co-authoring) · [Microsoft Support — Novedades de Microsoft To Do](https://support.microsoft.com/es-es/office/novedades-de-microsoft-to-do-e4385509-13af-4a55-ae17-1c5a61cf2d41)
 
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/microsoft-365?selected_articles=3&source=temario)
-
-Art. 4
+### Artículo 4
 
 ### OneDrive: compartir archivos y versiones
 
 Compartir archivos en OneDrive:
 
 - Compartir mediante vínculos con permisos (ver o editar)
-    
+
 - Compartir de modo seguro a través de vínculos protegidos
-    
+
 - Colaboración en tiempo real: varias personas editando simultáneamente documentos de Word, Excel o PowerPoint
-    
 
 Historial de versiones:
 
 - Recuperar versiones anteriores de archivos
-    
+
 - Ver quién hizo cambios y cuándo
-    
+
 - Restaurar una versión anterior
-    
+
 - No se puede cambiar el nombre del archivo desde el historial de versiones
-    
 
 Integración con SharePoint:
 
 - En entornos empresariales, OneDrive se integra con SharePoint
-    
+
 - Los archivos de SharePoint se pueden sincronizar con OneDrive
-    
+
 - Permite la coautoría en documentos de Office
-    
 
 ### Cómo se comparte un archivo en OneDrive
 
@@ -1804,43 +1693,36 @@ Se selecciona el archivo o la carpeta y se pulsa **Compartir** (en la parte supe
 **A quién da acceso el vínculo** (se elige en la configuración del vínculo):
 
 - **Cualquier persona**: tiene acceso cualquiera que reciba el vínculo, se lo hayamos enviado nosotros o se lo haya reenviado otra persona.
-    
+
 - **Personas de la organización** (por ejemplo, «usuarios de la Universidad de Sevilla que tengan el vínculo»): solo acceden quienes pertenecen a la organización. Es la opción para compartir de modo seguro dentro de ella.
-    
+
 - **Personas con acceso existente**: no cambia ningún permiso; sirve para pasar el vínculo a quien ya tenía acceso.
-    
+
 - **Personas determinadas**: solo acceden las personas que se indiquen.
-    
 
 **Qué se puede controlar en el vínculo:**
 
 - **Permitir la edición**: si está desactivada, los destinatarios solo pueden **ver** el archivo, no modificarlo.
-    
+
 - **Establecer la fecha de expiración**: a partir de esa fecha el vínculo deja de funcionar.
-    
+
 - **Establecer la contraseña**: hay que introducirla para abrir el vínculo.
-    
+
 - **Bloquear la descarga**: impide que los destinatarios descarguen el archivo.
-    
 
 ### El historial de versiones
 
 - Se abre desde el archivo (por ejemplo, con clic derecho en el Explorador de archivos si está instalada la aplicación de sincronización de OneDrive) con **Historial de versiones**.
-    
+
 - Junto a cada versión, en los puntos suspensivos (**…**), está **Restaurar**. Al restaurar, **la versión elegida se convierte en la versión actual** y sustituye a la que lo era, que queda en la lista como versión anterior.
-    
+
 - El historial **funciona con todos los tipos de archivo** (archivos de Microsoft 365, PDF, fotos, vídeos…) y las versiones anteriores se conservan **30 días**.
-    
+
 - El historial sirve para ver y restaurar versiones; para **compartir** un archivo se usa la opción **Compartir** del propio archivo.
-    
 
 Fuentes: [Microsoft Support — Compartir archivos y carpetas en Microsoft OneDrive](https://support.microsoft.com/es-es/office/compartir-archivos-y-carpetas-en-microsoft-onedrive-9fcc2f7d-de0c-4cec-93b0-a82024800c07) · [Microsoft Support — Restaurar una versión anterior de un archivo almacenado en OneDrive](https://support.microsoft.com/es-es/onedrive/restore-a-previous-version-of-a-file-stored-in-onedrive)
 
-Elegir cuántas
-
-[Hacer test Art. 4](https://www.vence.es/leyes/microsoft-365?selected_articles=4&source=temario)
-
-Art. 5
+### Artículo 5
 
 ### Microsoft Teams: reuniones y videollamadas
 
@@ -1849,40 +1731,35 @@ Reuniones y videollamadas en Microsoft Teams:
 Tipos de reuniones:
 
 - Reuniones programadas con invitación
-    
+
 - Reuniones instantáneas (Meet Now)
-    
+
 - Reuniones en vivo (Live Events) para grandes audiencias
-    
+
 - Webinars
-    
 
 Funcionalidades:
 
 - Pantalla compartida
-    
+
 - Grabación de reuniones en la nube
-    
+
 - Fondos virtuales y desenfoque
-    
+
 - Salas de grupos (breakout rooms)
-    
+
 - Transcripción automática
-    
+
 - Chat durante la reunión
-    
 
 Métodos abreviados de teclado:
 
 - Ctrl+Shift+M: silenciar/activar micrófono
-    
+
 - Ctrl+Shift+O: activar/desactivar cámara
-    
+
 - Ctrl+Shift+A: aceptar videollamada entrante
-    
+
 - Ctrl+Shift+C: iniciar videollamada
-    
+
 - Ctrl+Shift+D: rechazar videollamada
-
-
-

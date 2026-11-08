@@ -1,69 +1,38 @@
-
-# Tema 14: Contratos del Sector Publico: Ley 9/2017 (tipos, objeto, expediente)
+# Tema 14: Contratos del Sector Público: Ley 9/2017 (tipos, objeto y expediente)
 
 Ley 9/2017: Título preliminar Cap. I Sección 1ª; Cap. II Sección 1ª y Sección 3ª; Libro II Título I Cap. I Sección 1ª Subsección 1ª Expediente de contratación.
-
-1 ley19 artículos de tu programa6 con preguntas de examen
-
-Actualizado a 14 de octubre de 2026. [Regístrate](https://www.vence.es/login) para recibir actualizaciones cuando la legislación cambie.
 
 ## Ley 9/2017
 
 Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (2017)
 
-19 de 347 artículos de tu programa6 con examen
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de Ley 9/2017 →](https://www.vence.es/leyes/ley-9-2017?selected_articles=1,2,3,12,13,14,15,16,17,18,24,25,26,27,116,117,118,119,120&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/ley-9-2017?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
+### Artículo 1
 
 ### Objeto y finalidad
 
-Examen2
-
-Capítulo I. Objeto y ámbito de aplicación de la Ley · Artículos 1 a 11
-
 1. La presente Ley tiene por objeto regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores; y de asegurar, en conexión con el objetivo de estabilidad presupuestaria y control del gasto, y el principio de integridad, una eficiente utilización de los fondos destinados a la realización de obras, la adquisición de bienes y la contratación de servicios mediante la exigencia de la definición previa de las necesidades a satisfacer, la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.
-    
+
 2. Es igualmente objeto de esta Ley la regulación del régimen jurídico aplicable a los efectos, cumplimiento y extinción de los contratos administrativos, en atención a los fines institucionales de carácter público que a través de los mismos se tratan de realizar.
-    
+
 3. En toda contratación pública se incorporarán de manera transversal y preceptiva criterios sociales y medioambientales siempre que guarde relación con el objeto del contrato, en la convicción de que su inclusión proporciona una mejor relación calidad-precio en la prestación contractual, así como una mayor y mejor eficiencia en la utilización de los fondos públicos. Igualmente se facilitará el acceso a la contratación pública de las pequeñas y medianas empresas, así como de las empresas de economía social.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/ley-9-2017?selected_articles=1&source=temario)
-
-Art. 2
+### Artículo 2
 
 ### Ámbito de aplicación
-
-Capítulo I. Objeto y ámbito de aplicación de la Ley · Artículos 1 a 11
 
 1. Son contratos del sector público y, en consecuencia, están sometidos a la presente Ley en la forma y términos previstos en la misma, los contratos onerosos, cualquiera que sea su naturaleza jurídica, que celebren las entidades enumeradas en el artículo 3.
 
 Se entenderá que un contrato tiene carácter oneroso en los casos en que el contratista obtenga algún tipo de beneficio económico, ya sea de forma directa o indirecta.
 
 2. Están también sujetos a la presente Ley, en los términos que en ella se señalan, los contratos subvencionados por entidades que tengan la consideración de poderes adjudicadores que celebren otras personas físicas o jurídicas en los supuestos previstos en el artículo 23 relativo a los contratos subvencionados sujetos a una regulación armonizada.
-    
+
 3. La aplicación de esta Ley a los contratos que celebren las Comunidades Autónomas y las entidades que integran la Administración Local, o los organismos dependientes de las mismas, así como a los contratos subvencionados por cualquiera de estas entidades, se efectuará en los términos previstos en la Disposición final primera de la presente Ley relativa a los títulos competenciales.
-    
+
 4. A los efectos de identificar las prestaciones que son objeto de los contratos regulados en esta Ley, se utilizará el «Vocabulario común de contratos públicos», aprobado por el Reglamento (CE) n.º 2195/2002 del Parlamento Europeo y del Consejo de 5 de noviembre de 2002, por el que se aprueba el Vocabulario común de contratos públicos (CPV), o normativa comunitaria que le sustituya.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 2](https://www.vence.es/leyes/ley-9-2017?selected_articles=2&source=temario)
-
-Art. 3
+### Artículo 3
 
 ### Ámbito subjetivo
-
-Capítulo I. Objeto y ámbito de aplicación de la Ley · Artículos 1 a 11
 
 1. A los efectos de esta Ley, se considera que forman parte del sector público las siguientes entidades:
 
@@ -121,32 +90,17 @@ Los sujetos obligados deberán aprobar unas instrucciones internas en materia de
 
 5. Asimismo, quedarán sujetos a esta Ley las Corporaciones de derecho público cuando cumplan los requisitos para ser poder adjudicador de acuerdo con el apartado tercero, letra d) del presente artículo.
 
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/ley-9-2017?selected_articles=3&source=temario)
-
-Art. 12
+### Artículo 12
 
 ### Calificación de los contratos
 
-Capítulo II. Contratos del sector público · Artículos 12 a 27
-
 1. Los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios que celebren las entidades pertenecientes al sector público se calificarán de acuerdo con las normas contenidas en la presente sección.
-    
+
 2. Los restantes contratos del sector público se calificarán según las normas de derecho administrativo o de derecho privado que les sean de aplicación.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 12](https://www.vence.es/leyes/ley-9-2017?selected_articles=12&source=temario)
-
-Art. 13
+### Artículo 13
 
 ### Contrato de obras
-
-Examen1
-
-Capítulo II. Contratos del sector público · Artículos 12 a 27
 
 1. Son contratos de obras aquellos que tienen por objeto uno de los siguientes:
 
@@ -164,67 +118,41 @@ No obstante lo anterior, podrán contratarse obras definidas mediante proyectos 
 
 Se podrán celebrar contratos de obras sin referirse a una obra completa en los supuestos previstos en el apartado 4 del artículo 30 de la presente Ley cuando la responsabilidad de la obra completa corresponda a la Administración por tratarse de un supuesto de ejecución de obras por la propia Administración Pública.
 
-Elegir cuántas
-
-[Hacer test Art. 13](https://www.vence.es/leyes/ley-9-2017?selected_articles=13&source=temario)
-
-Art. 14
+### Artículo 14
 
 ### Contrato de concesión de obras
 
-Examen1
-
-Capítulo II. Contratos del sector público · Artículos 12 a 27
-
 1. La concesión de obras es un contrato que tiene por objeto la realización por el concesionario de algunas de las prestaciones a que se refiere el artículo anterior, incluidas las de restauración y reparación de construcciones existentes, así como la conservación y mantenimiento de los elementos construidos, y en el que la contraprestación a favor de aquel consiste, o bien únicamente en el derecho a explotar la obra en el sentido del apartado cuarto siguiente, o bien en dicho derecho acompañado del de percibir un precio.
-    
+
 2. El contrato podrá comprender, además, el siguiente contenido:
-    
 
 a) La adecuación, reforma y modernización de la obra para adaptarla a las características técnicas y funcionales requeridas para la correcta prestación de los servicios o la realización de las actividades económicas a las que sirve de soporte material.
 
 b) Las actuaciones de reposición y gran reparación que sean exigibles en relación con los elementos que ha de reunir cada una de las obras para mantenerse apta a fin de que los servicios y actividades a los que aquellas sirven puedan ser desarrollados adecuadamente de acuerdo con las exigencias económicas y las demandas sociales.
 
 3. El contrato de concesión de obras podrá también prever que el concesionario esté obligado a proyectar, ejecutar, conservar, reponer y reparar aquellas obras que sean accesorias o estén vinculadas con la principal y que sean necesarias para que esta cumpla la finalidad determinante de su construcción y que permitan su mejor funcionamiento y explotación, así como a efectuar las actuaciones ambientales relacionadas con las mismas que en ellos se prevean. En el supuesto de que las obras vinculadas o accesorias puedan ser objeto de explotación o aprovechamiento económico, estos corresponderán al concesionario conjuntamente con la explotación de la obra principal, en la forma determinada por los pliegos respectivos.
-    
+
 4. El derecho de explotación de las obras, a que se refiere el apartado primero de este artículo, deberá implicar la transferencia al concesionario de un riesgo operacional en la explotación de dichas obras abarcando el riesgo de demanda o el de suministro, o ambos. Se entiende por riesgo de demanda el que se debe a la demanda real de las obras o servicios objeto del contrato y riesgo de suministro el relativo al suministro de las obras o servicios objeto del contrato, en particular el riesgo de que la prestación de los servicios no se ajuste a la demanda.
-    
 
 Se considerará que el concesionario asume un riesgo operacional cuando no esté garantizado que, en condiciones normales de funcionamiento, el mismo vaya a recuperar las inversiones realizadas ni a cubrir los costes en que hubiera incurrido como consecuencia de la explotación de las obras que sean objeto de la concesión. La parte de los riesgos transferidos al concesionario debe suponer una exposición real a las incertidumbres del mercado que implique que cualquier pérdida potencial estimada en que incurra el concesionario no es meramente nominal o desdeñable.
 
-Elegir cuántas
-
-[Hacer test Art. 14](https://www.vence.es/leyes/ley-9-2017?selected_articles=14&source=temario)
-
-Art. 15
+### Artículo 15
 
 ### Contrato de concesión de servicios
 
-Examen1
-
-Capítulo II. Contratos del sector público · Artículos 12 a 27
-
 1. El contrato de concesión de servicios es aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia, y cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio.
-    
+
 2. El derecho de explotación de los servicios implicará la transferencia al concesionario del riesgo operacional, en los términos señalados en el apartado cuarto del artículo anterior.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 15](https://www.vence.es/leyes/ley-9-2017?selected_articles=15&source=temario)
-
-Art. 16
+### Artículo 16
 
 ### Contrato de suministro
 
-Capítulo II. Contratos del sector público · Artículos 12 a 27
-
 1. Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.
-    
+
 2. Sin perjuicio de lo dispuesto en la letra b) del apartado 3 de este artículo respecto de los contratos que tengan por objeto programas de ordenador, no tendrán la consideración de contrato de suministro los contratos relativos a propiedades incorporales o valores negociables.
-    
+
 3. En todo caso, se considerarán contratos de suministro los siguientes:
-    
 
 a) Aquellos en los que el empresario se obligue a entregar una pluralidad de bienes de forma sucesiva y por precio unitario sin que la cuantía total se defina con exactitud al tiempo de celebrar el contrato, por estar subordinadas las entregas a las necesidades del adquirente.
 
@@ -234,31 +162,17 @@ c) Los de fabricación, por los que la cosa o cosas que hayan de ser entregadas 
 
 d) Los que tengan por objeto la adquisición de energía primaria o energía transformada.
 
-Elegir cuántas
-
-[Hacer test Art. 16](https://www.vence.es/leyes/ley-9-2017?selected_articles=16&source=temario)
-
-Art. 17
+### Artículo 17
 
 ### Contrato de servicios
-
-Capítulo II. Contratos del sector público · Artículos 12 a 27
 
 Son contratos de servicios aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario.
 
 No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.
 
-Elegir cuántas
-
-[Hacer test Art. 17](https://www.vence.es/leyes/ley-9-2017?selected_articles=17&source=temario)
-
-Art. 18
+### Artículo 18
 
 ### Contratos mixtos
-
-Examen1
-
-Capítulo II. Contratos del sector público · Artículos 12 a 27
 
 1. Se entenderá por contrato mixto aquel que contenga prestaciones correspondientes a otro u otros de distinta clase.
 
@@ -288,27 +202,15 @@ b) Si las prestaciones son separables y se decide celebrar un único contrato, s
 
 En el supuesto de que el contrato mixto contenga elementos de una concesión de obras o de una concesión de servicios, deberá acompañarse del correspondiente estudio de viabilidad y, en su caso, del anteproyecto de construcción y explotación de las obras previstos en los artículos 247, 248 y 285 de la presente Ley.
 
-Elegir cuántas
-
-[Hacer test Art. 18](https://www.vence.es/leyes/ley-9-2017?selected_articles=18&source=temario)
-
-Art. 24
+### Artículo 24
 
 ### Régimen jurídico aplicable a los contratos del sector público
 
-Capítulo II. Contratos del sector público · Artículos 12 a 27
-
 Los contratos del sector público podrán estar sometidos a un régimen jurídico de derecho administrativo o de derecho privado.
 
-Elegir cuántas
-
-[Hacer test Art. 24](https://www.vence.es/leyes/ley-9-2017?selected_articles=24&source=temario)
-
-Art. 25
+### Artículo 25
 
 ### Contratos administrativos
-
-Capítulo II. Contratos del sector público · Artículos 12 a 27
 
 1. Tendrán carácter administrativo los contratos siguientes, siempre que se celebren por una Administración Pública:
 
@@ -322,15 +224,9 @@ b) Los contratos declarados así expresamente por una Ley, y aquellos otros de o
 
 2. Los contratos administrativos se regirán, en cuanto a su preparación, adjudicación, efectos, modificación y extinción, por esta Ley y sus disposiciones de desarrollo; supletoriamente se aplicarán las restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado. No obstante, a los contratos administrativos especiales a que se refiere la letra b) del apartado anterior les serán de aplicación, en primer término, sus normas específicas.
 
-Elegir cuántas
-
-[Hacer test Art. 25](https://www.vence.es/leyes/ley-9-2017?selected_articles=25&source=temario)
-
-Art. 26
+### Artículo 26
 
 ### Contratos privados
-
-Capítulo II. Contratos del sector público · Artículos 12 a 27
 
 1. Tendrán la consideración de contratos privados:
 
@@ -352,15 +248,9 @@ En cuanto a sus efectos y extinción les serán aplicables las normas de derecho
 
 En lo que se refiere a sus efectos, modificación y extinción se regularán por las normas de derecho privado que les resulten de aplicación.
 
-Elegir cuántas
-
-[Hacer test Art. 26](https://www.vence.es/leyes/ley-9-2017?selected_articles=26&source=temario)
-
-Art. 27
+### Artículo 27
 
 ### Jurisdicción competente
-
-Capítulo II. Contratos del sector público · Artículos 12 a 27
 
 1. Serán competencia del orden jurisdiccional contencioso-administrativo las siguientes cuestiones:
 
@@ -386,24 +276,17 @@ b) De las cuestiones referidas a efectos y extinción de los contratos que celeb
 
 c) El conocimiento de las cuestiones litigiosas relativas a la financiación privada del contrato de concesión de obra pública o de concesión de servicios, salvo en lo relativo a las actuaciones en ejercicio de las obligaciones y potestades administrativas que, con arreglo a lo dispuesto en esta Ley, se atribuyen a la Administración concedente, y en las que será competente el orden jurisdiccional contencioso-administrativo.
 
-Elegir cuántas
-
-[Hacer test Art. 27](https://www.vence.es/leyes/ley-9-2017?selected_articles=27&source=temario)
-
-Art. 116
+### Artículo 116
 
 ### Expediente de contratación: iniciación y contenido
-
-Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas · Artículos 115 a 217
 
 1. La celebración de contratos por parte de las Administraciones Públicas requerirá la previa tramitación del correspondiente expediente, que se iniciará por el órgano de contratación motivando la necesidad del contrato en los términos previstos en el artículo 28 de esta Ley y que deberá ser publicado en el perfil de contratante.
 
 En aquellos contratos cuya ejecución requiera de la cesión de datos por parte de entidades del sector público al contratista, el órgano de contratación en todo caso deberá especificar en el expediente de contratación cuál será la finalidad del tratamiento de los datos que vayan a ser cedidos.
 
 2. El expediente deberá referirse a la totalidad del objeto del contrato, sin perjuicio de lo previsto en el apartado 7 del artículo 99 para los contratos adjudicados por lotes.
-    
+
 3. Al expediente se incorporarán el pliego de cláusulas administrativas particulares y el de prescripciones técnicas que hayan de regir el contrato. En el caso de que el procedimiento elegido para adjudicar el contrato sea el de diálogo competitivo regulado en la subsección 5.ª, de la Sección 2.ª, del Capítulo I, del Título I, del Libro II, los pliegos de cláusulas administrativas y de prescripciones técnicas serán sustituidos por el documento descriptivo a que hace referencia el apartado 1 del artículo 174. En el caso de procedimientos para adjudicar los contratos basados en acuerdos marco invitando a una nueva licitación a las empresas parte del mismo, regulados en el artículo 221.4, los pliegos de cláusulas administrativas y de prescripciones técnicas serán sustituidos por el documento de licitación a que hace referencia el artículo 221.5 último párrafo.
-    
 
 Asimismo, deberá incorporarse el certificado de existencia de crédito o, en el caso de entidades del sector público estatal con presupuesto estimativo, documento equivalente que acredite la existencia de financiación, y la fiscalización previa de la intervención, en su caso, en los términos previstos en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
@@ -425,60 +308,37 @@ g) La decisión de no dividir en lotes el objeto del contrato, en su caso.
 
 5. Si la financiación del contrato ha de realizarse con aportaciones de distinta procedencia, aunque se trate de órganos de una misma Administración pública, se tramitará un solo expediente por el órgano de contratación al que corresponda la adjudicación del contrato, debiendo acreditarse en aquel la plena disponibilidad de todas las aportaciones y determinarse el orden de su abono, con inclusión de una garantía para su efectividad.
 
-Elegir cuántas
-
-[Hacer test Art. 116](https://www.vence.es/leyes/ley-9-2017?selected_articles=116&source=temario)
-
-Art. 117
+### Artículo 117
 
 ### Aprobación del expediente
 
-Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas · Artículos 115 a 217
-
 1. Completado el expediente de contratación, se dictará resolución motivada por el órgano de contratación aprobando el mismo y disponiendo la apertura del procedimiento de adjudicación. Dicha resolución implicará también la aprobación del gasto, salvo en el supuesto excepcional de que el presupuesto no hubiera podido ser establecido previamente, o que las normas de desconcentración o el acto de delegación hubiesen establecido lo contrario, en cuyo caso deberá recabarse la aprobación del órgano competente. Esta resolución deberá ser objeto de publicación en el perfil de contratante.
-    
+
 2. Los expedientes de contratación podrán ultimarse incluso con la adjudicación y formalización del correspondiente contrato, aun cuando su ejecución, ya se realice en una o en varias anualidades, deba iniciarse en el ejercicio siguiente. A estos efectos podrán comprometerse créditos con las limitaciones que se determinen en las normas presupuestarias de las distintas Administraciones Públicas sujetas a esta Ley.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 117](https://www.vence.es/leyes/ley-9-2017?selected_articles=117&source=temario)
-
-Art. 118
+### Artículo 118
 
 ### Expediente de contratación en contratos menores
 
-Examen1
-
-Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas · Artículos 115 a 217
-
 1. Se consideran contratos menores los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras, o a 15.000 euros, cuando se trate de contratos de suministro o de servicios, sin perjuicio de lo dispuesto en el artículo 229 en relación con las obras, servicios y suministros centralizados en el ámbito estatal.
-    
+
 2. En los contratos menores la tramitación del expediente exigirá la emisión de un informe del órgano de contratación justificando de manera motivada la necesidad del contrato y que no se está alterando su objeto con el fin de evitar la aplicación de los umbrales descritos en el apartado anterior.
-    
+
 3. Asimismo se requerirá la aprobación del gasto y la incorporación al mismo de la factura correspondiente, que deberá reunir los requisitos que las normas de desarrollo de esta Ley establezcan.
-    
+
 4. En el contrato menor de obras, deberá añadirse, además, el presupuesto de las obras, sin perjuicio de que deba existir el correspondiente proyecto cuando sea requerido por las disposiciones vigentes. Deberá igualmente solicitarse el informe de las oficinas o unidades de supervisión a que se refiere el artículo 235 cuando el trabajo afecte a la estabilidad, seguridad o estanqueidad de la obra.
-    
+
 5. Lo dispuesto en el apartado 2.º de este artículo no será de aplicación en aquellos contratos cuyo pago se verifique a través del sistema de anticipos de caja fija u otro similar para realizar pagos menores, siempre y cuando el valor estimado del contrato no exceda de 5.000 euros.
-    
+
 6. Los contratos menores se publicarán en la forma prevista en el artículo 63.4.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 118](https://www.vence.es/leyes/ley-9-2017?selected_articles=118&source=temario)
-
-Art. 119
+### Artículo 119
 
 ### Tramitación urgente del expediente
 
-Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas · Artículos 115 a 217
-
 1. Podrán ser objeto de tramitación urgente los expedientes correspondientes a los contratos cuya celebración responda a una necesidad inaplazable o cuya adjudicación sea preciso acelerar por razones de interés público. A tales efectos el expediente deberá contener la declaración de urgencia hecha por el órgano de contratación, debidamente motivada.
-    
+
 2. Los expedientes calificados de urgentes se tramitarán siguiendo el mismo procedimiento que los ordinarios, con las siguientes especialidades:
-    
 
 a) Los expedientes gozarán de preferencia para su despacho por los distintos órganos que intervengan en la tramitación, que dispondrán de un plazo de cinco días para emitir los respectivos informes o cumplimentar los trámites correspondientes.
 
@@ -504,15 +364,9 @@ Las reducciones de plazo establecidas en los puntos 2.º, 3.º y 5.º anteriores
 
 c) El plazo de inicio de la ejecución del contrato no podrá exceder de un mes, contado desde la formalización.
 
-Elegir cuántas
-
-[Hacer test Art. 119](https://www.vence.es/leyes/ley-9-2017?selected_articles=119&source=temario)
-
-Art. 120
+### Artículo 120
 
 ### Tramitación de emergencia
-
-Capítulo I. De las actuaciones relativas a la contratación de las Administraciones Públicas · Artículos 115 a 217
 
 1. Cuando la Administración tenga que actuar de manera inmediata a causa de acontecimientos catastróficos, de situaciones que supongan grave peligro o de necesidades que afecten a la defensa nacional, se estará al siguiente régimen excepcional:
 
@@ -527,7 +381,3 @@ d) Ejecutadas las actuaciones objeto de este régimen excepcional, se observará
 En el supuesto de que el libramiento de los fondos necesarios se hubiera realizado a justificar, transcurrido el plazo establecido en la letra c) anterior, se rendirá la cuenta justificativa del mismo, con reintegro de los fondos no invertidos.
 
 2. Las restantes prestaciones que sean necesarias para completar la actuación acometida por la Administración y que no tengan carácter de emergencia se contratarán con arreglo a la tramitación ordinaria regulada en esta Ley.
-
-Elegir cuántas
-
-[Hacer test Art. 120](https://www.vence.es/leyes/ley-9-2017?selected_articles=120&source=temario)

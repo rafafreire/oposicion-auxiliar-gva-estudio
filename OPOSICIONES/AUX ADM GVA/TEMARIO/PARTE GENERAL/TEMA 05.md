@@ -1,128 +1,54 @@
-
-# Tema 5: Ley 5/1983 del Consell (I): President de la Generalitat, Del Consell
+# Tema 5: Ley 5/1983 del Consell (I): President de la Generalitat y del Consell
 
 La Ley 5/1983, de 30 de diciembre, del Consell: Título I, Del President de la Generalitat; Título II, Del Consell.
-
-1 ley43 artículos de tu programa7 con preguntas de examen
-
-Actualizado a 14 de octubre de 2026. [Regístrate](https://www.vence.es/login) para recibir actualizaciones cuando la legislación cambie.
 
 ## Ley 5/1983 Consell
 
 Ley 5/1983, de 30 de diciembre, del Consell (1983)
 
-43 de 79 artículos de tu programa7 con examen
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de Ley 5/1983 Consell →](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/ley-5-1983-consell?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
-
-### El President de la Generalitat, que también lo es del Consell, dirige la acción del Consell, coordina las funciones de…
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo I. De la elección y el estatuto personal · Artículos 1 a 9
+### Artículo 1
 
 El President de la Generalitat, que también lo es del Consell, dirige la acción del Consell, coordina las funciones de éste y ostenta la más alta representación de la Comunitat Valenciana, así como la ordinaria del Estado en ésta.
 
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=1&source=temario)
-
-Art. 2
-
-### 1. El President de la Generalitat será elegido por Les Corts de entre sus miembros y nombrado por el Rey. En todo…
-
-Examen1
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo I. De la elección y el estatuto personal · Artículos 1 a 9
+### Artículo 2
 
 1. El President de la Generalitat será elegido por Les Corts de entre sus miembros y nombrado por el Rey. En todo momento se atenderá para su elección a lo que regula el Estatut d’Autonomia, la presente Ley y el Reglamento de Les Corts.
-    
+
 2. Después de cada renovación de Les Corts, y en los otros casos en los que así proceda, el Presidente de Les Corts, previa consulta con los representantes designados por los grupos políticos con representación parlamentaria, propondrá un candidato a la presidencia de la Generalitat, dando prioridad a aquel que en las consultas realizadas haya obtenido mayor apoyo por parte de los grupos políticos.
-    
+
 3. El candidato propuesto, conforme a lo previsto en el apartado anterior, expondrá ante Les Corts el programa político de gobierno del Consell que pretende formar y solicitará la confianza de la Cámara. El debate se desarrollará en la forma que determine el Reglamento de Les Corts.
-    
+
 4. Para la elección hace falta la mayoría absoluta de los miembros de derecho de Les Corts en primera votación. Si no se logra esta mayoría, la votación se repetirá cuarenta y ocho horas después y será suficiente la mayoría simple para ser elegido.
-    
+
 5. Si efectuadas las mencionadas votaciones no se otorgara la confianza para la investidura, se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores, atendiendo al resto de los candidatos presentados y a los criterios establecidos en el apartado 2 de este artículo. El Presidente de Les Corts podrá, en su caso, retomar la ronda de consultas.
-    
+
 6. Si, transcurrido el plazo de dos meses a partir de la primera votación de investidura, ningún candidato obtuviera la confianza de Les Corts, el Presidente de Les Corts, por acuerdo de la Mesa, disolverá la Cámara y el President de la Generalitat en funciones convocará nuevas elecciones.
-    
+
 7. Se procederá nuevamente a la elección del President de la Generalitat de acuerdo con el procedimiento establecido por el presente artículo en los casos de renuncia, dimisión, incapacidad, defunción o pérdida de la cuestión de confianza.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 2](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=2&source=temario)
-
-Art. 3
-
-### Elegido el President de la Generalitat, el Presidente de Les Corts lo comunicará al Rey, a los efectos de su…
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo I. De la elección y el estatuto personal · Artículos 1 a 9
+### Artículo 3
 
 Elegido el President de la Generalitat, el Presidente de Les Corts lo comunicará al Rey, a los efectos de su nombramiento. Dicho nombramiento se publicará en el «Boletín Oficial del Estado» y en el «Diari Oficial de la Comunitat Valenciana» en el plazo de diez días.
 
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=3&source=temario)
-
-Art. 4
-
-### El President electo comenzará a ejercer sus funciones a partir del día de la publicación en el «Boletín Oficial del…
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo I. De la elección y el estatuto personal · Artículos 1 a 9
+### Artículo 4
 
 El President electo comenzará a ejercer sus funciones a partir del día de la publicación en el «Boletín Oficial del Estado» de su nombramiento por el Rey.
 
-Elegir cuántas
-
-[Hacer test Art. 4](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=4&source=temario)
-
-Art. 5
-
-### El President de la Generalitat deberá prometer o jurar acatar la Constitución y el Estatuto de Autonomía de la…
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo I. De la elección y el estatuto personal · Artículos 1 a 9
+### Artículo 5
 
 El President de la Generalitat deberá prometer o jurar acatar la Constitución y el Estatuto de Autonomía de la Comunitat Valenciana en las primeras Corts a celebrar en Valencia tras su nombramiento por el Rey. En las mismas efectuará una «Proposición» de su programa de gobierno sin que el mismo sea objeto de debate.
 
-Elegir cuántas
-
-[Hacer test Art. 5](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=5&source=temario)
-
-Art. 6
-
-### El cargo de President de la Generalitat es incompatible con el ejercicio de cualquier otra función pública que no…
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo I. De la elección y el estatuto personal · Artículos 1 a 9
+### Artículo 6
 
 El cargo de President de la Generalitat es incompatible con el ejercicio de cualquier otra función pública que no derive del ejercicio de su cargo, excepto la de Diputado de Les Corts; también es incompatible con cualquier actividad profesional o mercantil.
 
-Elegir cuántas
-
-[Hacer test Art. 6](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=6&source=temario)
-
-Art. 7
+### Artículo 7
 
 ### El President de la Generalitat es responsable políticamente ante Les Corts.
 
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo I. De la elección y el estatuto personal · Artículos 1 a 9
-
 El President de la Generalitat es responsable políticamente ante Les Corts.
 
-Elegir cuántas
-
-[Hacer test Art. 7](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=7&source=temario)
-
-Art. 8
-
-### El President de la Generalitat cesa por las siguientes causas: a) Por renovación de Les Corts a consecuencia de unas…
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo I. De la elección y el estatuto personal · Artículos 1 a 9
+### Artículo 8
 
 El President de la Generalitat cesa por las siguientes causas:
 
@@ -146,15 +72,7 @@ El President de la Generalitat continuará sus funciones hasta que, producida la
 
 En los supuestos de incapacidad y fallecimiento asumirá las funciones del President de la Generalitat, en cuanto más alto representante de la Comunitat Valenciana y ordinaria del Estado, el Presidente de Les Corts, y en cuanto President del Consell, los Vicepresidentes según su orden o, en su defecto, según su antigüedad ininterrumpida en el cargo. Si no hubiera Vicepresidentes, asumirá las funciones de President del Consell el Conseller más antiguo.
 
-Elegir cuántas
-
-[Hacer test Art. 8](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=8&source=temario)
-
-Art. 9
-
-### El President de la Generalitat gozará de las siguientes prerrogativas: a) Tratamiento de muy honorable. b) Que le sean…
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo I. De la elección y el estatuto personal · Artículos 1 a 9
+### Artículo 9
 
 El President de la Generalitat gozará de las siguientes prerrogativas:
 
@@ -166,17 +84,7 @@ c) Presidir todos los actos celebrados en el territorio de la Comunitat Valencia
 
 d) Utilizar la bandera de la Comunitat Valenciana como guión.
 
-Elegir cuántas
-
-[Hacer test Art. 9](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=9&source=temario)
-
-Art. 10
-
-### Al President de la Generalitat, como más alto representante de la Comunitat Valenciana, le corresponden las siguientes…
-
-Examen2
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo II. De las atribuciones del President · Artículos 10 a 12
+### Artículo 10
 
 Al President de la Generalitat, como más alto representante de la Comunitat Valenciana, le corresponden las siguientes funciones:
 
@@ -198,27 +106,11 @@ h) Designar representante de la Comunitat Valenciana en el Patronato del Archivo
 
 i) Representar a la Comunitat Valenciana en el Comité de las Regiones de la Unión Europea, de conformidad con lo previsto en el artículo 61.3.c) del Estatut d’Autonomia.
 
-Elegir cuántas
-
-[Hacer test Art. 10](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=10&source=temario)
-
-Art. 11
-
-### Corresponde al President de la Generalitat, en su condición de representante ordinario del Estado en la Comunitat…
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo II. De las atribuciones del President · Artículos 10 a 12
+### Artículo 11
 
 Corresponde al President de la Generalitat, en su condición de representante ordinario del Estado en la Comunitat Valenciana, promulgar, en nombre del Rey, las Leyes de la Generalitat y disponer lo necesario para su publicación en el «Diari Oficial de la Comunitat Valenciana», en el plazo de quince días de su aprobación, y en el «Boletín Oficial del Estado».
 
-Elegir cuántas
-
-[Hacer test Art. 11](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=11&source=temario)
-
-Art. 12
-
-### 1. El President de la Generalitat dirige y coordina las acciones del Consell, sin perjuicio de las atribuciones y…
-
-Título I. Del Presidente de la Generalidad TÍTULO I Del President de la Generalitat Se modifica por el art · Artículos 1 a 12Capítulo II. De las atribuciones del President · Artículos 10 a 12
+### Artículo 12
 
 1. El President de la Generalitat dirige y coordina las acciones del Consell, sin perjuicio de las atribuciones y responsabilidad de cada Conseller en su gestión; a tal efecto le corresponde:
 
@@ -256,44 +148,17 @@ o) Ejercer cuantas otras facultades y atribuciones le correspondan con arreglo a
 
 En el supuesto en que el President nombre Vicepresidente o Vicepresidentes del Consell sin Conselleria asignada o Consellers sin cartera, éstos se integrarán en la estructura de la Presidencia, pudiéndoles ser adscritas las Secretarías Autonómicas y centros directivos que se consideren oportunos para llevar a cabo sus funciones.
 
-Elegir cuántas
-
-[Hacer test Art. 12](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=12&source=temario)
-
-Art. 13
-
-### El Consell es el órgano colegiado que ostenta la potestad ejecutiva y reglamentaria y dirige la Administración de la…
-
-Título II. Del Consell · Artículos 13 a 16Capítulo I. Del Consell y su composición · Artículos 13 a 15
+### Artículo 13
 
 El Consell es el órgano colegiado que ostenta la potestad ejecutiva y reglamentaria y dirige la Administración de la Generalitat.
 
-Elegir cuántas
-
-[Hacer test Art. 13](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=13&source=temario)
-
-Art. 14
-
-### 1. El Consell se compone del President de la Generalitat, del Vicepresidente o Vicepresidentes, en su caso, y de los…
-
-Título II. Del Consell · Artículos 13 a 16Capítulo I. Del Consell y su composición · Artículos 13 a 15
+### Artículo 14
 
 1. El Consell se compone del President de la Generalitat, del Vicepresidente o Vicepresidentes, en su caso, y de los Consellers.
-    
+
 2. A las reuniones del Consell podrán asistir los Secretarios Autonómicos cuando sean convo­cados.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 14](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=14&source=temario)
-
-Art. 15
-
-### 1. El President de la Generalitat podrá nombrar o cesar uno o varios Vicepresidentes del Consell, que llevarán a cabo…
-
-Examen1
-
-Título II. Del Consell · Artículos 13 a 16Capítulo I. Del Consell y su composición · Artículos 13 a 15
+### Artículo 15
 
 1. El President de la Generalitat podrá nombrar o cesar uno o varios Vicepresidentes del Consell, que llevarán a cabo las funciones de máximo apoyo y asesoramiento en las tareas desempeñadas por el President.
 
@@ -310,23 +175,12 @@ Asimismo, el President podrá asignarles las funciones de dirección, impulso y 
 Las ausencias temporales del President de la Generalitat, superiores a un mes, se comunicarán a Les Corts.
 
 2. El President podrá nombrar uno o varios Consellers sin cartera.
-    
+
 3. El President de la Generalitat nombrará, entre los Vicepresidentes o los Consellers, un Secretario del Consell, para que ejerza las funciones establecidas en esta Ley.
-    
 
 El President podrá designar de entre los miembros del Consell un portavoz.
 
-Elegir cuántas
-
-[Hacer test Art. 15](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=15&source=temario)
-
-Art. 16
-
-### En materia de política general de la Generalitat corresponden al Consell las siguientes competencias: a) Determinar las…
-
-Examen1
-
-Título II. Del Consell · Artículos 13 a 16Capítulo II. De las atribuciones del Consell · Artículos 16 a 21
+### Artículo 16
 
 En materia de política general de la Generalitat corresponden al Consell las siguientes competencias:
 
@@ -338,15 +192,7 @@ c) El ejercicio de las facultades que el Estatuto de Autonomía o Ley de Les Cor
 
 d) Ejercer las competencias en materia de acción exterior atribuidas por el artículo 62 del Estatut d’Autonomia.
 
-Elegir cuántas
-
-[Hacer test Art. 16](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=16&source=temario)
-
-Art. 17
-
-### En uso de sus funciones ejecutivas y administrativas, compete al Consell: a) Nombrar y separar a los altos cargos de la…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo II. De las atribuciones del Consell · Artículos 16 a 21
+### Artículo 17
 
 En uso de sus funciones ejecutivas y administrativas, compete al Consell:
 
@@ -368,17 +214,7 @@ h) Proponer ante el órgano competente la convocatoria de concursos y oposicione
 
 i) Participar en la fijación de demarcaciones correspondientes a los Registros de la Propiedad y Mercantiles, demarcaciones notariales y número de Notarios, así como de las oficinas liquidadoras con cargo a los Registradores de la Propiedad, Mercantiles y de Bienes Muebles, de acuerdo con lo que prevén las leyes del Estado. Nombrar a los Notarios y Registradores de la Propiedad, Mercantiles y de Bienes Muebles, de conformidad con las leyes del Estado.
 
-Elegir cuántas
-
-[Hacer test Art. 17](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=17&source=temario)
-
-Art. 18
-
-### Las funciones del Consell en materia normativa se concretan en las siguientes competencias: a) Proponer a Les Corts la…
-
-Examen1
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo II. De las atribuciones del Consell · Artículos 16 a 21
+### Artículo 18
 
 Las funciones del Consell en materia normativa se concretan en las siguientes competencias:
 
@@ -396,15 +232,7 @@ f) Ejercer la potestad reglamentaria, de acuerdo con la Constitución Española,
 
 g) Emitir deuda pública para gastos de inversión, previo acuerdo de Les Corts.
 
-Elegir cuántas
-
-[Hacer test Art. 18](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=18&source=temario)
-
-Art. 19
-
-### En relación con la actividad parlamentaria, el Consell tiene las siguientes atribuciones: a) Proponer a Les Corts, a…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo II. De las atribuciones del Consell · Artículos 16 a 21
+### Artículo 19
 
 En relación con la actividad parlamentaria, el Consell tiene las siguientes atribuciones:
 
@@ -414,15 +242,7 @@ b) Deliberar sobre la cuestión de confianza que pueda plantear el President de 
 
 c) Adoptar el previo acuerdo sobre la disolución de Les Corts que pueda plantear el President de la Generalitat, según el artículo 28.4 del Estatut d’Autonomia.
 
-Elegir cuántas
-
-[Hacer test Art. 19](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=19&source=temario)
-
-Art. 20
-
-### En relación con las competencias del Estado y otras Comunidades Autónomas el Consell podrá: a) Acordar la interposición…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo II. De las atribuciones del Consell · Artículos 16 a 21
+### Artículo 20
 
 En relación con las competencias del Estado y otras Comunidades Autónomas el Consell podrá:
 
@@ -434,113 +254,45 @@ c) Acordar la comparecencia y personación en los recursos y en las cuestiones d
 
 d) Comparecer en los conflictos de competencias a que se refiere el apartado c) del artículo 161 de la Constitución cuando así lo determinen, por mayoría absoluta, Les Corts.
 
-Elegir cuántas
-
-[Hacer test Art. 20](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=20&source=temario)
-
-Art. 21
-
-### Corresponde al Consell el ejercicio de las competencias estatutarias y legales de carácter ejecutivo y reglamentario…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo II. De las atribuciones del Consell · Artículos 16 a 21
+### Artículo 21
 
 Corresponde al Consell el ejercicio de las competencias estatutarias y legales de carácter ejecutivo y reglamentario que vengan atribuidas a la Generalitat o a la Comunitat Valenciana y no estén expresamente atribuidas a otros órganos o Instituciones de las mismas.
 
-Elegir cuántas
-
-[Hacer test Art. 21](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=21&source=temario)
-
-Art. 22
+### Artículo 22
 
 ### El Secretario levantará acta de los acuerdos del Consell.
 
-Título II. Del Consejo · Artículos 17 a 43Capítulo III. Del funcionamiento del Consell · Artículos 22 a 26
-
 El Secretario levantará acta de los acuerdos del Consell.
 
-Elegir cuántas
-
-[Hacer test Art. 22](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=22&source=temario)
-
-Art. 23
-
-### Las sesiones del Consell tendrán carácter reservado; sólo se hará público el contenido de los acuerdos. Los documentos…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo III. Del funcionamiento del Consell · Artículos 22 a 26
+### Artículo 23
 
 Las sesiones del Consell tendrán carácter reservado; sólo se hará público el contenido de los acuerdos. Los documentos que se elevan a la consideración del Consell tendrán carácter reservado hasta que se adopte acuerdo sobre los mismos.
 
-Elegir cuántas
-
-[Hacer test Art. 23](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=23&source=temario)
-
-Art. 24
-
-### 1. El Consell podrá constituir Comisiones Delegadas, de carácter permanente o temporal, que estudiarán y resolverán…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo III. Del funcionamiento del Consell · Artículos 22 a 26
+### Artículo 24
 
 1. El Consell podrá constituir Comisiones Delegadas, de carácter permanente o temporal, que estudiarán y resolverán materias de interés común a algunos Departamentos.
-    
+
 2. La composición, funciones y materias sobre las que versará se determinarán en sus Decretos de creación. Su régimen de funcionamiento se ajustará, en todo caso, a los criterios que rigen para el Consell en cuanto a la convocatoria y carácter de las sesiones.
-    
+
 3. Podrán formar parte de las Comisiones Delegadas del Consell el President, los Vicepresidentes y los Consellers. Asimismo, los Secretarios autonómicos podrán integrarse en estas Comisiones en aquellos supuestos en los que, por razón de la materia objeto de estudio, se considere oportuno.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 24](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=24&source=temario)
-
-Art. 25
-
-### El Consell podrá crear Comisiones interdepartamentales integradas por altos cargos de la Administración valenciana para…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo III. Del funcionamiento del Consell · Artículos 22 a 26
+### Artículo 25
 
 El Consell podrá crear Comisiones interdepartamentales integradas por altos cargos de la Administración valenciana para el estudio, coordinación, programación y, en su caso, propuestas de resolución de la actividad interdepartamental en materias sectoriales comunes. Estas Comisiones tendrán las facultades que les atribuya su Decreto de creación. Su funcionamiento se regulará también por Decreto.
 
-Elegir cuántas
-
-[Hacer test Art. 25](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=25&source=temario)
-
-Art. 26
-
-### 1. El Consell podrá crear la Comisión de Secretarios autonómicos y Subsecretarios para preparar las reuniones del…
-
-Examen1
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo III. Del funcionamiento del Consell · Artículos 22 a 26
+### Artículo 26
 
 1. El Consell podrá crear la Comisión de Secretarios autonómicos y Subsecretarios para preparar las reuniones del Consell y tratar otras cuestiones de interés común que no sean competencia de las Comisiones Delegadas o de las Comisiones Interdepartamentales.
-    
+
 2. Dicha Comisión estará integrada, en todo caso, por los Subsecretarios y por los Secretarios autonómicos que, por sus funciones o asuntos a tratar, así se requiera, en los términos que se establezca en la norma de creación.
-    
+
 3. La Comisión será presidida por el miembro del Consell que ostente la condición de Secretario del Consell.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 26](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=26&source=temario)
-
-Art. 27
-
-### La Administración de la Generalitat Valenciana se organiza en Consellerías o Departamentos, al frente de los cuales…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo IV. De la Conselleria y de los Consellers · Artículos 27 a 28
+### Artículo 27
 
 La Administración de la Generalitat Valenciana se organiza en Consellerías o Departamentos, al frente de los cuales habrá un Conseller, miembro del Consell con funciones ejecutivas, sin perjuicio de lo dispuesto en el artículo 12.2.
 
-Elegir cuántas
-
-[Hacer test Art. 27](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=27&source=temario)
-
-Art. 28
-
-### Los Consellers, como miembros del Consell y Jefes de Departamento, tienen las siguientes funciones: a) Asistir a las…
-
-Examen4
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo IV. De la Conselleria y de los Consellers · Artículos 27 a 28
+### Artículo 28
 
 Los Consellers, como miembros del Consell y Jefes de Departamento, tienen las siguientes funciones:
 
@@ -570,20 +322,11 @@ l) Ejercer las facultades ordinarias en materia de contratación administrativa 
 
 ll) Y cuales otras facultades que les atribuyeren las Leyes, los Reglamentos, el Consell o el President de la Generalitat.
 
-Elegir cuántas
-
-[Hacer test Art. 28](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=28&source=temario)
-
-Art. 29
-
-### 1. Los Consellers son nombrados y separados por el President de la Generalitat. 2. Los Consellers cesan en sus…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo V. Del Estatuto personal de los Consellers · Artículos 29 a 30
+### Artículo 29
 
 1. Los Consellers son nombrados y separados por el President de la Generalitat.
-    
+
 2. Los Consellers cesan en sus funciones:
-    
 
 a) Por cese del President de la Generalitat, si bien continuarán en sus funciones hasta la toma de posesión del nuevo Consell.
 
@@ -595,206 +338,97 @@ d) Por incompatibilidad sobrevenida.
 
 e) Por fallecimiento.
 
-Elegir cuántas
-
-[Hacer test Art. 29](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=29&source=temario)
-
-Art. 30
-
-### 1. Los Consellers están sometidos al régimen de incompatibilidades que el artículo 6 establece para el President de la…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo V. Del Estatuto personal de los Consellers · Artículos 29 a 30
+### Artículo 30
 
 1. Los Consellers están sometidos al régimen de incompatibilidades que el artículo 6 establece para el President de la Generalitat.
-    
+
 2. Los Consellers tienen tratamiento de honorable señor.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 30](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=30&source=temario)
-
-Art. 31
+### Artículo 31
 
 ### El Consell ejerce la potestad reglamentaria de acuerdo con la Constitución, el Estatuto de Autonomía y las Leyes.
 
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
-
 El Consell ejerce la potestad reglamentaria de acuerdo con la Constitución, el Estatuto de Autonomía y las Leyes.
 
-Elegir cuántas
-
-[Hacer test Art. 31](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=31&source=temario)
-
-Art. 32
-
-### Las normas que sean consecuencia del ejercicio de la potestad reglamentaria se ajustan a la siguiente jerarquía: 1.…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 32
 
 Las normas que sean consecuencia del ejercicio de la potestad reglamentaria se ajustan a la siguiente jerarquía:
 
 1. Decretos del Consell.
-    
+
 2. Decretos del President.
-    
+
 3. Órdenes de las Comisiones Delegadas del Consell.
-    
+
 4. Órdenes de Consellerias.
-    
+
 5. Disposiciones de órganos inferiores por el orden de su jerarquía.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 32](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=32&source=temario)
-
-Art. 33
-
-### Adoptarán la forma de Decreto del Consell: 1. Las disposiciones de carácter general emanadas del Consell. 2. Los actos…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 33
 
 Adoptarán la forma de Decreto del Consell:
 
 1. Las disposiciones de carácter general emanadas del Consell.
-    
+
 2. Los actos singulares emanados del Consell, cuando así lo exija una norma legal o reglamentaria, o lo disponga el propio Consell.
-    
 
 Los Decretos del Consell serán firmados por el President y refrendados por el Conseller o Consellers correspondientes.
 
-Elegir cuántas
-
-[Hacer test Art. 33](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=33&source=temario)
-
-Art. 34
-
-### Adoptarán la forma de Decreto del President: 1. Las disposiciones de carácter general que dicte en el ejercicio de sus…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 34
 
 Adoptarán la forma de Decreto del President:
 
 1. Las disposiciones de carácter general que dicte en el ejercicio de sus competencias.
-    
+
 2. Los actos singulares cuando lo exija alguna disposición legal o reglamentaria o lo disponga el propio President, y en especial los referidos a ceses y nombramientos y asignación de funciones a los distintos Consellers.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 34](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=34&source=temario)
-
-Art. 35
-
-### Las disposiciones y resoluciones que adopten la forma de Decreto se publicarán en el «Diari Oficial de la Comunitat…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 35
 
 Las disposiciones y resoluciones que adopten la forma de Decreto se publicarán en el «Diari Oficial de la Comunitat Valenciana».
 
-Elegir cuántas
-
-[Hacer test Art. 35](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=35&source=temario)
-
-Art. 36
-
-### Adoptarán la forma de Órdenes de las Comisiones Delegadas del Consell las disposiciones de carácter general emanadas de…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 36
 
 Adoptarán la forma de Órdenes de las Comisiones Delegadas del Consell las disposiciones de carácter general emanadas de las mismas en los términos de sus Decretos constitutivos. Serán firmadas por el Presidente de la Comisión y refrendadas por el Secretario de la misma.
 
-Elegir cuántas
-
-[Hacer test Art. 36](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=36&source=temario)
-
-Art. 37
-
-### Adoptarán la forma de Orden de Conselleria las disposiciones consecuencia del ejercicio de la potestad reglamentaria de…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 37
 
 Adoptarán la forma de Orden de Conselleria las disposiciones consecuencia del ejercicio de la potestad reglamentaria de los titulares de las mismas, que quedará circunscrita a las materias de su departamento.
 
-Elegir cuántas
-
-[Hacer test Art. 37](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=37&source=temario)
-
-Art. 38
-
-### Los Secretarios autonómicos y los órganos directivos de la Administración Valenciana, en cuanto se refiere a…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 38
 
 Los Secretarios autonómicos y los órganos directivos de la Administración Valenciana, en cuanto se refiere a organización interna de sus propios servicios, podrán dictar instrucciones y órdenes de servicio.
 
-Elegir cuántas
-
-[Hacer test Art. 38](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=38&source=temario)
-
-Art. 39
-
-### En el ejercicio de la potestad reglamentaria no se podrá: 1. Establecer penas ni imponer exacciones, tasas parafiscales…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 39
 
 En el ejercicio de la potestad reglamentaria no se podrá:
 
 1. Establecer penas ni imponer exacciones, tasas parafiscales y otras cargas similares.
-    
+
 2. Imponer sanciones ni multas, salvo en los casos expresamente autorizados por una Ley.
-    
+
 3. Restringir derechos individuales, salvo en el marco de las Leyes.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 39](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=39&source=temario)
-
-Art. 40
-
-### Son nulos de pleno derecho los preceptos de las disposiciones generales: 1. Que se opongan a lo establecido por la…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 40
 
 Son nulos de pleno derecho los preceptos de las disposiciones generales:
 
 1. Que se opongan a lo establecido por la Constitución, el Estatuto de Autonomía y las Leyes.
-    
+
 2. Que infrinjan los de otras de jerarquía superior.
-    
+
 3. Regulen materias reservadas a la Ley, salvo autorización expresa de la misma.
-    
+
 4. Que contravengan las limitaciones establecidas en el artículo 39.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 40](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=40&source=temario)
-
-Art. 41
-
-### Las resoluciones administrativas de carácter singular no podrán vulnerar lo establecido en una disposición de carácter…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 41
 
 Las resoluciones administrativas de carácter singular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas tengan grado igual o superior a éstas.
 
-Elegir cuántas
-
-[Hacer test Art. 41](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=41&source=temario)
-
-Art. 42
-
-### 1. De conformidad con lo dispuesto en el artículo 26.1 del Estatut d’Autonomia de la Comunitat Valenciana,…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 42
 
 1. De conformidad con lo dispuesto en el artículo 26.1 del Estatut d’Autonomia de la Comunitat Valenciana, corresponderá al Consell ejercer la iniciativa legislativa mediante la elaboración, aprobación y posterior remisión de los proyectos de Ley a Les Corts.
-    
+
 2. La Consellería competente elaborará el correspondiente anteproyecto de Ley. En el caso de que la materia objeto de regulación afecte a varias Consellerías, el Consell podrá designar de su seno el miembro del mismo que asuma la coordinación.
-    
 
 El anteproyecto irá acompañado de los estudios e informes que justifiquen su necesidad y oportunidad, así como de una memoria económica sobre la estimación del coste previsto.
 
@@ -807,21 +441,12 @@ Igualmente, se requerirá el informe preceptivo de la Abogacía General de la Ge
 El Consell determinará las consultas y dictámenes que resulte conveniente solicitar, sin perjuicio de los que sean legalmente preceptivos.
 
 5. Cumplidos los trámites anteriores, el Conseller competente, o aquel que haya asumido la coordinación, lo elevará de nuevo al Consell para su aprobación como proyecto de Ley, acompañándolo de la documentación prevista en los apartados precedentes.
-    
+
 6. El Consell podrá prescindir de los trámites previstos en el apartado 4 del presente artículo, con excepción de aquéllos que tengan carácter preceptivo, cuando razones de urgencia así lo aconsejen. En este caso, aprobará directamente el proyecto de Ley y lo remitirá a Les Corts.
-    
+
 7. Los proyectos de Decreto Legislativo serán elaborados siguiendo los trámites establecidos en el presente artículo, debiendo respetarse en todo caso las directrices y límites dispuestos por Les Corts en la correspondiente Ley de Bases, en caso de formación de textos articulados, o Ley Ordinaria, cuando se trate de refundir varios textos legales en uno sólo.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 42](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=42&source=temario)
-
-Art. 43
-
-### 1. En la elaboración de los Reglamentos se seguirán los trámites siguientes: a) El órgano competente formulará el…
-
-Título II. Del Consejo · Artículos 17 a 43Capítulo VI. De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell · Artículos 31 a 43
+### Artículo 43
 
 1. En la elaboración de los Reglamentos se seguirán los trámites siguientes:
 
@@ -844,10 +469,5 @@ f) Emitido el informe al que se refiere el párrafo anterior, el expediente ser�
 g) Concluida la tramitación del expediente, éste será remitido al Conseller para su aprobación, o bien para su elevación al Pleno del Consell cuando sea éste el órgano competente.
 
 2. En aquellos Reglamentos que versen exclusivamente sobre materias organizativas de la Presidencia y las Consellerías, no serán preceptivos los trámites previstos en los apartados c), e) y f) del epígrafe anterior.
-    
+
 3. Las disposiciones de carácter general entrarán en vigor el día siguiente al de su publicación en el «Diari Oficial de la Comunitat Valenciana», salvo que en las mismas se disponga otra cosa.
-    
-
-Elegir cuántas
-
-[Hacer test Art. 43](https://www.vence.es/leyes/ley-5-1983-consell?selected_articles=43&source=temario)

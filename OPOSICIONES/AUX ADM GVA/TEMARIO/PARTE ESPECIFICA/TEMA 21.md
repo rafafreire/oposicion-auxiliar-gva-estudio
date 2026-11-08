@@ -1,57 +1,12 @@
-
-# Tema 21: Informatica: Windows 11 (escritorio, archivos, herramientas basicas, navegador)
+# Tema 21: Informática: Windows 11, archivos, herramientas básicas y navegador
 
 Entorno Windows 11: escritorio, ventanas, menú inicio, barra de tareas. Herramientas básicas. Carpeta Descargas, accesos directos. Navegador web: pestañas, marcadores, historial. Almacenamiento en la nube. OneDrive.
-
-5 leyes16 artículos de tu programa
-
-Actualizado a 14 de octubre de 2026. [Regístrate](https://www.vence.es/login) para recibir actualizaciones cuando la legislación cambie.
-
-### Curso de Windows 11
-
-Premium
-
-Curso completo de Windows 11 para oposiciones. Aprende a manejar el sistema operativo desde cero: escritorio, configuración, herramientas y utilidades.
-
-3 bloques3h 12m de video10 min gratis
-
-[Ver curso](https://www.vence.es/cursos/windows-11)
-
-### Explorador de archivos en Windows 11
-
-Premium
-
-Curso completo del Explorador de archivos de Windows 11 con 33 lecciones en 3 bloques. Desde la navegación básica y gestión de archivos hasta herramientas del sistema, cifrado y administración de discos.
-
-3 bloques3h 3m de video10 min gratis
-
-[Ver curso](https://www.vence.es/cursos/explorador-windows-11)
-
-### La Red Internet
-
-Premium
-
-Curso completo sobre Internet con 40 lecciones en 3 bloques. Desde los orígenes y tipos de conexiones, pasando por protocolos, seguridad y antivirus, hasta navegadores, extensiones y herramientas web útiles.
-
-3 bloques3h 14m de video10 min gratis
-
-[Ver curso](https://www.vence.es/cursos/la-red-internet)
 
 ## Informática Básica
 
 Conceptos de Informática Básica
 
-6 artículos
-
-Esta leyTodo el tema
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de Informática Básica →](https://www.vence.es/leyes/informatica-basica?selected_articles=0,1,2,3,4,5&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/informatica-basica?abrir_filtro=1&source=temario_filtro)
-
-Art. 0
+### Artículo 0
 
 ### Informática Básica — Contenido general
 
@@ -74,9 +29,8 @@ La **Memoria RAM** (Random Access Memory) es el elemento que realiza la función
 ### Conversión de unidades de almacenamiento
 
 - 1 GB = 1.024 MB = 1.048.576 KB
-    
+
 - Por tanto, **30 GB = 30 × 1.048.576 KB = 31.457.280 KB ≈ 30.000.000 KB** (redondeando decimalmente: 30.000.000 KB).
-    
 
 ### Sistemas de archivos
 
@@ -89,13 +43,12 @@ La **Memoria RAM** (Random Access Memory) es el elemento que realiza la función
 ### Procesos e hilos (threads)
 
 - Los procesos tienen un **identificador** y pueden encontrarse en distintos estados: en ejecución, en espera, detenido...
-    
+
 - Los procesos **no** se mantienen almacenados en el disco duro «hasta que son ejecutados haciendo doble clic» — los **programas** se almacenan en disco; cuando se ejecutan se convierten en **procesos** que se cargan en memoria RAM.
-    
+
 - Los procesos y los hilos **NO son equivalentes**: los hilos (threads) comparten espacio de memoria dentro de un mismo proceso, mientras que los procesos tienen mayor aislamiento entre sí.
-    
+
 - Fuente oficial (Microsoft Learn): «Todos los subprocesos de un proceso comparten su espacio de direcciones virtuales y los recursos del sistema» ([https://learn.microsoft.com/es-es/windows/win32/procthread/about-processes-and-threads](https://learn.microsoft.com/es-es/windows/win32/procthread/about-processes-and-threads)); en la versión original, «All threads of a process share its virtual address space and system resources» ([https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads](https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads)). Por eso un hilo no es un proceso: los hilos viven dentro de un proceso y comparten su memoria.
-    
 
 ### Dispatcher
 
@@ -124,13 +77,12 @@ Estación de trabajo existente en forma **virtual**, separada de los dispositivo
 ### Evolución de la Web
 
 - **Web 1.0** — páginas estáticas, solo lectura.
-    
+
 - **Web 2.0** — páginas dinámicas, interactividad, redes sociales.
-    
+
 - **Web 3.0** — web semántica, datos enlazados.
-    
+
 - **Web 4.0** — en esta generación **se da por supuesto el uso de Inteligencia Artificial** de forma integrada.
-    
 
 ---
 
@@ -139,13 +91,12 @@ Estación de trabajo existente en forma **virtual**, separada de los dispositivo
 Las **principales características de un sistema de almacenamiento de datos** son:
 
 - **Capacidad** — volumen de datos que puede almacenar.
-    
+
 - **Rendimiento** — velocidad de lectura y escritura.
-    
+
 - **Fiabilidad** — probabilidad de funcionamiento sin fallos.
-    
+
 - **Recuperabilidad** — capacidad de recuperar datos tras un fallo.
-    
 
 ---
 
@@ -154,11 +105,10 @@ Las **principales características de un sistema de almacenamiento de datos** so
 ### Correo electrónico
 
 - **No se pueden enviar mensajes de correo electrónico entre dos PCs sin la intervención de un servidor de correo** — el servidor de correo es imprescindible para enrutar los mensajes.
-    
+
 - Una dirección de correo electrónico **siempre** incluye la arroba (@).
-    
+
 - El envío de correo electrónico **requiere** el uso de protocolos de comunicaciones (SMTP, POP3, IMAP).
-    
 
 ### Spam (spamming)
 
@@ -206,11 +156,7 @@ Permite crear una conexión cifrada y segura a través de una red pública, como
 |**Spam**|Comunicaciones masivas no solicitadas|
 |**Android (seguridad)**|Cada aplicación corre en su propia máquina virtual (DVM/ART)|
 
-Elegir cuántas
-
-[Hacer test Art. 0](https://www.vence.es/leyes/informatica-basica?selected_articles=0&source=temario)
-
-Art. 1
+### Artículo 1
 
 ### Conceptos fundamentales de informática
 
@@ -281,9 +227,8 @@ Un **nibble** equivale a 4 bits (medio byte).
 La velocidad de procesamiento de los microprocesadores se mide en **hercios (Hz)** y sus múltiplos:
 
 - **Megahercio (MHz):** Un millón de ciclos por segundo. Un megahercio puede ejecutar **un millón de ciclos por segundo**.
-    
+
 - **Gigahercio (GHz):** Mil millones de ciclos por segundo.
-    
 
 El **ancho de banda** de un componente indica la cantidad de datos que puede transmitir en un tiempo determinado.
 
@@ -352,26 +297,24 @@ La **placa base** o _motherboard_ es el componente principal que interconecta to
 En ella se encuentran:
 
 - El zócalo del procesador
-    
+
 - Ranuras de memoria RAM
-    
+
 - Conectores de almacenamiento (SATA, M.2)
-    
+
 - **Slots de expansión**: ranuras donde se instalan tarjetas adicionales (gráfica, sonido, red)
-    
+
 - Conectores de alimentación
-    
+
 - El chipset
-    
 
 ### El Chipset
 
 El **chipset** actúa como intermediario entre el microprocesador y los distintos dispositivos. Existen **dos tipos de chipset**:
 
 - **Northbridge (Puente Norte):** Ayuda al microprocesador en su interrelación con las memorias y la tarjeta gráfica. Gestiona comunicaciones de alta velocidad.
-    
+
 - **Southbridge (Puente Sur):** Gestiona los dispositivos de almacenamiento, puertos USB, audio y otros periféricos. Cuando mencionamos el término "Southbridge" nos referimos al **chipset**.
-    
 
 > **No existe un chipset denominado "Westbridge"**, por lo que esta opción es incorrecta cuando se pregunte por tipos de chipset.
 
@@ -393,11 +336,10 @@ El **procesador** o **CPU** (_Central Processing Unit_) es el componente más im
 Los **buses** son canales de comunicación que transportan datos entre los componentes del ordenador. Los tipos principales son:
 
 - **Bus de datos:** Transporta los datos entre componentes.
-    
+
 - **Bus de direcciones:** Transporta las direcciones de memoria.
-    
+
 - **Bus de control:** Transporta señales de control.
-    
 
 > **No existe el "Bus de Procesador"** como tipo de bus estándar.
 
@@ -422,13 +364,12 @@ La **RAM** (_Random Access Memory_ — **Memoria de Acceso Aleatorio**) es la me
 Características:
 
 - **Volátil:** se borra al apagar el equipo
-    
+
 - Acceso aleatorio: el procesador accede a cualquier posición directamente
-    
+
 - Es la intermediaria entre el disco duro y las aplicaciones en ejecución
-    
+
 - Un equipo con **8 GB de RAM** dispone de 8 gigabytes de memoria volátil de acceso rápido donde el sistema operativo y las aplicaciones cargan temporalmente los datos mientras el equipo está encendido
-    
 
 #### Memoria RAM DRAM
 
@@ -499,20 +440,18 @@ Las unidades de discos duros **HDD** son dispositivos de almacenamiento que empl
 Componentes físicos:
 
 - **Platos:** Discos metálicos giratorios que almacenan la información. Los discos duros HDD están compuestos por **platos** (discos metálicos giratorios).
-    
+
 - **Cabezales de lectura/escritura:** Leen y escriben datos en los platos.
-    
+
 - **Actuador:** Mueve los cabezales sobre los platos.
-    
 
 La **velocidad de giro** del disco duro se mide en **RPM** (revoluciones por minuto).
 
 El tiempo de acceso a la información en un disco duro viene dado por:
 
 - **Tiempo de búsqueda:** tiempo en situar el cabezal en la pista correcta.
-    
+
 - **Tiempo de latencia rotacional:** tiempo medio que tarda el cabezal en situarse en el **sector deseado**, una vez posicionado en la pista.
-    
 
 La **unidad mínima de almacenamiento** que establece el sistema operativo se denomina **clúster**, formado por uno o varios sectores.
 
@@ -521,13 +460,12 @@ La **unidad mínima de almacenamiento** que establece el sistema operativo se de
 Los dispositivos SSD integran memoria **NAND Flash** como único sistema de almacenamiento y pretenden sustituir a los discos duros tradicionales. Las **ventajas** de los SSD en comparación con los HDD son:
 
 - Mayor velocidad de lectura/escritura
-    
+
 - Menor consumo energético
-    
+
 - Sin partes móviles (mayor resistencia a golpes)
-    
+
 - Menor latencia de acceso
-    
 
 Los dispositivos de almacenamiento del tipo USB (**Pendrives**) también hacen uso de memorias de tipo **flash**.
 
@@ -556,9 +494,8 @@ La tecnología óptica **emplea un láser sobre una superficie reflectante** par
 El sistema RAID crea un único volumen con varios discos duros funcionando en conjunto. Sus técnicas principales son:
 
 - **Disk Striping:** Distribución de datos en bloques entre varios discos para mayor velocidad.
-    
+
 - **Disk Mirroring:** Duplicación de datos en múltiples discos para tolerancia a fallos.
-    
 
 |Nivel RAID|Descripción|Discos mínimos|Característica|
 |---|---|---|---|
@@ -586,13 +523,12 @@ Los sistemas de archivos presentan una **estructura de árbol** para organizar l
 El sistema de archivos suministra los medios para:
 
 - Crear, leer, modificar y eliminar archivos
-    
+
 - Organizar archivos en directorios o carpetas
-    
+
 - Controlar permisos de acceso
-    
+
 - Gestionar el espacio de almacenamiento
-    
 
 > **No es función del sistema de archivos automatizar la gestión de la memoria primaria.**
 
@@ -609,23 +545,22 @@ El sistema de archivos suministra los medios para:
 **Características exclusivas de NTFS frente a FAT32:**
 
 - Tamaño máximo de archivo: **16 TB** (con clúster predeterminado en versiones actuales)
-    
+
 - Tamaño mínimo de clúster: **512 bytes**
-    
+
 - Soporte de **permisos** de acceso y seguridad avanzada
-    
+
 - Registro de transacciones (journaling) para recuperación ante fallos
-    
+
 - Cifrado con **EFS** (_Encrypting File System_), que usa **sistemas de cifrado simétricos y asimétricos combinados**
-    
+
 - Compresión nativa de archivos
-    
+
 - **Tabla Maestra de Archivos (MFT):** estructura que utiliza NTFS para gestionar los archivos
-    
+
 - Sistema de archivos de las **versiones más actuales de Windows**
-    
+
 - Mejor opción para volúmenes de **400 MB o más**, ya que su rendimiento no se degrada con volúmenes grandes
-    
 
 > En FAT, los nombres de archivo NO se basan en Unicode (sí en NTFS y HFS+). **NTFS y HFS+ comparten**: soporte Unicode y journaling.
 
@@ -690,13 +625,12 @@ La BIOS gestiona la fecha, hora y secuencia de arranque, almacenando esta inform
 La **UEFI** es el sustituto moderno de la BIOS tradicional. Su función principal es **inicializar el hardware y arrancar el sistema operativo**, ofreciendo además:
 
 - Arranque más seguro (_Secure Boot_)
-    
+
 - Soporte para discos de más de 2 TB (GPT)
-    
+
 - Interfaz gráfica
-    
+
 - Arranque más rápido
-    
 
 ### Firmware
 
@@ -717,13 +651,12 @@ Las siglas del sistema operativo son: **SO** (español) y **OS** (_Operating Sys
 El sistema operativo **NO** tiene como función:
 
 - Crear documentos de texto
-    
+
 - Optimizar, automatizar y mejorar tareas de oficina
-    
+
 - Generar sentencias SQL para páginas web
-    
+
 - Registrar la presencia en sistemas de teletrabajo
-    
 
 ### Componentes del Sistema Operativo
 
@@ -813,17 +746,16 @@ Una **máquina virtual** ofrece la capacidad de emular un sistema operativo inde
 ### MS-DOS
 
 - Desarrollado por **Microsoft**
-    
+
 - Sistema operativo **monousuario y monotarea**
-    
+
 - Interfaz de línea de comandos (sin entorno gráfico)
-    
+
 - Dispone de **109 comandos**
-    
+
 - Última versión: **MS-DOS 8.0** (hasta que fue sustituido por SO con interfaz gráfica)
-    
+
 - En **Windows XP** fue sustituido por **CMD**
-    
 
 ### Windows
 
@@ -873,13 +805,12 @@ La interfaz gráfica de usuario basada en ventanas, iconos y menús fue desarrol
 **Unix** es un sistema operativo **multiusuario y multitarea**, aparecido en la década de los 70. Se caracteriza por:
 
 - **El uso de ficheros de texto** para almacenar los datos
-    
+
 - Tratar a los dispositivos como archivos (no como carpetas independientes)
-    
+
 - Portabilidad entre plataformas
-    
+
 - Soporte para múltiples usuarios y procesos
-    
 
 **BSD** (_Berkeley Software Distribution_) apareció a finales de los 70 con todas las modificaciones que la comunidad universitaria y científica había hecho sobre el sistema Unix original, acabando siendo un sistema operativo libre.
 
@@ -894,13 +825,12 @@ Linux es el núcleo (kernel) de un sistema operativo libre y de código abierto,
 **Características de GNU/Linux:**
 
 - Código abierto y libre
-    
+
 - **No es monotarea** (es multitarea)
-    
+
 - Multiusuario
-    
+
 - Alta estabilidad y seguridad
-    
 
 **El superusuario en Linux** se llama **Root**. Su directorio de trabajo es **/root**.
 
@@ -934,38 +864,36 @@ El sistema operativo macOS está basado en **Unix**. Su interfaz gráfica se lla
 **Elementos de macOS:**
 
 - **Sistemas de archivos:** macOS emplea **HFS+** (tradicional) y **APFS** (Apple File System, predeterminado desde macOS 10.13, año 2017).
-    
+
 - **Finder:** Aplicación responsable de la gestión de todos los archivos del ordenador (equivalente al Explorador de Windows).
-    
+
 - **Dock:** Barra situada por defecto en la parte inferior desde donde pueden lanzarse las aplicaciones más utilizadas.
-    
+
 - **File Vault:** Tecnología de macOS que permite **cifrar los datos**.
-    
+
 - **Boot Camp:** Software incluido en macOS que permite instalar de forma asistida **Windows o GNU/Linux** en el sistema.
-    
 
 ### iOS (Apple)
 
 - **iOS** significa: **iPhone Operative System** (también _iPhone OS_: su nombre proviene de _iPhone OS_).
-    
+
 - Deriva directamente de **Mac OS X**.
-    
+
 - Es **exclusivo** para los dispositivos de la marca Apple.
-    
+
 - Es un **sistema cerrado y exclusivo** (no es open source).
-    
+
 - **No tiene soporte para Adobe Flash.**
-    
+
 - Las aplicaciones iOS se distribuyen en formato **.ipa**
-    
+
 - Las aplicaciones se instalan desde **App Store**
-    
+
 - Trae aplicaciones preinstaladas de Apple; la de mapas y rutas se llama **Mapas** en español (**Maps** en inglés, también conocida como _Apple Maps_). Fuente: manual del iPhone de Apple, «Introducción a la app Mapas» ([https://support.apple.com/es-es/guide/iphone/iph87085d3a/ios](https://support.apple.com/es-es/guide/iphone/iph87085d3a/ios)) · «Get started with Maps» ([https://support.apple.com/en-us/guide/iphone/iph87085d3a/ios](https://support.apple.com/en-us/guide/iphone/iph87085d3a/ios)).
-    
+
 - **Jailbreak:** proceso de acceso privilegiado al sistema iOS (equivalente al _rooting_ en Android).
-    
+
 - Sistema de capas (layers) de iOS: **Cocoa Touch, Media Services, Core Services y Core OS**.
-    
 
 **iPad:** Utiliza **iPadOS** (derivado de iOS).
 
@@ -980,13 +908,12 @@ Android es un sistema operativo diseñado para dispositivos móviles, adquirido 
 **Componentes de Android:**
 
 - Núcleo basado en **Linux** (no en NT)
-    
+
 - Bibliotecas: funciones generalmente programadas en **C o C++** que el sistema operativo provee al resto de componentes del sistema para el acceso al almacenamiento, bases de datos, entorno gráfico, etc.
-    
+
 - **ART** (Android Runtime): entorno de ejecución actual de Android.
-    
+
 - **AOT** (_Ahead-Of-Time_): característica de ART que realiza compilación anticipada para ejecutar el binario resultante de manera más rápida y eficiente.
-    
 
 **Versiones de Android:**
 
@@ -1001,11 +928,10 @@ Android es un sistema operativo diseñado para dispositivos móviles, adquirido 
 **Aplicaciones Android:**
 
 - Se empaquetan, comprimen y distribuyen con formato **APK** (_Android Packet_).
-    
+
 - Se instalan desde **Google Play Store**.
-    
+
 - Google Play Store **no funciona en iPhone** (iOS usa App Store).
-    
 
 **Rooting:** técnica que permite a los usuarios de dispositivos Android acceder a un control privilegiado del equipo. También llamada "rootear". Se diferencia del **Jailbreak** (que es para iOS).
 
@@ -1026,11 +952,10 @@ Android es un sistema operativo diseñado para dispositivos móviles, adquirido 
 Los **tres grandes tipos de software** son:
 
 1. **Software de sistema:** Gestiona los recursos del hardware. Incluye el sistema operativo y los controladores (drivers). La serie de programas preinstalados que permiten interactuar con el SO, dar soporte a otros programas y garantizar el control digital del hardware se conoce como **software de sistema**.
-    
+
 2. **Software de programación:** Herramientas para desarrollar nuevos programas (compiladores, IDEs, depuradores).
-    
+
 3. **Software de aplicación:** Conjunto de programas diseñados para facilitar la realización de tareas específicas (ofimática, multimedia, etc.). Se conoce también como **aplicaciones** o **programas**.
-    
 
 ### Tipos de Licencias de Software
 
@@ -1062,19 +987,18 @@ Los periféricos son dispositivos que se conectan al ordenador para ampliar sus 
 Dispositivos que introducen datos en el ordenador:
 
 - Teclado
-    
+
 - Ratón
-    
+
 - Escáner (**periférico de entrada**)
-    
+
 - Micrófono
-    
+
 - Cámara web
-    
+
 - Dispositivos de reconocimiento facial (**periféricos de entrada biométrica**)
-    
+
 - Lector de huella dactilar
-    
 
 > **El monitor no táctil NO es un periférico de entrada.**
 
@@ -1083,13 +1007,12 @@ Dispositivos que introducen datos en el ordenador:
 Dispositivos que muestran o extraen datos del ordenador:
 
 - **Monitor de PC** (periférico de salida)
-    
+
 - Altavoces
-    
+
 - **Plóter** (dispositivo de impresión, periférico de salida)
-    
+
 - **Impresora** (componente periférico de la computadora, parte del hardware)
-    
 
 La velocidad de impresión de una impresora se mide en **PPM** (páginas por minuto).
 
@@ -1100,15 +1023,14 @@ En un ordenador, un **plotter** es un periférico de **salida**.
 Dispositivos que realizan ambas funciones:
 
 - **Auriculares con micrófono** (entrada: micrófono; salida: auriculares)
-    
+
 - **Impresora multifunción** (entrada: escáner; salida: impresión)
-    
+
 - **Lector/grabador de DVD** (entrada: lectura; salida: grabación)
-    
+
 - **Unidades de memoria USB** (mixtos)
-    
+
 - **HUBs de puertos USB** (mixtos)
-    
 
 ### Conectores y Puertos
 
@@ -1135,11 +1057,10 @@ Como regla general, un sistema informático será seguro o fiable si puede garan
 > **Confidencialidad, Integridad y Disponibilidad.** (Tríada CIA)
 
 - **Confidencialidad:** Solo los usuarios autorizados acceden a la información.
-    
+
 - **Integridad:** La información no ha sido alterada sin autorización.
-    
+
 - **Disponibilidad:** Los sistemas están accesibles cuando se necesitan.
-    
 
 ### Tipos de Seguridad Informática
 
@@ -1194,11 +1115,10 @@ El **malware** es software diseñado para causar daño. Los tres términos que N
 **Herramientas de cifrado de disco:**
 
 - **LUKS** (Linux)
-    
+
 - **BitLocker** (Windows)
-    
+
 - **FileVault** (macOS)
-    
 
 ### Copias de Seguridad (Backup)
 
@@ -1249,9 +1169,8 @@ Un sistema **NOS** (_Network Operating System_) permite la interconexión de ord
 ### Conceptos Básicos del Escritorio
 
 - **Icono:** Imagen pequeña dispuesta en el escritorio con una descripción en su parte inferior.
-    
+
 - **Ventanas:** Área rectangular en pantalla que muestra el contenido de una aplicación.
-    
 
 ### Extensiones de Archivos
 
@@ -1260,9 +1179,8 @@ Respecto a la extensión que aparece en un nombre de archivo: **normalmente son 
 ### Recuperación de Archivos y Particiones
 
 - Los archivos se pueden recuperar tanto desde el propio sistema operativo como desde uno diferente.
-    
+
 - Las particiones de un disco duro pertenecen a la **estructura lógica del disco**.
-    
 
 ---
 
@@ -1309,11 +1227,7 @@ Respecto a la extensión que aparece en un nombre de archivo: **normalmente son 
 |**XFS**|Sistema de archivos de alto rendimiento (Linux)|
 |**MBR**|_Master Boot Record_|
 
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/informatica-basica?selected_articles=1&source=temario)
-
-Art. 2
+### Artículo 2
 
 ### Introducción a la informática
 
@@ -1332,11 +1246,10 @@ La palabra _informática_ procede del francés _informatique_, contracción de _
 > **Un bit** (_binary digit_, dígito binario) es la unidad mínima de información que puede manejar un ordenador. Solo puede tomar dos valores: **0** o **1**.
 
 - **BIT** = Binary Digit → valor 0 o 1.
-    
+
 - **Nibble** = 4 bits.
-    
+
 - **Byte** = 8 bits. Es la unidad básica de almacenamiento.
-    
 
 ### Jerarquía de unidades de almacenamiento
 
@@ -1359,15 +1272,14 @@ En notación binaria tradicional, cada unidad es **1024 veces** mayor que la ant
 **Ejemplos de conversión:**
 
 - 1 kilobyte = 1 024 bytes.
-    
+
 - 9 megabytes = 9 × 1 024 = **9 216 kilobytes**.
-    
+
 - 2 KB = **2 048 bytes**.
-    
+
 - 1 TB = 1 024 GB.
-    
+
 - Un Petabyte equivale aproximadamente a **un billón de bytes** (10¹⁵ bytes en notación decimal).
-    
 
 ---
 
@@ -1391,11 +1303,10 @@ El sistema **hexadecimal** utiliza dígitos (0-9) y letras (A-F) para representa
 El **código ASCII** (_American Standard Code for Information Interchange_) es el estándar de codificación de caracteres más extendido. Opera a nivel de **byte** y asigna un valor numérico a cada carácter (letras, dígitos, signos de puntuación).
 
 - 7 bits → 128 caracteres originales.
-    
+
 - Extended ASCII → 256 caracteres (8 bits).
-    
+
 - Su sucesor es **Unicode** (y su codificación **UTF-8**), que cubre todos los alfabetos del mundo.
-    
 
 > El código ASCII **no es** Linux, Java ni ningún sistema operativo o lenguaje: es un _estándar de codificación_.
 
@@ -1406,11 +1317,10 @@ El **código ASCII** (_American Standard Code for Information Interchange_) es e
 El funcionamiento básico de cualquier sistema informático sigue tres fases:
 
 1. **Entrada** (_Input_) → el usuario o un sensor introduce datos al sistema.
-    
+
 2. **Proceso** (_Processing_) → la CPU ejecuta instrucciones sobre los datos.
-    
+
 3. **Salida** (_Output_) → el sistema devuelve el resultado al usuario o lo almacena.
-    
 
 > Esquema esencial: **Entrada → Proceso → Salida**.
 
@@ -1421,11 +1331,10 @@ El funcionamiento básico de cualquier sistema informático sigue tres fases:
 Un sistema informático se compone de **tres elementos fundamentales**:
 
 1. **Hardware** → parte física (CPU, RAM, disco duro, periféricos).
-    
+
 2. **Software** → parte lógica (sistema operativo, aplicaciones, firmware).
-    
+
 3. **Factor humano** (_humanware_) → los usuarios y técnicos que lo operan.
-    
 
 > El "componente mecánico" **no existe** como elemento básico de un sistema informático.
 
@@ -1436,22 +1345,20 @@ Un sistema informático se compone de **tres elementos fundamentales**:
 ### Software de sistema
 
 - **Sistema operativo** (Windows, Linux, macOS, Android…)
-    
+
 - **Controladores** (_drivers_)
-    
+
 - **Firmware**
-    
 
 ### Software de aplicación
 
 - Procesadores de texto (Word, LibreOffice Writer)
-    
+
 - Hojas de cálculo (Excel)
-    
+
 - Navegadores web
-    
+
 - Bases de datos
-    
 
 ### Firmware
 
@@ -1488,13 +1395,12 @@ La historia de la computación se divide en cinco generaciones según la tecnolo
 |5ª|Futuro/actual|Inteligencia artificial, computación cuántica|
 
 - 1ª generación → válvulas de vacío.
-    
+
 - 2ª generación → válvulas sustituidas por **transistores**.
-    
+
 - 3ª generación → circuitos integrados (mayor capacidad, menos fallos).
-    
+
 - 4ª generación → aparición del **microprocesador** (Intel fue el primer fabricante).
-    
 
 > **Intel** fue el **primer fabricante de microprocesadores** del mundo (Intel 4004, 1971).
 
@@ -1520,11 +1426,10 @@ La historia de la computación se divide en cinco generaciones según la tecnolo
 ### Por funcionamiento interno
 
 - **Digitales** → trabajan con señales discretas (0 y 1).
-    
+
 - **Analógicos** → trabajan con señales continuas.
-    
+
 - **Híbridos** → combinan ambos tipos.
-    
 
 ---
 
@@ -1537,11 +1442,10 @@ La historia de la computación se divide en cinco generaciones según la tecnolo
 **Funciones principales de la BIOS:**
 
 1. Inicializar y testear el hardware (proceso **POST** - Power-On Self Test).
-    
+
 2. Cargar el sistema operativo.
-    
+
 3. Poner las funciones básicas a disposición del usuario.
-    
 
 **¿Dónde se almacena?** En la **memoria ROM** (de solo lectura, no volátil).
 
@@ -1632,9 +1536,8 @@ El conjunto organizado de archivos almacenados en un dispositivo se denomina **d
 ### Imagen vectorial vs. mapa de bits
 
 - **Vectorial** (SVG, AI, EPS): basada en fórmulas matemáticas. **Puede escalarse sin perder calidad**.
-    
+
 - **Mapa de bits** (BMP, PNG, JPG): basada en píxeles. **Pierde calidad al ampliarse**.
-    
 
 ### PDF
 
@@ -1693,15 +1596,14 @@ Un **Sistema Gestor de Base de Datos (SGBD)** es el software que permite crear, 
 Ejemplos de SGBD:
 
 - **Microsoft SQL Server**
-    
+
 - Oracle Database
-    
+
 - MySQL / MariaDB
-    
+
 - PostgreSQL
-    
+
 - Microsoft Access
-    
 
 > **Microsoft SQL Server** es un sistema gestor de base de datos (SGBD).
 
@@ -1720,26 +1622,20 @@ Ejemplos de SGBD:
 **Tipos de bus:**
 
 - **Bus de datos** → transfiere la información entre componentes.
-    
+
 - **Bus de direcciones** → indica la posición de memoria donde se leerán/escribirán datos.
-    
+
 - **Bus de control** → transmite señales de control y sincronización.
-    
 
 > En la arquitectura de Von Neumann, el **bus de direcciones** indica la posición de memoria o dispositivo donde se leerán o escribirán datos.
 
 ### DisplayPort y Thunderbolt
 
 - **DisplayPort** → interfaz digital para transmisión de vídeo entre PC y monitor.
-    
+
 - **Thunderbolt** → estándar de interconexión de alta velocidad para transferir datos, vídeo y energía a través de un solo cable.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 2](https://www.vence.es/leyes/informatica-basica?selected_articles=2&source=temario)
-
-Art. 3
+### Artículo 3
 
 ### El hardware
 
@@ -1750,9 +1646,8 @@ Art. 3
 El hardware se divide en:
 
 - **Hardware básico** → imprescindible para el funcionamiento (CPU, RAM, placa base, fuente de alimentación, disco duro).
-    
+
 - **Hardware complementario** → mejora las prestaciones pero no es estrictamente necesario (tarjeta gráfica adicional, tarjeta de sonido, lector óptico, webcam…).
-    
 
 ---
 
@@ -1761,11 +1656,10 @@ El hardware se divide en:
 Los tres pilares del sistema informático son:
 
 1. **Hardware** (parte física)
-    
+
 2. **Software** (parte lógica)
-    
+
 3. **Factor humano** (_humanware_)
-    
 
 > El _componente mecánico_ **no** es un elemento básico de un sistema informático.
 
@@ -1800,20 +1694,18 @@ La CPU está formada por:
 > La **frecuencia de reloj** (o velocidad de reloj) es la cantidad de operaciones que puede realizar un procesador por segundo. Se mide en **gigahercios (GHz)**.
 
 - El **reloj de la CPU** sirve para **sincronizar** las operaciones del ordenador.
-    
+
 - A mayor frecuencia → mayor velocidad de procesamiento.
-    
+
 - **Overclocking**: proceso de aumentar intencionadamente la frecuencia de los ciclos de CPU **más allá de la configuración predeterminada de fábrica** para obtener mayor rendimiento.
-    
 
 ### Longitud de palabra
 
 > La **longitud de palabra** es la cantidad de información que es capaz de manejar el microprocesador en cada ciclo. Se puede medir en bits.
 
 - Procesadores de **32 bits** → manejan 4 bytes por ciclo.
-    
+
 - Procesadores de **64 bits** → manejan 8 bytes por ciclo y pueden gestionar mayor cantidad de memoria RAM.
-    
 
 > La **arquitectura de 64 bits** en un procesador indica la **cantidad máxima de memoria** que puede gestionar el procesador y el tamaño de los datos que maneja por ciclo.
 
@@ -1822,11 +1714,10 @@ La CPU está formada por:
 > Los **procesadores multinúcleo** (_multicore_) integran **varios núcleos** de procesamiento en un solo chip, permitiendo **ejecutar varias tareas de forma simultánea** (paralelismo real).
 
 - _Dual-core_ = 2 núcleos
-    
+
 - _Quad-core_ = 4 núcleos
-    
+
 - _Octa-core_ = 8 núcleos
-    
 
 ### FLOPS
 
@@ -1890,15 +1781,14 @@ El estándar moderno es **PCIe** (Peripheral Component Interconnect Express).
 La memoria se organiza por velocidad y capacidad, de mayor a menor velocidad:
 
 - Registros de CPU (más rápida, menos capacidad)
-    
+
 - Caché L1 / L2 / L3
-    
+
 - RAM (memoria principal)
-    
+
 - Disco duro / SSD (almacenamiento masivo)
-    
+
 - Almacenamiento externo (más lenta, mayor capacidad)
-    
 
 ### Memoria RAM
 
@@ -1907,13 +1797,12 @@ La memoria se organiza por velocidad y capacidad, de mayor a menor velocidad:
 **Características de la RAM:**
 
 - **Volátil**: su contenido se **borra al apagar** el equipo.
-    
+
 - De lectura y escritura.
-    
+
 - Más rápida que el disco duro.
-    
+
 - El sistema la usa para ejecutar programas y abrir archivos.
-    
 
 > El **gran inconveniente** de la RAM es que su contenido **se pierde cuando se apaga el ordenador**.
 
@@ -2001,13 +1890,12 @@ La memoria se organiza por velocidad y capacidad, de mayor a menor velocidad:
 **Características:**
 
 - Almacenamiento **no volátil** (permanente aunque esté apagado).
-    
+
 - Mayor capacidad a menor coste que los SSD.
-    
+
 - Más lento y frágil por sus partes mecánicas.
-    
+
 - Interfaz de conexión principal: **SATA** (Serial ATA).
-    
 
 ### Disco SSD
 
@@ -2016,13 +1904,12 @@ La memoria se organiza por velocidad y capacidad, de mayor a menor velocidad:
 **Ventajas del SSD sobre el HDD:**
 
 - Mucho más **rápido** (menor latencia, mayor velocidad de lectura/escritura).
-    
+
 - **Sin partes mecánicas** → más resistente a golpes.
-    
+
 - Silencioso.
-    
+
 - Menor consumo energético.
-    
 
 > La principal diferencia entre HDD y SSD: el **SSD es más rápido y no tiene partes mecánicas**, mientras que el **HDD usa discos giratorios**.
 
@@ -2033,9 +1920,8 @@ La memoria se organiza por velocidad y capacidad, de mayor a menor velocidad:
 ### NVMe y M.2
 
 - **M.2** es un factor de forma (conector físico) para SSDs que se instalan directamente en la placa base, ocupando muy poco espacio.
-    
+
 - **NVMe** (_Non-Volatile Memory Express_) es el protocolo de comunicación de alta velocidad usado por los SSD M.2 modernos, mucho más rápido que SATA.
-    
 
 |Tipo|Interfaz|Velocidad típica|
 |---|---|---|
@@ -2048,11 +1934,10 @@ La memoria se organiza por velocidad y capacidad, de mayor a menor velocidad:
 > Una **unidad óptica** es un dispositivo que permite **leer y escribir discos ópticos** como CDs, DVDs y Blu-rays.
 
 - CD-ROM, DVD-ROM → solo lectura.
-    
+
 - CD-RW, DVD-RW → lectura y escritura.
-    
+
 - Un **lector y grabador de DVD** es un **periférico de entrada y salida** (mixto).
-    
 
 > El **CD-ROM** es un soporte de almacenamiento **óptico**.
 
@@ -2084,11 +1969,10 @@ La memoria se organiza por velocidad y capacidad, de mayor a menor velocidad:
 **Funciones:**
 
 - Procesar y generar señal de vídeo para el monitor.
-    
+
 - Renderizar gráficos 2D y 3D.
-    
+
 - Acelerar tareas de inteligencia artificial y cómputo paralelo.
-    
 
 > La tarjeta gráfica tiene como tarea **procesar datos y transformarlos en información representable en el dispositivo de salida**.
 
@@ -2327,11 +2211,7 @@ Los **puertos PS/2** son conectores de 6 pines redondos, codificados por color, 
 
 > La **impresora** es un componente periférico de la computadora, por lo que **sí se considera parte del hardware**.
 
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/informatica-basica?selected_articles=3&source=temario)
-
-Art. 4
+### Artículo 4
 
 ### El software
 
@@ -2352,13 +2232,12 @@ El **software de sistema** o **software base** es el conjunto de programas que g
 Incluye:
 
 - **Sistema operativo (SO)**: el componente principal.
-    
+
 - **Controladores de dispositivo (drivers)**: permiten al SO comunicarse con el hardware.
-    
+
 - **Firmware y BIOS/UEFI**: software almacenado en chips del propio hardware.
-    
+
 - **Utilidades del sistema**: herramientas de mantenimiento, gestión de archivos, etc.
-    
 
 > **Definición formal:** La serie de programas preinstalados en el ordenador que permiten interactuar con el sistema operativo se denominan **software de sistema**.
 
@@ -2369,17 +2248,16 @@ El **software de aplicación** (o simplemente "aplicaciones") está diseñado pa
 Ejemplos:
 
 - Procesadores de texto (Microsoft Word, LibreOffice Writer)
-    
+
 - Hojas de cálculo (Microsoft Excel, Google Sheets)
-    
+
 - Editores de imágenes (Adobe Photoshop, GIMP, Paint)
-    
+
 - Navegadores web (Chrome, Firefox, Edge)
-    
+
 - Clientes de correo electrónico
-    
+
 - Software CAD (diseño asistido por ordenador)
-    
 
 > Un programa que permite editar texto pero **no interactúa directamente con el hardware** se clasifica como **software de aplicación**.
 
@@ -2388,11 +2266,10 @@ Ejemplos:
 Herramientas destinadas a la creación de otros programas:
 
 - Compiladores e intérpretes (Java, Python, C++)
-    
+
 - Entornos de desarrollo integrado (IDE): Visual Studio, Eclipse
-    
+
 - Depuradores
-    
 
 ### 1.4 Resumen comparativo
 
@@ -2411,30 +2288,28 @@ Herramientas destinadas a la creación de otros programas:
 El **sistema operativo** es el software más importante de un ordenador. Es un tipo especial de software formado por múltiples archivos que:
 
 - Gestiona los recursos del ordenador (CPU, memoria, almacenamiento, E/S)
-    
+
 - Coordina las actividades y el intercambio de información entre los componentes
-    
+
 - **Actúa como intermediario entre el usuario y el hardware**
-    
+
 - Proporciona una interfaz (gráfica o de comandos) para que el usuario pueda interactuar con el equipo
-    
 
 > **Sistema operativo:** Tipo especial de software que gestiona el intercambio de recursos del ordenador (CPU, memoria, dispositivos de almacenamiento, periféricos) y sirve de intermediario entre el usuario y el hardware.
 
 **Funciones básicas de un SO:**
 
 - Gestión de procesos (qué programa usa la CPU y cuándo)
-    
+
 - Gestión de memoria principal (RAM)
-    
+
 - Gestión del sistema de archivos
-    
+
 - Gestión de dispositivos de E/S (entrada/salida)
-    
+
 - Gestión de usuarios y permisos
-    
+
 - Interfaz de usuario
-    
 
 **Lo que NO es función de un SO:** La edición de vídeo, la navegación web u otras tareas propias de aplicaciones.
 
@@ -2459,16 +2334,14 @@ El **sistema operativo** es el software más importante de un ordenador. Es un t
 #### Por número de procesadores
 
 - **Monoprocesador**: trabaja con un único procesador.
-    
+
 - **Multiprocesador (SMP)**: trabaja con varios procesadores simultáneamente.
-    
 
 #### Por tipo de interfaz
 
 - **CLI** (Command Line Interface): interfaz de línea de comandos. Ejemplos: MS-DOS, terminal de Linux.
-    
+
 - **GUI** (Graphical User Interface): interfaz gráfica de usuario. Ejemplos: Windows, macOS, GNOME.
-    
 
 ### 2.3 Principales sistemas operativos de escritorio
 
@@ -2510,15 +2383,14 @@ El **kernel** o **núcleo** es la parte central y más importante del sistema op
 ### 3.2 Funciones del kernel
 
 - Gestión de procesos: asigna tiempo de CPU a los procesos
-    
+
 - Gestión de memoria: controla qué aplicaciones usan qué bloques de RAM
-    
+
 - Gestión de dispositivos: comunica el SO con el hardware a través de los drivers
-    
+
 - Gestión del sistema de archivos
-    
+
 - Seguridad y permisos de acceso
-    
 
 ### 3.3 Lo que NO hace el kernel
 
@@ -2543,11 +2415,10 @@ Los **drivers** o **controladores de dispositivo** son programas que permiten al
 **¿Por qué son necesarios?**
 
 - Sin driver, el SO no sabe cómo comunicarse con el dispositivo.
-    
+
 - Si los drivers no están actualizados, el dispositivo podría no funcionar correctamente o experimentar fallos.
-    
+
 - Para que una impresora funcione correctamente en un sistema informático, se necesita su **controlador de dispositivo**.
-    
 
 ---
 
@@ -2558,11 +2429,10 @@ Los **drivers** o **controladores de dispositivo** son programas que permiten al
 La **BIOS** es un software almacenado en un chip de la placa base que se ejecuta antes que el sistema operativo. Sus funciones son:
 
 1. **POST** (Power-On Self-Test): comprueba que el hardware está en buen estado al encender el equipo.
-    
+
 2. **Inicialización del hardware**: prepara la CPU, la RAM y los dispositivos básicos.
-    
+
 3. **Carga del sistema operativo**: localiza y lanza el SO desde el dispositivo de arranque.
-    
 
 > **BIOS:** Software que, nada más encenderse el equipo, inicia y comprueba el hardware del ordenador para luego cargar el sistema operativo.
 
@@ -2573,13 +2443,12 @@ La **BIOS** es un software almacenado en un chip de la placa base que se ejecuta
 La **UEFI** es la evolución moderna de la BIOS:
 
 - Interfaz gráfica más amigable
-    
+
 - Soporta discos duros de más de 2 TB (usa tabla de particiones GPT)
-    
+
 - Mayor seguridad (Secure Boot)
-    
+
 - Tiempos de arranque más rápidos
-    
 
 ### 5.3 Firmware
 
@@ -2611,9 +2480,8 @@ El **firmware** es software almacenado en **memoria no volátil** (chips ROM, Fl
 "**Restaurar sistema**" es una herramienta de Windows que permite revertir el equipo a un estado anterior registrado como **punto de restauración**, en el que el sistema funcionaba correctamente.
 
 - **No** afecta a los documentos personales del usuario.
-    
+
 - En Windows 10, "Restaurar Sistema" revierte cambios en el sistema hasta el último punto de restauración, pero **no afecta a las aplicaciones** instaladas después de ese punto (las elimina).
-    
 
 ---
 
@@ -2649,13 +2517,12 @@ Ejemplos: Windows, Microsoft Office, Adobe Photoshop, macOS.
 El **software libre** respeta las cuatro libertades fundamentales definidas por la FSF:
 
 1. Libertad de **usar** el programa con cualquier propósito.
-    
+
 2. Libertad de **estudiar** cómo funciona y modificarlo (acceso al código fuente).
-    
+
 3. Libertad de **distribuir** copias.
-    
+
 4. Libertad de **mejorar** y publicar las mejoras.
-    
 
 > **Software libre:** Se puede modificar y redistribuir libremente. El acceso al código fuente es condición indispensable.
 
@@ -2779,11 +2646,10 @@ Una **suite ofimática** es un conjunto de programas de productividad orientados
 **Aplicaciones ofimáticas más preguntadas:**
 
 - **Excel** → hoja de cálculo → software de aplicación y ofimática
-    
+
 - **Word / WordPad** → procesador de texto
-    
+
 - **Adobe Reader** → visualización de ficheros PDF
-    
 
 ---
 
@@ -2800,11 +2666,10 @@ El **CAD** (Computer-Aided Design / Diseño Asistido por Ordenador) es software 
 ### 14.3 Lenguajes de programación
 
 - **Java**: lenguaje de programación multiplataforma, orientado a objetos.
-    
+
 - **Python**: lenguaje de programación interpretado, muy popular en ciencia de datos e IA.
-    
+
 - No son sistemas operativos ni suites ofimáticas.
-    
 
 ### 14.4 Procesamiento de Lenguaje Natural (PLN)
 
@@ -2867,11 +2732,7 @@ El **Explorador de archivos** (Explorador de Windows) gestiona archivos y carpet
 
 En Windows, el nombre de un archivo no puede contener los caracteres: barra invertida (\), barra (/), dos puntos (:), asterisco (*), interrogación (?), comillas ("), menor que (<), mayor que (>) ni barra vertical (|). Otros símbolos como +, $ o % sí están permitidos.
 
-Elegir cuántas
-
-[Hacer test Art. 4](https://www.vence.es/leyes/informatica-basica?selected_articles=4&source=temario)
-
-Art. 5
+### Artículo 5
 
 ### Nociones básicas de seguridad informática
 
@@ -2926,13 +2787,12 @@ Una **amenaza** informática es la causa potencial de un incidente que puede cau
 Las amenazas pueden ser:
 
 - **Internas**: usuarios propios con malas intenciones o errores humanos.
-    
+
 - **Externas**: atacantes desde fuera de la organización.
-    
+
 - **Accidentales**: fallos de hardware, desastres naturales, errores de software.
-    
+
 - **Intencionadas**: ataques deliberados (malware, hackers, etc.).
-    
 
 ---
 
@@ -2947,11 +2807,10 @@ El **malware** (de _malicious software_) es el término que **engloba todo tipo 
 Un **virus** es un programa que se adhiere a otros archivos o programas y se replica al ejecutarlos, infectando el sistema.
 
 - **Necesita** un archivo huésped para propagarse.
-    
+
 - **Requiere** la acción del usuario (ejecutar el archivo infectado) para activarse.
-    
+
 - Puede dañar archivos, borrar datos o corromper el SO.
-    
 
 > **Diferencia clave virus vs. gusano:** El virus necesita un archivo huésped; el gusano **no** necesita archivos huésped para propagarse.
 
@@ -2962,11 +2821,10 @@ Un **virus** es un programa que se adhiere a otros archivos o programas y se rep
 Un **gusano** es un tipo de malware que se propaga automáticamente a través de redes **sin necesitar un archivo huésped** ni la intervención del usuario.
 
 - Se replica a sí mismo enviando copias por la red.
-    
+
 - Su efecto principal suele ser **saturar el tráfico de red** y los recursos del sistema.
-    
+
 - No necesita adjuntarse a un archivo existente.
-    
 
 > Los programas que se copian a sí mismos y cuyo principal efecto es **saturar el tráfico por la red** son los **gusanos (worms)**.
 
@@ -2975,11 +2833,10 @@ Un **gusano** es un tipo de malware que se propaga automáticamente a través de
 Un **troyano** es un programa que **se disfraza de software legítimo** para engañar al usuario y que lo instale voluntariamente, pero que contiene una función maliciosa oculta.
 
 - **No se propaga solo**: necesita la intervención del usuario para instalarse.
-    
+
 - Puede permitir acceso o control remoto de la computadora infectada.
-    
+
 - Es muy utilizado para crear backdoors (puertas traseras).
-    
 
 |Característica|Virus|Gusano|Troyano|
 |---|---|---|---|
@@ -2997,11 +2854,10 @@ El **ransomware** es un malware que **restringe el acceso al sistema o a los arc
 > **Ransomware:** Programa malicioso que cifra los archivos del usuario o restringe el acceso al sistema y muestra una nota de rescate exigiendo pago (generalmente en criptomonedas) para restablecer el acceso.
 
 - Tipo más conocido: **cryptolocker** (cifra archivos).
-    
+
 - También puede bloquear el acceso al escritorio o al sistema completo.
-    
+
 - Las variantes modernas usan cifrado asimétrico (muy difícil de revertir sin la clave).
-    
 
 ### 3.5 Spyware
 
@@ -3030,11 +2886,10 @@ Un **rootkit** es un programa diseñado para **proporcionar a los atacantes acce
 **Características del rootkit:**
 
 - Se instala a nivel profundo del sistema (a veces en el kernel).
-    
+
 - Puede esconder archivos, procesos y claves del registro.
-    
+
 - **No se propaga automáticamente** (esto lo diferencia de los gusanos).
-    
 
 > **Importante de examen:** Los rootkits **no pueden propagarse automáticamente** (esta es la respuesta incorrecta frecuente).
 
@@ -3089,13 +2944,12 @@ El **phishing** es una técnica de engaño mediante la cual el atacante **suplan
 **Características del phishing:**
 
 - Suele llegar por **correo electrónico**.
-    
+
 - El mensaje crea urgencia o miedo ("su cuenta será bloqueada").
-    
+
 - Dirige al usuario a una **web falsa** idéntica a la real.
-    
+
 - Solicita datos como contraseñas, números de tarjeta, DNI.
-    
 
 **Ejemplo clásico:** Un correo que aparenta proceder de un banco y solicita verificar datos "por motivos de seguridad" → **Phishing**.
 
@@ -3130,9 +2984,8 @@ El **pharming** es un ataque que **redirige al usuario a una web falsa sin que h
 > **Pharming:** Ataque informático que aprovecha una vulnerabilidad del software de los servidores DNS para modificar o sustituir los registros DNS, redirigiendo el tráfico a páginas web falsas de forma transparente para el usuario.
 
 - El usuario escribe la URL correcta en el navegador pero es redirigido a una web falsa.
-    
+
 - Es más difícil de detectar que el phishing porque no requiere que el usuario haga clic en nada.
-    
 
 > **Diferencia phishing vs. pharming:** En el phishing, el usuario hace clic en un enlace falso; en el pharming, es redirigido automáticamente aunque escriba la URL correcta.
 
@@ -3177,9 +3030,8 @@ La **ingeniería social** es un conjunto de técnicas que persiguen el **engaño
 **Tipos de ingeniería social:**
 
 - Phishing, vishing, smishing, spear phishing
-    
+
 - Baiting, pretexting
-    
 
 > **Baiting:** Dejar dispositivos físicos infectados (USB, CD) en lugares donde puedan ser encontrados y conectados por usuarios curiosos.
 
@@ -3196,9 +3048,8 @@ El **antivirus** es software diseñado para **detectar, bloquear y eliminar malw
 **Tipos de antivirus por función:**
 
 - **Antivirus descontaminadores:** Se especializan en descontaminar un sistema ya infectado, eliminando el programa malicioso.
-    
+
 - **Antivirus preventivos:** Monitorizan en tiempo real para evitar la infección.
-    
 
 **Técnica heurística:** La **búsqueda heurística** intenta detectar un virus **por su forma de comportarse o aspecto que presenta**, aunque no esté en la base de datos de virus conocidos. Es fundamental para detectar virus nuevos o desconocidos ("zero-day").
 
@@ -3213,13 +3064,12 @@ El **firewall** o **cortafuegos** es un elemento (hardware o software) que **con
 **Funciones del firewall:**
 
 - Bloquear accesos no autorizados
-    
+
 - Filtrar tráfico entrante y saliente
-    
+
 - Registrar intentos de conexión sospechosos
-    
+
 - Separar redes confiables de redes no confiables
-    
 
 > Para mayor seguridad en una red inalámbrica, se recomienda el protocolo **WPA2** (Wi-Fi Protected Access 2).
 
@@ -3247,13 +3097,12 @@ El **cifrado** o **encriptación** es el proceso de transformar información en 
 Una **contraseña segura** debe tener:
 
 - **Mínimo 8-12 caracteres** (más larga, mejor)
-    
+
 - Combinación de **mayúsculas, minúsculas, números y símbolos**
-    
+
 - No ser información personal (nombre, fecha de nacimiento)
-    
+
 - No ser una palabra del diccionario
-    
 
 > **Contraseñas NO seguras:** Tu nombre, fechas de nacimiento, palabras simples como "password" o "123456". También: "P.3Cb" (demasiado corta, menos de 8 caracteres).
 
@@ -3266,11 +3115,10 @@ La **autenticación multifactor (MFA)** o **doble factor de autenticación (2FA)
 **Factores de autenticación:**
 
 - **Algo que sabes:** contraseña, PIN
-    
+
 - **Algo que tienes:** token físico, app de autenticación, SMS con código
-    
+
 - **Algo que eres:** huella dactilar, reconocimiento facial (biometría)
-    
 
 > **Token de software:** Mecanismo de seguridad almacenado en un dispositivo electrónico de uso general (teléfono móvil) que genera códigos temporales de un solo uso (OTP).
 
@@ -3283,11 +3131,10 @@ La **autenticación multifactor (MFA)** o **doble factor de autenticación (2FA)
 Mantener el SO y el software **actualizados** es una medida de seguridad fundamental:
 
 - Las actualizaciones corrigen **vulnerabilidades** que pueden ser explotadas.
-    
+
 - El **mantenimiento preventivo** incluye actualizar regularmente el SO y el software.
-    
+
 - Sin actualizaciones, los sistemas quedan expuestos a exploits y ataques conocidos.
-    
 
 ### 5.8 CAPTCHA
 
@@ -3322,11 +3169,10 @@ Una **copia de seguridad** (backup) es una copia de los datos almacenados que pe
 El **mantenimiento preventivo** de un ordenador incluye, entre otras acciones:
 
 - Realización de copias de seguridad de los datos
-    
+
 - Actualización del SO y software
-    
+
 - Instalación y actualización de antivirus
-    
 
 ---
 
@@ -3345,9 +3191,8 @@ Un **certificado digital** es un **archivo que vincula la identidad de una perso
 La **firma electrónica** permite principalmente:
 
 - **Identificar al firmante**: garantiza que el documento fue firmado por quien dice ser.
-    
+
 - **Garantizar la integridad del documento**: asegura que el documento no ha sido modificado desde que se firmó.
-    
 
 > **Firma electrónica:** Permite identificar y garantizar la integridad del documento firmado.
 
@@ -3356,11 +3201,10 @@ La **firma electrónica** permite principalmente:
 ### 7.3 HTTPS, SSL y TLS
 
 - **HTTPS**: protocolo que cifra la comunicación entre el navegador y el servidor web mediante SSL/TLS.
-    
+
 - **SSL** (Secure Sockets Layer): protocolo de cifrado ya obsoleto, sustituido por TLS.
-    
+
 - **TLS** (Transport Layer Security): versión moderna y segura de SSL, utilizada actualmente.
-    
 
 Para que una página sea segura, la URL debe comenzar por **https://** y mostrarse el icono del candado en el navegador.
 
@@ -3388,17 +3232,16 @@ El **Reglamento General de Protección de Datos (RGPD)**, en inglés **GDPR** (_
 **Principios clave del RGPD:**
 
 - **Licitud, lealtad y transparencia**: los datos deben tratarse de forma legal.
-    
+
 - **Limitación de la finalidad**: los datos solo se recopilan para fines específicos.
-    
+
 - **Minimización de datos**: solo se recopilan los datos estrictamente necesarios.
-    
+
 - **Exactitud**: los datos deben estar actualizados.
-    
+
 - **Limitación del plazo de conservación**: no se guardan más tiempo del necesario.
-    
+
 - **Integridad y confidencialidad**: se aplican medidas de seguridad adecuadas.
-    
 
 ### 9.2 Cookies
 
@@ -3478,15 +3321,7 @@ Un **hoax** o bulo es un mensaje de texto (correo electrónico, foros, redes soc
 
 Introducción al Sistema Operativo Windows 11
 
-1 artículos
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de Windows 11 →](https://www.vence.es/leyes/windows-11?selected_articles=1&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/windows-11?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
+### Artículo 1
 
 ### Fundamentos del Sistema Operativo Windows 11
 
@@ -3526,27 +3361,26 @@ La **última versión de Windows para escritorio** es Windows 11, lanzado el 5 d
 Windows 11 introduce una serie de mejoras visuales y funcionales respecto a Windows 10:
 
 - **Ventanas con esquinas redondeadas**: el diseño visual redondea los bordes de las ventanas, sustituyendo los bordes rectos de versiones anteriores.
-    
+
 - **Barra de tareas centrada por defecto**: a diferencia de versiones anteriores donde estaba alineada a la izquierda.
-    
+
 - **Snap Layouts mejorados**: organización visual de ventanas mediante diseños predefinidos.
-    
+
 - **Escritorios virtuales mejorados**: con miniaturas propias y fondo de escritorio independiente.
-    
+
 - **Menú Inicio rediseñado**: más limpio, sin grupos de tiles dinámicas.
-    
+
 - **Widget panel**: acceso rápido a información como clima, noticias y calendario.
-    
+
 - **Microsoft Copilot integrado**: asistente de IA directamente en el sistema operativo.
-    
+
 - **DirectStorage**: tecnología que permite a los juegos cargar activos directamente desde el SSD a la GPU, reduciendo tiempos de carga.
-    
+
 - **Subsistema de Windows para Android (WSA)**: permitía ejecutar aplicaciones de Android de forma nativa en Windows 11. Microsoft lo retiró: desde el 5 de marzo de 2025 el Subsistema y la Amazon Appstore ya no están disponibles en Microsoft Store.
-    
+
 - **Windows Hello**: autenticación biométrica mediante reconocimiento facial, huella dactilar o PIN reforzado.
-    
+
 - **Integración mejorada de OneDrive** en el Explorador de archivos.
-    
 
 ### Requisitos mínimos de Windows 11
 
@@ -3566,11 +3400,10 @@ Windows 11 introduce una serie de mejoras visuales y funcionales respecto a Wind
 Para consultar la versión de Windows 11 instalada, existen varias formas:
 
 1. **Win + R → winver**: abre una ventana con la edición y número de compilación exacto.
-    
+
 2. **Configuración → Sistema → Acerca de**: muestra el nombre del PC, la edición de Windows, la versión y la cantidad de RAM instalada.
-    
+
 3. **Clic derecho en Este equipo → Propiedades**.
-    
 
 > **Atención:** Abrir el Centro de actividades y hacer clic en "Administrar notificaciones" NO muestra la versión de Windows; esa ruta conduce a la configuración de notificaciones, no a información del sistema.
 
@@ -3587,15 +3420,14 @@ El **escritorio** es la superficie principal de trabajo que aparece al iniciar s
 La **barra de tareas** de Windows 11 presenta varias características distintivas:
 
 - **Está centrada por defecto**: el botón de Inicio, los iconos fijados y las aplicaciones abiertas aparecen centrados en la barra, a diferencia de versiones anteriores.
-    
+
 - Su **alineación** puede cambiarse entre «Centro» (valor predeterminado en Windows 11) e «Izquierda» desde Configuración → Personalización → Barra de tareas → **Comportamientos de la barra de tareas** → **Alineación de la barra de tareas**. También se llega ahí con el clic derecho sobre un espacio libre de la barra y «Configuración de la barra de tareas».
-    
+
 - Lo que **no** puede cambiarse es su **posición**: Windows 11 mantiene la barra de tareas siempre en la parte inferior de la pantalla, a diferencia de versiones anteriores, que permitían llevarla a los laterales o a la parte superior.
-    
+
 - Muestra las **aplicaciones abiertas y fijadas**.
-    
+
 - Incluye acceso a **Búsqueda**, **Vista de tareas** (escritorios virtuales y ventanas), **Widgets** y el **Área de notificaciones**.
-    
 
 Además de mostrar aplicaciones abiertas, la barra de tareas permite acceder a búsqueda, vista de tareas y otras funciones del sistema.
 
@@ -3604,11 +3436,10 @@ Además de mostrar aplicaciones abiertas, la barra de tareas permite acceder a b
 En Windows 11, al hacer clic derecho en la barra de tareas, se puede optar por:
 
 - **Ocultar la búsqueda** completamente.
-    
+
 - **Mostrar únicamente el icono de búsqueda**.
-    
+
 - **Mostrar el cuadro de búsqueda** completo.
-    
 
 ### El Área de Notificaciones (Bandeja del Sistema)
 
@@ -3617,13 +3448,12 @@ La zona de la barra de tareas que muestra los iconos de **red, volumen, batería
 Desde el área de notificaciones es posible:
 
 - Ver y gestionar notificaciones del sistema y aplicaciones.
-    
+
 - Abrir el Centro de actividades de Windows 11 (Win+A), con los controles rápidos de red, volumen y batería; el centro de notificaciones y el calendario se abren con Win+N.
-    
+
 - Ver el calendario haciendo clic en el reloj.
-    
+
 - Controlar iconos de red, volumen y batería.
-    
 
 Las notificaciones se gestionan desde **Configuración > Sistema > Notificaciones**, donde se puede activar o desactivar las notificaciones globalmente o por aplicación.
 
@@ -3632,13 +3462,12 @@ Las notificaciones se gestionan desde **Configuración > Sistema > Notificacione
 El **menú Inicio** de Windows 11 ofrece acceso a:
 
 - **Aplicaciones instaladas** (con sección de Ancladas y de Recomendadas).
-    
+
 - **Buscador de Windows**.
-    
+
 - **Configuración del sistema**.
-    
+
 - **Opciones de sesión y energía**: apagar, reiniciar, suspender y cerrar sesión.
-    
 
 El menú Inicio de Windows 11 no tiene los grupos de tiles dinámicas de Windows 10. El diseño es más limpio y centrado.
 
@@ -3649,18 +3478,16 @@ Para abrir el menú Inicio: clic en el botón de Inicio o pulsar la **tecla Wind
 La **Vista de tareas** permite **gestionar ventanas abiertas y escritorios virtuales**. Se accede mediante:
 
 - El icono de Vista de tareas en la barra de tareas.
-    
+
 - El atajo **Win + Tab**.
-    
 
 Desde la Vista de tareas se pueden:
 
 - Ver todas las ventanas abiertas como miniaturas.
-    
+
 - Crear, eliminar y cambiar entre escritorios virtuales.
-    
+
 - Arrastrar ventanas de un escritorio virtual a otro.
-    
 
 ### Widgets
 
@@ -3736,13 +3563,12 @@ Cuando una ventana se acopla a un lado, Windows 11 ofrece elegir una segunda ven
 En Windows 11 con dos monitores conectados:
 
 - **Extender pantallas**: amplía el escritorio a través de ambos monitores, permitiendo arrastrar ventanas entre ellos y disponer de más espacio de trabajo.
-    
+
 - **Duplicar estas pantallas**: muestra lo mismo en las dos pantallas de forma simultánea.
-    
+
 - **Mostrar solo en 1** o **Mostrar solo en 2**: usa únicamente uno de los monitores.
-    
+
 - **Pantalla de PC solamente**: usa solo la pantalla del portátil.
-    
 
 La configuración de múltiples pantallas se accede desde **Configuración → Sistema → Pantalla**.
 
@@ -3777,13 +3603,12 @@ El **Explorador de archivos** (File Explorer) es la aplicación de Windows 11 qu
 **Formas de abrir el Explorador de archivos:**
 
 - Atajo de teclado: **Win + E** (de «Explorer»).
-    
+
 - Clic en el icono del Explorador en la barra de tareas.
-    
+
 - Menú WinX → Explorador de archivos.
-    
+
 - Clic derecho en el botón Inicio → Explorador de archivos.
-    
 
 > **Importante:** La combinación **F4 + E** NO abre el Explorador de archivos. F4 en el contexto del Explorador activa la barra de direcciones, pero no es un atajo de apertura.
 
@@ -3794,13 +3619,12 @@ Una de las novedades del Explorador de archivos de Windows 11 es la mayor **inte
 Otras mejoras incluyen:
 
 - Barra de herramientas compacta en la parte superior.
-    
+
 - Panel de detalles mejorado.
-    
+
 - Galería de imágenes integrada.
-    
+
 - Pestañas (en versiones recientes de Windows 11).
-    
 
 ### Atajos de teclado en el Explorador de Archivos
 
@@ -3848,11 +3672,10 @@ Al hacer clic derecho sobre una carpeta en el Explorador de archivos de Windows 
 Para cambiar el nombre de un archivo en el Explorador de Windows 11:
 
 - Pulsar la tecla **F2** con el archivo seleccionado.
-    
+
 - O hacer clic derecho → **Cambiar nombre**.
-    
+
 - O hacer clic lento (dos clics espaciados) sobre el nombre del archivo.
-    
 
 ### Copiar vs. mover archivos
 
@@ -3875,18 +3698,16 @@ El cuadro de búsqueda del Explorador de Windows 11 **inicia la búsqueda autom�
 **Operadores de búsqueda disponibles:**
 
 - `fechademodificación:este mes` → filtra documentos creados o modificados durante el mes actual.
-    
+
 - `tipo:documento`, `tamaño:grande`, `nombre:`, etc.
-    
 
 ### Ordenar y agrupar los archivos (Ordenar → Agrupar por)
 
 En el Explorador de archivos, el botón **Ordenar** de la barra de comandos tiene dos ajustes independientes:
 
 - **Ordenar por** (Nombre, Fecha de modificación, Tipo, Tamaño…), con **Ascendente** o **Descendente**: decide el orden de los **archivos**.
-    
+
 - **Agrupar por** (Tipo, Fecha de modificación, Nombre…), con **su propio** Ascendente o Descendente: decide el orden de los **grupos**.
-    
 
 Cuando la carpeta está agrupada, primero se colocan los grupos, en el orden de la agrupación, y **dentro de cada grupo** se aplica el orden de los archivos. Con **Agrupar por Tipo** en ascendente, los grupos salen por orden alfabético del **nombre del tipo** que muestra Windows (no de la extensión): el grupo **Aplicación** (archivos .exe) va delante de los de documentos de Word, carpetas comprimidas ZIP o mensajes de Outlook, cuyos nombres de tipo van detrás en el orden alfabético. Por eso el primer elemento de la lista es el primero **del primer grupo**, y no el más antiguo de toda la carpeta aunque se ordene por fecha ascendente.
 
@@ -3905,11 +3726,10 @@ En Windows 11, el menú contextual (clic derecho) está simplificado por defecto
 La **Configuración de Windows 11** es el panel centralizado moderno que ofrece opciones para personalizar y administrar el sistema operativo. Se accede con:
 
 - Atajo **Win + I**.
-    
+
 - Menú Inicio → Configuración (icono de engranaje).
-    
+
 - Menú WinX → Configuración.
-    
 
 Las secciones principales de Configuración incluyen:
 
@@ -3932,15 +3752,14 @@ Las secciones principales de Configuración incluyen:
 La sección **"Acerca de"** en Configuración → Sistema muestra:
 
 - Nombre del dispositivo.
-    
+
 - Edición de Windows instalada (Home, Pro, Enterprise).
-    
+
 - Versión y número de compilación.
-    
+
 - Cantidad de RAM instalada.
-    
+
 - Tipo de sistema (32 o 64 bits).
-    
 
 #### Configuración de pantalla y resolución
 
@@ -3985,24 +3804,22 @@ El **Panel de control** es la interfaz clásica de gestión del sistema de Windo
 **Acceso al Panel de control:**
 
 - Escribir "Panel de control" en el buscador de Windows.
-    
+
 - Desde el Menú WinX.
-    
+
 - Con Win+R → `control`.
-    
 
 **Funciones importantes del Panel de control:**
 
 - **Programas y características**: desinstalar programas instalados.
-    
+
 - **Sistema**: información del equipo (edición, RAM, nombre del PC).
-    
+
 - **Opciones de energía**: planes de energía del equipo.
-    
+
 - **Red e Internet**: configuración de adaptadores de red.
-    
+
 - **Centro de accesibilidad**: herramientas de accesibilidad clásicas.
-    
 
 #### Desinstalar programas
 
@@ -4019,13 +3836,12 @@ El **Administrador de tareas** es la aplicación de Windows 11 que permite ver l
 **Formas de abrir el Administrador de tareas:**
 
 - **Ctrl + Mayús + Esc**: abre directamente el Administrador de tareas (método más rápido).
-    
+
 - **Ctrl + Alt + Supr** → seleccionar "Administrador de tareas".
-    
+
 - Clic derecho en la barra de tareas → Administrador de tareas.
-    
+
 - Menú WinX → Administrador de tareas.
-    
 
 > **Ctrl + Mayús + Esc** abre directamente el Administrador de tareas sin pasos intermedios, mientras que **Ctrl + Alt + Supr** muestra primero una pantalla de opciones de seguridad.
 
@@ -4044,15 +3860,14 @@ El **Administrador de tareas** es la aplicación de Windows 11 que permite ver l
 **Funciones del Administrador de tareas:**
 
 - Ver consumo por usuario.
-    
+
 - Ver el historial de uso de aplicaciones.
-    
+
 - Ver el rendimiento del sistema (CPU, RAM, disco, red).
-    
+
 - Finalizar tareas o procesos que no responden.
-    
+
 - Gestionar programas de inicio automático.
-    
 
 > **Falso:** En el Administrador de tareas NO existe una pestaña "Planificación" para dar de alta tareas en un calendario. El Programador de tareas es una herramienta separada.
 
@@ -4065,9 +3880,8 @@ El **Visor de eventos** es una herramienta administrativa de Windows que permite
 Categorías de registros principales:
 
 - **Registros de Windows**: Aplicación, Seguridad, Instalación, Sistema y Eventos reenviados.
-    
+
 - **Registros de aplicaciones y servicios**: Eventos específicos por aplicación.
-    
 
 ### Administrador de Discos
 
@@ -4078,15 +3892,14 @@ El **Administrador de discos** de Windows 11 sirve para **gestionar particiones 
 Funciones principales:
 
 - Dividir y formatear particiones del disco duro.
-    
+
 - Crear y eliminar volúmenes.
-    
+
 - Cambiar la letra de unidad asignada.
-    
+
 - Ver el estado y la capacidad de los discos instalados.
-    
+
 - Convertir discos entre MBR y GPT.
-    
 
 ### Monitor de Recursos
 
@@ -4099,21 +3912,20 @@ El **Monitor de recursos** proporciona información detallada en tiempo real sob
 La **Administración de equipos** es una consola de gestión que agrupa varias herramientas administrativas:
 
 - Programador de tareas.
-    
+
 - Visor de eventos.
-    
+
 - Carpetas compartidas.
-    
+
 - Usuarios y grupos locales.
-    
+
 - Rendimiento.
-    
+
 - Administrador de dispositivos.
-    
+
 - Administración de discos.
-    
+
 - Servicios y aplicaciones.
-    
 
 **Acceso:** Win+R → `compmgmt.msc`, o Menú WinX → Administración de equipos.
 
@@ -4160,15 +3972,14 @@ La **Herramienta Recortes** (Snipping Tool) es la aplicación incluida en Window
 **Tipos de recorte disponibles:**
 
 - Recorte de forma libre.
-    
+
 - Recorte rectangular.
-    
+
 - Recorte de ventana.
-    
+
 - Recorte de pantalla completa.
-    
+
 - Recorte de vídeo (graba un clip de una selección rectangular de la pantalla).
-    
 
 > **El tipo "Recorte circular" NO existe** en la Herramienta Recortes de Windows 11.
 
@@ -4185,17 +3996,16 @@ Una vez realizada la captura, se puede **escribir o dibujar sobre ella con el bo
 El **Centro de movilidad de Windows** es la herramienta diseñada para **dispositivos portátiles** que centraliza opciones como:
 
 - Brillo de pantalla.
-    
+
 - Volumen.
-    
+
 - Estado de la batería y plan de energía.
-    
+
 - Estado de la red inalámbrica.
-    
+
 - Configuración de pantalla externa.
-    
+
 - Sincronización.
-    
 
 **Acceso:** Win+R → `mblctr`, o buscando "Centro de movilidad" en el buscador.
 
@@ -4218,37 +4028,34 @@ El **Programador de tareas** permite automatizar la ejecución de programas o sc
 **Windows Update** es el servicio integrado en Windows 11 que mantiene el sistema operativo actualizado de forma automática, descargando e instalando:
 
 - Parches de seguridad.
-    
+
 - Correcciones de errores.
-    
+
 - Actualizaciones de características (Feature Updates).
-    
+
 - Actualizaciones de controladores.
-    
 
 **Acceso a Windows Update:** Configuración → Windows Update.
 
 Desde Windows Update se puede:
 
 - Buscar actualizaciones manualmente.
-    
+
 - Configurar horas activas (para evitar reinicios durante el trabajo).
-    
+
 - Ver el historial de actualizaciones.
-    
+
 - Pausar las actualizaciones temporalmente.
-    
 
 ### Windows Hello
 
 **Windows Hello** permite el inicio de sesión en Windows mediante **biometría**:
 
 - **Reconocimiento facial** (cámara compatible).
-    
+
 - **Huella dactilar** (lector de huellas compatible).
-    
+
 - **PIN** (no es un dato biométrico: Microsoft lo presenta como opción aparte de la cara y la huella).
-    
 
 Es más seguro que la contraseña tradicional porque los datos biométricos no salen del dispositivo.
 
@@ -4259,15 +4066,14 @@ Es más seguro que la contraseña tradicional porque los datos biométricos no s
 **Ctrl + Alt + Supr** en Windows 11 muestra la **pantalla de opciones de seguridad**, desde la que se puede:
 
 - Bloquear el equipo.
-    
+
 - Cambiar de usuario.
-    
+
 - Cerrar sesión.
-    
+
 - Cambiar la contraseña.
-    
+
 - Abrir el Administrador de tareas.
-    
 
 > Ctrl + Alt + Supr en Windows 11 abre la pantalla de opciones de seguridad, desde la que el usuario puede acceder a varias opciones del sistema.
 
@@ -4355,13 +4161,12 @@ La opción **Accesibilidad** de Windows 11 está diseñada principalmente para *
 En Windows 11, el apartado **Accesibilidad > Visión** permite:
 
 - Ajustar el **contraste alto**.
-    
+
 - Cambiar el **tamaño del texto**.
-    
+
 - Ampliar elementos (Lupa).
-    
+
 - Activar el Narrador.
-    
 
 ### Teclas de accesibilidad especiales
 
@@ -4385,13 +4190,12 @@ En Windows 11, el apartado **Accesibilidad > Visión** permite:
 **Funciones de Copilot:**
 
 - Responder preguntas de uso del sistema.
-    
+
 - Ayudar a encontrar configuraciones.
-    
+
 - Crear texto, imágenes y resúmenes.
-    
+
 - Apoyar al usuario durante el uso del sistema operativo.
-    
 
 > **Importante:** Copilot en Windows 11 **NO ejecuta acciones de forma autónoma sin intervención humana**: requiere siempre confirmación y supervisión del usuario para realizar cambios en el sistema.
 
@@ -4426,13 +4230,12 @@ En Windows 11, el acceso a OneDrive está integrado y es más visible en el Expl
 En Windows 11 es posible **vincular teléfonos Android o iPhone** mediante la aplicación **Enlace Móvil** (Phone Link), lo que permite:
 
 - Enviar mensajes de texto desde el PC.
-    
+
 - Ver y transferir fotos del teléfono directamente en el equipo.
-    
+
 - Hacer y recibir llamadas (Android, y también iPhone por Bluetooth).
-    
+
 - Acceder a notificaciones del teléfono.
-    
 
 ### Proyectar pantalla (Win + K)
 
@@ -4447,11 +4250,10 @@ En Windows 11 es posible **vincular teléfonos Android o iPhone** mediante la ap
 Un **acceso directo** en Windows 11 es un archivo (con extensión **.lnk**) que apunta a un programa, archivo, carpeta o URL, permitiendo acceder a ellos rápidamente sin necesidad de navegar hasta su ubicación real.
 
 - Es posible crear accesos directos a **carpetas y ficheros**.
-    
+
 - Si el enlace es a un fichero, se abrirá utilizando el **programa asociado a su extensión**.
-    
+
 - El acceso directo ocupa muy poco espacio y no es una copia del archivo original.
-    
 
 **Para crear un acceso directo de "Este equipo" en el escritorio:** seleccionar "Este equipo" con el botón izquierdo del ratón en el Explorador de archivos y arrastrar al Escritorio.
 
@@ -4662,11 +4464,10 @@ El **Símbolo del sistema** (cmd.exe) es la herramienta de Windows que ofrece un
 **Windows PowerShell** es un intérprete de comandos más avanzado que el Símbolo del sistema, basado en objetos .NET. Permite:
 
 - Ejecutar scripts (.ps1) para automatización avanzada.
-    
+
 - Gestionar el sistema operativo, Active Directory, Office 365 y más.
-    
+
 - Usar cmdlets con sintaxis Verbo-Sustantivo (p. ej. `Get-Process`, `Stop-Service`).
-    
 
 **Acceso:** Win+X → Windows PowerShell / Terminal de Windows, o buscando "PowerShell" en el buscador.
 
@@ -4711,17 +4512,16 @@ El **Modo seguro** (Safe Mode) es un modo de inicio diagnóstico de Windows que 
 **Cómo acceder al Modo seguro:**
 
 - Configuración → Sistema → Recuperación → Inicio avanzado → Reiniciar ahora
-    
+
 - O bien: manteniendo pulsada la tecla **Mayús** al hacer clic en **Reiniciar**
-    
+
 - Tras el reinicio: Solucionar problemas → Opciones avanzadas → Configuración de inicio → Reiniciar
-    
+
 - **F4**: Modo seguro
-    
+
 - **F5**: Modo seguro con funciones de red
-    
+
 - **F6**: Modo seguro con símbolo del sistema
-    
 
 ---
 
@@ -4732,18 +4532,16 @@ El **Centro de sincronización** (Sync Center) es una herramienta de Windows que
 **Características principales:**
 
 - Permite gestionar y ver el estado de sincronización de archivos sin conexión.
-    
+
 - Muestra errores o conflictos de sincronización.
-    
+
 - Se puede configurar para sincronizar automáticamente al conectarse a la red.
-    
 
 **Cómo acceder:**
 
 - Win + R → `mobsync` → Aceptar
-    
+
 - Panel de control → Red e Internet → Centro de sincronización
-    
 
 > **Nota:** El Centro de sincronización se usa principalmente con **carpetas de red compartidas** configuradas para acceso sin conexión. No gestiona la sincronización de OneDrive (que tiene su propio sistema integrado en Windows 11).
 
@@ -4756,11 +4554,10 @@ Un **cuadro de diálogo** en Windows es una ventana emergente que solicita infor
 **Características de los cuadros de diálogo:**
 
 - Pueden ser **modales**: bloquean la interacción con la aplicación subyacente hasta que el usuario los cierre o responda.
-    
+
 - La tecla **Esc** tiene normalmente el mismo efecto que pulsar **Cancelar**: cierra el cuadro sin aplicar ningún cambio.
-    
+
 - La tecla **Entrar** suele activar el botón predeterminado (normalmente "Aceptar").
-    
 
 ---
 
@@ -4805,34 +4602,20 @@ Según Microsoft Learn («Introducción a Plug and Play»), **Plug and Play (PnP
 La compatibilidad de Windows con PnP, junto con los controladores PnP, proporciona:
 
 - **Reconocimiento automático y dinámico** del hardware instalado.
-    
+
 - **Asignación (y reasignación) de los recursos de hardware** que pide cada dispositivo (puertos de entrada/salida, interrupciones, canales DMA, memoria), de la que se encarga el administrador de PnP.
-    
+
 - **Carga de los controladores adecuados.**
-    
+
 - Avisos a controladores y aplicaciones de los **cambios en el hardware**, para que actúen en consecuencia.
-    
 
 PnP requiere compatibilidad del hardware del dispositivo, del software del sistema y de los controladores. No es una técnica de virtualización ni un mecanismo de cifrado de dispositivos.
-
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/windows-11?selected_articles=1&source=temario)
-
 
 ## Explorador Windows 11
 
 Explorador de Windows 11
 
-4 de 7 artículos de tu programa
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de Explorador Windows 11 →](https://www.vence.es/leyes/explorador-windows-11?selected_articles=1,2,3,4&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/explorador-windows-11?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
+### Artículo 1
 
 ### Explorador de archivos de Windows 11
 
@@ -4857,26 +4640,24 @@ Situada en la parte superior de la ventana, muestra el nombre de la carpeta actu
 En Windows 11 se sustituyó la clásica cinta de opciones (Ribbon) de versiones anteriores por una **barra de comandos simplificada** ubicada en la parte superior. Este cambio importante respecto a versiones anteriores hace que el acceso a las opciones de la cinta de opciones sea más visual y directo. Esta barra incluye los botones más frecuentes:
 
 - **Cortar**, **Copiar**, **Pegar**, **Renombrar**, **Compartir**, **Eliminar**
-    
+
 - Menú de ordenación (**Ordenar**)
-    
+
 - Menú de vistas (**Ver**)
-    
+
 - Menú de opciones adicionales (botón **...**)
-    
 
 ### Barra de direcciones
 
 La **barra de dirección** (también llamada barra de navegación) muestra la ruta de la ubicación actual en formato jerárquico. Indica el punto o nombre de carpeta perteneciente a la estructura jerárquica del sistema de archivos en que nos encontramos. Permite:
 
 - **Ver la ruta actual** como una sucesión de carpetas clicables (migas de pan / breadcrumbs)
-    
+
 - **Escribir directamente** una ruta pulsando **Alt + D** o **Ctrl + L** para activar el modo de escritura
-    
+
 - **Navegar** haciendo clic en cualquier carpeta del recorrido
-    
+
 - **Desplegar** la lista de ubicaciones disponibles con **F4**
-    
 
 Ejemplo de uso: para acceder a la carpeta Informes dentro de la unidad D, se escribe `D:\Departamento\Informes` en la barra de dirección.
 
@@ -4911,11 +4692,10 @@ Integración con el servicio de **almacenamiento en la nube de Microsoft**. OneD
 Muestra la información agrupada sobre los recursos del equipo en tres categorías:
 
 - **Carpetas**: Documentos, Descargas, Escritorio, Imágenes, Música, Vídeos
-    
+
 - **Dispositivos y unidades**: discos duros, SSD, unidades ópticas, memorias USB
-    
+
 - **Ubicaciones de red**: unidades de red asignadas
-    
 
 Permite ver de forma rápida los dispositivos de almacenamiento conectados al equipo.
 
@@ -4953,22 +4733,20 @@ Además del panel de navegación, el Explorador dispone de dos paneles opcionale
 ### Panel de vista previa
 
 - **Atajo:** **Alt + P**
-    
+
 - Muestra una previsualización del archivo seleccionado (imagen, documento, PDF, etc.) sin necesidad de abrirlo con su aplicación.
-    
+
 - Muy útil para revisar imágenes, documentos Word o PDF rápidamente.
-    
+
 - Se muestra/oculta con el mismo atajo Alt + P.
-    
 
 ### Panel de detalles
 
 - **Atajo:** **Alt + Mayús + P**
-    
+
 - Muestra las propiedades y metadatos del archivo seleccionado: autor, número de páginas, dimensiones de imagen, duración de vídeo/audio, fecha de creación, de modificación, etc.
-    
+
 - Ejemplo: al seleccionar un archivo .docx, el panel de detalles muestra el autor y el número de páginas del documento.
-    
 
 ---
 
@@ -4977,93 +4755,84 @@ Además del panel de navegación, el Explorador dispone de dos paneles opcionale
 ### Crear carpeta nueva
 
 - **Ctrl + Mayús + N**: atajo de teclado directo
-    
+
 - Botón derecho del ratón > **Nuevo** > **Carpeta**
-    
+
 - Botón **Nueva carpeta** en la barra de comandos
-    
 
 ### Copiar y pegar
 
 - **Ctrl + C** para copiar, luego navegar al destino y **Ctrl + V** para pegar
-    
+
 - También mediante el menú contextual (botón derecho) o la barra de comandos
-    
+
 - Si se arrastra un archivo a una carpeta manteniendo **Ctrl** pulsado, el archivo será copiado a la carpeta de destino en lugar de moverse
-    
 
 ### Mover (cortar y pegar)
 
 - **Ctrl + X** para cortar, luego **Ctrl + V** en el destino
-    
+
 - Al arrastrar un archivo entre carpetas de la misma unidad, se mueve por defecto
-    
+
 - Al arrastrar entre unidades distintas, se copia por defecto
-    
 
 ### Eliminar
 
 - **Supr**: elimina el elemento enviándolo a la **Papelera de reciclaje** (recuperable)
-    
+
 - **Mayús + Supr**: elimina el elemento de forma **permanente** sin pasar por la Papelera
-    
 
 ### Cambiar nombre (renombrar)
 
 - Seleccionar el archivo o carpeta y pulsar **F2**
-    
+
 - También con clic lento (doble clic espaciado) sobre el nombre, o clic derecho > **Cambiar nombre**
-    
+
 - Tras pulsar F2, escribir el nuevo nombre y confirmar con **Enter**
-    
 
 ### Deshacer y rehacer
 
 - **Ctrl + Z**: deshace la última acción (mover, copiar, renombrar, eliminar)
-    
+
 - **Ctrl + Y**: rehace la acción deshecha
-    
 
 ### Selección de elementos
 
 - **Clic** sobre un elemento: selecciona solo ese elemento
-    
+
 - **Ctrl + clic**: selecciona varios elementos individuales (no contiguos)
-    
+
 - **Mayús + clic**: selecciona un rango de elementos contiguos
-    
+
 - **Ctrl + A**: selecciona todos los elementos de la carpeta actual
-    
+
 - **Casillas de elemento**: opción en Ver > Mostrar que añade una casilla junto a cada elemento para facilitar la selección múltiple sin usar el teclado
-    
 
 ### Propiedades de archivos y carpetas
 
 - **Alt + Enter** o clic derecho > **Propiedades**: abre la ventana de propiedades
-    
+
 - Muestra: nombre, tipo de archivo, ubicación, tamaño, tamaño en disco, fechas (creación, modificación, acceso) y atributos
-    
+
 - **Atributos disponibles:**
-    
+
 - **Solo lectura**: el archivo puede abrirse y leerse, pero no modificarse ni sobrescribirse directamente
-    
+
 - **Oculto**: el archivo no se muestra por defecto en el Explorador
-    
+
 - **Sistema**: archivos del sistema operativo
-    
+
 - **Archivo**: marca que el archivo ha cambiado desde la última copia de seguridad
-    
 
 ### Conflictos al copiar o mover
 
 Cuando se intenta copiar o mover un archivo a una ubicación donde ya existe otro con el mismo nombre, Windows 11 muestra un **cuadro de diálogo** con tres opciones:
 
 - **Reemplazar el archivo en el destino**
-    
+
 - **Omitir este archivo**
-    
+
 - **Comparar la información de ambos archivos** (permite elegir cuál conservar o ambos)
-    
 
 ---
 
@@ -5072,17 +4841,16 @@ Cuando se intenta copiar o mover un archivo a una ubicación donde ya existe otr
 La barra de dirección permite varias formas de navegación:
 
 - **Clic en una carpeta del recorrido**: navega directamente a esa carpeta
-    
+
 - **Alt + D** o **Ctrl + L**: activa la barra para escribir una ruta directamente
-    
+
 - **F4**: despliega la lista de ubicaciones visitadas recientemente
-    
+
 - **Alt + ←** (Flecha izquierda): va a la carpeta anterior en el historial de navegación
-    
+
 - **Alt + →** (Flecha derecha): va a la carpeta siguiente en el historial de navegación
-    
+
 - **Alt + ↑** (Flecha arriba): sube un nivel en la jerarquía (carpeta padre)
-    
 
 Ejemplo: para acceder a `D:\Departamento\Informes`, se pulsa Alt + D y se escribe esa ruta.
 
@@ -5093,9 +4861,8 @@ Ejemplo: para acceder a `D:\Departamento\Informes`, se pulsa Alt + D y se escrib
 ### Activar la búsqueda
 
 - **Ctrl + E**, **Ctrl + F** o **F3**: activa el cuadro de búsqueda
-    
+
 - La búsqueda se realiza dentro de la carpeta actual y sus subcarpetas
-    
 
 ### Búsqueda básica
 
@@ -5124,33 +4891,30 @@ Los filtros de búsqueda aparecen en cuanto se escribe algo en el cuadro de bús
 **Por tipo de archivo:**
 
 - Documentos, imágenes, música, vídeos, correo, calendario, etc.
-    
+
 - No incluye: historial web (no es un tipo de filtro disponible en el Explorador)
-    
 
 **Por tamaño** (siete categorías desde Windows 10, versión 1809, según la documentación de Microsoft):
 
 - Vacío (0 KB)
-    
+
 - De 0 a 16 KB (en la versión inglesa, _Tiny_; Microsoft no documenta su nombre en español, y las fuentes no coinciden entre «Minúsculo» y «Diminuto»)
-    
+
 - Pequeño (16 KB-1 MB)
-    
+
 - Mediano (1-128 MB)
-    
+
 - Grande (128 MB-1 GB)
-    
+
 - Enorme (1-4 GB)
-    
+
 - Gigantesco (más de 4 GB)
-    
 
 **Por fecha de modificación:**
 
 - Rangos relativos como Hoy, Ayer, Esta semana, La semana pasada, Este mes, Este año o El año pasado
-    
+
 - **Este trimestre no es una opción disponible**
-    
 
 **Otras propiedades:**
 
@@ -5226,15 +4990,14 @@ Un archivo puede ocultarse activando el **atributo Oculto** en sus propiedades (
 El **sistema de archivos predeterminado** utilizado por Windows 11 es **NTFS** (New Technology File System). Sus características principales son:
 
 - Soporte para archivos y volúmenes de gran tamaño
-    
+
 - Registro de transacciones (journaling) para mayor integridad
-    
+
 - Control de acceso y permisos por usuario
-    
+
 - Soporte para cifrado con BitLocker
-    
+
 - Compatibilidad con metadatos avanzados
-    
 
 ---
 
@@ -5245,18 +5008,16 @@ La **Papelera de reciclaje** es el recurso que pone a disposición Windows 11 pa
 ### Restaurar archivos
 
 - Abrir la Papelera de reciclaje (en el escritorio) > seleccionar el archivo > clic derecho > **Restaurar**
-    
+
 - Al restaurar, el archivo vuelve a su **ubicación original** (la carpeta desde la que fue eliminado)
-    
 
 ### Vaciar la Papelera
 
 - Clic derecho en el icono de la Papelera > **Vaciar Papelera de reciclaje**
-    
+
 - O desde dentro de la Papelera > **Administrar** > **Vaciar Papelera de reciclaje**
-    
+
 - Una vez vaciada, los archivos se eliminan de forma permanente
-    
 
 ### Eliminación permanente sin Papelera
 
@@ -5273,17 +5034,16 @@ La **Papelera de reciclaje** es el recurso que pone a disposición Windows 11 pa
 Un **acceso directo** es un enlace que apunta a un archivo, carpeta, unidad o programa sin ser el elemento original. Sus características son:
 
 - Se identifican por una **pequeña flecha** en la esquina inferior izquierda del icono
-    
+
 - Al eliminar un acceso directo, **no se elimina el elemento original**
-    
+
 - Es posible crear accesos directos a carpetas y ficheros; si el enlace es a un fichero, se abrirá utilizando el programa asociado a su extensión
-    
+
 - Se pueden crear haciendo clic derecho > **Crear acceso directo**
-    
+
 - Se pueden colocar en el escritorio, en carpetas, en la barra de tareas
-    
+
 - En sus **propiedades** (Alt + Enter) se puede ver y modificar el destino al que apunta, el icono, los argumentos de inicio, etc.
-    
 
 ---
 
@@ -5292,13 +5052,12 @@ Un **acceso directo** es un enlace que apunta a un archivo, carpeta, unidad o pr
 Las **Bibliotecas** son ubicaciones virtuales que agrupan carpetas de distintas ubicaciones del disco (o de la red) en una sola vista, sin mover los archivos físicamente. Por defecto, Windows incluye las bibliotecas:
 
 - **Documentos**
-    
+
 - **Imágenes**
-    
+
 - **Música**
-    
+
 - **Vídeos**
-    
 
 Las bibliotecas no son carpetas reales: son colecciones que apuntan a varias carpetas reales. Se pueden crear bibliotecas personalizadas añadiendo las carpetas deseadas.
 
@@ -5313,20 +5072,18 @@ Un **archivo comprimido** es un archivo que ocupa menos espacio en disco al apli
 ### Comprimir archivos o carpetas
 
 1. Seleccionar los archivos o carpetas a comprimir
-    
+
 2. Clic derecho > **Comprimir en archivo ZIP** (o desde la barra de comandos)
-    
+
 3. Escribir el nombre del archivo ZIP y confirmar
-    
 
 ### Extraer archivos comprimidos
 
 1. Seleccionar el archivo ZIP
-    
+
 2. Clic derecho > **Extraer todo...**
-    
+
 3. Elegir la carpeta de destino y confirmar
-    
 
 Para formatos como .rar o .7z se necesita software externo (WinRAR, 7-Zip).
 
@@ -5411,11 +5168,10 @@ La opción **Casillas de elemento** (en Ver > Mostrar) añade una pequeña casil
 La sección **Este equipo** del panel de navegación agrupa la información sobre los recursos del equipo en tres categorías:
 
 1. **Carpetas**: Documentos, Descargas, Escritorio, Imágenes, Música, Objetos 3D, Vídeos
-    
+
 2. **Dispositivos y unidades**: Disco local (C:), otras particiones, unidades USB, lectores de tarjetas
-    
+
 3. **Ubicaciones de red**: Unidades de red asignadas
-    
 
 Permite ver de forma rápida qué dispositivos de almacenamiento están conectados al equipo.
 
@@ -5426,15 +5182,14 @@ Permite ver de forma rápida qué dispositivos de almacenamiento están conectad
 Desde **Ver** > **Opciones** (o el menú **...** > Opciones) se accede a la configuración avanzada del Explorador:
 
 - **Elementos ocultos**: mostrar u ocultar archivos y carpetas marcados como ocultos
-    
+
 - **Extensiones de nombre de archivo**: mostrar u ocultar las extensiones
-    
+
 - **Casillas de elemento**: activar la selección mediante casillas
-    
+
 - **Archivos del sistema protegidos**: mostrar u ocultar archivos críticos del sistema
-    
+
 - **Carpeta de inicio**: definir qué carpeta se abre al iniciar el Explorador
-    
 
 ---
 
@@ -5456,21 +5211,16 @@ Desde **Ver** > **Opciones** (o el menú **...** > Opciones) se accede a la conf
 El Explorador de archivos es una herramienta de gestión de archivos. No son propias de él:
 
 - **Realizar cálculos numéricos** (eso es función de la Calculadora)
-    
+
 - **Editar texto con formato** (eso es función del Bloc de notas o Word)
-    
+
 - **Navegar por internet** (eso es función de un navegador)
-    
+
 - **Ejecutar comandos MS-DOS** (para eso se usa el Símbolo de sistema)
-    
 
 Es importante no confundir el Explorador de archivos con el Explorador de Windows de versiones antiguas ni con el Administrador de tareas.
 
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/explorador-windows-11?selected_articles=1&source=temario)
-
-Art. 2
+### Artículo 2
 
 ### Atajos de teclado del Explorador
 
@@ -5479,85 +5229,80 @@ Atajos de teclado del Explorador de Archivos de Windows 11:
 **Navegación:**
 
 - Alt + Flecha izquierda: Ir a la carpeta anterior
-    
+
 - Alt + Flecha derecha: Ir a la carpeta siguiente
-    
+
 - Alt + Flecha arriba: Subir un nivel (carpeta padre)
-    
+
 - Alt + D: Seleccionar la barra de direcciones (igual en la página en español y en la inglesa)
-    
+
 - Ctrl + L (página en inglés) o Ctrl + I (página en español): Llevar el foco a la barra de direcciones
-    
+
 - Ctrl + E o Ctrl + F: Seleccionar el cuadro de búsqueda (página en inglés; la española da Ctrl + E o Ctrl + B)
-    
+
 - F3: Buscar un archivo o una carpeta en el Explorador
-    
+
 - F4: Seleccionar la barra de direcciones para cambiar la ruta de acceso actual (en la tabla de Windows 10, F4 «muestra la lista de la barra de direcciones»)
-    
 
 **Selección:**
 
 - Ctrl + A: Seleccionar todos los elementos de la ventana
-    
+
 - Ctrl + clic: Seleccionar varios elementos individuales
-    
+
 - Mayús + clic: Seleccionar rango de elementos
-    
 
 **Operaciones con archivos:**
 
 - F2: Renombrar elemento seleccionado
-    
+
 - Ctrl + C: Copiar
-    
+
 - Ctrl + X: Cortar
-    
+
 - Ctrl + V: Pegar
-    
+
 - Ctrl + Z: Deshacer
-    
+
 - Ctrl + Y: Rehacer
-    
+
 - Supr o Ctrl + D: Eliminar (a la Papelera)
-    
+
 - Mayús + Supr: Eliminar permanentemente
-    
+
 - Alt + Enter o Alt + Doble clic: Propiedades del elemento
-    
 
 **Ventanas:**
 
 - Ctrl + N (página en inglés) o Ctrl + U (página en español): Abrir una nueva ventana del Explorador
-    
+
 - Ctrl + T: Abrir una pestaña nueva y cambiar a ella
-    
+
 - Ctrl + Tab / Ctrl + Mayús + Tab: Ir a la pestaña siguiente / anterior
-    
+
 - Ctrl + número (1-9): Ir a la pestaña con ese número
-    
+
 - Ctrl + W: Cerrar la pestaña activa (si solo hay una pestaña abierta, cierra la ventana)
-    
+
 - Alt + F4: Cerrar la ventana activa
-    
+
 - Alt + P: Mostrar/ocultar panel de vista previa
-    
+
 - Alt + Mayús + P: Mostrar/ocultar panel de detalles
-    
+
 - Win + E: Abrir el Explorador de Archivos
-    
 
 **Vista:**
 
 - Ctrl + Mayús + N: Crear nueva carpeta
-    
+
 - Ctrl + rueda del ratón: Cambiar tamaño de iconos
-    
+
 - Ctrl + Mayús + E: Expandir todas las carpetas del árbol en el panel de navegación
-    
+
 - Flecha izquierda (en árbol): Contraer la carpeta seleccionada
-    
+
 - Flecha derecha (en árbol): Expandir la carpeta seleccionada
-    
 
 **Bloq Num (teclado numérico):** la tabla oficial de Windows 11 ya no recoge estos atajos; la de Windows 10 sí: **Bloq Num + asterisco (*)** muestra todas las subcarpetas de la carpeta seleccionada, **Bloq Num + signo más (+)** muestra el contenido de la carpeta seleccionada y **Bloq Num + signo menos (-)** contrae la carpeta seleccionada.
 
@@ -5584,11 +5329,10 @@ Resumen para el examen:
 **Dónde comprobarlo, y un aviso sobre la fuente.** La página oficial de Microsoft [Métodos abreviados de teclado en Windows](https://support.microsoft.com/es-es/windows/m%C3%A9todos-abreviados-de-teclado-en-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec) tiene una pestaña para Windows 11 y otra para Windows 10, y **en español no es coherente en este punto** (comprobado el 29/09/2026):
 
 - En la pestaña **Windows 11**, la tabla general («Métodos abreviados de teclado de Windows en general y para escritorio») dice **Ctrl + E — «Seleccionar todos los elementos de una ventana»**.
-    
+
 - En esa misma pestaña, la tabla **«Métodos abreviados de teclado del Explorador de archivos»** asigna **Ctrl + E** (y Ctrl + B) a **«Seleccionar el cuadro de búsqueda»**.
-    
+
 - La [versión en inglés de la misma página](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec) es coherente: **Ctrl + A** selecciona todos los elementos de una ventana y **Ctrl + E** o **Ctrl + F** llevan al cuadro de búsqueda.
-    
 
 Es decir, la página española cambió la tabla general sin ajustar la del Explorador, y para el Explorador de Windows 11 **la documentación oficial en español se contradice a sí misma**. El comportamiento que describen los usuarios de Windows 11 en español coincide con la versión inglesa (Ctrl + A para seleccionar todo, Ctrl + E para buscar). Mientras Microsoft no corrija su página, una pregunta que dependa de este atajo no se puede sostener con la documentación oficial en español.
 
@@ -5596,11 +5340,7 @@ En la pestaña **Windows 10** pasa lo mismo: la tabla general dice **Ctrl + E �
 
 **Criterio ante una impugnación.** En informática los atajos cambian entre versiones y entre idiomas, y por eso son las preguntas que más reclamaciones generan. Un enunciado solo es defendible si acota la versión, y una alegación solo prospera si se apoya en la documentación oficial del fabricante **para esa versión concreta**. Lo que hace un equipo particular, por muy comprobado que se tenga, no es un argumento que se pueda sostener ante un tribunal: la vía que sí funciona es mirar qué versión fija el enunciado y llevar la cita del fabricante para esa versión.
 
-Elegir cuántas
-
-[Hacer test Art. 2](https://www.vence.es/leyes/explorador-windows-11?selected_articles=2&source=temario)
-
-Art. 3
+### Artículo 3
 
 ### Vistas y paneles del Explorador
 
@@ -5609,24 +5349,22 @@ Vistas y paneles del Explorador de Archivos de Windows 11:
 **Tipos de vista (pestaña Ver):**
 
 - Iconos extra grandes, Iconos grandes, Iconos medianos, Iconos pequeños
-    
+
 - Lista: muestra archivos en una lista con nombre
-    
+
 - Detalles: muestra nombre, fecha, tipo, tamaño en columnas
-    
+
 - Mosaicos: muestra iconos con información básica
-    
+
 - Contenido: muestra contenido con vista previa
-    
 
 **Paneles del Explorador:**
 
 - Panel de navegación: árbol de carpetas a la izquierda (Acceso rápido, Este equipo, Red, etc.)
-    
+
 - Panel de vista previa (Alt + P): muestra vista previa del archivo seleccionado en el lado derecho
-    
+
 - Panel de detalles (Alt + Mayús + P): muestra propiedades del archivo seleccionado
-    
 
 **Cinta de opciones / Barra de comandos:**
 
@@ -5635,13 +5373,12 @@ En Windows 11, la cinta de opciones clásica se reemplazó por una barra de coma
 **Elementos del Explorador:**
 
 - Barra de título: nombre de la carpeta actual
-    
+
 - Barra de direcciones: ruta de la ubicación actual (se puede escribir directamente)
-    
+
 - Cuadro de búsqueda: para buscar archivos dentro de la carpeta actual
-    
+
 - Barra de estado: información sobre elementos seleccionados (número, tamaño)
-    
 
 **Acceso rápido:** Ubicaciones fijadas y carpetas frecuentes
 
@@ -5659,11 +5396,7 @@ Manteniendo pulsada la tecla Ctrl mientras se gira la rueda del ratón dentro de
 
 La opción "Mostrar extensiones de nombre de archivo" (Ver > Mostrar > Extensiones de nombre de archivo) hace visibles los caracteres finales del nombre de cada archivo (por ejemplo, `.docx`, `.pdf`, `.jpg`) que identifican su tipo o formato. Por defecto, Windows oculta estas extensiones para los tipos de archivo conocidos.
 
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/explorador-windows-11?selected_articles=3&source=temario)
-
-Art. 4
+### Artículo 4
 
 ### Gestión de archivos y carpetas
 
@@ -5672,58 +5405,52 @@ Gestión de archivos y carpetas en Windows 11:
 **Operaciones básicas:**
 
 - Crear carpeta: Ctrl + Mayús + N o botón derecho > Nuevo > Carpeta
-    
+
 - Copiar: Ctrl + C, luego Ctrl + V en destino
-    
+
 - Mover: Ctrl + X, luego Ctrl + V en destino (o arrastrar)
-    
+
 - Eliminar: Supr (a Papelera) o Mayús + Supr (permanente)
-    
+
 - Renombrar: F2 o clic lento sobre el nombre
-    
 
 **Archivos ocultos:**
 
 - Windows oculta por defecto ciertos archivos del sistema
-    
+
 - Para mostrar archivos ocultos: Ver > Mostrar > Elementos ocultos
-    
+
 - Los archivos ocultos aparecen con icono semitransparente
-    
 
 **Extensiones de archivo:**
 
 - Por defecto Windows oculta las extensiones de archivo conocidas
-    
+
 - Para mostrar: Ver > Mostrar > Extensiones de nombre de archivo
-    
 
 **Propiedades de archivos:**
 
 - Alt + Enter sobre un archivo: muestra propiedades (tamaño, tipo, ubicación, fechas, atributos)
-    
+
 - Atributos: Solo lectura, Oculto, Sistema, Archivo
-    
 
 **Búsqueda:**
 
 - Ctrl + E/F o F3: activar búsqueda
-    
+
 - Se busca dentro de la carpeta actual y subcarpetas
-    
+
 - Filtros avanzados: tipo:, tamaño:, fecha:, nombre:
-    
 
 ### Arrastrar y soltar: copiar, mover y crear accesos directos
 
 Al arrastrar un archivo o carpeta con el ratón, el comportamiento por defecto depende de si el destino está en la misma unidad o en otra distinta: dentro de la misma unidad se MUEVE, y hacia otra unidad se COPIA. Este comportamiento por defecto se puede forzar con teclas modificadoras mientras se arrastra:
 
 - **Ctrl** mientras se arrastra: siempre COPIA el elemento a la carpeta de destino (aunque sea la misma unidad).
-    
+
 - **Mayús (Shift)** mientras se arrastra: siempre MUEVE el elemento (aunque sea a otra unidad).
-    
+
 - **Alt** mientras se arrastra: crea un ACCESO DIRECTO en el destino, sin mover ni copiar el original.
-    
 
 ### Conflicto al copiar o mover: nombre ya existente
 
@@ -5749,23 +5476,11 @@ Se pueden crear accesos directos tanto a carpetas como a archivos. Un acceso dir
 
 Un archivo comprimido es aquel al que se ha aplicado un método de compresión sobre su contenido para que ocupe menos espacio en disco. No implica cifrado ni firma electrónica: comprimir y cifrar son operaciones independientes (un archivo comprimido puede protegerse además con contraseña, pero no es obligatorio).
 
-Elegir cuántas
-
-[Hacer test Art. 4](https://www.vence.es/leyes/explorador-windows-11?selected_articles=4&source=temario)
-
 ## La Red Internet
 
 La red Internet
 
-2 de 10 artículos de tu programa
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de La Red Internet →](https://www.vence.es/leyes/la-red-internet?selected_articles=3,4&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/la-red-internet?abrir_filtro=1&source=temario_filtro)
-
-Art. 3
+### Artículo 3
 
 ### Funcionalidades básicas de los navegadores web
 
@@ -5784,60 +5499,56 @@ El navegador interpreta el código **HTML** (estructura), **CSS** (presentación
 La **barra de direcciones** permite introducir URL o términos de búsqueda directamente. Los navegadores modernos integran funciones avanzadas:
 
 - Autocompletado con historial y marcadores
-    
+
 - Sugerencias de búsqueda en tiempo real
-    
+
 - Indicadores de seguridad (candado para HTTPS, advertencias para sitios no seguros)
-    
+
 - Atajos de búsqueda por palabras clave configurables
-    
+
 - Modo de lectura de la URL activa (selección con un clic)
-    
 
 ### Pestañas (tabs)
 
 Las **pestañas** permiten navegar por varias páginas simultáneamente en una misma ventana. Características:
 
 - Apertura de enlace en nueva pestaña (Ctrl+clic o clic derecho → «Abrir en nueva pestaña»)
-    
+
 - Anclaje de pestañas (pin) para fijarlas a la izquierda y protegerlas de cierre accidental
-    
+
 - Agrupación de pestañas por colores y nombres
-    
+
 - Vista previa al pasar el ratón sobre la pestaña
-    
+
 - Restauración de pestañas cerradas recientemente
-    
 
 ### Marcadores (bookmarks / favoritos)
 
 Los **marcadores** guardan URL para acceder rápidamente a páginas frecuentes. Funciones:
 
 - Organización en carpetas y subcarpetas
-    
+
 - Barra de marcadores visible bajo la barra de direcciones
-    
+
 - Importación y exportación (formato HTML estándar)
-    
+
 - Sincronización entre dispositivos vinculados a la misma cuenta del navegador
-    
+
 - Edición del nombre y URL de cualquier marcador
-    
 
 ### Historial de navegación
 
 El **historial** registra las páginas visitadas con URL, título y fecha/hora. Permite:
 
 - Buscar dentro del historial por palabras clave
-    
+
 - Retomar sesiones de navegación anteriores
-    
+
 - Eliminar entradas individuales o por rango de fechas
-    
+
 - Borrado completo del historial
-    
+
 - Sincronización del historial entre dispositivos (si el usuario está autenticado)
-    
 
 ### Caché del navegador
 
@@ -5848,11 +5559,10 @@ La **caché** almacena localmente recursos web (imágenes, hojas de estilo, scri
 Las **cookies** son pequeños ficheros de texto que los sitios web almacenan en el navegador para:
 
 - Mantener la sesión del usuario (autenticación)
-    
+
 - Recordar preferencias (idioma, tema, carrito de compra)
-    
+
 - Rastreo analítico y publicitario
-    
 
 Tipos: cookies de sesión (se eliminan al cerrar el navegador), cookies persistentes (tienen fecha de caducidad), cookies de terceros (de dominios distintos al visitado, usadas en publicidad). La normativa RGPD exige consentimiento informado para cookies no esenciales.
 
@@ -5865,13 +5575,12 @@ El **modo de navegación privada** (Incógnito en Chrome, Ventana privada en Fir
 Las **extensiones** son pequeños programas que amplían las funcionalidades del navegador:
 
 - Bloqueadores de anuncios (uBlock Origin, AdBlock Plus)
-    
+
 - Gestores de contraseñas (Bitwarden, 1Password)
-    
+
 - Herramientas de productividad (Pocket, Grammarly)
-    
+
 - Extensiones de seguridad y privacidad (HTTPS Everywhere)
-    
 
 Las extensiones se instalan desde las tiendas oficiales (Chrome Web Store, Firefox Add-ons, Microsoft Edge Add-ons). Requieren ciertos permisos que el usuario debe revisar.
 
@@ -5880,17 +5589,16 @@ Las extensiones se instalan desde las tiendas oficiales (Chrome Web Store, Firef
 Las **herramientas de desarrollador** (F12 o Ctrl+Mayús+I) ofrecen:
 
 - **Inspector de elementos:** visualización y edición en tiempo real del DOM y CSS
-    
+
 - **Consola:** ejecución de JavaScript y visualización de errores
-    
+
 - **Red (Network):** análisis de peticiones HTTP, tiempos de carga, tamaños
-    
+
 - **Rendimiento (Performance):** perfil de ejecución y cuellos de botella
-    
+
 - **Almacenamiento:** gestión de cookies, localStorage, sessionStorage, IndexedDB
-    
+
 - **Aplicación:** service workers, caché, manifests de PWA
-    
 
 ### Gestión de descargas
 
@@ -5905,11 +5613,10 @@ El navegador puede configurarse para usar distintos **motores de búsqueda** (Go
 Los navegadores modernos bloquean por defecto las **ventanas emergentes** no solicitadas. El usuario puede:
 
 - Permitir pop-ups de sitios específicos (lista blanca)
-    
+
 - Bloquear sitios concretos
-    
+
 - Gestionar notificaciones push de forma similar
-    
 
 ### Gestión de certificados y seguridad
 
@@ -5920,22 +5627,20 @@ Para que un servidor web acepte conexiones HTTPS, su **administrador debe crear 
 Indicadores visuales:
 
 - **Candado cerrado (gris/verde):** conexión HTTPS válida
-    
+
 - **Candado abierto o barra roja:** conexión no segura o certificado inválido
-    
+
 - **«No es seguro»:** sitio HTTP sin cifrado
-    
 
 ### Zoom y accesibilidad
 
 El navegador permite ajustar el nivel de zoom de la página:
 
 - Ctrl++ para aumentar
-    
+
 - Ctrl+- para reducir
-    
+
 - Ctrl+0 para restablecer al 100%
-    
 
 También ofrece modo de lectura (reader mode) para eliminar distracciones, y es compatible con tecnologías de asistencia como lectores de pantalla.
 
@@ -5992,13 +5697,12 @@ La **Lista de lectura** de Google Chrome es una función integrada en el navegad
 Características de la Lista de lectura de Chrome:
 
 - Guarda la URL y el título de la página.
-    
+
 - Permite acceder al contenido guardado sin conexión en dispositivos compatibles.
-    
+
 - Se accede desde el icono de marcadores o desde el menú lateral del navegador.
-    
+
 - No es una herramienta de anotaciones literarias ni de citas (eso correspondería a una aplicación de notas externas).
-    
 
 > La Lista de lectura de Chrome NO es para hacer listas de libros ni anotaciones; es una función para **guardar páginas web y leerlas después, incluso sin conexión**.
 
@@ -6011,9 +5715,8 @@ Características de la Lista de lectura de Chrome:
 Las páginas web se transfieren entre servidor y navegador mediante el protocolo **HTTP**, cuyas siglas significan **HyperText Transfer Protocol** (Protocolo de Transferencia de Hipertexto). Es el protocolo de la capa de aplicación sobre el que se construye la World Wide Web: define cómo el navegador (cliente) solicita recursos y cómo el servidor responde.
 
 - **HTTP** transfiere los recursos en texto plano (sin cifrar).
-    
+
 - **HTTPS** (HyperText Transfer Protocol **Secure**) es la versión segura: añade una capa de cifrado **TLS/SSL** sobre HTTP, de modo que la información viaja protegida frente a interceptaciones.
-    
 
 HTTPS no es exclusivo de ningún navegador concreto: lo reconocen y lo soportan **todos los navegadores web modernos** (Chrome, Firefox, Microsoft Edge, Safari, Opera, etc.), no solo Firefox o Chrome.
 
@@ -6024,9 +5727,8 @@ HTTPS no es exclusivo de ningún navegador concreto: lo reconocen y lo soportan 
 El contenido de la web se organiza mediante **hipertexto**: texto que contiene referencias (enlaces) hacia otros documentos o recursos, permitiendo una lectura no lineal saltando de una página a otra.
 
 - **Hipertexto:** el sistema o estructura de textos interconectados. Es el concepto general que da nombre al lenguaje **HTML** (HyperText Markup Language).
-    
+
 - **Hiperenlace (hyperlink) o vínculo:** es concretamente el **texto resaltado (o imagen) que, al pulsarlo, abre otra página relacionada**. Suele mostrarse subrayado y en color distinto, y al pasar el ratón el cursor cambia a una mano. Es el elemento «pulsable» que materializa la navegación por hipertexto.
-    
 
 > Distinción clave de examen: si la pregunta describe **el texto resaltado que se pulsa para ir a otra página**, la respuesta es **hiperenlace** (no «hipertexto», que es el concepto general del sistema de enlaces).
 
@@ -6051,9 +5753,8 @@ Así, una URL completa como `https://www.ejemplo.es/seccion/pagina.html` consta 
 Además del candado cerrado (conexión HTTPS válida) y la advertencia de «No es seguro» (HTTP sin cifrar), el navegador puede mostrar estados intermedios:
 
 - **Candado con triángulo amarillo de advertencia:** la conexión **está cifrada (HTTPS), pero solo de forma parcial**. Significa que la página segura carga además algún recurso por HTTP no cifrado (**contenido mixto**, p. ej. una imagen o un script). Por ello **se aconseja no enviar información sensible** en esa página, ya que parte del contenido no está protegido.
-    
+
 - **Candado tachado / barra roja:** certificado inválido, caducado o que no corresponde al dominio.
-    
 
 > Matiz de examen: el candado con triángulo amarillo **no** indica que la conexión esté sin cifrar ni que el certificado haya expirado, sino **cifrado parcial** (contenido mixto), por lo que conviene evitar datos sensibles.
 
@@ -6068,19 +5769,14 @@ Un **banner** es un **espacio publicitario insertado en una página web**, norma
 Conviene distinguir un **lenguaje de programación** de otros productos informáticos que a veces se confunden:
 
 - **Java:** es un **lenguaje de programación** de propósito general, orientado a objetos, multiplataforma (su lema histórico es «escribe una vez, ejecuta en cualquier sitio» gracias a la máquina virtual de Java, JVM). Se usa tanto en aplicaciones de escritorio como en web y móviles. **No confundir con JavaScript**, que es otro lenguaje distinto, propio de la web del lado del cliente.
-    
+
 - **Informix:** **no** es un lenguaje de programación, sino un **sistema gestor de bases de datos** (SGBD) relacional.
-    
+
 - **Acrobat:** **no** es un lenguaje de programación, sino el nombre del **software de Adobe** para crear y manejar documentos **PDF**.
-    
 
 > De estas opciones, el único **lenguaje de programación** es **Java**.
 
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/la-red-internet?selected_articles=3&source=temario)
-
-Art. 4
+### Artículo 4
 
 ### Atajos de teclado en navegadores web
 
@@ -6221,73 +5917,60 @@ Los **atajos de teclado** (keyboard shortcuts) permiten ejecutar acciones del na
 Los atajos que aparecen con mayor frecuencia en preguntas de oposición son:
 
 - **Nueva pestaña:** Ctrl+T
-    
+
 - **Cerrar pestaña:** Ctrl+W
-    
+
 - **Recuperar pestaña cerrada:** Ctrl+Shift+T
-    
+
 - **Enfocar barra de direcciones:** Ctrl+L
-    
+
 - **Añadir marcador:** Ctrl+D
-    
+
 - **Abrir historial:** Ctrl+H
-    
+
 - **Abrir descargas:** Ctrl+J
-    
+
 - **Buscar en página:** Ctrl+F
-    
+
 - **Imprimir:** Ctrl+P
-    
+
 - **Actualizar página:** F5 o Ctrl+R
-    
+
 - **Actualizar forzando descarga (sin caché):** Ctrl+F5 o Ctrl+Shift+R
-    
+
 - **Pantalla completa:** F11
-    
+
 - **Herramientas de desarrollo:** F12
-    
+
 - **Navegar hacia atrás:** Alt+Flecha izquierda
-    
+
 - **Navegar hacia adelante:** Alt+Flecha derecha
-    
+
 - **Zoom +:** Ctrl++
-    
+
 - **Zoom -:** Ctrl+-
-    
+
 - **Zoom 100%:** Ctrl+0
-    
+
 - **Nueva ventana privada / incógnito:** Ctrl+Shift+N
-    
+
 - **Nueva ventana normal:** Ctrl+N
-    
+
 - **Borrar datos de navegación:** Ctrl+Shift+Supr
-    
+
 - **Siguiente pestaña:** Ctrl+Tab
-    
+
 - **Pestaña anterior:** Ctrl+Shift+Tab
-    
+
 - **Inicio de página:** Inicio (Home)
-    
+
 - **Final de página:** Fin (End)
-    
-
-Elegir cuántas
-
-[Hacer test Art. 4](https://www.vence.es/leyes/la-red-internet?selected_articles=4&source=temario)
 
 ## OneDrive
 
 OneDrive
 
-3 artículos
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de OneDrive →](https://www.vence.es/leyes/microsoft-onedrive?selected_articles=1,2,3&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/microsoft-onedrive?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
+### Artículo 1
 
 ### OneDrive: almacenamiento en la nube y sincronización
 
@@ -6302,9 +5985,8 @@ Art. 1
 ### Almacenamiento y capacidad
 
 - Los usuarios de Microsoft 365 disponen de hasta **1 TB** de almacenamiento en OneDrive (no es ilimitado).
-    
+
 - Los usuarios con cuenta Microsoft gratuita disponen de 5 GB.
-    
 
 ### Sincronización de archivos
 
@@ -6326,11 +6008,7 @@ Desde el Explorador de archivos, **«Liberar espacio»** convierte un archivo en
 
 Desde OneDrive se pueden compartir archivos y carpetas con otras personas mediante un enlace (con o sin contraseña, con o sin fecha de caducidad) o invitándolas directamente con su correo electrónico. Se puede controlar si los destinatarios solo pueden ver o también editar.
 
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/microsoft-onedrive?selected_articles=1&source=temario)
-
-Art. 2
+### Artículo 2
 
 ### OneDrive: control de acceso, historial de versiones, papelera de reciclaje y coautoría
 
@@ -6341,13 +6019,12 @@ Art. 2
 Cuando se comparte un archivo o carpeta mediante un vínculo, la persona propietaria puede seguir controlando el acceso después de compartirlo:
 
 - **Cambiar el permiso** del vínculo entre solo **ver** o también **editar**.
-    
+
 - **Añadir o quitar una contraseña** al vínculo para compartir.
-    
+
 - **Añadir o quitar una fecha de caducidad** del vínculo.
-    
+
 - **Dejar de compartir**: quitar el vínculo (o revocar el acceso concedido a una persona concreta) para que quien lo tuviera deje de poder abrir el archivo.
-    
 
 > No hace falta borrar el archivo para retirarle el acceso a alguien: basta con dejar de compartirlo o con cambiar sus permisos desde las opciones de uso compartido.
 
@@ -6356,11 +6033,10 @@ Cuando se comparte un archivo o carpeta mediante un vínculo, la persona propiet
 OneDrive guarda versiones anteriores de un archivo a medida que se va modificando. Para restaurar una versión anterior:
 
 1. Clic derecho sobre el archivo (en OneDrive.com o en el Explorador de archivos de Windows, con OneDrive sincronizado).
-    
+
 2. Seleccionar **Historial de versiones**.
-    
+
 3. Elegir la versión deseada y pulsar **Restaurar**.
-    
 
 > El historial de versiones se conserva durante **30 días** y funciona con cualquier tipo de archivo —documentos de Microsoft 365, PDF, archivos CAD, fotos, vídeo…—, no solo con documentos de Office.
 
@@ -6382,11 +6058,10 @@ Con Microsoft 365 y OneDrive (o SharePoint), varias personas pueden trabajar a l
 Para trabajar en coautoría hace falta:
 
 - Que el documento esté guardado en un **área de almacenamiento compartido**: OneDrive, OneDrive para el trabajo o la escuela, o SharePoint.
-    
+
 - Que el archivo tenga un **formato moderno**: .docx (Word), .xlsx (Excel) o .pptx (PowerPoint).
-    
+
 - Que todos los coautores tengan **permiso para acceder al documento y editarlo**.
-    
 
 Mientras se edita, Office avisa de la presencia de las demás personas y muestra en qué parte del archivo está trabajando cada una. Como Microsoft 365 **guarda automáticamente** los cambios de todos los usuarios, los comandos Deshacer y Rehacer pueden no funcionar como se espera. En Excel, si una persona cambia el criterio de ordenación o filtra los datos, la vista cambia para todos los que están editando el libro.
 
@@ -6394,11 +6069,7 @@ Compartir un **vínculo** al documento, en lugar de enviarlo como archivo adjunt
 
 > Quien trabaja **sin conexión** puede seguir editando, pero los demás coautores no ven sus cambios hasta que vuelve a conectarse; entonces se le notifican los cambios disponibles y los demás ven los suyos.
 
-Elegir cuántas
-
-[Hacer test Art. 2](https://www.vence.es/leyes/microsoft-onedrive?selected_articles=2&source=temario)
-
-Art. 3
+### Artículo 3
 
 ### OneDrive: buenas prácticas de organización documental y seguridad de la información
 
@@ -6409,32 +6080,25 @@ Art. 3
 Mantener los archivos organizados en OneDrive facilita encontrarlos y evita duplicados:
 
 - Crear una **estructura de carpetas** por categoría, proyecto o año, en lugar de guardar todos los archivos sueltos en la carpeta raíz.
-    
+
 - Evitar duplicar archivos: si un documento ya está en OneDrive, es preferible **compartir un vínculo** a él en lugar de enviar copias adicionales por otros medios, que dejan de sincronizarse con el original y pueden quedar desactualizadas.
-    
+
 - Archivar o retirar los documentos que ya no estén vigentes, en lugar de dejarlos mezclados con los que sí están activos.
-    
 
 ### Nomenclatura de archivos
 
 Un nombre de archivo claro y descriptivo permite identificar su contenido sin necesidad de abrirlo, y evita problemas técnicos:
 
 - Usar nombres **descriptivos** del contenido (y, si procede, la fecha o la versión), en lugar de nombres genéricos como «Documento1» o «Nuevo».
-    
+
 - **Evitar los caracteres no permitidos** en nombres de archivo o carpeta de OneDrive: `" * : < > ? / \ |`. Un nombre con alguno de estos caracteres puede impedir la sincronización del archivo o la carpeta.
-    
+
 - Emplear un formato de fecha uniforme (por ejemplo, AAAAMMDD) si el nombre incluye una fecha, para que los archivos se ordenen cronológicamente al listarlos por nombre.
-    
 
 ### Seguridad de la información
 
 - **No compartir las credenciales** de la cuenta de Microsoft con otras personas: para dar acceso a un archivo a alguien se usa la opción de compartir de OneDrive, nunca la contraseña de la propia cuenta.
-    
+
 - Revisar periódicamente con quién está compartido cada archivo y **retirar el acceso** a quien ya no lo necesite.
-    
+
 - Ante contenido sensible, preferir vínculos de acceso restringido —a personas concretas, con contraseña o con fecha de caducidad— frente a un vínculo abierto a cualquiera que lo reciba.
-    
-
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/microsoft-onedrive?selected_articles=3&source=temario)

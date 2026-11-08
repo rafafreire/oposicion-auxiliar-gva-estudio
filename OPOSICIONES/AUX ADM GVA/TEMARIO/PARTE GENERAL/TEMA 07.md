@@ -1,31 +1,12 @@
-
-# Tema 7: Derecho de la UE: Tratado UE, TFUE, actos juridicos
+# Tema 7: Derecho de la UE: Tratado UE, TFUE y actos jurídicos
 
 El Tratado de la Unión Europea: Disposiciones comunes. El Tratado de Funcionamiento de la Unión Europea: actos jurídicos de la Unión, procedimientos de adopción y otras disposiciones.
-
-2 leyes20 artículos de tu programa2 con preguntas de examen
-
-Actualizado a 14 de octubre de 2026. [Regístrate](https://www.vence.es/login) para recibir actualizaciones cuando la legislación cambie.
 
 ## TUE
 
 Tratado de la Unión Europea (2009)
 
-8 de 55 artículos de tu programa1 con examen
-
-Esta leyTodo el tema
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de TUE →](https://www.vence.es/leyes/tue?selected_articles=1,2,3,4,5,6,7,8&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/tue?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
-
-### Por el presente Tratado, las ALTAS PARTES CONTRATANTES constituyen entre sí una UNIÓN EUROPEA, en lo sucesivo…
-
-Examen1
+### Artículo 1
 
 Por el presente Tratado, las ALTAS PARTES CONTRATANTES constituyen entre sí una UNIÓN EUROPEA, en lo sucesivo denominada «Unión», a la que los Estados miembros atribuyen competencias para alcanzar sus objetivos comunes.
 
@@ -33,23 +14,11 @@ El presente Tratado constituye una nueva etapa en el proceso creador de una uni�
 
 La Unión se fundamenta en el presente Tratado y en el Tratado de Funcionamiento de la Unión Europea (en lo sucesivo denominados «los Tratados»). Ambos Tratados tienen el mismo valor jurídico. La Unión sustituirá y sucederá a la Comunidad Europea.
 
-Elegir cuántas
-
-[Hacer test Art. 1](https://www.vence.es/leyes/tue?selected_articles=1&source=temario)
-
-Art. 2
-
-### La Unión se fundamenta en los valores de respeto de la dignidad humana, libertad, democracia, igualdad, Estado de…
+### Artículo 2
 
 La Unión se fundamenta en los valores de respeto de la dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos humanos, incluidos los derechos de las personas pertenecientes a minorías. Estos valores son comunes a los Estados miembros en una sociedad caracterizada por el pluralismo, la no discriminación, la tolerancia, la justicia, la solidaridad y la igualdad entre mujeres y hombres.
 
-Elegir cuántas
-
-[Hacer test Art. 2](https://www.vence.es/leyes/tue?selected_articles=2&source=temario)
-
-Art. 3
-
-### 1. La Unión tiene como finalidad promover la paz, sus valores y el bienestar de sus pueblos. 2. La Unión ofrecerá a sus…
+### Artículo 3
 
 1.   La Unión tiene como finalidad promover la paz, sus valores y el bienestar de sus pueblos.
 
@@ -69,13 +38,7 @@ La Unión respetará la riqueza de su diversidad cultural y lingüística y vela
 
 6.   La Unión perseguirá sus objetivos por los medios apropiados, de acuerdo con las competencias que se le atribuyen en los Tratados.
 
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/tue?selected_articles=3&source=temario)
-
-Art. 4
-
-### 1. De conformidad con lo dispuesto en el artículo 5, toda competencia no atribuida a la Unión en los Tratados…
+### Artículo 4
 
 1.   De conformidad con lo dispuesto en el artículo 5, toda competencia no atribuida a la Unión en los Tratados corresponde a los Estados miembros.
 
@@ -87,13 +50,7 @@ Los Estados miembros adoptarán todas las medidas generales o particulares aprop
 
 Los Estados miembros ayudarán a la Unión en el cumplimiento de su misión y se abstendrán de toda medida que pueda poner en peligro la consecución de los objetivos de la Unión.
 
-Elegir cuántas
-
-[Hacer test Art. 4](https://www.vence.es/leyes/tue?selected_articles=4&source=temario)
-
-Art. 5
-
-### 1. La delimitación de las competencias de la Unión se rige por el principio de atribución. El ejercicio de las…
+### Artículo 5
 
 1.   La delimitación de las competencias de la Unión se rige por el principio de atribución. El ejercicio de las competencias de la Unión se rige por los principios de subsidiariedad y proporcionalidad.
 
@@ -107,13 +64,7 @@ Las instituciones de la Unión aplicarán el principio de subsidiariedad de conf
 
 Las instituciones de la Unión aplicarán el principio de proporcionalidad de conformidad con el Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad.
 
-Elegir cuántas
-
-[Hacer test Art. 5](https://www.vence.es/leyes/tue?selected_articles=5&source=temario)
-
-Art. 6
-
-### 1. La Unión reconoce los derechos, libertades y principios enunciados en la Carta de los Derechos Fundamentales de la…
+### Artículo 6
 
 1.   La Unión reconoce los derechos, libertades y principios enunciados en la Carta de los Derechos Fundamentales de la Unión Europea de 7 de diciembre de 2000, tal como fue adaptada el 12 de diciembre de 2007 en Estrasburgo, la cual tendrá el mismo valor jurídico que los Tratados.
 
@@ -125,13 +76,7 @@ Los derechos, libertades y principios enunciados en la Carta se interpretarán c
 
 3.   Los derechos fundamentales que garantiza el Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales y los que son fruto de las tradiciones constitucionales comunes a los Estados miembros formarán parte del Derecho de la Unión como principios generales.
 
-Elegir cuántas
-
-[Hacer test Art. 6](https://www.vence.es/leyes/tue?selected_articles=6&source=temario)
-
-Art. 7
-
-### 1. A propuesta motivada de un tercio de los Estados miembros, del Parlamento Europeo o de la Comisión, el Consejo, por…
+### Artículo 7
 
 1.   A propuesta motivada de un tercio de los Estados miembros, del Parlamento Europeo o de la Comisión, el Consejo, por mayoría de cuatro quintos de sus miembros y previa aprobación del Parlamento Europeo, podrá constatar la existencia de un riesgo claro de violación grave por parte de un Estado miembro de los valores contemplados en el artículo 2. Antes de proceder a esta constatación, el Consejo oirá al Estado miembro de que se trate y por el mismo procedimiento podrá dirigirle recomendaciones.
 
@@ -147,39 +92,17 @@ Las obligaciones del Estado miembro de que se trate derivadas de los Tratados co
 
 5.   Las modalidades de voto que, a los efectos del presente artículo, serán de aplicación para el Parlamento Europeo, el Consejo Europeo y el Consejo se establecen en el artículo 354 del Tratado de Funcionamiento de la Unión Europea.
 
-Elegir cuántas
-
-[Hacer test Art. 7](https://www.vence.es/leyes/tue?selected_articles=7&source=temario)
-
-Art. 8
-
-### 1. La Unión desarrollará con los países vecinos relaciones preferentes, con el objetivo de establecer un espacio de…
+### Artículo 8
 
 1.   La Unión desarrollará con los países vecinos relaciones preferentes, con el objetivo de establecer un espacio de prosperidad y de buena vecindad basado en los valores de la Unión y caracterizado por unas relaciones estrechas y pacíficas fundadas en la cooperación.
 
 2.   A efectos del apartado 1, la Unión podrá celebrar acuerdos específicos con dichos países. Estos acuerdos podrán incluir derechos y obligaciones recíprocos, así como la posibilidad de realizar acciones en común. Su aplicación será objeto de una concertación periódica.
 
-Elegir cuántas
-
-[Hacer test Art. 8](https://www.vence.es/leyes/tue?selected_articles=8&source=temario)
-
 ## TFUE
 
 Tratado de Funcionamiento de la Unión Europea (2009)
 
-12 de 358 artículos de tu programa1 con examen
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de TFUE →](https://www.vence.es/leyes/tfue?selected_articles=288,289,290,291,292,293,294,295,296,297,298,299&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/tfue?abrir_filtro=1&source=temario_filtro)
-
-Art. 288
-
-### Para ejercer las competencias de la Unión, las instituciones adoptarán reglamentos, directivas, decisiones,…
-
-Examen4
+### Artículo 288
 
 Para ejercer las competencias de la Unión, las instituciones adoptarán reglamentos, directivas, decisiones, recomendaciones y dictámenes.
 
@@ -191,13 +114,7 @@ La decisión será obligatoria en todos sus elementos. Cuando designe destinatar
 
 Las recomendaciones y los dictámenes no serán vinculantes.
 
-Elegir cuántas
-
-[Hacer test Art. 288](https://www.vence.es/leyes/tfue?selected_articles=288&source=temario)
-
-Art. 289
-
-### 1. El procedimiento legislativo ordinario consiste en la adopción conjunta por el Parlamento Europeo y el Consejo, a…
+### Artículo 289
 
 1.   El procedimiento legislativo ordinario consiste en la adopción conjunta por el Parlamento Europeo y el Consejo, a propuesta de la Comisión, de un reglamento, una directiva o una decisión. Este procedimiento se define en el artículo 294.
 
@@ -207,13 +124,7 @@ Art. 289
 
 4.   En los casos específicos previstos por los Tratados, los actos legislativos podrán ser adoptados por iniciativa de un grupo de Estados miembros o del Parlamento Europeo, por recomendación del Banco Central Europeo o a petición del Tribunal de Justicia o del Banco Europeo de Inversiones.
 
-Elegir cuántas
-
-[Hacer test Art. 289](https://www.vence.es/leyes/tfue?selected_articles=289&source=temario)
-
-Art. 290
-
-### 1. Un acto legislativo podrá delegar en la Comisión los poderes para adoptar actos no legislativos de alcance general…
+### Artículo 290
 
 1.   Un acto legislativo podrá delegar en la Comisión los poderes para adoptar actos no legislativos de alcance general que completen o modifiquen determinados elementos no esenciales del acto legislativo.
 
@@ -233,13 +144,7 @@ A efectos de las letras a) y b), el Parlamento Europeo se pronunciará por may
 
 3.   En el título de los actos delegados figurará el adjetivo «delegado» o «delegada».
 
-Elegir cuántas
-
-[Hacer test Art. 290](https://www.vence.es/leyes/tfue?selected_articles=290&source=temario)
-
-Art. 291
-
-### 1. Los Estados miembros adoptarán todas las medidas de Derecho interno necesarias para la ejecución de los actos…
+### Artículo 291
 
 1.   Los Estados miembros adoptarán todas las medidas de Derecho interno necesarias para la ejecución de los actos jurídicamente vinculantes de la Unión.
 
@@ -249,35 +154,17 @@ Art. 291
 
 4.   En el título de los actos de ejecución figurará la expresión «de ejecución».
 
-Elegir cuántas
-
-[Hacer test Art. 291](https://www.vence.es/leyes/tfue?selected_articles=291&source=temario)
-
-Art. 292
-
-### El Consejo adoptará recomendaciones. Se pronunciará a propuesta de la Comisión en todos los casos en que los Tratados…
+### Artículo 292
 
 El Consejo adoptará recomendaciones. Se pronunciará a propuesta de la Comisión en todos los casos en que los Tratados dispongan que el Consejo adopte actos a propuesta de la Comisión. Se pronunciará por unanimidad en los ámbitos en los que se requiere la unanimidad para la adopción de un acto de la Unión. La Comisión, así como el Banco Central Europeo en los casos específicos previstos por los Tratados, adoptarán recomendaciones.
 
-Elegir cuántas
-
-[Hacer test Art. 292](https://www.vence.es/leyes/tfue?selected_articles=292&source=temario)
-
-Art. 293
-
-### 1. Cuando, en virtud de los Tratados, el Consejo se pronuncie a propuesta de la Comisión, únicamente podrá modificar la…
+### Artículo 293
 
 1.   Cuando, en virtud de los Tratados, el Consejo se pronuncie a propuesta de la Comisión, únicamente podrá modificar la propuesta por unanimidad, salvo en los casos contemplados en los apartados 10 y 13 del artículo 294, en los artículos 310, 312 y 314 y en el párrafo segundo del artículo 315.
 
 2.   En tanto que el Consejo no se haya pronunciado, la Comisión podrá modificar su propuesta mientras duren los procedimientos que conduzcan a la adopción de un acto de la Unión.
 
-Elegir cuántas
-
-[Hacer test Art. 293](https://www.vence.es/leyes/tfue?selected_articles=293&source=temario)
-
-Art. 294
-
-### 1. Cuando en los Tratados, para la adopción de un acto, se haga referencia al procedimiento legislativo ordinario, se…
+### Artículo 294
 
 1.   Cuando en los Tratados, para la adopción de un acto, se haga referencia al procedimiento legislativo ordinario, se aplicará el procedimiento siguiente.
 
@@ -331,23 +218,11 @@ no aprueba todas las enmiendas, el Presidente del Consejo, de acuerdo con el Pre
 
 En estos casos, el Parlamento Europeo y el Consejo transmitirán a la Comisión el proyecto de acto, así como sus posiciones en primera y segunda lecturas. El Parlamento Europeo o el Consejo podrá pedir el dictamen de la Comisión a lo largo de todo el procedimiento y la Comisión podrá dictaminar asimismo por propia iniciativa. La Comisión también podrá, si lo considera necesario, participar en el Comité de Conciliación de conformidad con el apartado 11.
 
-Elegir cuántas
-
-[Hacer test Art. 294](https://www.vence.es/leyes/tfue?selected_articles=294&source=temario)
-
-Art. 295
-
-### El Parlamento Europeo, el Consejo y la Comisión llevarán a cabo consultas recíprocas y organizarán de común acuerdo la…
+### Artículo 295
 
 El Parlamento Europeo, el Consejo y la Comisión llevarán a cabo consultas recíprocas y organizarán de común acuerdo la forma de su cooperación. A tal efecto y dentro del respeto de los Tratados, podrán celebrar acuerdos interinstitucionales que podrán tener carácter vinculante.
 
-Elegir cuántas
-
-[Hacer test Art. 295](https://www.vence.es/leyes/tfue?selected_articles=295&source=temario)
-
-Art. 296
-
-### Cuando los Tratados no establezcan el tipo de acto que deba adoptarse, las instituciones decidirán en cada caso…
+### Artículo 296
 
 Cuando los Tratados no establezcan el tipo de acto que deba adoptarse, las instituciones decidirán en cada caso conforme a los procedimientos aplicables y al principio de proporcionalidad.
 
@@ -355,13 +230,7 @@ Los actos jurídicos deberán estar motivados y se referirán a las propuestas, 
 
 Cuando se les presente un proyecto de acto legislativo, el Parlamento Europeo y el Consejo se abstendrán de adoptar actos no previstos por el procedimiento legislativo aplicable al ámbito de que se trate.
 
-Elegir cuántas
-
-[Hacer test Art. 296](https://www.vence.es/leyes/tfue?selected_articles=296&source=temario)
-
-Art. 297
-
-### 1. Los actos legislativos adoptados con arreglo al procedimiento legislativo ordinario serán firmados por el Presidente…
+### Artículo 297
 
 1.   Los actos legislativos adoptados con arreglo al procedimiento legislativo ordinario serán firmados por el Presidente del Parlamento Europeo y por el Presidente del Consejo.
 
@@ -375,25 +244,13 @@ Los reglamentos, las directivas que tengan por destinatarios a todos los Estados
 
 Las demás directivas, así como las decisiones que indiquen un destinatario, se notificarán a sus destinatarios y surtirán efecto en virtud de dicha notificación.
 
-Elegir cuántas
-
-[Hacer test Art. 297](https://www.vence.es/leyes/tfue?selected_articles=297&source=temario)
-
-Art. 298
-
-### 1. En el cumplimiento de sus funciones, las instituciones, órganos y organismos de la Unión se apoyarán en una…
+### Artículo 298
 
 1.   En el cumplimiento de sus funciones, las instituciones, órganos y organismos de la Unión se apoyarán en una administración europea abierta, eficaz e independiente.
 
 2.   Dentro del respeto al Estatuto y al régimen adoptados con arreglo al artículo 336, el Parlamento Europeo y el Consejo establecerán las disposiciones a tal efecto, mediante reglamentos adoptados con arreglo al procedimiento legislativo ordinario.
 
-Elegir cuántas
-
-[Hacer test Art. 298](https://www.vence.es/leyes/tfue?selected_articles=298&source=temario)
-
-Art. 299
-
-### Los actos del Consejo, de la Comisión o del Banco Central Europeo que impongan una obligación pecuniaria a personas…
+### Artículo 299
 
 Los actos del Consejo, de la Comisión o del Banco Central Europeo que impongan una obligación pecuniaria a personas distintas de los Estados serán títulos ejecutivos.
 
@@ -402,7 +259,3 @@ La ejecución forzosa se regirá por las normas de procedimiento civil vigentes 
 Cumplidas estas formalidades a instancia del interesado, éste podrá promover la ejecución forzosa conforme al Derecho interno, recurriendo directamente al órgano competente.
 
 La ejecución forzosa sólo podrá ser suspendida en virtud de una decisión del Tribunal de Justicia de la Unión Europea. No obstante, el control de la conformidad a Derecho de las medidas de ejecución será competencia de las jurisdicciones nacionales.
-
-Elegir cuántas
-
-[Hacer test Art. 299](https://www.vence.es/leyes/tfue?selected_articles=299&source=temario)

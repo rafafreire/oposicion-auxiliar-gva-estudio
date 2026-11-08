@@ -20,7 +20,8 @@ No se ha usado un programa adicional como React ni hace falta compilar la aplica
 - `js/materials/tema-01.js` a `tema-24.js` contienen los apuntes de cada tema preparados para que la aplicación pueda mostrarlos.
 - `js/past-exams.js` contiene las preguntas importadas de los exámenes GVA.
 - `js/age-exams.js` contiene los cuestionarios AGE importados desde sus JSON; solo algunos incluyen respuestas correctas.
-- `age.html` y `js/age-app.js` forman la sección AGE. Su índice temático enlaza al programa oficial porque no hay apuntes completos en la carpeta AUX ADM AGE.
+- `js/age-materials.js` permite abrir las fichas de estudio AGE, generadas desde los archivos `OPOSICIONES/AUX ADM AGE/TEMARIO/TEMA 01.md` a `TEMA 28.md`.
+- `age.html` y `js/age-app.js` forman la sección AGE. Incluye fichas originales de repaso y enlaces al programa oficial y a las normas públicas.
 - La carpeta `OPOSICIONES` conserva los materiales locales. Al publicar, el flujo de GitHub Pages copia a la web solo los archivos que necesita la aplicación y los PDF enlazados.
 
 ## ¿Dónde se guarda mi progreso?

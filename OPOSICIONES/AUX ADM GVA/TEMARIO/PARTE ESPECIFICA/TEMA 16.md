@@ -1,25 +1,12 @@
-
-# Tema 16: Decreto 42/2019: Condiciones de trabajo del personal funcionario GVA
+# Tema 16: Decreto 42/2019: condiciones de trabajo del personal funcionario de la Generalitat
 
 Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat.
-
-1 ley54 artículos2 con preguntas de examen
-
-Actualizado a 14 de octubre de 2026. [Regístrate](https://www.vence.es/login) para recibir actualizaciones cuando la legislación cambie.
 
 ## Decreto 42/2019 GVA
 
 Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat (2019)
 
-54 artículos2 con examen
-
-EscucharConfigurar
-
-🔊 Aprovecha el transporte, conducción, gimnasio, paseos, deporte y rutinas diarias para escuchar las leyes — todo suma
-
-[Hacer test de Decreto 42/2019 GVA →](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54&source=temario)[🔧 Elegir qué artículos entran](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?abrir_filtro=1&source=temario_filtro)
-
-Art. 1
+### Artículo 1
 
 ### Objeto y ámbito de aplicación
 
@@ -31,7 +18,7 @@ Administración de la Generalitat entendida en los términos establecidos en el 
 
 LOGFPV.
 
-Art. 2
+### Artículo 2
 
 ### Definiciones
 
@@ -61,11 +48,7 @@ j) Bajo la denominación de víctima de violencia terrorista se entiende incluid
 
 k) Relación de dependencia: Estado en que se encuentran las personas que, por razones derivadas de la edad, la enfermedad o la diversidad funcional, precisan de la atención de otra u otras personas para realizar actividades básicas de la vida diaria.
 
-Elegir cuántas
-
-[Hacer test Art. 2](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=2&source=temario)
-
-Art. 3
+### Artículo 3
 
 ### Acreditaciones
 
@@ -101,20 +84,15 @@ Condiciones generales de trabajo
 
 Sección 1ª. Jornada de trabajo
 
-Elegir cuántas
-
-[Hacer test Art. 3](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=3&source=temario)
-
-Art. 4
+### Artículo 4
 
 ### Jornada de trabajo
 
 Artículo 4. Jornada de trabajo
 
 1. La jornada laboral general del personal que desempeñe puestos de trabajo con componente de desempeño del complemento de puesto de trabajo inferior a los establecidos en el apartado siguiente, será de treinta y cinco horas semanales.
-    
+
 2. La duración de la jornada del personal que desempeñe puestos de trabajo considerados de especial dedicación será de treinta y siete horas y treinta minutos semanales.
-    
 
 Se considerarán puestos de especial dedicación aquellos que tengan asignado un componente de desempeño del complemento de puesto de trabajo igual o superior al que se detalla para cada uno de los grupos de titulación siguientes:
 
@@ -151,30 +129,20 @@ E013
 Una vez desaparezca la necesidad urgente por la que fue requerido, el exceso de horario será compensado a razón de dos horas por cada hora de exceso, o dos y media si el requerimiento se realiza en un día inhábil. La citada compensación podrá disfrutarse dentro de los tres meses naturales siguientes a aquel en que se haya generado el exceso horario y acumularse en jornadas completas. Para ello se tendrán en cuenta las preferencias del personal y las necesidades del servicio. Si estas impiden la compensación dentro de los tres meses, el plazo podrá ampliarse excepcionalmente tres meses más.
 
 4. El personal que tenga concedida una reducción de jornada no podrá ser requerido para realizar una jornada laboral superior a la que tenga reconocida.
-    
+
 5. En todo caso, entre el final de una jornada y el comienzo de la siguiente mediarán, como mínimo, doce horas.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 4](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=4&source=temario)
-
-Art. 5
+### Artículo 5
 
 ### Obligaciones del personal con jornada laboral de treinta y siete horas y treinta minutos semanales
 
 Artículo 5. Obligaciones del personal con jornada laboral de treinta y siete horas y treinta minutos semanales
 
 1. El personal que por el componente de desempeño del complemento de puesto de trabajo, tenga asignada la jornada semanal prevista en el apartado 2 del artículo anterior, está sujeto a incompatibilidad para ejercer cualquier otra actividad pública o privada, salvo las legalmente exceptuadas del régimen de incompatibilidades y las que la Ley permita autorizar por excepción.
-    
+
 2. El personal que ocupe un puesto de trabajo que tenga asignado un componente de desempeño del complemento de puesto de trabajo igual o superior al E045 podrá ser requerido para la realización de una jornada superior cuando así lo exijan las necesidades del servicio, en función de la mayor responsabilidad inherente a dichos puestos de trabajo. En este caso no procederá la compensación horaria prevista en el artículo 4.3, ni compensación alguna en concepto de gratificaciones por razón del servicio y por servicios extraordinarios salvo lo dispuesto en el Decreto 24/1997, de 11 de febrero, del Consell.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 5](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=5&source=temario)
-
-Art. 6
+### Artículo 6
 
 ### Cómputo anual de la jornada
 
@@ -197,23 +165,16 @@ a) La semana de fiestas locales, a razón de 10 horas o 12 horas y 30 minutos, s
 b) Dos horas y media semanales con base en la previsión contenida en el apartado 8 del artículo 13.
 
 3. Asimismo, deberán descontarse del cómputo anual 7 horas, o 7 horas y 30 minutos, según sea jornada de 35 horas, o de 37 horas y 30 minutos, respectivamente, por cada uno de los días 24 y 31 de diciembre, y por el día exento de asistencia al trabajo en la semana de fiestas locales.
-    
+
 4. Los cálculos para el cómputo anual de la jornada de trabajo en los años bisiestos se realizarán sobre la base de 52 semanas y 2 días.
-    
+
 5. A los solos efectos de calcular el cómputo anual de la jornada, se tomarán como referencia las jornadas a razón de 7 horas, o de 7 horas y 30 minutos diarias, según que la jornada semanal asignada sea de 35 horas, o de 37 horas y 30 minutos, respectivamente.
-    
+
 6. Cada año natural la dirección general competente en materia de función pública remitirá circular con el cómputo anual general a realizar.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 6](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=6&source=temario)
-
-Art. 7
+### Artículo 7
 
 ### Reducciones de jornada
-
-Examen1
 
 Artículo 7. Reducciones de jornada
 
@@ -228,9 +189,8 @@ c) Personal que por tener reconocido un grado de discapacidad o por razón de la
 d) Personal funcionario a quien le falte menos de cinco años para cumplir la edad de jubilación forzosa. Siempre que resulte compatible con el correcto funcionamiento de los servicios, se podrá autorizar que la reducción de jornada se acumule en jornadas completas, sin que dicha acumulación pueda suponer, en ningún caso, un periodo superior a seis meses continuados en un periodo de un año a contar desde el día de su inicio.
 
 2. El personal funcionario, que por nacimiento de hijas e hijos prematuros o por cualquier otra causa deba permanecer hospitalizado a continuación del parto, tendrá derecho a reducir su jornada de trabajo hasta un máximo de dos horas, con la disminución proporcional de sus retribuciones, sin perjuicio del permiso previsto en el artículo 28 de este decreto.
-    
+
 3. El personal que ocupe puestos de trabajo con componente de desempeño del complemento de puesto de trabajo que comporten una jornada de 35 horas semanales, podrá solicitar una jornada reducida, continua e ininterrumpida de las 9 a las 14 horas, o las equivalentes si el puesto desempeñado está sujeto a turnos, percibiendo un 75 % del total de sus retribuciones.
-    
 
 Para la concesión de esta jornada reducida se requerirá que la persona solicitante acredite la existencia de circunstancias personales distintas de las previstas en el apartado 1 que justifiquen su necesidad, debiendo motivarse su denegación.
 
@@ -249,66 +209,54 @@ b) Durante un plazo máximo de 6 meses, a contar desde la fecha de finalización
 El artículo 7, apartado 4ª), 3º, se anula por la Sentencia de 29 de junio de 2022 del
 
 5. Cuando por razones de enfermedad muy grave sea preciso atender el cuidado del cónyuge, pareja de hecho o de un familiar de primer grado, el personal funcionario tendrá derecho a solicitar una reducción de hasta el 50 % de la jornada laboral, con carácter retribuido y por el plazo máximo de un mes. Para el disfrute de esta reducción se requiere informe del facultativo que asiste al paciente que determine que la enfermedad es muy grave y la necesidad de cuidados para atender a la persona enferma. Esta reducción quedará sin efecto, aun cuando no haya transcurrido el plazo máximo de un mes, en caso de alta o fallecimiento del familiar. En el supuesto de que hubiera más de un beneficiario de este derecho por el mismo sujeto causante, podrán disfrutar del mismo de forma parcial, respetando en todo caso el plazo máximo.
-    
+
 6. Las empleadas víctimas de violencia sobre la mujer, para hacer efectivo su derecho a la asistencia social integral, tendrán derecho a la reducción de un tercio de la jornada sin reducción de haberes, o bien de un 50 % de la jornada, con una reducción de haberes correspondiente a la diferencia entre el tercio y la mitad de aquella.
-    
+
 7. El personal víctima de violencia terrorista tendrá derecho a una reducción de jornada en los mismos términos previstos en el apartado anterior.
-    
+
 8. Cuando el personal se reincorpore al servicio efectivo tras la finalización de un tratamiento oncológico podrá solicitar, durante el plazo máximo de un mes desde la fecha del alta médica, una reducción de hasta el 25 % de la jornada sin reducción de haberes. Este plazo podrá ampliarse en un mes más cuando el personal justifique la persistencia en su estado de salud de las circunstancias derivadas del tratamiento oncológico. Los órganos competentes en materia de personal concederán esta reducción cuando la misma favorezca la plena recuperación funcional de la persona o evite situaciones de especial dificultad o penosidad en el ejercicio de su trabajo. La persona solicitante deberá acompañar la documentación acreditativa de la existencia de esta situación.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 7](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=7&source=temario)
-
-Art. 8
+### Artículo 8
 
 ### Disposiciones comunes a las reducciones de jornada
 
 Artículo 8. Disposiciones comunes a las reducciones de jornada
 
 1. Las reducciones de jornada previstas en el artículo 7 son incompatibles entre sí, a excepción de las de los apartados 7.1.c), 7.6 y 7.7, que serán compatibles con las restantes.
-    
+
 2. En el supuesto de que se tenga derecho al disfrute simultáneo de varias reducciones de jornada compatibles entre sí, solo podrá concederse una de ellas sin deducción de retribuciones y al resto se les aplicará la deducción proporcional que corresponda.
-    
+
 3. Si varios funcionarios o funcionarias de la administración de la Generalitat tuvieran derecho a una reducción de jornada respecto a un mismo sujeto causante, podrán disfrutar de este derecho de forma parcial.
-    
 
 En estos casos, las solicitudes de reducción de jornada parcial, deberán presentarse de forma simultánea indicando, tanto el número global de horas de reducción, como el número concreto que disfrutará cada uno de ellos. El disfrute de la reducción de forma parcial, será ininterrumpido, es decir, una vez concedido solo podrá modificarse el régimen pactado mediante nueva solicitud y resolución del órgano competente.
 
 4. El personal acogido a las anteriores reducciones de jornada verá disminuida proporcionalmente la jornada que realice en las situaciones previstas en el artículo 13.
-    
+
 5. El personal que solicite dejar sin efecto una reducción de jornada no podrá comenzar a disfrutar otra por la misma causa hasta que transcurra, como mínimo, un mes desde que se dejó sin efecto la reducción anterior.
-    
+
 6. Las reducciones de jornada que comporten disminución de retribuciones serán concedidas por la dirección general competente en materia de función pública. En el caso de que no comporten disminución de retribuciones, será el órgano competente en materia de personal de cada conselleria u organismo quien las conceda.
-    
+
 7. El personal deberá informar al órgano competente en materia de personal con quince días de antelación de la fecha en que se reincorporará a su jornada ordinaria.
-    
+
 8. Las previsiones del apartado 5 no serán de aplicación a las empleadas víctimas de violencia sobre la mujer ni al personal funcionario víctima de terrorismo que disfruten de una reducción de jornada por esta causa.
-    
+
 9. En los supuestos en que el personal tenga derecho a solicitar una reducción de jornada de una hora diaria sin deducción de retribuciones, pero solicite un número de horas de reducción superior, dirigirá su solicitud a la dirección general competente en materia de función pública, la cual resolverá ambas reducciones descontando la hora diaria al número global de horas de reducción solicitadas.
-    
 
 Sección 2.ª Horario de trabajo
 
-Elegir cuántas
-
-[Hacer test Art. 8](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=8&source=temario)
-
-Art. 9
+### Artículo 9
 
 ### Horario de trabajo del personal de servicios burocráticos
 
 Artículo 9. Horario de trabajo del personal de servicios burocráticos
 
 1. La jornada semanal en las dependencias administrativas se realizará, con carácter general, de lunes a viernes en régimen de horario flexible.
-    
+
 2. La parte principal, llamada de tiempo fijo o estable, será de cinco horas diarias, y será de permanencia obligatoria para todo el personal entre las 09.00 y las 14.00 horas, de lunes a viernes.
-    
+
 3. La parte variable del horario estará constituida por la diferencia entre la jornada que corresponda realizar y las cinco horas diarias de la parte de tiempo fijo o estable del horario.
-    
+
 4. La parte variable señalada en el apartado anterior se deberá realizar, con carácter general, dentro de la siguiente distribución horaria:
-    
 
 a) Desde las 07.30 a las 09.00 horas, y desde las 14.00 a las 19.00 horas, de lunes a jueves.
 
@@ -316,22 +264,17 @@ b) Desde las 07.30 a las 09.00 horas, y desde las 14.00 a las 16.00 horas, los v
 
 5. Con carácter general las horas de la jornada que se presten en la parte flexible del horario se distribuirán a voluntad del personal.
 
-Elegir cuántas
-
-[Hacer test Art. 9](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=9&source=temario)
-
-Art. 10
+### Artículo 10
 
 ### Jornada y horarios especiales
 
 Artículo 10. Jornada y horarios especiales
 
 1. Se excluye de las jornadas y horarios regulados en los artículos anteriores a todo aquel personal que, por razón de la actividad desempeñada, tenga que realizar unas distintas, sin que en ningún caso se pueda exceder del cómputo anual de la jornada a realizar.
-    
+
 2. Las jornadas y horarios especiales que se establezcan por razón de la actividad los aprobará el órgano competente en materia de personal de cada conselleria u organismo autónomo, previa negociación con las organizaciones sindicales que tengan la condición de representativas en el ámbito correspondiente y tras ser oída la junta de personal que proceda, debiendo ser aprobados con anterioridad al uno de diciembre del año anterior a su entrada en vigor.
-    
+
 3. En concreto, en los centros de trabajo en que se preste servicio a turnos, y en el caso de centros docentes con una programación por cursos respecto del personal no docente que preste sus servicios en los mismos, los cuadrantes de las jornadas especiales y los horarios se regirán por las siguientes previsiones, en los términos de los pactos o acuerdos alcanzados en las Mesas correspondientes:
-    
 
 a) Los cuadrantes serán elaborados anualmente por la dirección territorial u órgano del que dependa a propuesta de la dirección del centro, previa negociación con las organizaciones sindicales que tengan la condición de representativas en el ámbito correspondiente y tras ser oída la junta de personal que proceda, debiendo ser aprobados por el órgano competente en materia de personal con anterioridad al uno de diciembre del año anterior a su entrada en vigor.
 
@@ -347,11 +290,7 @@ No obstante lo expuesto y respecto del personal que desempeñe su trabajo en cen
 
 4. Regirá idéntico procedimiento para la aprobación del sistema de compensación horaria, siendo de aplicación, como mínimo, lo previsto en el artículo 4.3 de este decreto.
 
-Elegir cuántas
-
-[Hacer test Art. 10](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=10&source=temario)
-
-Art. 11
+### Artículo 11
 
 ### Otras exclusiones
 
@@ -359,22 +298,17 @@ Artículo 11. Otras exclusiones
 
 La jornada y horario de trabajo previstos en los artículos anteriores no será de aplicación al personal que, de conformidad con lo dispuesto en normas de rango superior, deban realizar uno distinto.
 
-Art. 12
+### Artículo 12
 
 ### Recuperación de horas
 
 Artículo 12. Recuperación de horas
 
 1. Sin perjuicio del régimen de compensación horaria previsto en el artículo 4.3, la diferencia en cómputo semanal entre la jornada que tenga que realizar el personal por razón del puesto que ocupe y la efectivamente prestada, sea por exceso o por defecto, podrá ser objeto de recuperación o compensación dentro del mes natural en que se haya producido, o de los dos meses siguientes al mismo.
-    
+
 2. El tiempo de asistencia a las acciones formativas, seminarios o jornadas de formación organizados por el órgano de la Generalitat competente en materia de formación o por las organizaciones sindicales firmantes del Acuerdo Administración-Sindicatos en materia de formación continua, computará como tiempo de trabajo a todos los efectos si tienen lugar dentro de la jornada laboral, no siendo objeto de recuperación, e incluirá el tiempo necesario para el desplazamiento hasta el lugar de impartición.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 12](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=12&source=temario)
-
-Art. 13
+### Artículo 13
 
 ### Fiestas
 
@@ -393,28 +327,22 @@ c) El martes de la semana de las fiestas de la Magdalena, el personal cuyo centr
 En este supuesto, la dirección general competente en materia de función pública establecerá mediante circular, con un mínimo de 15 días de antelación, el día concreto exento de asistencia al trabajo para el personal de servicios burocráticos.
 
 3. Por semana de fiestas de cada uno de los municipios deberá entenderse cinco días laborables anteriores o posteriores al festivo principal. El día de inicio y final se determinará anualmente por la dirección general competente en materia de función pública.
-    
+
 4. No computará en los cinco días laborables previstos en el apartado anterior el día exento de asistencia al trabajo, ni el que pueda sustituirlo, en su caso.
-    
+
 5. Las previsiones contenidas en los apartados anteriores serán de aplicación cuando se realice el cómputo anual de la jornada establecido en el artículo 6.
-    
+
 6. En los municipios donde existan centros de trabajo de la Generalitat que no se acojan a las semanas de fiestas anteriormente establecidas, el órgano competente en materia de personal, a los efectos de la aplicación del horario especial previsto en el apartado siguiente, será el encargado de establecer la fecha de inicio y finalización de la semana de fiestas locales y de determinar el día de esa semana en que se estará exento de la asistencia al trabajo.
-    
+
 7. El horario de trabajo durante la semana de fiestas de cada municipio de la Comunidad
-    
 
 Valenciana en que radique el puesto de trabajo será de 09.00 a 14.00 horas.
 
 8. Desde el 15 de mayo al 15 de octubre, ambos inclusive, y en los periodos de vacaciones escolares de Navidad y Pascua, la jornada de trabajo se reducirá en dos horas y media semanales respecto a la que corresponda realizar.
-    
+
 9. Se estará exento de la asistencia al trabajo los días 24 y 31 de diciembre.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 13](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=13&source=temario)
-
-Art. 14
+### Artículo 14
 
 ### Flexibilidad de la permanencia obligatoria
 
@@ -445,80 +373,58 @@ d) Las empleadas víctimas de violencia sobre la mujer, con la finalidad de hace
 e) Las víctimas de violencia terrorista, en tanto sea necesario para hacer efectivo su protección o su derecho a la asistencia social integral, ya sea por razón de las secuelas provocadas por la acción terrorista, ya sea por la amenaza a la que se encuentran sometidas. Además de dicha flexibilidad, se podrán adoptar otras formas de ordenación del tiempo de trabajo, como la adaptación del horario u otras que sean aplicables.
 
 3. La flexibilidad en el cumplimiento del horario regulada en el apartado anterior en ningún caso supondrá reducción de la jornada laboral, debiendo el personal recuperar dichas horas conforme a lo dispuesto en el artículo 12.
-    
+
 4. El personal que realice las jornadas y horarios especiales previstos en el artículo 10 podrá hacer uso de esta flexibilidad si lo permite la atención básica a las necesidades de dicho servicio.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 14](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=14&source=temario)
-
-Art. 15
+### Artículo 15
 
 ### Descanso semanal
 
 Artículo 15. Descanso semanal
 
 1. El personal tendrá derecho a 48 horas continuadas de descanso por cada período semanal trabajado. Si su aplicación impide la cobertura de los servicios que se prestan, se fijará este descanso, que en ningún caso será inferior a 36 horas continuadas, previa negociación con las organizaciones sindicales representativas, tras ser oído el órgano de representación unitaria correspondiente.
-    
+
 2. En los centros de trabajo en que se preste el servicio a turnos, el disfrute del descanso semanal coincidirá, como mínimo, con un fin de semana al mes.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 15](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=15&source=temario)
-
-Art. 16
+### Artículo 16
 
 ### Pausa diaria
 
 Artículo 16. Pausa diaria
 
 1. Durante la jornada laboral se dispondrá de una pausa de treinta minutos de descanso, computable como de trabajo efectivo.
-    
+
 2. El personal de servicios burocráticos o unidades de índole similar hará uso de ella, preferentemente, entre las 10.00 y las 12.00 horas.
-    
+
 3. A los efectos de lo previsto en el apartado anterior el personal se organizará en turnos con la supervisión de la persona responsable de la unidad administrativa con el fin de que las dependencias y servicios queden adecuadamente atendidos.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 16](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=16&source=temario)
-
-Art. 17
+### Artículo 17
 
 ### Control de horario
 
 Artículo 17. Control de horario
 
 1. El personal estará obligado a registrar sus entradas y salidas del centro de trabajo mediante los sistemas establecidos al efecto por los órganos competentes en materia de personal. Los centros de trabajo establecerán los medios necesarios para su seguimiento.
-    
+
 2. Las personas titulares de las unidades administrativas de las que dependa el personal o, en su caso, la persona titular de la dirección del centro, colaborarán en el control del personal adscrito a las mismas, sin perjuicio del control general del órgano que lo tenga asignado en sus competencias.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 17](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=17&source=temario)
-
-Art. 18
+### Artículo 18
 
 ### Horario de las oficinas de atención al público
 
 Artículo 18. Horario de las oficinas de atención al público
 
 1. Las oficinas de las sedes centrales de las consellerias, de las sedes principales de sus delegaciones, direcciones o servicios territoriales y las oficinas PROP, prestarán el servicio de información administrativa general y registro de documentos en horario general de apertura al público de 09.00h a 14.30h, de lunes a viernes.
-    
+
 2. Los jueves, al menos en una oficina PROP de cada provincia, se prolongará el servicio de información administrativa general y registro de documentos desde las 14.30h hasta las 19.00h ininterrumpidamente. Este horario complementario será atendido por el personal que ocupe puestos de trabajo con funciones de realización del horario especial de la unidad de registro.
-    
 
 Las oficinas en que se prestará este servicio serán publicitadas por el órgano competente en la materia a través de la página web de la GVA.
 
 3. Durante la semana de fiestas locales correspondiente a cada emplazamiento, el horario de servicio de información administrativa general y registro de documentos que regirá será de 09.00h a 14.00h, de lunes a viernes.
-    
+
 4. Desde el 15 de mayo al 15 de octubre, ambos inclusive, y en los periodos de vacaciones escolares de Navidad y Pascua, el horario de atención al público será el previsto en el apartado 1 de este artículo.
-    
+
 5. Sin perjuicio de lo anterior, la persona titular de cada conselleria podrá disponer mediante orden el establecimiento de otros emplazamientos adicionales para la prestación del servicio de
-    
 
 información administrativa general y de registro de documentos que contribuyan a reducir desplazamientos a la ciudadanía.
 
@@ -530,7 +436,7 @@ información administrativa general y de registro de documentos que contribuyan 
 
 > Este artículo ha sido DEROGADO por la disposición derogatoria única del Decreto 30/2025, de 25 de febrero, del Consell (DOGV 26/02/2025), que deroga expresamente «el artículo 18 del Decreto 42/2019, de 22 de marzo, del Consell». El horario de atención al público está regulado ahora por el artículo 24 del Decreto 30/2025. (Disposición derogatoria única, Decreto 30/2025)
 
-Art. 19
+### Artículo 19
 
 ### Justificación de ausencias
 
@@ -549,23 +455,18 @@ Una vez expedido parte médico de alta, la incorporación al puesto de trabajo h
 c) Ausencias por riesgo durante el embarazo y riesgo durante la lactancia natural: el personal deberá presentar la documentación exigida en la normativa aplicable en materia de seguridad social.
 
 2. Si las ausencias, aún justificadas, son reiteradas, se valorará la situación entre las o los representantes sindicales y la dirección correspondiente, a instancia de cualquiera de las partes, y se propondrá conjuntamente la solución adecuada al caso.
-    
+
 3. Los descuentos por faltas de asistencia injustificadas al trabajo o incumplimiento de jornada se determinarán de conformidad con lo previsto en la legislación en vigor.
-    
+
 4. Las faltas de asistencia al trabajo, totales o parciales, de las empleadas públicas víctimas de violencia de género tendrán la consideración de justificadas durante el tiempo y en las condiciones en que así se determine por los servicios sociales o de salud, según proceda.
-    
+
 5. Asimismo, tendrán la consideración de justificadas las faltas de asistencia al trabajo de las víctimas de violencia terrorista durante todo el tiempo que precisen para hacer efectivo su protección o su derecho a la asistencia social integral, ya sea por razón de las secuelas provocadas por la acción terrorista, ya sea por la amenaza a la que se encuentran sometidas.
-    
 
 CAPÍTULO III
 
 Permisos
 
-Elegir cuántas
-
-[Hacer test Art. 19](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=19&source=temario)
-
-Art. 20
+### Artículo 20
 
 ### Permisos del personal funcionario
 
@@ -575,50 +476,35 @@ El personal, previa comunicación al órgano competente, podrá disfrutar de los
 
 Salvo que se establezca expresamente otra cosa el disfrute de los permisos determinados por un hecho causante se iniciará el primer día laborable tras dicho hecho.
 
-Elegir cuántas
-
-[Hacer test Art. 20](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=20&source=temario)
-
-Art. 21
+### Artículo 21
 
 ### Permiso por matrimonio o unión de hecho
 
 Artículo 21. Permiso por matrimonio o unión de hecho
 
 1. El personal podrá disfrutar de quince días naturales y consecutivos por razón de matrimonio o inscripción en el Registro de Uniones de Hecho de la Comunitat Valenciana o en cualquier otro registro público oficial de uniones de hecho.
-    
+
 2. Este permiso puede acumularse al período vacacional y a los días de asuntos propios y no se disfrutará necesariamente a continuación del hecho causante, pero siempre dentro de los 6 meses siguientes al matrimonio o inscripción en el Registro de Uniones de Hecho de la
-    
 
 Comunitat Valenciana.
 
 3. El personal que disfrute de este permiso por inscripción en un registro de uniones de hecho no podrá disfrutarlo de nuevo en caso de contraer matrimonio posteriormente con la misma persona.
-    
+
 4. Asimismo, el personal tendrá derecho a permiso, tanto por el día de la celebración de su matrimonio o inscripción de su unión de hecho, como por el de un familiar dentro del segundo grado de consanguinidad o afinidad.
-    
 
 Si el lugar en el que se realiza la celebración superara la distancia de 375 kilómetros, computados desde la localidad de residencia de dicho personal, el permiso será de dos días naturales consecutivos.
 
-Elegir cuántas
-
-[Hacer test Art. 21](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=21&source=temario)
-
-Art. 22
+### Artículo 22
 
 ### Permiso por técnicas prenatales y de preparación al parto
 
 Artículo 22. Permiso por técnicas prenatales y de preparación al parto
 
 1. Cuando deban realizarse dentro de la jornada de trabajo, se concederá permiso por el tiempo indispensable para la realización de exámenes prenatales y técnicas para la preparación al parto de las funcionarias embarazadas.
-    
+
 2. Dentro de la jornada de trabajo el personal funcionario tendrá derecho a ausentarse para someterse a técnicas de fecundación o reproducción asistida por el tiempo necesario para su realización, previa justificación de la necesidad.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 22](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=22&source=temario)
-
-Art. 23
+### Artículo 23
 
 ### Permiso por cuestiones relacionadas con la adopción o acogimiento o guarda con fines de adopción
 
@@ -626,11 +512,7 @@ Artículo 23. Permiso por cuestiones relacionadas con la adopción o acogimiento
 
 En los casos de adopción, acogimiento o guarda con fines de adopción se tendrá permiso para la asistencia a las preceptivas sesiones de información y preparación, así como para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad, que deban realizarse dentro de la jornada de trabajo.
 
-Elegir cuántas
-
-[Hacer test Art. 23](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=23&source=temario)
-
-Art. 24
+### Artículo 24
 
 ### Permiso por nacimiento para la madre biológica
 
@@ -640,37 +522,27 @@ Este permiso se concederá en los términos y condiciones previstos en el artíc
 
 TREBEP.
 
-Elegir cuántas
-
-[Hacer test Art. 24](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=24&source=temario)
-
-Art. 25
+### Artículo 25
 
 ### Permiso por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente
 
 Artículo 25. Permiso por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente
 
 1. Sin perjuicio de lo dispuesto en los apartados siguientes, este permiso se concederá en los términos y condiciones previstos en el artículo 49, b) del TREBEP.
-    
+
 2. Este permiso se ampliará en dos semanas en los supuestos de adopción o acogimiento de menores que por sus circunstancias y experiencias personales o que, por provenir del extranjero, tengan especiales dificultades de inserción social y familiar, debidamente acreditadas por los servicios sociales competentes.
-    
+
 3. El disfrute del permiso por adopción o acogimiento internacional de hasta dos meses de duración podrá fraccionarse o ser continuado, en función de la tramitación que se requiera en el país de origen de la persona adoptada.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 25](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=25&source=temario)
-
-Art. 26
+### Artículo 26
 
 ### Disfrute a tiempo parcial de los permisos por nacimiento para la madre
 
 Artículo 26. Disfrute a tiempo parcial de los permisos por nacimiento para la madre biológica y por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente
 
 1. Los permisos por nacimiento para la madre biológica y por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente, podrán disfrutarse a jornada completa o a tiempo parcial.
-    
+
 2. Para que puedan disfrutarse a tiempo parcial, la persona interesada deberá solicitarlo con una antelación de quince días hábiles, acompañando informe de la persona responsable de la unidad administrativa en que estuviera destinada, en el que se acredite que quedan debidamente cubiertas las necesidades del servicio.
-    
 
 El órgano competente, a la vista de la solicitud y del informe correspondiente, dictará resolución con una antelación mínima de cinco días naturales a la fecha de disfrute pretendida. La falta de resolución expresa en el plazo antedicho tendrá efectos estimatorios.
 
@@ -689,15 +561,10 @@ c) El disfrute del permiso será ininterrumpido. Una vez acordado solo podrá mo
 d) Durante el período de disfrute del permiso a tiempo parcial no podrá la persona beneficiaria prestar servicios extraordinarios fuera de la jornada de trabajo que realice como consecuencia de la concesión de este permiso.
 
 4. Cuando las necesidades del servicio lo permitan se concederá a la o al interesado la parte de jornada solicitada para el disfrute del permiso a tiempo parcial que convenga a sus intereses personales.
-    
+
 5. El permiso a tiempo parcial será incompatible con el disfrute simultáneo por la misma persona de los permisos previstos por lactancia, nacimiento de hijas o hijos prematuros y con la reducción de jornada por razones de guarda legal.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 26](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=26&source=temario)
-
-Art. 27
+### Artículo 27
 
 ### Permiso por lactancia
 
@@ -707,7 +574,7 @@ Este permiso se concederá en los términos y condiciones previstos en el artíc
 
 TREBEP.
 
-Art. 28
+### Artículo 28
 
 ### Permiso por nacimiento de hijas o hijos prematuros
 
@@ -715,11 +582,7 @@ Artículo 28. Permiso por nacimiento de hijas o hijos prematuros
 
 Por nacimiento de hijas o hijos prematuros o que por cualquier otra causa deban permanecer hospitalizados a continuación del parto, el personal tendrá derecho a ausentarse durante un máximo de dos horas diarias percibiendo las retribuciones íntegras.
 
-Elegir cuántas
-
-[Hacer test Art. 28](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=28&source=temario)
-
-Art. 29
+### Artículo 29
 
 ### Permiso por cuidado de hijo o hija menor afectado por cáncer u otra enfermedad grave
 
@@ -759,11 +622,7 @@ En el caso de que el informe médico determine la necesidad de un tiempo inferio
 
 La concesión de las sucesivas prórrogas requerirá en cada caso previa solicitud de la persona interesada, a la que deberá acompañar un nuevo informe médico actualizado que acredite la necesidad de los cuidados del o de la menor.
 
-Elegir cuántas
-
-[Hacer test Art. 29](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=29&source=temario)
-
-Art. 30
+### Artículo 30
 
 ### Permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija
 
@@ -773,26 +632,17 @@ Este permiso se concederá en los términos y condiciones previstos en el artíc
 
 TREBEP.
 
-Elegir cuántas
-
-[Hacer test Art. 30](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=30&source=temario)
-
-Art. 31
+### Artículo 31
 
 ### Disposiciones comunes a determinados permisos
 
 Artículo 31. Disposiciones comunes a determinados permisos
 
 1. En los permisos por nacimiento, adopción, guarda, acogimiento y del progenitor diferente a la madre biológica, el tiempo transcurrido durante el disfrute de estos permisos se computará como de servicio efectivo a todos los efectos, garantizándose la plenitud de derechos económicos del personal durante todo el periodo de duración del permiso, y, en su caso, durante los periodos posteriores al disfrute de este, si de acuerdo con la normativa aplicable, el derecho a percibir algún concepto retributivo se determina en función del periodo de disfrute del permiso.
-    
+
 2. El personal que haya hecho uso de los permisos citados en el apartado anterior, tendrá derecho, una vez finalizado el periodo de permiso, a reintegrarse a su puesto de trabajo en términos y condiciones que no les resulten menos favorables al disfrute del permiso, así como a beneficiarse de cualquier mejora en las condiciones de trabajo a las que hubieran podido tener derecho durante su ausencia.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 31](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=31&source=temario)
-
-Art. 32
+### Artículo 32
 
 ### Permiso por estado de gestación
 
@@ -802,11 +652,7 @@ Las empleadas públicas en estado de gestación disfrutarán de un permiso retri
 
 En el supuesto de gestación múltiple este permiso podrá iniciarse el primer día de la semana 35 de embarazo, hasta la fecha del parto.
 
-Elegir cuántas
-
-[Hacer test Art. 32](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=32&source=temario)
-
-Art. 33
+### Artículo 33
 
 ### Permiso por deberes relacionados con la conciliación de la vida personal, familiar y laboral
 
@@ -823,59 +669,44 @@ c) Consultas de apoyo adicional en el ámbito socio-sanitario.
 Asimismo, podrá acudir por el tiempo indispensable durante su jornada laboral a consultas, tratamientos y exploraciones médicas del cónyuge o pareja de hecho, cuando se acredite documentalmente la necesidad de asistir con acompañante.
 
 2. Las ausencias parciales al puesto de trabajo como consecuencia de la asistencia a situaciones recogidas en el punto anterior, durarán el tiempo indispensable para su realización, considerándose como de trabajo efectivo siempre que la ausencia se limite al tiempo necesario y se justifique documentalmente por el personal funcionario su asistencia y la hora de la cita.
-    
+
 3. El personal tendrá permiso para ausentarse de su puesto de trabajo para asistir a las tutorías o a cualquier otro requerimiento del centro escolar de sus hijas e hijos.
-    
 
 Estas ausencias durarán el tiempo indispensable para su realización y se considerarán de trabajo efectivo siempre que tengan lugar dentro del horario laboral y se acredite que no es posible acudir en horario distinto por no permitirlo el centro escolar.
 
 4. Asimismo, en caso de interrupción del embarazo, la empleada pública tendrá derecho a seis días naturales y consecutivos a partir del hecho causante, siempre y cuando no se encuentre en situación de incapacidad temporal.
 
-Elegir cuántas
-
-[Hacer test Art. 33](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=33&source=temario)
-
-Art. 34
+### Artículo 34
 
 ### Permiso por fallecimiento
 
 Artículo 34. Permiso por fallecimiento
 
 1. Por fallecimiento del cónyuge, pareja de hecho o de un familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles cuando sea en distinta localidad.
-    
+
 2. Cuando se trate de fallecimiento de un familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de dos días hábiles cuando se produzca en la misma localidad y de cuatro días hábiles cuando sea en distinta localidad.
-    
+
 3. Los días en que se haga uso de este permiso deberán ser consecutivos e inmediatamente posteriores al hecho causante.
-    
 
 Únicamente se computará como permiso el día del fallecimiento cuando la persona no inicie la jornada de trabajo que le correspondiera realizar ese día.
 
 4. Para el cómputo de los plazos en la misma o distinta localidad se tomará como referencia el término municipal de la residencia habitual de la persona solicitante.
 
-Elegir cuántas
-
-[Hacer test Art. 34](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=34&source=temario)
-
-Art. 35
+### Artículo 35
 
 ### Permiso por accidente o enfermedad grave
 
 Artículo 35. Permiso por accidente o enfermedad grave
 
 1. Por accidente o enfermedad grave del cónyuge, pareja de hecho o de un familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles cuando sea en distinta localidad.
-    
+
 2. Cuando se trate de accidente o enfermedad grave de un familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de dos días hábiles cuando se produzca en la misma localidad y de cuatro días hábiles cuando sea en distinta localidad.
-    
+
 3. Se tendrá derecho a este permiso cada vez que se acredite nuevamente una situación de gravedad de conformidad con lo dispuesto en el artículo 3.i de este decreto.
-    
+
 4. Para el cómputo de los plazos en la misma o distinta localidad se tomará como referencia el término municipal de la residencia habitual de la persona solicitante.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 35](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=35&source=temario)
-
-Art. 36
+### Artículo 36
 
 ### Permiso por exámenes finales y demás pruebas definitivas de aptitud
 
@@ -883,35 +714,25 @@ Artículo 36. Permiso por exámenes finales y demás pruebas definitivas de apti
 
 El personal dispondrá de permiso durante el día del examen para concurrir a pruebas selectivas para el ingreso en cualquier administración pública, a exámenes finales y demás pruebas definitivas de aptitud y evaluación en centros oficiales, aunque la realización del ejercicio sea compatible con la jornada laboral. Se entienden incluidos en este permiso los exámenes parciales siempre que tengan carácter eliminatorio.
 
-Elegir cuántas
-
-[Hacer test Art. 36](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=36&source=temario)
-
-Art. 37
+### Artículo 37
 
 ### Permiso por traslado de domicilio habitual
 
 Artículo 37. Permiso por traslado de domicilio habitual
 
 1. El personal dispondrá de un día por traslado de su domicilio sin cambio de localidad de residencia, aportando justificante acreditativo.
-    
+
 2. Cuando exista cambio de localidad de residencia, este permiso será de dos días.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 37](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=37&source=temario)
-
-Art. 38
+### Artículo 38
 
 ### Permiso por deber inexcusable
 
 Artículo 38. Permiso por deber inexcusable
 
 1. Se tendrá derecho al tiempo indispensable para el cumplimiento de un deber inexcusable, de carácter público y personal.
-    
+
 2. A título enunciativo y no limitativo, se entenderá por deber de carácter público y personal:
-    
 
 a) Citaciones de juzgados y tribunales de justicia u otro tipo de comparecencias obligatorias ante los mismos, debidamente acreditadas mediante certificado de comparecencia expedido por letrado de la administración de justicia, así como citaciones de comisarías o de cualquier otro organismo oficial.
 
@@ -923,11 +744,7 @@ d) Asistencia como miembro a las sesiones de un tribunal de selección o provisi
 
 e) Otras obligaciones que necesariamente deban atenderse en horario laboral y que en caso de incumplimiento generen a la persona interesada una responsabilidad de orden civil, penal o administrativa, siempre que queden debidamente acreditadas.
 
-Elegir cuántas
-
-[Hacer test Art. 38](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=38&source=temario)
-
-Art. 39
+### Artículo 39
 
 ### Permiso por funciones representativas y formación
 
@@ -935,33 +752,31 @@ Artículo 39. Permiso por funciones representativas y formación
 
 Se concederán permisos para realizar funciones sindicales, de formación o de representación del personal, en los términos en que se establece en la normativa vigente.
 
-Art. 40
+### Artículo 40
 
 ### Permiso por asuntos propios
 
 Artículo 40. Permiso por asuntos propios
 
 1. Cada año natural, y hasta el día 15 de febrero del año siguiente, se podrá disfrutar de hasta 6 días por asuntos propios o particulares, así como de los días adicionales previstos en el apartado 8 de este artículo y en el artículo 41.
-    
+
 2. El personal distribuirá dichos días a su conveniencia, teniendo en cuenta que su disfrute no deberá afectar a la adecuada atención al servicio público, por lo que requerirán autorización previa. La solicitud se dirigirá a la correspondiente unidad de personal y su denegación deberá ser motivada acreditando el posible perjuicio que se ocasionaría a la organización con su concesión.
-    
 
 En cualquier caso, el personal funcionario tendrá derecho a disfrutar de los días por asuntos particulares dentro del año natural al que correspondan, no pudiendo quedar condicionado este derecho por la necesidad de autorización previa prevista en el párrafo anterior.
 
 3. Las personas con hijas o hijos menores de 14 años tendrán preferencia para la elección de los días por asuntos particulares durante los periodos escolares no lectivos. Asimismo, la preferencia de elección se aplicará al personal que tenga a su cargo personas mayores de 65 años o con diversidades funcionales en situación de dependencia.
-    
+
 4. La Administración, previa negociación con la representación sindical, podrá dictar las normas oportunas, durante el primer trimestre del año, para que el disfrute de estos días no repercuta negativamente en la adecuada prestación de los servicios.
-    
+
 5. El personal funcionario interino podrá disfrutar de dicho permiso a razón de un día por cada dos meses completos trabajados en la administración de la Generalitat. Los periodos trabajados en diversos contratos o nombramientos de la misma, dentro del mismo año, que no hayan dado lugar al disfrute de uno de esos días o de los días adicionales que, en su caso, correspondan, se podrán acumular al objeto de hacer efectivo este permiso. Cuando necesidades del servicio debidamente acreditadas, impidan el disfrute de estos días acumulados, se tendrá derecho al abono de los mismos.
-    
+
 6. Los días de asuntos propios anuales podrán ser acumulados a los permisos por nacimiento, lactancia, adopción, guarda, acogimiento o del progenitor diferente de la madre biológica, aun habiendo expirado ya el año a que tal período corresponda.
-    
+
 7. Los 6 días anuales de asuntos propios corresponderán por año natural de prestación de servicios efectivos. En los casos de licencia sin retribución o de reingreso, cuando el tiempo de servicios prestados fuese menor, se disfrutarán un número de días proporcional al tiempo trabajado, a razón de un día por cada dos meses trabajados, redondeándose al alza a favor del personal solicitante. Esta previsión no se aplicará al supuesto de reingreso después de haber disfrutado de una excedencia por cuidado de hijas e hijos o familiares, situación que se entenderá como de trabajo efectivo.
-    
+
 8. Además de los días por asuntos propios que se establezcan, el personal tendrá derecho al disfrute de dos días adicionales al cumplir el sexto trienio, incrementándose en un día adicional por cada trienio cumplido a partir del octavo.
-    
+
 9. En el supuesto de jubilación del personal, el régimen de aplicación será el siguiente:
-    
 
 a) Los 6 días de asuntos propios se disfrutarán en proporción al tiempo trabajado durante el año natural de la jubilación.
 
@@ -969,30 +784,21 @@ b) Los días adicionales de asuntos propios por antigüedad, se podrán disfruta
 
 c) Los días compensatorios previstos en el artículo siguiente, se disfrutarán si la festividad por la que se concede el permiso queda comprendida dentro del periodo trabajado antes de la fecha de jubilación.
 
-Elegir cuántas
-
-[Hacer test Art. 40](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=40&source=temario)
-
-Art. 41
+### Artículo 41
 
 ### Días compensatorios
 
 Artículo 41. Días compensatorios
 
 1. Cuando los días 24 y 31 de diciembre, exentos de asistencia al trabajo, coincidan en festivo, sábado o día no laborable, se concederán dos días de permiso.
-    
+
 2. Así mismo, cada año natural, se concederán como máximo dos días de permiso cuando coincida con sábado alguna festividad de ámbito autonómico o de ámbito nacional de carácter retribuido, no recuperable y no sustituible.
-    
 
 CAPÍTULO IV
 
 Licencias
 
-Elegir cuántas
-
-[Hacer test Art. 41](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=41&source=temario)
-
-Art. 42
+### Artículo 42
 
 ### Licencias del personal funcionario
 
@@ -1002,56 +808,47 @@ El personal funcionario, previa autorización, podrá disfrutar de las licencias
 
 Sección 1ª. Licencias retribuidas
 
-Art. 43
+### Artículo 43
 
 ### Licencia por cursos externos
 
 Artículo 43. Licencia por cursos externos
 
 1. El órgano competente en materia de personal de la conselleria o entidad en que presta servicios la persona solicitante, cuando no lo impidan las necesidades del servicio, podrá conceder licencia retribuida, con un límite máximo de cuarenta horas al año, para la asistencia a cursos distintos de los contemplados en el artículo 12.2 de este decreto cuyo contenido esté directamente relacionado con las funciones del puesto de trabajo o la carrera profesional administrativa de la persona solicitante.
-    
+
 2. A la solicitud de la licencia deberá acompañarse:
-    
 
 a) Documentación justificativa del curso, en la que deberán figurar las materias que se imparten, el horario y su duración.
 
 b) Informe favorable del órgano de la conselleria o entidad del que dependa la persona interesada justificando la necesidad de la asistencia a dichos cursos de acuerdo con lo previsto en el punto anterior.
 
 3. La denegación de la licencia deberá ser motivada.
-    
+
 4. Durante los permisos de nacimiento, del progenitor diferente de la madre biológica y excedencias por cuidado de familiares, el personal podrá participar en estos cursos.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 43](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=43&source=temario)
-
-Art. 44
+### Artículo 44
 
 ### Licencia por estudios
 
 Artículo 44. Licencia por estudios
 
 1. La Dirección general competente en materia de función pública, cuando no lo impidan las necesidades del servicio, podrá conceder licencia de hasta doce meses de duración para la realización de acciones formativas en materias directamente relacionadas con las funciones del puesto o la carrera profesional administrativa de la persona solicitante y que no estén comprendidas en el artículo anterior.
-    
+
 2. A la solicitud de la licencia deberá acompañarse:
-    
 
 a) Documentación acreditativa de la acción formativa, en la que deberán figurar las materias que se imparten y su duración.
 
 b) Informe favorable del órgano competente en materia de personal de la conselleria u entidad correspondiente en el que se justifique la conveniencia de la asistencia a dicha acción formativa de acuerdo con lo previsto en el punto anterior.
 
 3. Durante el disfrute de esta licencia se tendrá derecho exclusivamente a la percepción de las retribuciones básicas.
-    
+
 4. Al finalizar el período de licencia por estudios el personal beneficiario presentará a la dirección general competente en materia de función pública certificación acreditativa de los estudios realizados.
-    
 
 La no presentación por parte de la persona interesada de dicha documentación implicará la obligación de reintegrar las retribuciones percibidas.
 
 5. La licencia se podrá conceder cada cinco años, siempre que estos se hayan prestado en servicio activo ininterrumpidamente.
-    
+
 6. Igualmente, se concederá esta licencia a quienes sean nombrados personal funcionario en prácticas que ya estuviesen prestando servicios remunerados en la Administración de la
-    
 
 Generalitat como personal funcionario de carrera o interino durante el tiempo que se prolongue el curso selectivo o periodo de prácticas, percibiendo las retribuciones que correspondan de conformidad con la normativa vigente.
 
@@ -1059,58 +856,41 @@ A estos efectos, la persona interesada deberá solicitar la licencia a la direcc
 
 En este supuesto no serán de aplicación las previsiones de los apartados 2 a 5 del presente artículo.
 
-Elegir cuántas
-
-[Hacer test Art. 44](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=44&source=temario)
-
-Art. 45
+### Artículo 45
 
 ### Licencia por participación en programas acreditados de cooperación internacional
 
 Artículo 45. Licencia por participación en programas acreditados de cooperación internacional
 
 1. La dirección general competente en materia de función pública, podrá autorizar licencias para la participación voluntaria, por un periodo no superior a seis meses, en misiones o programas de cooperación internacional al servicio de organismos internacionales, gobiernos o entidades públicas extranjeras, siempre que conste el interés de la Administración en su participación así como el del organismo, gobierno o entidad que lo solicite.
-    
+
 2. A la solicitud deberá acompañarse la documentación referida al programa en la que conste la participación de la persona interesada, así como informe favorable del órgano competente en materia de cooperación internacional.
-    
+
 3. Durante el tiempo de duración de la licencia, las retribuciones de la persona participante correrán a cargo de la conselleria u organismo en la que preste sus servicios.
-    
+
 4. Finalizada la actividad voluntaria, se aportará certificación del organismo, gobierno o entidad, en la que se acredite el efectivo cumplimiento de la actividad.
-    
 
 Sección 2.ª Licencias sin retribución
 
-Elegir cuántas
-
-[Hacer test Art. 45](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=45&source=temario)
-
-Art. 46
+### Artículo 46
 
 ### Disposiciones comunes a las licencias sin retribución
-
-Examen1
 
 Artículo 46. Disposiciones comunes a las licencias sin retribución
 
 1. Las licencias sin retribución, en cualquier caso, deberán comprender períodos continuados e ininterrumpidos.
-    
+
 2. Para poder solicitar una nueva licencia será necesario que transcurran, como mínimo, tres días laborables entre el período que se solicita y el anteriormente disfrutado.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 46](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=46&source=temario)
-
-Art. 47
+### Artículo 47
 
 ### Licencias por interés particular
 
 Artículo 47. Licencias por interés particular
 
 1. Con una duración máxima de seis meses cada tres años, la dirección general competente en materia de función pública, previo informe del órgano competente en materia de personal podrá conceder licencia por interés particular.
-    
+
 2. Esta licencia se solicitará ante el órgano competente en materia de personal, con una antelación mínima de un mes respecto de su fecha de inicio, salvo casos excepcionales que deberán quedar debidamente justificados. Su denegación deberá ser motivada.
-    
 
 Salvo en los casos excepcionales a que se refiere el párrafo anterior, el órgano competente en materia de personal deberá informar la licencia y remitirla a la dirección general competente en materia de función pública con quince días de antelación a la fecha de inicio a fin de que dicha emita la resolución con carácter previo a la citada fecha.
 
@@ -1118,56 +898,41 @@ Cuando se haya acreditado la imposibilidad de solicitar la licencia con la antel
 
 3. Esta licencia tendrá la consideración de servicios efectivamente prestados. De esta previsión, se excluye el caso del cómputo de las vacaciones anuales. En este supuesto, y cuando la licencia o la suma de las mismas coincida con un mes natural o lo supere, deberá descontarse de las vacaciones anuales el tiempo proporcional de la licencia sin retribución disfrutada.
 
-Elegir cuántas
-
-[Hacer test Art. 47](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=47&source=temario)
-
-Art. 48
+### Artículo 48
 
 ### Licencia por enfermedad de familiares o cualquier persona que legalmente se encuentre bajo su guarda o custodia
 
 Artículo 48. Licencia por enfermedad de familiares o cualquier persona que legalmente se encuentre bajo su guarda o custodia
 
 1. En el caso de que el cónyuge, pareja de hecho, familiar en línea directa o colateral hasta segundo grado por consanguinidad o afinidad, que conviva con la persona solicitante, o cualquier persona que, legalmente, se encuentre bajo su guarda o custodia, padezca enfermedad grave o irreversible que requiera una atención continuada, podrá solicitarse una licencia, con una duración máxima de un año por cada sujeto causante. El inicio de cada nueva licencia por distinto sujeto causante pondrá fin a la licencia que viniera disfrutándose hasta ese momento.
-    
+
 2. A los efectos indicados, la enfermedad deberá ser acreditada con los informes médicos correspondientes.
-    
+
 3. Esta licencia tendrá la consideración de servicios efectivamente prestados. De esta previsión, se excluye el caso del cómputo de las vacaciones anuales. En este supuesto, y cuando la licencia o la suma de las mismas coincida con un mes natural o lo supere, deberá descontarse de las vacaciones anuales el tiempo proporcional de la licencia sin retribución disfrutada.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 48](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=48&source=temario)
-
-Art. 49
+### Artículo 49
 
 ### Licencia para perfeccionamiento profesional
 
 Artículo 49. Licencia para perfeccionamiento profesional
 
 1. La dirección general competente en materia de función pública, a solicitud de la persona interesada, podrá conceder licencias no retribuidas, de una duración máxima de tres meses al año, para la asistencia a otros cursos de perfeccionamiento profesional no contemplados en los artículos 43 y 44 de este decreto, siempre que la gestión del servicio y la organización del trabajo lo permitan.
-    
+
 2. Su concesión requerirá informe favorable del órgano competente en materia de personal de la conselleria o entidad en la que presta servicios la persona interesada.
-    
 
 CAPÍTULO V
 
 Vacaciones
 
-Elegir cuántas
-
-[Hacer test Art. 49](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=49&source=temario)
-
-Art. 50
+### Artículo 50
 
 ### Duración de las vacaciones
 
 Artículo 50. Duración de las vacaciones
 
 1. El personal tendrá derecho a disfrutar cada año natural de unas vacaciones retribuidas de 22 días hábiles, o de los días proporcionales que correspondan si el tiempo de servicios prestados durante el año ha sido menor.
-    
+
 2. En el supuesto de haber completado los años de antigüedad que se indican, se tendrá derecho al disfrute de los siguientes días de vacaciones anuales:
-    
 
 a) A partir de los quince años de servicio: veintitrés días hábiles.
 
@@ -1177,11 +942,7 @@ c) A partir de los veinticinco años de servicio: veinticinco días hábiles.
 
 d) A partir de los treinta años de servicio: veintiséis días hábiles.
 
-Elegir cuántas
-
-[Hacer test Art. 50](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=50&source=temario)
-
-Art. 51
+### Artículo 51
 
 ### Régimen de disfrute de las vacaciones
 
@@ -1198,40 +959,30 @@ c) No obstante lo anterior, 7 días del total de las vacaciones que correspondan
 d) En cualquier caso, el personal funcionario tendrá derecho a disfrutar de las vacaciones dentro del año natural al que correspondan, no pudiendo quedar condicionado este derecho por la necesidad del servicio.
 
 2. El personal podrá solicitar la interrupción del período vacacional durante el tiempo que medie hospitalización justificada no voluntaria que no conlleve incapacidad temporal, pudiendo disfrutar posteriormente los días que le resten de vacaciones de acuerdo con lo previsto en el apartado anterior.
-    
+
 3. En los términos previstos en el artículo 71.2 de la LOGFPV, cuando las situaciones de incapacidad temporal, permisos por nacimiento, adopción, guarda, acogimiento o del progenitor diferente de la madre biológica, riesgo durante la lactancia o riesgo durante el embarazo, impidan iniciar el disfrute de las vacaciones dentro del año natural al que correspondan, o una vez iniciado el periodo vacacional este se viera interrumpido por sobrevenir una de dichas situaciones, este periodo se podrá disfrutar aunque haya terminado el año natural a que correspondan.
-    
+
 4. Las vacaciones no podrán, en ningún caso, ser sustituidas por compensaciones económicas.
-    
 
 No obstante lo anterior, cuando se produzca el cese del personal interino antes de completar el año de servicio y no pudiera disfrutar de las vacaciones por necesidades del servicio, tendrá derecho al abono de la parte proporcional de sus vacaciones con cargo al organismo en la que hubiera prestado sus servicios. En caso de que la causa del cese viniera motivada por un nuevo nombramiento como personal funcionario interino de la Administración de la Generalitat se computarán los servicios prestados como personal interino a efectos del cómputo del período de vacaciones en el nuevo destino, sin que proceda abono alguno por compensación.
 
 5. En el supuesto de jubilación, los 22 días hábiles de vacaciones se disfrutarán en proporción al tiempo trabajado durante el año natural de la misma, mientras que los días adicionales de vacaciones por antigüedad, se podrán disfrutar íntegramente antes de la fecha de jubilación, sin que se aplique el referido criterio de proporcionalidad.
 
-Elegir cuántas
-
-[Hacer test Art. 51](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=51&source=temario)
-
-Art. 52
+### Artículo 52
 
 ### Solicitud de vacaciones
 
 Artículo 52. Solicitud de vacaciones
 
 1. El personal que desee disfrutar de sus vacaciones en el período estival elevará, antes del 1 de mayo, al responsable de su unidad administrativa, una comunicación formal en la que expresará su opción personal de disfrute de vacaciones. El resto del personal deberá solicitarlas con un mes de antelación a la fecha prevista para su inicio.
-    
+
 2. Recibidas las opciones, el órgano competente resolverá, con quince días de antelación a la fecha de inicio prevista, teniendo en cuenta el equilibrio necesario para que los servicios se presten con normalidad.
-    
+
 3. En el caso de que se desee alterar el período de vacaciones ya concedido, se podrá solicitar la modificación mediante petición formal dirigida al órgano competente en materia de personal, tramitada a través de la persona responsable de su unidad, quien deberá informar sobre la oportunidad de conceder lo solicitado.
-    
+
 4. La denegación del período de vacaciones solicitado deberá ser motivada.
-    
 
-Elegir cuántas
-
-[Hacer test Art. 52](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=52&source=temario)
-
-Art. 53
+### Artículo 53
 
 ### Excepciones al régimen general de vacaciones
 
@@ -1239,11 +990,7 @@ Artículo 53. Excepciones al régimen general de vacaciones
 
 El órgano competente de la conselleria u organismo, previa negociación con la representación sindical, podrá establecer las excepciones oportunas al régimen general de vacaciones anuales y fijar los turnos de estas que resulten adecuados, a propuesta razonada de la persona responsable de la unidad administrativa de que se trate, en aquellos servicios que, por la naturaleza y peculiaridad de sus funciones, requieran un régimen especial. En ningún caso podrá minorarse la duración total de las mismas.
 
-Elegir cuántas
-
-[Hacer test Art. 53](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=53&source=temario)
-
-Art. 54
+### Artículo 54
 
 ### Derechos relacionados con el período vacacional
 
@@ -1254,7 +1001,3 @@ Artículo 54. Derechos relacionados con el período vacacional
 En caso de que en una unidad administrativa haya varias personas con derecho a la preferencia prevista en el párrafo anterior, elegirá la de más antigüedad en la Administración, estableciéndose en lo sucesivo un ciclo rotativo entre todas las personas afectadas.
 
 2. En todo caso el personal tendrá derecho a adaptar el disfrute de sus vacaciones en caso de embarazo, víctimas de violencia de género y de actividad terrorista.
-
-Elegir cuántas
-
-[Hacer test Art. 54](https://www.vence.es/leyes/decreto-42-2019-condiciones-trabajo-gva?selected_articles=54&source=temario)

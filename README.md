@@ -10,7 +10,7 @@ Abre `index.html` en el navegador. No requiere instalación. El avance se guarda
 
 - Selector entre las oposiciones GVA y AGE, con progreso separado para cada una.
 - Los 24 temas del Anexo IV de GVA, agrupados en parte general y especial.
-- Índice de los 28 temas del programa AGE (convocatoria 2025) con enlace al BOE.
+- 28 fichas originales de repaso para los temas AGE, con enlaces al programa y a la legislación oficial.
 - Enlaces al DOGV y a normas publicadas por BOE, EUR-Lex o DOGV.
 - Dos preguntas de práctica por tema (48 en total), con corrección y explicación.
 - Exámenes GVA de 2018, 2021, 2022 y 2023, y diez cuestionarios AGE de 2008 a 2025, con acceso a sus PDF. En AGE solo se puntúan las preguntas cuya plantilla está incluida en el JSON.
@@ -18,7 +18,7 @@ Abre `index.html` en el navegador. No requiere instalación. El avance se guarda
 - Seguimiento local de temas estudiados, autoevaluación, preguntas respondidas y fallos pendientes.
 - Repaso de fallos y diseño adaptable a móvil y escritorio.
 
-Las preguntas de práctica son material didáctico, no preguntas oficiales. Los cuestionarios de años anteriores se muestran aparte y corresponden a convocatorias anteriores; conviene contrastar las normas con el programa vigente. El programa oficial AGE se enlaza desde el BOE. En AUX ADM AGE no se encontraron apuntes desarrollados de los temas; la carpeta ADMIN AGE corresponde a otro cuerpo. El temario GVA muestra los archivos locales completos.
+Las preguntas de práctica son material didáctico, no preguntas oficiales. Los cuestionarios de años anteriores se muestran aparte y corresponden a convocatorias anteriores; conviene contrastar las normas con el programa vigente. El programa oficial AGE se enlaza desde el BOE. En AUX ADM AGE no había apuntes desarrollados; se añadieron fichas originales. La carpeta ADMIN AGE corresponde a otro cuerpo. El temario GVA muestra los archivos locales completos.
 
 ## Fuentes de convocatoria
 
@@ -34,6 +34,6 @@ El repositorio incluye un flujo de GitHub Actions que publica la aplicación al 
 2. En el repositorio, abre **Settings → Pages** y selecciona **GitHub Actions** como origen de publicación.
 3. Cuando termine el flujo **Publicar OpoGVA en GitHub Pages** en la pestaña **Actions**, usa la URL que muestra **Settings → Pages** para abrir la app desde cualquier dispositivo.
 
-El flujo publica ambas pantallas, los datos integrados y los PDF de exámenes necesarios; no copia el resto de los archivos locales al sitio. En AUX ADM AGE no hay apuntes desarrollados de temario, por lo que se enlaza el programa oficial del BOE. Si el repositorio es público, el sitio y su contenido también serán accesibles públicamente.
+El flujo publica ambas pantallas, los datos integrados y los PDF de exámenes necesarios; no copia el resto de los archivos locales al sitio. En AUX ADM AGE no había apuntes completos; la app incluye fichas originales y enlaces al programa y a la normativa oficial. Si el repositorio es público, el sitio y su contenido también serán accesibles públicamente.
 
 El progreso se guarda en el almacenamiento local del navegador. Se conserva en cada dispositivo, pero no se sincroniza entre ellos.
