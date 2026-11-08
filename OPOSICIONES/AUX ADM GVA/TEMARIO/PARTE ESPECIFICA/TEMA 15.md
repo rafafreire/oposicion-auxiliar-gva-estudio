@@ -8,11 +8,15 @@ Ley 4/2021, de 16 de abril, de la Función Pública Valenciana (2021)
 
 ### Artículo 1
 
+[[EXAM-REF:2021: pregunta 27]]
+
 ### Objeto
 
-El objeto de la presente ley es la ordenación y regulación de la función pública valenciana, así como de sus instrumentos de gestión y la determinación del régimen jurídico del personal incluido en su ámbito de aplicación, con el alcance que en cada caso se establece, en el ejercicio de las competencias atribuidas por la Constitución Española y por el Estatut d’Autonomia de la Comunitat Valenciana, en el marco de la legislación básica estatal.
+El objeto de la presente ley es [[HIGHLIGHT]]la ordenación y regulación de la función pública valenciana, así como de sus instrumentos de gestión y la determinación del régimen jurídico del personal incluido en su ámbito de aplicación, con el alcance que en cada caso se establece, en el ejercicio de las competencias atribuidas por la Constitución Española y por el Estatut d’Autonomia de la Comunitat Valenciana, en el marco de la legislación básica estatal[[/HIGHLIGHT]].
 
 ### Artículo 2
+
+[[EXAM-REF:2018: pregunta 60|2021: pregunta 29]]
 
 ### Principios informadores
 
@@ -54,11 +58,13 @@ q) Promoción de la estabilidad en el empleo público.
 
 2. A los efectos de esta ley, la función pública valenciana está constituida por el conjunto de personas que prestan servicios retribuidos en la misma mediante una relación regulada por la normativa administrativa o laboral.
 
-3. El personal empleado público, en el desarrollo de sus funciones, para cumplir los objetivos asignados actuará de acuerdo con los principios de imparcialidad, profesionalidad, diligencia, buena fe, confidencialidad, responsabilidad, ejemplaridad y honradez.
+3. [[HIGHLIGHT]]El personal empleado público, en el desarrollo de sus funciones, para cumplir los objetivos asignados actuará de acuerdo con los principios de[[/HIGHLIGHT]] imparcialidad, profesionalidad, diligencia, buena fe, confidencialidad, responsabilidad, ejemplaridad y honradez.
 
 4. Con la finalidad de satisfacer los intereses generales, la Generalitat tiene atribuida la potestad de autoorganización que la faculta, de acuerdo con el ordenamiento jurídico, para estructurar, establecer el régimen jurídico y dirigir y fijar los objetivos de la función pública valenciana.
 
 ### Artículo 3
+
+[[EXAM-REF:2023: pregunta 26]]
 
 ### Ámbito subjetivo de aplicación
 
@@ -127,6 +133,8 @@ c) Personal laboral, ya sea fijo, por tiempo indefinido o temporal.
 d) Personal eventual.
 
 ### Artículo 17
+
+[[EXAM-REF:2022: pregunta 56]]
 
 ### Personal funcionario de carrera
 
@@ -676,6 +684,8 @@ c) Juramento o promesa de acatamiento a la Constitución, al Estatut d’Autonom
 
 ### Artículo 76
 
+[[EXAM-REF:2023: pregunta 30]]
+
 ### Derechos individuales
 
 1. El personal empleado público tiene los siguientes derechos individuales en correspondencia con la naturaleza jurídica de su relación de servicio:
@@ -816,11 +826,13 @@ En todo caso, en la Administración de la Generalitat, cuando la funcionaria red
 
 ### Artículo 80
 
+[[EXAM-REF:2022: pregunta 57]]
+
 ### Permisos
 
 1. El personal funcionario podrá disfrutar de los permisos establecidos en el artículo 48 del texto refundido de la Ley del Estatuto básico del empleado público, aprobado por el Real decreto legislativo 5/2015, de 30 de octubre.
 
-2. Además de los días por asuntos particulares que se establezcan, el personal funcionario tendrá derecho al disfrute de dos días adicionales al cumplir el sexto trienio, incrementándose en un día adicional por cada trienio cumplido a partir del octavo.
+2. Además de los días por asuntos particulares que se establezcan, el personal funcionario tendrá derecho al disfrute de [[HIGHLIGHT]]dos días adicionales al cumplir el sexto trienio, incrementándose en un día adicional por cada trienio cumplido a partir del octavo[[/HIGHLIGHT]].
 
 3. Las funcionarias en estado de gestación disfrutarán de un permiso retribuido a partir del día primero de la semana 37 de embarazo hasta la fecha del parto.
 
@@ -850,6 +862,8 @@ En los términos y condiciones que se establezcan reglamentariamente, el persona
 
 ### Artículo 82
 
+[[EXAM-REF:2023: pregunta 31]]
+
 ### Vacaciones
 
 1. El personal funcionario tendrá derecho a disfrutar durante cada año natural de unas vacaciones retribuidas de 22 días hábiles, o de los días que correspondan si el tiempo de servicio durante el año fue menor, en los términos y condiciones que se determinen reglamentariamente.
@@ -858,7 +872,7 @@ A los efectos de lo previsto en este artículo no se considerarán como días h�
 
 2. Cuando las situaciones de incapacidad temporal, permiso por parto, adopción, guarda con fines de adopción o acogimiento, permiso de paternidad, riesgo durante la lactancia o riesgo durante el embarazo, impidan iniciar el disfrute de las vacaciones dentro del año natural al que correspondan, o una vez iniciado el periodo vacacional sobreviniera una de dichas situaciones, este periodo se podrá disfrutar aunque haya terminado el año natural a que correspondan y siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se hayan originado.
 
-3. En el supuesto de haber completado los años de antigüedad que se indican, se tendrá derecho al disfrute de los siguientes días de vacaciones anuales:
+3. En el supuesto de haber completado los años de antigüedad que se indican, [[HIGHLIGHT]]se tendrá derecho al disfrute de los siguientes días de vacaciones anuales[[/HIGHLIGHT]]:
 
 a) A partir de los quince años de servicio: veintitrés días hábiles.
 
@@ -1052,6 +1066,8 @@ Asimismo, no podrá contraer obligaciones económicas, intervenir en operaciones
 
 ### Artículo 99
 
+[[EXAM-REF:2018: pregunta 62]]
+
 ### Obligaciones
 
 En el ejercicio de las funciones que tenga asignadas, el personal empleado público deberá observar las siguientes obligaciones:
@@ -1072,7 +1088,7 @@ En el ejercicio de las funciones que tenga asignadas, el personal empleado públ
 
 8. Mantener actualizada su formación y cualificación de manera que resulten suficientes para la adecuada prestación del servicio público y el desempeño de las funciones que tenga encomendadas.
 
-9. Observar las normas sobre seguridad y salud laboral.
+9. [[HIGHLIGHT]]Observar las normas sobre seguridad y salud laboral[[/HIGHLIGHT]].
 
 10. Utilizar adecuadamente para el cumplimiento de sus funciones y tareas la información, formación y medios informáticos y telemáticos puestos a su disposición.
 
@@ -1204,6 +1220,8 @@ A tal fin, salvo causa justificada, deberán asistir a las actividades programad
 
 ### Artículo 167
 
+[[EXAM-REF:2021: preguntas 30, 31]]
+
 ### Responsabilidad disciplinaria
 
 1. Incurrirá en responsabilidad disciplinaria el personal empleado público que, en el ejercicio de sus funciones, realice un acto o una conducta tipificada como falta, induzca directamente a otro a su realización o encubra las faltas consumadas muy graves o graves cuando se derive daño grave para la administración o la ciudadanía.
@@ -1212,7 +1230,7 @@ Así mismo, el personal empleado público que induzca a otro a la realización d
 
 2. El personal empleado público que se encuentre en situación administrativa distinta a la de servicio activo podrá incurrir en responsabilidad disciplinaria por las faltas que, en su caso, pueda cometer dentro de su respectiva situación administrativa.
 
-3. Cuando no sea posible el cumplimiento de la sanción en el momento de dictarse la resolución por hallarse en una situación que lo impida, esta se hará efectiva cuando el cambio de situación lo permita, salvo que haya transcurrido el plazo de prescripción.
+3. [[HIGHLIGHT]]Cuando no sea posible el cumplimiento de la sanción en el momento de dictarse la resolución por hallarse en una situación que lo impida, esta se hará efectiva cuando el cambio de situación lo permita, salvo que haya transcurrido el plazo de prescripción[[/HIGHLIGHT]].
 
 Cuando el personal temporal cese por cualquiera de las causas previstas en la presente ley y no haya completado el cumplimiento de la sanción, podrá aplicarse esta a los sucesivos nombramientos salvo que haya transcurrido el tiempo de prescripción.
 
@@ -1254,6 +1272,8 @@ c) Leves.
 
 ### Artículo 170
 
+[[EXAM-REF:2023: pregunta 33]]
+
 ### Faltas muy graves
 
 1. Se considerarán faltas disciplinarias muy graves del personal funcionario público las previstas en la normativa estatal de carácter básico.
@@ -1262,7 +1282,7 @@ c) Leves.
 
 a) El uso excesivo o arbitrario de la autoridad que cause perjuicio grave al servicio o al personal a su cargo.
 
-b) La emisión de informes manifiestamente ilegales que causen perjuicio grave a la Administración o a la ciudadanía.
+b) [[HIGHLIGHT]]La emisión de informes manifiestamente ilegales que causen perjuicio grave a la Administración o a la ciudadanía[[/HIGHLIGHT]].
 
 c) El consumo de alcohol, de sustancias estupefacientes o psicotrópicas que, en el ejercicio de sus funciones, ponga en peligro la integridad física de otras personas.
 
@@ -1279,6 +1299,8 @@ h) La agresión grave a cualquier persona con la que se relacione en ejercicio d
 3. Las faltas muy graves del personal laboral serán las establecidas en la normativa estatal de carácter básico y en los respectivos convenios colectivos.
 
 ### Artículo 171
+
+[[EXAM-REF:2022: pregunta 62]]
 
 ### Faltas graves
 
@@ -1302,7 +1324,7 @@ h) La falta injustificada de rendimiento que afecte al normal funcionamiento de 
 
 i) No guardar el debido sigilo respecto a los asuntos que se conozcan por razón del cargo o función cuando causen perjuicio a la administración o se utilicen en beneficio propio y siempre que mantener este sigilo no suponga tolerancia con la comisión de faltas.
 
-j) El incumplimiento de las normas en materia de incompatibilidades cuando no suponga el mantenimiento de una situación de incompatibilidad.
+j) [[HIGHLIGHT]]El incumplimiento de las normas en materia de incompatibilidades cuando no suponga el mantenimiento de una situación de incompatibilidad[[/HIGHLIGHT]].
 
 k) El incumplimiento injustificado de la jornada de trabajo que acumulado suponga un mínimo de diez horas al mes, o porcentaje equivalente en el caso de que su cómputo no sea mensual.
 

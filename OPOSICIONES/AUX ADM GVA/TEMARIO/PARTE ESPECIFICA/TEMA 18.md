@@ -8,6 +8,8 @@ Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumen
 
 ### Artículo 56
 
+[[EXAM-REF:2023: pregunta 37]]
+
 ### De la gestión económico-financiera
 
 1. La conselleria con competencias en materia de hacienda realizará el seguimiento de la ejecución de los créditos y del cumplimiento de los objetivos de cada programa y, a tal efecto, podrá adoptar las medidas provisionales que considere necesarias, para asegurar tanto el cumplimiento de los compromisos en materia de estabilidad presupuestaria y sostenibilidad financiera, como el logro de los citados objetivos. Dichas medidas deberán ser comunicadas al Consell para su ratificación.
@@ -34,11 +36,13 @@ Dicha revocación podrá tener por objeto:
 
 ### Artículo 58
 
+[[EXAM-REF:2018: pregunta 68|2021: pregunta 38|2022: pregunta 67|2023: preguntas 38, 39, 41]]
+
 ### Fases de ejecución del presupuesto de gastos
 
 1. La ejecución de los créditos consignados en los presupuestos comprenderá las siguientes operaciones:
 
-a) Aprobación del gasto. Es el acto por el cual se autoriza la realización de un gasto por cuantía cierta o aproximada, reservándose, a tal fin, la totalidad o una parte de un crédito presupuestario. La aprobación inicia el procedimiento de ejecución del gasto, sin que implique relaciones con terceros ajenos a la Hacienda Pública de la Generalitat.
+a) Aprobación del gasto. Es el acto por el cual [[HIGHLIGHT]]se autoriza la realización de un gasto por cuantía cierta o aproximada, reservándose, a tal fin, la totalidad o una parte de un crédito presupuestario[[/HIGHLIGHT]]. La aprobación inicia el procedimiento de ejecución del gasto, sin que implique relaciones con terceros ajenos a la Hacienda Pública de la Generalitat.
 
 b) Compromiso o disposición del gasto. Es el acto mediante el cual se acuerda, previos los trámites legales procedentes, la realización de gastos previamente aprobados, por un importe determinado o determinable. La disposición del gasto es un acto con relevancia jurídica para con terceros, que vincula a la Hacienda Pública de la Generalitat a la realización del gasto a que se refiera en la cuantía y condiciones establecidas.
 
@@ -52,9 +56,11 @@ d) Ordenación del pago y pago material. Sin perjuicio de lo establecido en el a
 
 ### Artículo 59
 
+[[EXAM-REF:2018: pregunta 72]]
+
 ### Competencias en materia de gestión de gastos
 
-1. Corresponde a las personas titulares de las consellerias aprobar los gastos y efectuar la disposición de crédito de los servicios propios a su cargo, salvo los casos reservados por la ley a la competencia del Consell. Asimismo, les corresponde reconocer las obligaciones y proponer a la persona titular de la conselleria con competencia en materia de hacienda la ordenación de los correspondientes pagos.
+1. Corresponde a las personas titulares de las consellerias aprobar [[HIGHLIGHT]]los gastos y efectuar la disposición de crédito de los servicios propios a su cargo, salvo los casos reservados por la ley a la competencia del Consell[[/HIGHLIGHT]]. Asimismo, les corresponde reconocer las obligaciones y proponer a la persona titular de la conselleria con competencia en materia de hacienda la ordenación de los correspondientes pagos.
 
 2. Con la misma salvedad legal, corresponde a las personas que ostenten la presidencia o dirección, en caso de no existir presidencia, de los entes con presupuesto limitativo la aprobación, disposición, así como el reconocimiento de las obligaciones correspondientes.
 
@@ -62,9 +68,11 @@ d) Ordenación del pago y pago material. Sin perjuicio de lo establecido en el a
 
 ### Artículo 60
 
+[[EXAM-REF:2018: pregunta 69|2022: pregunta 70]]
+
 ### Ordenación de pagos
 
-1. Corresponde a la persona titular de la conselleria competente en materia de hacienda la ordenación general de pagos en el ámbito de la Administración de la Generalitat. Para el resto de sujetos que conforman el sector público administrativo la competencia corresponderá a las personas que ostenten la presidencia o dirección.
+1. [[HIGHLIGHT]]Corresponde a la persona titular de la conselleria competente en materia de hacienda la ordenación general de pagos en el ámbito de la Administración de la Generalitat. Para el resto de sujetos que conforman el sector público administrativo la competencia corresponderá a las personas que ostenten la presidencia o dirección[[/HIGHLIGHT]].
 
 2. Las órdenes de pago se expedirán a favor de la persona acreedora que figure en la correspondiente propuesta de pago. No obstante, por orden de la persona titular de la conselleria con competencias en materia de hacienda, se podrán regular los supuestos en que puedan expedirse a favor de las Habilitaciones, así como de las entidades colaboradoras y otros agentes mediadores en el pago, que actuarán como intermediarios para su posterior entrega a los acreedores.
 
@@ -114,9 +122,11 @@ El régimen de devengo de intereses previsto en el primer párrafo del presente 
 
 ### Artículo 65
 
+[[EXAM-REF:2021: pregunta 39|2022: pregunta 68]]
+
 ### Gestión del presupuesto de ingresos
 
-1. La gestión del presupuesto de ingresos se realizará en las siguientes fases sucesivas o simultáneas:
+1. [[HIGHLIGHT]]La gestión del presupuesto de ingresos se realizará en[[/HIGHLIGHT]] las siguientes fases sucesivas o simultáneas:
 
 a) Reconocimiento del derecho.
 
@@ -129,6 +139,8 @@ b) Propuesta de ingreso.
 4. De acuerdo con lo establecido en el artículo 11.2 de esta ley, la extinción del derecho podrá producirse en efectivo, en los términos previstos en el artículo 74.2 de esta ley, así como en especie, o por compensación, en los casos previstos en las disposiciones especiales que sean de aplicación. Las extinciones de derechos por otras causas serán objeto de contabilización diferenciada, distinguiendo entre las producidas por anulación de la liquidación y las producidas en el proceso de recaudación por prescripción, condonación o insolvencia.
 
 ### Artículo 66
+
+[[EXAM-REF:2021: pregunta 37]]
 
 ### Devoluciones de ingresos
 

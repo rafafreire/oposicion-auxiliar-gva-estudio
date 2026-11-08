@@ -90,6 +90,8 @@ A estos efectos, se entenderá acreditada la representación realizada mediante 
 
 ### Artículo 6
 
+[[EXAM-REF:2022: pregunta 34|2023: pregunta 1]]
+
 ### Registros electrónicos de apoderamientos
 
 1. La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales dispondrán de un registro electrónico general de apoderamientos, en el que deberán inscribirse, al menos, los de carácter general otorgados apud acta, presencial o electrónicamente, por quien ostente la condición de interesado en un procedimiento administrativo a favor de representante, para actuar en su nombre ante las Administraciones Públicas. También deberá constar el bastanteo realizado del poder.
@@ -104,7 +106,7 @@ Los registros electrónicos generales y particulares de apoderamientos permitir�
 
 Los registros mercantiles, de la propiedad, y de los protocolos notariales serán interoperables con los registros electrónicos generales y particulares de apoderamientos.
 
-3. Los asientos que se realicen en los registros electrónicos generales y particulares de apoderamientos deberán contener, al menos, la siguiente información:
+3. [[HIGHLIGHT]]Los asientos que se realicen en los registros electrónicos generales y particulares de apoderamientos deberán contener, al menos, la siguiente[[/HIGHLIGHT]] información:
 
 a) Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del poderdante.
 
@@ -226,7 +228,9 @@ En este registro o sistema equivalente, al menos, constarán los funcionarios qu
 
 ### Artículo 13
 
-### Derechos de las personas en sus relaciones con las Administraciones Públicas
+[[EXAM-REF:2021: pregunta 1]]
+
+### [[HIGHLIGHT]]Derechos de las personas en sus relaciones con las Administraciones Públicas[[/HIGHLIGHT]]
 
 Quienes de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, de los siguientes derechos:
 
@@ -364,6 +368,8 @@ Reglamentariamente, las Administraciones podrán establecer la obligación de pr
 
 ### Artículo 21
 
+[[EXAM-REF:2022: pregunta 35|2023: pregunta 2]]
+
 ### Obligación de resolver
 
 1. La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.
@@ -376,7 +382,7 @@ Se exceptúan de la obligación a que se refiere el párrafo primero, los supues
 
 Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.
 
-3. Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses. Este plazo y los previstos en el apartado anterior se contarán:
+3. [[HIGHLIGHT]]Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo[[/HIGHLIGHT]], éste será de tres meses. Este plazo y los previstos en el apartado anterior se contarán:
 
 a) En los procedimientos iniciados de oficio, desde la fecha del acuerdo de iniciación.
 
@@ -430,6 +436,8 @@ c) Cuando los interesados promuevan la recusación en cualquier momento de la tr
 
 ### Artículo 24
 
+[[EXAM-REF:2022: pregunta 36|2023: pregunta 3]]
+
 ### Silencio administrativo en procedimientos iniciados a solicitud del interesado
 
 1. En los procedimientos iniciados a solicitud del interesado, sin perjuicio de la resolución que la Administración debe dictar en la forma prevista en el apartado 3 de este artículo, el vencimiento del plazo máximo sin haberse notificado resolución expresa, legitima al interesado o interesados para entenderla estimada por silencio administrativo, excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario. Cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio deberá fundarse en la concurrencia de razones imperiosas de interés general.
@@ -446,7 +454,7 @@ a) En los casos de estimación por silencio administrativo, la resolución expre
 
 b) En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio.
 
-4. Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada. Los mismos producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido, y su existencia puede ser acreditada por cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido. Este certificado se expedirá de oficio por el órgano competente para resolver en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento. Sin perjuicio de lo anterior, el interesado podrá pedirlo en cualquier momento, computándose el plazo indicado anteriormente desde el día siguiente a aquél en que la petición tuviese entrada en el registro electrónico de la Administración u Organismo competente para resolver.
+4. [[HIGHLIGHT]]Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada[[/HIGHLIGHT]]. Los mismos producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido, y su existencia puede ser acreditada por cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido. Este certificado se expedirá de oficio por el órgano competente para resolver en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento. Sin perjuicio de lo anterior, el interesado podrá pedirlo en cualquier momento, computándose el plazo indicado anteriormente desde el día siguiente a aquél en que la petición tuviese entrada en el registro electrónico de la Administración u Organismo competente para resolver.
 
 ### Artículo 25
 
@@ -552,13 +560,15 @@ Los términos y plazos establecidos en ésta u otras leyes obligan a las autorid
 
 ### Artículo 30
 
+[[EXAM-REF:2018: pregunta 32|2021: pregunta 2]]
+
 ### Cómputo de plazos
 
 1. Salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo, cuando los plazos se señalen por horas, se entiende que éstas son hábiles. Son hábiles todas las horas del día que formen parte de un día hábil.
 
 Los plazos expresados por horas se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate y no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.
 
-2. Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.
+2. [[HIGHLIGHT]]Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos[[/HIGHLIGHT]].
 
 Cuando los plazos se hayan señalado por días naturales por declararlo así una ley o por el Derecho de la Unión Europea, se hará constar esta circunstancia en las correspondientes notificaciones.
 
@@ -600,9 +610,11 @@ c) El inicio del cómputo de los plazos que hayan de cumplir las Administracione
 
 ### Artículo 32
 
+[[EXAM-REF:2021: pregunta 3]]
+
 ### Ampliación
 
-1. La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados, una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero. El acuerdo de ampliación deberá ser notificado a los interesados.
+1. La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados, [[HIGHLIGHT]]una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero. El acuerdo de ampliación deberá ser notificado a los interesados[[/HIGHLIGHT]].
 
 2. La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares, así como a aquellos que, sustanciándose en el interior, exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.
 
@@ -614,9 +626,11 @@ c) El inicio del cómputo de los plazos que hayan de cumplir las Administracione
 
 ### Artículo 33
 
+[[EXAM-REF:2018: pregunta 31]]
+
 ### Tramitación de urgencia
 
-1. Cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.
+1. Cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia, por la cual [[HIGHLIGHT]]se reducirán a la mitad los plazos establecidos para el procedimiento ordinario[[/HIGHLIGHT]], salvo los relativos a la presentación de solicitudes y recursos.
 
 2. No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.
 
@@ -629,6 +643,8 @@ c) El inicio del cómputo de los plazos que hayan de cumplir las Administracione
 2. El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos.
 
 ### Artículo 35
+
+[[EXAM-REF:2018: pregunta 34|2023: pregunta 5]]
 
 ### Motivación
 
@@ -652,7 +668,7 @@ h) Las propuestas de resolución en los procedimientos de carácter sancionador,
 
 i) Los actos que se dicten en el ejercicio de potestades discrecionales, así como los que deban serlo en virtud de disposición legal o reglamentaria expresa.
 
-2. La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte.
+2. La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva [[HIGHLIGHT]]se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte[[/HIGHLIGHT]].
 
 ### Artículo 36
 
@@ -666,19 +682,25 @@ i) Los actos que se dicten en el ejercicio de potestades discrecionales, así co
 
 ### Artículo 37
 
+[[EXAM-REF:2018: pregunta 35]]
+
 ### Inderogabilidad singular
 
-1. Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.
+1. [[HIGHLIGHT]]Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general[[/HIGHLIGHT]].
 
 2. Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, así como aquellas que incurran en alguna de las causas recogidas en el artículo 47.
 
 ### Artículo 38
 
+[[EXAM-REF:2021: pregunta 6]]
+
 ### Ejecutividad
 
-Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en esta Ley.
+[[HIGHLIGHT]]Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en esta Ley[[/HIGHLIGHT]].
 
 ### Artículo 39
+
+[[EXAM-REF:2018: pregunta 33|2022: pregunta 33|2023: pregunta 6]]
 
 ### Efectos
 
@@ -686,7 +708,7 @@ Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se
 
 2. La eficacia quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior.
 
-3. Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas.
+3. [[HIGHLIGHT]]Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas[[/HIGHLIGHT]].
 
 4. Las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia deberán ser observadas por el resto de los órganos administrativos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración.
 
@@ -694,11 +716,13 @@ Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se
 
 ### Artículo 40
 
+[[EXAM-REF:2023: pregunta 4]]
+
 ### Notificación
 
 1. El órgano que dicte las resoluciones y actos administrativos los notificará a los interesados cuyos derechos e intereses sean afectados por aquéllos, en los términos previstos en los artículos siguientes.
 
-2. Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado, y deberá contener el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos, sin perjuicio de que los interesados puedan ejercitar, en su caso, cualquier otro que estimen procedente.
+2. Toda notificación deberá ser cursada dentro del plazo de diez días [[HIGHLIGHT]]a partir de la fecha en que el acto haya sido dictado[[/HIGHLIGHT]], y deberá contener el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos, sin perjuicio de que los interesados puedan ejercitar, en su caso, cualquier otro que estimen procedente.
 
 3. Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos previstos en el apartado anterior, surtirán efecto a partir de la fecha en que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución o acto objeto de la notificación, o interponga cualquier recurso que proceda.
 
@@ -707,6 +731,8 @@ Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se
 5. Las Administraciones Públicas podrán adoptar las medidas que consideren necesarias para la protección de los datos personales que consten en las resoluciones y actos administrativos, cuando éstos tengan por destinatarios a más de un interesado.
 
 ### Artículo 41
+
+[[EXAM-REF:2018: pregunta 36|2021: pregunta 5]]
 
 ### Condiciones generales para la práctica de las notificaciones
 
@@ -740,7 +766,7 @@ Cuando no fuera posible realizar la notificación de acuerdo con lo señalado en
 
 5. Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento.
 
-6. Con independencia de que la notificación se realice en papel o por medios electrónicos, las Administraciones Públicas enviarán un aviso al dispositivo electrónico y/o a la dirección de correo electrónico del interesado que éste haya comunicado, informándole de la puesta a disposición de una notificación en la sede electrónica de la Administración u Organismo correspondiente o en la dirección electrónica habilitada única. La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida.
+6. Con independencia de que la notificación se realice en papel o por medios electrónicos, las Administraciones Públicas enviarán un aviso al dispositivo electrónico y/o a la dirección de [[HIGHLIGHT]]correo electrónico del interesado que éste haya comunicado, informándole de la puesta a disposición de una notificación en la sede electrónica de la Administración u Organismo correspondiente o en la dirección electrónica habilitada única[[/HIGHLIGHT]]. La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida.
 
 7. Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de aquélla que se hubiera producido en primer lugar.
 
@@ -756,6 +782,8 @@ Cuando no fuera posible realizar la notificación de acuerdo con lo señalado en
 
 ### Artículo 43
 
+[[EXAM-REF:2022: pregunta 31]]
+
 ### Práctica de las notificaciones a través de medios electrónicos
 
 1. Las notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o mediante ambos sistemas, según disponga cada Administración u Organismo.
@@ -764,7 +792,7 @@ A los efectos previstos en este artículo, se entiende por comparecencia en la s
 
 2. Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido.
 
-Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.
+[[HIGHLIGHT]]Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días[[/HIGHLIGHT]] naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.
 
 3. Se entenderá cumplida la obligación a la que se refiere el artículo 40.4 con la puesta a disposición de la notificación en la sede electrónica de la Administración u Organismo actuante o en la dirección electrónica habilitada única.
 
@@ -810,11 +838,13 @@ Adicionalmente y de manera facultativa, las Administraciones podrán establecer 
 
 ### Artículo 47
 
+[[EXAM-REF:2021: pregunta 7|2022: pregunta 32|2023: pregunta 8]]
+
 ### Nulidad de pleno derecho
 
 1. Los actos de las Administraciones Públicas son nulos de pleno derecho en los casos siguientes:
 
-a) Los que lesionen los derechos y libertades susceptibles de amparo constitucional.
+a) Los que [[HIGHLIGHT]]lesionen los derechos y libertades susceptibles de amparo constitucional[[/HIGHLIGHT]].
 
 b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.
 
@@ -832,27 +862,33 @@ g) Cualquier otro que se establezca expresamente en una disposición con rango d
 
 ### Artículo 48
 
+[[EXAM-REF:2018: preguntas 38, 39|2021: pregunta 8|2022: pregunta 45]]
+
 ### Anulabilidad
 
 1. Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.
 
-2. No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.
+2. No obstante, [[HIGHLIGHT]]el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados[[/HIGHLIGHT]].
 
 3. La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.
 
 ### Artículo 49
 
+[[EXAM-REF:2018: pregunta 37]]
+
 ### Límites a la extensión de la nulidad o anulabilidad de los actos
 
-1. La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.
+1. [[HIGHLIGHT]]La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero[[/HIGHLIGHT]].
 
 2. La nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquélla, salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.
 
 ### Artículo 50
 
+[[EXAM-REF:2021: pregunta 9|2023: pregunta 9]]
+
 ### Conversión de actos viciados
 
-Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.
+[[HIGHLIGHT]]Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste[[/HIGHLIGHT]].
 
 ### Artículo 51
 
@@ -862,6 +898,8 @@ El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la 
 
 ### Artículo 52
 
+[[EXAM-REF:2022: pregunta 37|2023: pregunta 10]]
+
 ### Convalidación
 
 1. La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.
@@ -870,4 +908,4 @@ El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la 
 
 3. Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado.
 
-4. Si el vicio consistiese en la falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano competente.
+4. [[HIGHLIGHT]]Si el vicio consistiese en la falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano competente[[/HIGHLIGHT]].

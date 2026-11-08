@@ -8,15 +8,19 @@ Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumen
 
 ### Artículo 24
 
+[[EXAM-REF:2023: pregunta 35]]
+
 ### Principios y reglas de programación presupuestaria
 
 1. La programación presupuestaria de la Generalitat se regirá por los principios de estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, eficiencia en la asignación y utilización de los recursos públicos, responsabilidad y lealtad institucional.
 
 En todo caso, la Generalitat, en el ejercicio de sus competencias financieras, velará por el equilibrio territorial dentro de la Comunitat y por la realización interna del principio de solidaridad.
 
-2. Las disposiciones legales y reglamentarias, en su fase de elaboración y aprobación, los actos administrativos, los contratos y los convenios de colaboración y, en general cualquier actuación o decisión que afecte a los gastos o ingresos públicos presentes o futuros, adoptadas en el ámbito del sector público de la Generalitat valorarán, con carácter previo, sus repercusiones y efectos, y se supeditarán de forma estricta al cumplimiento de las exigencias de los principios de estabilidad presupuestaria y sostenibilidad financiera y a los escenarios presupuestarios plurianuales.
+2. Las disposiciones legales y reglamentarias, en su fase de elaboración y aprobación, los actos administrativos, los contratos y los convenios de colaboración y, en general cualquier actuación o decisión que afecte a los gastos o ingresos públicos presentes o futuros, adoptadas en el ámbito [[HIGHLIGHT]]del sector público de la Generalitat[[/HIGHLIGHT]] valorarán, con carácter previo, sus repercusiones y efectos, y se supeditarán de forma estricta al cumplimiento de las exigencias de los principios de estabilidad presupuestaria y sostenibilidad financiera y a los escenarios presupuestarios plurianuales.
 
 ### Artículo 25
+
+[[EXAM-REF:2018: pregunta 66|2022: pregunta 71]]
 
 ### Principios y reglas de gestión presupuestaria
 
@@ -74,11 +78,13 @@ Los Presupuestos de la Generalitat se adecuarán a los principios que rigen la p
 
 ### Artículo 31
 
+[[EXAM-REF:2018: pregunta 67]]
+
 ### Alcance subjetivo y contenido
 
 1. Los Presupuestos de la Generalitat estarán integrados por:
 
-a) Los presupuestos de los sujetos del sector público administrativo.
+a) Los presupuestos de [[HIGHLIGHT]]los sujetos del sector público administrativo[[/HIGHLIGHT]].
 
 b) Los presupuestos de explotación y capital de las entidades del sector público empresarial y fundacional.
 
@@ -95,6 +101,8 @@ c) Los objetivos a alcanzar en el ejercicio por cada uno de los gestores respons
 d) La estimación de los beneficios fiscales que afecten a los tributos de la Generalitat y a aquellos cuyo rendimiento se cede por el Estado a la Generalitat, detallando para cada tipo de impuesto el importe de los beneficios fiscales correspondientes a normativa estatal y a normativa de la Comunitat Valenciana.
 
 ### Artículo 32
+
+[[EXAM-REF:2018: pregunta 71]]
 
 ### Los créditos y programas de gasto
 
@@ -128,9 +136,11 @@ f) Los indicadores de ejecución asociados a cada uno de los objetivos seleccion
 
 ### Artículo 33
 
+[[EXAM-REF:2021: pregunta 36|2022: pregunta 65]]
+
 ### Procedimiento de elaboración
 
-1. Aprobados los objetivos de estabilidad y deuda pública, así como la regla de gasto, el Consell, a propuesta de la persona titular de la conselleria con competencias en materia de hacienda, acordará el límite máximo de gasto no financiero de los Presupuestos de la Generalitat para el siguiente ejercicio, con la extensión y de la forma prevista en la normativa en materia de estabilidad presupuestaria y sostenibilidad financiera.
+1. Aprobados los objetivos de estabilidad y deuda pública, así como la regla de gasto, el Consell, a propuesta de la persona titular de la conselleria con competencias en materia de hacienda, [[HIGHLIGHT]]acordará el límite máximo de gasto no financiero de los Presupuestos de la Generalitat para el siguiente ejercicio[[/HIGHLIGHT]], con la extensión y de la forma prevista en la normativa en materia de estabilidad presupuestaria y sostenibilidad financiera.
 
 2. La persona titular de la conselleria con competencias en materia de hacienda fijará por orden el procedimiento y los plazos para la elaboración de los Presupuestos de la Generalitat.
 
@@ -148,9 +158,11 @@ Las instituciones de la Generalitat y las consellerias remitirán a la conseller
 
 ### Artículo 34
 
+[[EXAM-REF:2021: preguntas 34, 35|2022: pregunta 69]]
+
 ### Remisión a Les Corts
 
-1. El Proyecto de Ley de Presupuestos de la Generalitat, integrado por el articulado con sus anexos y los estados de gastos y de ingresos, con el nivel de especificación establecido en los artículos 37 y 38 de esta ley se remitirá a Les Corts antes del 1 de noviembre de cada año, para su examen y aprobación o, en su caso, enmienda o devolución al Consell.
+1. [[HIGHLIGHT]]El Proyecto de Ley de Presupuestos de la Generalitat, integrado por el articulado con sus anexos y los estados de gastos y de ingresos[[/HIGHLIGHT]], con el nivel de especificación establecido en los artículos 37 y 38 de esta ley se remitirá a Les Corts antes del 1 de noviembre de cada año, para su examen y aprobación o, en su caso, enmienda o devolución al Consell.
 
 2. El Proyecto de Ley de Presupuestos de la Generalitat, irá acompañado de la siguiente documentación:
 
@@ -196,6 +208,8 @@ La estructura de los Presupuestos de la Generalitat y de sus anexos se determina
 
 ### Artículo 37
 
+[[EXAM-REF:2022: pregunta 63|2023: pregunta 34]]
+
 ### Estructura de los estados de gastos de los Presupuestos de la Generalitat
 
 Los estados de gastos de los presupuestos de los sujetos con presupuesto limitativo se estructurarán de acuerdo con las siguientes clasificaciones:
@@ -214,13 +228,15 @@ El Fondo de Contingencia recogerá la dotación para atender necesidades de car�
 
 En los créditos para operaciones financieras se distinguirán las de activos financieros y las de pasivos financieros.
 
-Los capítulos se desglosarán en artículos y estos, a su vez, en conceptos que podrán dividirse en subconceptos.
+[[HIGHLIGHT]]Los capítulos se desglosarán en artículos y estos, a su vez, en conceptos que[[/HIGHLIGHT]] podrán dividirse en subconceptos.
 
 d) La clasificación territorial que agrupará por provincias, comarcas o municipios, los créditos asignados a los distintos centros gestores del gasto.
 
 ### Artículo 38
 
-### Estructura de los estados de ingresos de los Presupuestos de la Generalitat
+[[EXAM-REF:2022: pregunta 64]]
+
+### Estructura [[HIGHLIGHT]]de los estados de ingresos de los Presupuestos de la Generalitat[[/HIGHLIGHT]]
 
 Los estados de ingresos de los presupuestos de los sujetos con presupuesto limitativo se estructurarán siguiendo las clasificaciones orgánica y económica:
 

@@ -120,6 +120,8 @@ Los niveles habituales son 75 %, 100 %, 125 %, 150 %, 200 %. También se puede u
 ## 2. Pestañas del Ribbon: contenido detallado
 
 ### 2.1. Pestaña Inicio
+[[EXAM-REF:2018: pregunta 75]]
+
 
 Es la pestaña que aparece seleccionada por defecto al abrir Word. Contiene los comandos de edición y formato más habituales, agrupados en:
 
@@ -127,7 +129,7 @@ Es la pestaña que aparece seleccionada por defecto al abrir Word. Contiene los 
 
 - Pegar (Ctrl+V) — con opciones de pegado especial
 
-- Cortar (Ctrl+X)
+- [[HIGHLIGHT]]Cortar (Ctrl+X)[[/HIGHLIGHT]]
 
 - Copiar (Ctrl+C)
 
@@ -628,6 +630,8 @@ Características del autoguardado:
 ---
 
 ## 4. Formatos de archivo en Word 365
+[[EXAM-REF:2022: pregunta 72|2023: pregunta 44]]
+
 
 El formato de archivo determina cómo se almacena el contenido del documento. Word 365 puede abrir y guardar en múltiples formatos. Los más relevantes para las oposiciones son:
 
@@ -640,7 +644,7 @@ El formato de archivo determina cómo se almacena el contenido del documento. Wo
 |**.dotm**|Plantilla con macros|Plantilla que permite almacenar macros VBA. La plantilla Normal.dotm es la que usa Word por defecto.|
 |**.pdf**|Portable Document Format|Formato de Adobe para distribución. Word puede exportar a PDF sin necesidad de software adicional.|
 |**.xps**|XML Paper Specification|Alternativa de Microsoft al PDF, con diseño fijo.|
-|**.odt**|OpenDocument Text|Estándar ISO/IEC 26300. Formato nativo de LibreOffice Writer y OpenOffice. Word puede abrir y guardar en este formato.|
+|**[[HIGHLIGHT]].odt[[/HIGHLIGHT]]**|OpenDocument Text|Estándar ISO/IEC 26300. Formato nativo de LibreOffice Writer y OpenOffice. Word puede abrir y guardar en este formato.|
 |**.rtf**|Rich Text Format|Formato de intercambio que conserva el formato básico y es compatible con la mayoría de procesadores de texto.|
 |**.txt**|Texto sin formato|Solo guarda el texto, sin ningún tipo de formato. Puede perderse información al guardar.|
 |**.htm / .html**|Página web|Guarda el documento como página web, con o sin archivos auxiliares.|
@@ -1468,6 +1472,8 @@ Un **estilo** es un conjunto de características de formato (fuente, tamaño, al
 La **galería de estilos** se encuentra en la ficha **Inicio**, grupo **Estilos**. Muestra miniaturas de los estilos más usados. El botón con flecha desplegable permite ver todos los estilos disponibles.
 
 ### 3.3 Estilos predefinidos principales
+[[EXAM-REF:2022: pregunta 73]]
+
 
 |Estilo|Uso típico|
 |---|---|
@@ -1483,7 +1489,7 @@ La **galería de estilos** se encuentra en la ficha **Inicio**, grupo **Estilos*
 |Referencia intensa|Negrita + color de acento + versalitas|
 |Código|Fuente monoespaciada para código|
 
-Los estilos **Título 1 a Título 9** son especialmente importantes porque generan la estructura del documento (usada en el Panel de navegación, tabla de contenido automática, etc.).
+Los estilos **Título 1 a Título 9** son especialmente importantes porque [[HIGHLIGHT]]generan la estructura del documento[[/HIGHLIGHT]] (usada en el Panel de navegación, tabla de contenido automática, etc.).
 
 ### 3.4 Crear y modificar estilos
 
@@ -7289,6 +7295,8 @@ El comando Subtotal inserta filas de subtotal automáticas en una lista de datos
 ---
 
 ## Función SUBTOTALES
+[[EXAM-REF:2021: pregunta 44]]
+
 
 Sintaxis: `=SUBTOTALES(núm_función; ref1; [ref2]; ...)`
 
@@ -7306,7 +7314,7 @@ Calcula un subtotal de una lista o base de datos. A diferencia de funciones como
 |---|---|---|
 |1|101|PROMEDIO|
 |2|102|CONTAR|
-|3|103|CONTARA|
+|3|103|[[HIGHLIGHT]]CONTARA[[/HIGHLIGHT]]|
 |4|104|MAX|
 |5|105|MIN|
 |6|106|PRODUCTO|

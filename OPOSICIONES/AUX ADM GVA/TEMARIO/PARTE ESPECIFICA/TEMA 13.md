@@ -14,6 +14,8 @@ La presente Ley establece y regula las bases del régimen jurídico de las Admin
 
 ### Artículo 2
 
+[[EXAM-REF:2022: pregunta 46]]
+
 ### Ámbito Subjetivo
 
 1. La presente Ley se aplica al sector público que comprende:
@@ -30,7 +32,7 @@ d) El sector público institucional.
 
 a) Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.
 
-b) Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas, en particular a los principios previstos en el artículo 3, y en todo caso, cuando ejerzan potestades administrativas.
+b) [[HIGHLIGHT]]Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas[[/HIGHLIGHT]] que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas, en particular a los principios previstos en el artículo 3, y en todo caso, cuando ejerzan potestades administrativas.
 
 c) Las Universidades públicas que se regirán por su normativa específica y supletoriamente por las previsiones de la presente Ley.
 
@@ -82,13 +84,15 @@ k) Cooperación, colaboración y coordinación entre las Administraciones Públi
 
 ### Artículo 5
 
+[[EXAM-REF:2018: pregunta 46]]
+
 ### Órganos administrativos
 
 1. Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo.
 
 2. Corresponde a cada Administración Pública delimitar, en su respectivo ámbito competencial, las unidades administrativas que configuran los órganos administrativos propios de las especialidades derivadas de su organización.
 
-3. La creación de cualquier órgano administrativo exigirá, al menos, el cumplimiento de los siguientes requisitos:
+3. [[HIGHLIGHT]]La creación de cualquier órgano administrativo exigirá, al menos, el cumplimiento de[[/HIGHLIGHT]] los siguientes requisitos:
 
 a) Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica.
 
@@ -118,6 +122,8 @@ En tal caso, dichos servicios no podrán estar sujetos a dependencia jerárquica
 
 ### Artículo 8
 
+[[EXAM-REF:2018: preguntas 47, 50|2021: pregunta 16|2022: pregunta 47|2023: pregunta 16]]
+
 ### Competencia
 
 1. La competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación, cuando se efectúen en los términos previstos en ésta u otras leyes.
@@ -126,9 +132,11 @@ La delegación de competencias, las encomiendas de gestión, la delegación de f
 
 2. La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos en los términos y con los requisitos que prevean las propias normas de atribución de competencias.
 
-3. Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de la materia y del territorio. Si existiera más de un órgano inferior competente por razón de materia y territorio, la facultad para instruir y resolver los expedientes corresponderá al superior jerárquico común de estos.
+3. [[HIGHLIGHT]]Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de la materia y del territorio[[/HIGHLIGHT]]. Si existiera más de un órgano inferior competente por razón de materia y territorio, la facultad para instruir y resolver los expedientes corresponderá al superior jerárquico común de estos.
 
 ### Artículo 9
+
+[[EXAM-REF:2018: pregunta 49]]
 
 ### Delegación de competencias
 
@@ -158,7 +166,7 @@ No constituye impedimento para que pueda delegarse la competencia para resolver 
 
 6. La delegación será revocable en cualquier momento por el órgano que la haya conferido.
 
-7. El acuerdo de delegación de aquellas competencias atribuidas a órganos colegiados, para cuyo ejercicio se requiera un quórum o mayoría especial, deberá adoptarse observando, en todo caso, dicho quórum o mayoría.
+7. [[HIGHLIGHT]]El acuerdo de delegación de aquellas competencias atribuidas a órganos colegiados, para cuyo ejercicio se requiera un quórum o mayoría especial, deberá adoptarse observando, en todo caso, dicho quórum o mayoría[[/HIGHLIGHT]].
 
 ### Artículo 10
 
@@ -174,9 +182,11 @@ Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en e
 
 ### Artículo 11
 
+[[EXAM-REF:2021: pregunta 18]]
+
 ### Encomiendas de gestión
 
-1. La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público podrá ser encomendada a otros órganos o Entidades de Derecho Público de la misma o de distinta Administración, siempre que entre sus competencias estén esas actividades, por razones de eficacia o cuando no se posean los medios técnicos idóneos para su desempeño.
+1. [[HIGHLIGHT]]La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público podrá ser encomendada a otros órganos o Entidades de Derecho Público de la misma o de distinta Administración, siempre que entre sus competencias estén esas actividades, por razones de eficacia o cuando no se posean los medios técnicos idóneos para su desempeño[[/HIGHLIGHT]].
 
 Las encomiendas de gestión no podrán tener por objeto prestaciones propias de los contratos regulados en la legislación de contratos del sector público. En tal caso, su naturaleza y régimen jurídico se ajustará a lo previsto en ésta.
 
@@ -194,11 +204,13 @@ b) Cuando la encomienda de gestión se realice entre órganos y Entidades de Der
 
 ### Artículo 12
 
+[[EXAM-REF:2021: pregunta 17|2023: pregunta 17]]
+
 ### Delegación de firma
 
 1. Los titulares de los órganos administrativos podrán, en materias de su competencia, que ostenten, bien por atribución, bien por delegación de competencias, delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos o unidades administrativas que de ellos dependan, dentro de los límites señalados en el artículo 9.
 
-2. La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.
+2. [[HIGHLIGHT]]La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación[[/HIGHLIGHT]].
 
 3. En las resoluciones y actos que se firmen por delegación se hará constar esta circunstancia y la autoridad de procedencia.
 
@@ -258,6 +270,8 @@ Cuando se trate de un órgano colegiado a los que se refiere el apartado 2 de e
 
 ### Artículo 17
 
+[[EXAM-REF:2018: pregunta 48]]
+
 ### Convocatorias y sesiones
 
 1. Todos los órganos colegiados se podrán constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario.
@@ -283,6 +297,8 @@ Salvo que no resulte posible, las convocatorias serán remitidas a los miembros 
 7. Quienes acrediten la titularidad de un interés legítimo podrán dirigirse al Secretario de un órgano colegiado para que les sea expedida certificación de sus acuerdos. La certificación será expedida por medios electrónicos, salvo que el interesado manifieste expresamente lo contrario y no tenga obligación de relacionarse con las Administraciones por esta vía.
 
 ### Artículo 18
+
+[[EXAM-REF:2022: pregunta 48]]
 
 ### Actas
 

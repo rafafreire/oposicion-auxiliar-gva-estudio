@@ -8,6 +8,8 @@ Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Adm
 
 ### Artículo 53
 
+[[EXAM-REF:2021: pregunta 10]]
+
 ### Derechos del interesado en el procedimiento administrativo
 
 1. Además del resto de derechos previstos en esta Ley, los interesados en un procedimiento administrativo, tienen los siguientes derechos:
@@ -20,7 +22,7 @@ b) A identificar a las autoridades y al personal al servicio de las Administraci
 
 c) A no presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario. En caso de que, excepcionalmente, deban presentar un documento original, tendrán derecho a obtener una copia autenticada de éste.
 
-d) A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.
+d) A no [[HIGHLIGHT]]presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas[[/HIGHLIGHT]].
 
 e) A formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.
 
@@ -56,9 +58,11 @@ Las actuaciones previas serán realizadas por los órganos que tengan atribuidas
 
 ### Artículo 56
 
+[[EXAM-REF:2021: pregunta 11]]
+
 ### Medidas provisionales
 
-1. Iniciado el procedimiento, el órgano administrativo competente para resolver, podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes para ello, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.
+1. [[HIGHLIGHT]]Iniciado el procedimiento, el órgano administrativo competente para resolver, podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes para ello, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad[[/HIGHLIGHT]].
 
 2. Antes de la iniciación del procedimiento administrativo, el órgano competente para iniciar o instruir el procedimiento, de oficio o a instancia de parte, en los casos de urgencia inaplazable y para la protección provisional de los intereses implicados, podrá adoptar de forma motivada las medidas provisionales que resulten necesarias y proporcionadas. Las medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.
 
@@ -92,6 +96,8 @@ En todo caso, se extinguirán cuando surta efectos la resolución administrativa
 
 ### Artículo 57
 
+[[EXAM-REF:2022: pregunta 38]]
+
 ### Acumulación
 
 El órgano administrativo que inicie o tramite un procedimiento, cualquiera que haya sido la forma de su iniciación, podrá disponer, de oficio o a instancia de parte, su acumulación a otros con los que guarde identidad sustancial o íntima conexión, siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento.
@@ -106,9 +112,11 @@ Los procedimientos se iniciarán de oficio por acuerdo del órgano competente, b
 
 ### Artículo 59
 
+[[EXAM-REF:2021: pregunta 12]]
+
 ### Inicio del procedimiento a propia iniciativa
 
-Se entiende por propia iniciativa, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación.
+[[HIGHLIGHT]]Se entiende por propia iniciativa, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación[[/HIGHLIGHT]].
 
 ### Artículo 60
 
@@ -238,9 +246,11 @@ En los casos de responsabilidad patrimonial a que se refiere el artículo 32, a
 
 ### Artículo 68
 
+[[EXAM-REF:2023: pregunta 12]]
+
 ### Subsanación y mejora de la solicitud
 
-1. Si la solicitud de iniciación no reúne los requisitos que señala el artículo 66, y, en su caso, los que señala el artículo 67 u otros exigidos por la legislación específica aplicable, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21.
+1. Si la solicitud de iniciación no reúne los requisitos que señala el artículo 66, y, en su caso, los que señala el artículo 67 u otros exigidos por la legislación específica aplicable, [[HIGHLIGHT]]se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos[[/HIGHLIGHT]], con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21.
 
 2. Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales.
 
@@ -284,9 +294,11 @@ Asimismo, la resolución de la Administración Pública que declare tales circun
 
 ### Artículo 71
 
+[[EXAM-REF:2018: pregunta 45]]
+
 ### Impulso
 
-1. El procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad.
+1. [[HIGHLIGHT]]El procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y[[/HIGHLIGHT]] a través de medios electrónicos, respetando los principios de transparencia y publicidad.
 
 2. En el despacho de los expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza, salvo que por el titular de la unidad administrativa se dé orden motivada en contrario, de la que quede constancia.
 
@@ -342,6 +354,8 @@ Unos y otros serán tenidos en cuenta por el órgano competente al redactar la c
 
 ### Artículo 77
 
+[[EXAM-REF:2022: pregunta 39]]
+
 ### Medios y período de prueba
 
 1. Los hechos relevantes para la decisión de un procedimiento podrán acreditarse por cualquier medio de prueba admisible en Derecho, cuya valoración se realizará de acuerdo con los criterios establecidos en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
@@ -358,7 +372,7 @@ A los efectos de lo dispuesto en el párrafo anterior, el órgano administrativo
 
 5. Los documentos formalizados por los funcionarios a los que se reconoce la condición de autoridad y en los que, observándose los requisitos legales correspondientes se recojan los hechos constatados por aquéllos harán prueba de éstos salvo que se acredite lo contrario.
 
-6. Cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que éste tiene carácter preceptivo.
+6. Cuando la prueba [[HIGHLIGHT]]consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que éste tiene[[/HIGHLIGHT]] carácter preceptivo.
 
 7. Cuando la valoración de las pruebas practicadas pueda constituir el fundamento básico de la decisión que se adopte en el procedimiento, por ser pieza imprescindible para la correcta evaluación de los hechos, deberá incluirse en la propuesta de resolución.
 
@@ -588,19 +602,23 @@ En los procedimientos iniciados de oficio, la Administración podrá desistir, m
 
 ### Artículo 95
 
+[[EXAM-REF:2018: pregunta 41]]
+
 ### Requisitos y efectos
 
 1. En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento. Consumido este plazo sin que el particular requerido realice las actividades necesarias para reanudar la tramitación, la Administración acordará el archivo de las actuaciones, notificándoselo al interesado. Contra la resolución que declare la caducidad procederán los recursos pertinentes.
 
 2. No podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución. Dicha inactividad no tendrá otro efecto que la pérdida de su derecho al referido trámite.
 
-3. La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.
+3. [[HIGHLIGHT]]La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción[[/HIGHLIGHT]].
 
 En los casos en los que sea posible la iniciación de un nuevo procedimiento por no haberse producido la prescripción, podrán incorporarse a éste los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse producido la caducidad. En todo caso, en el nuevo procedimiento deberán cumplimentarse los trámites de alegaciones, proposición de prueba y audiencia al interesado.
 
 4. Podrá no ser aplicable la caducidad en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento.
 
 ### Artículo 96
+
+[[EXAM-REF:2018: pregunta 40|2022: pregunta 40|2023: pregunta 11]]
 
 ### Tramitación simplificada del procedimiento administrativo común
 
@@ -616,7 +634,7 @@ En cualquier momento del procedimiento anterior a su resolución, el órgano com
 
 5. En el caso de procedimientos de naturaleza sancionadora, se podrá adoptar la tramitación simplificada del procedimiento cuando el órgano competente para iniciar el procedimiento considere que, de acuerdo con lo previsto en su normativa reguladora, existen elementos de juicio suficientes para calificar la infracción como leve, sin que quepa la oposición expresa por parte del interesado prevista en el apartado 2.
 
-6. Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, y constarán únicamente de los siguientes trámites:
+6. [[HIGHLIGHT]]Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en[[/HIGHLIGHT]] treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, y constarán únicamente de los siguientes trámites:
 
 a) Inicio del procedimiento de oficio o a solicitud del interesado.
 
@@ -650,9 +668,11 @@ h) Resolución.
 
 ### Artículo 98
 
+[[EXAM-REF:2021: pregunta 4]]
+
 ### Ejecutoriedad
 
-1. Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que:
+1. [[HIGHLIGHT]]Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que[[/HIGHLIGHT]]:
 
 a) Se produzca la suspensión de la ejecución del acto.
 
@@ -706,9 +726,11 @@ d) Compulsión sobre las personas.
 
 ### Artículo 102
 
+[[EXAM-REF:2022: pregunta 41|2023: pregunta 7]]
+
 ### Ejecución subsidiaria
 
-1. Habrá lugar a la ejecución subsidiaria cuando se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado.
+1. Habrá lugar a la ejecución subsidiaria [[HIGHLIGHT]]cuando se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado[[/HIGHLIGHT]].
 
 2. En este caso, las Administraciones Públicas realizarán el acto, por sí o a través de las personas que determinen, a costa del obligado.
 
@@ -772,6 +794,8 @@ Contra los actos firmes en vía administrativa, sólo procederá el recurso extr
 
 ### Artículo 114
 
+[[EXAM-REF:2021: pregunta 14]]
+
 ### Fin de la vía administrativa
 
 1. Ponen fin a la vía administrativa:
@@ -780,7 +804,7 @@ a) Las resoluciones de los recursos de alzada.
 
 b) Las resoluciones de los procedimientos a que se refiere el artículo 112.2.
 
-c) Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.
+c) [[HIGHLIGHT]]Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que[[/HIGHLIGHT]] una Ley establezca lo contrario.
 
 d) Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento.
 
@@ -860,9 +884,11 @@ La suspensión se prolongará después de agotada la vía administrativa cuando,
 
 ### Artículo 118
 
+[[EXAM-REF:2023: pregunta 15]]
+
 ### Audiencia de los interesados
 
-1. Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.
+1. [[HIGHLIGHT]]Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes[[/HIGHLIGHT]].
 
 No se tendrán en cuenta en la resolución de los recursos, hechos, documentos o alegaciones del recurrente, cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho. Tampoco podrá solicitarse la práctica de pruebas cuando su falta de realización en el procedimiento en el que se dictó la resolución recurrida fuera imputable al interesado.
 
@@ -894,11 +920,13 @@ La interposición del correspondiente recurso por un interesado, no afectará a 
 
 ### Artículo 121
 
+[[EXAM-REF:2018: pregunta 43|2022: pregunta 43]]
+
 ### Objeto
 
 1. Las resoluciones y actos a que se refiere el artículo 112.1, cuando no pongan fin a la vía administrativa, podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó. A estos efectos, los Tribunales y órganos de selección del personal al servicio de las Administraciones Públicas y cualesquiera otros que, en el seno de éstas, actúen con autonomía funcional, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos.
 
-2. El recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.
+2. El recurso [[HIGHLIGHT]]podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo[[/HIGHLIGHT]].
 
 Si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente en el plazo de diez días, con su informe y con una copia completa y ordenada del expediente.
 
@@ -906,9 +934,11 @@ El titular del órgano que dictó el acto recurrido será responsable directo de
 
 ### Artículo 122
 
+[[EXAM-REF:2023: preguntas 13, 14]]
+
 ### Plazos
 
-1. El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.
+1. [[HIGHLIGHT]]El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos[[/HIGHLIGHT]].
 
 Si el acto no fuera expreso, el solicitante y otros posibles interesados podrán interponer recurso de alzada en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo.
 
@@ -938,9 +968,11 @@ Si el acto no fuera expreso, el solicitante y otros posibles interesados podrán
 
 ### Artículo 125
 
+[[EXAM-REF:2022: pregunta 44]]
+
 ### Objeto y plazos
 
-1. Contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión ante el órgano administrativo que los dictó, que también será el competente para su resolución, cuando concurra alguna de las circunstancias siguientes:
+1. Contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión [[HIGHLIGHT]]ante el órgano administrativo que los dictó, que también será el competente para su resolución, cuando concurra alguna de las circunstancias[[/HIGHLIGHT]] siguientes:
 
 a) Que al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente.
 

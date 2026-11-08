@@ -576,11 +576,13 @@ TREBEP.
 
 ### Artículo 28
 
+[[EXAM-REF:2022: pregunta 60]]
+
 ### Permiso por nacimiento de hijas o hijos prematuros
 
 Artículo 28. Permiso por nacimiento de hijas o hijos prematuros
 
-Por nacimiento de hijas o hijos prematuros o que por cualquier otra causa deban permanecer hospitalizados a continuación del parto, el personal tendrá derecho a ausentarse durante un máximo de dos horas diarias percibiendo las retribuciones íntegras.
+Por nacimiento de hijas o hijos prematuros o que por cualquier otra causa deban permanecer hospitalizados a continuación del parto, el personal [[HIGHLIGHT]]tendrá derecho a ausentarse durante un máximo de dos horas diarias percibiendo las retribuciones íntegras[[/HIGHLIGHT]].
 
 ### Artículo 29
 
@@ -874,13 +876,15 @@ Sección 2.ª Licencias sin retribución
 
 ### Artículo 46
 
+[[EXAM-REF:2022: pregunta 61]]
+
 ### Disposiciones comunes a las licencias sin retribución
 
 Artículo 46. Disposiciones comunes a las licencias sin retribución
 
 1. Las licencias sin retribución, en cualquier caso, deberán comprender períodos continuados e ininterrumpidos.
 
-2. Para poder solicitar una nueva licencia será necesario que transcurran, como mínimo, tres días laborables entre el período que se solicita y el anteriormente disfrutado.
+2. [[HIGHLIGHT]]Para poder solicitar una nueva licencia será necesario que transcurran, como mínimo, tres días laborables entre el período que se solicita y el anteriormente disfrutado[[/HIGHLIGHT]].
 
 ### Artículo 47
 

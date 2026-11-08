@@ -8,9 +8,11 @@ Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (2017)
 
 ### Artículo 1
 
+[[EXAM-REF:2018: preguntas 53, 55|2021: pregunta 19]]
+
 ### Objeto y finalidad
 
-1. La presente Ley tiene por objeto regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores; y de asegurar, en conexión con el objetivo de estabilidad presupuestaria y control del gasto, y el principio de integridad, una eficiente utilización de los fondos destinados a la realización de obras, la adquisición de bienes y la contratación de servicios mediante la exigencia de la definición previa de las necesidades a satisfacer, la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.
+1. La presente Ley tiene por objeto regular la contratación del sector público, a fin de garantizar que la misma [[HIGHLIGHT]]se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores[[/HIGHLIGHT]]; y de asegurar, en conexión con el objetivo de estabilidad presupuestaria y control del gasto, y el principio de integridad, una eficiente utilización de los fondos destinados a la realización de obras, la adquisición de bienes y la contratación de servicios mediante la exigencia de la definición previa de las necesidades a satisfacer, la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.
 
 2. Es igualmente objeto de esta Ley la regulación del régimen jurídico aplicable a los efectos, cumplimiento y extinción de los contratos administrativos, en atención a los fines institucionales de carácter público que a través de los mismos se tratan de realizar.
 
@@ -100,11 +102,13 @@ Los sujetos obligados deberán aprobar unas instrucciones internas en materia de
 
 ### Artículo 13
 
+[[EXAM-REF:2023: pregunta 19]]
+
 ### Contrato de obras
 
 1. Son contratos de obras aquellos que tienen por objeto uno de los siguientes:
 
-a) La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I.
+a) [[HIGHLIGHT]]La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto[[/HIGHLIGHT]], o la realización de alguno de los trabajos enumerados en el Anexo I.
 
 b) La realización, por cualquier medio, de una obra que cumpla los requisitos fijados por la entidad del sector público contratante que ejerza una influencia decisiva en el tipo o el proyecto de la obra.
 
@@ -120,9 +124,11 @@ Se podrán celebrar contratos de obras sin referirse a una obra completa en los 
 
 ### Artículo 14
 
+[[EXAM-REF:2022: pregunta 50]]
+
 ### Contrato de concesión de obras
 
-1. La concesión de obras es un contrato que tiene por objeto la realización por el concesionario de algunas de las prestaciones a que se refiere el artículo anterior, incluidas las de restauración y reparación de construcciones existentes, así como la conservación y mantenimiento de los elementos construidos, y en el que la contraprestación a favor de aquel consiste, o bien únicamente en el derecho a explotar la obra en el sentido del apartado cuarto siguiente, o bien en dicho derecho acompañado del de percibir un precio.
+1. [[HIGHLIGHT]]La concesión de obras es un contrato que tiene por objeto la realización por el concesionario de algunas de las prestaciones a que se refiere el[[/HIGHLIGHT]] artículo anterior, incluidas las de restauración y reparación de construcciones existentes, así como la conservación y mantenimiento de los elementos construidos, y en el que la contraprestación a favor de aquel consiste, o bien únicamente en el derecho a explotar la obra en el sentido del apartado cuarto siguiente, o bien en dicho derecho acompañado del de percibir un precio.
 
 2. El contrato podrá comprender, además, el siguiente contenido:
 
@@ -138,9 +144,11 @@ Se considerará que el concesionario asume un riesgo operacional cuando no esté
 
 ### Artículo 15
 
+[[EXAM-REF:2023: pregunta 20]]
+
 ### Contrato de concesión de servicios
 
-1. El contrato de concesión de servicios es aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia, y cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio.
+1. El contrato de concesión de servicios es aquel en cuya virtud uno o varios poderes adjudicadores encomiendan [[HIGHLIGHT]]a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia[[/HIGHLIGHT]], y cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio.
 
 2. El derecho de explotación de los servicios implicará la transferencia al concesionario del riesgo operacional, en los términos señalados en el apartado cuarto del artículo anterior.
 
@@ -164,6 +172,8 @@ d) Los que tengan por objeto la adquisición de energía primaria o energía tra
 
 ### Artículo 17
 
+[[EXAM-REF:2021: pregunta 20]]
+
 ### Contrato de servicios
 
 Son contratos de servicios aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario.
@@ -171,6 +181,8 @@ Son contratos de servicios aquellos cuyo objeto son prestaciones de hacer consis
 No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.
 
 ### Artículo 18
+
+[[EXAM-REF:2018: pregunta 51]]
 
 ### Contratos mixtos
 
