@@ -1,903 +1,1052 @@
-
 [
-    {
-        "numero": 1,
-        "pregunta": "Según el artículo 6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los asientos que se realicen en los registros electrónicos generales y particulares de apoderamientos deberán contener, al menos, la siguiente documentación:",
-        "opciones": {
-            "a": "Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del interesado.",
-            "b": "Fecha de aprobación.",
-            "c": "Período de tiempo por el cual se otorga el poder.",
-            "d": "Tipo de registro según las facultades que otorgue."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 2,
-        "pregunta": "De acuerdo con el artículo 21 de la Ley 39/2015, de 1 de octubre, el plazo máximo en el que debe notificarse la resolución expresa:",
-        "opciones": {
-            "a": "El fijado por la Administración reguladora del correspondiente procedimiento.",
-            "b": "No podrá exceder de seis meses, salvo que una norma con rango de Ley establezca uno menor o así venga previsto en el Derecho de la Unión Europea.",
-            "c": "Será de tres meses, cuando las normas reguladoras de los procedimientos no fijen el plazo mínimo.",
-            "d": "Será de tres meses, cuando las normas reguladoras de los procedimientos no fijen el plazo máximo."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 3,
-        "pregunta": "De acuerdo con el artículo 24 de la Ley 39/2015, de 1 de octubre, el silencio administrativo en procedimientos iniciados a solicitud del interesado tendrá efecto desestimatorio en los procedimientos:",
-        "opciones": {
-            "a": "Cuya desestimación tuviera como consecuencia que se transfieran al solicitante o a terceros facultades relativas al dominio privado o al servicio público.",
-            "b": "Que impliquen el ejercicio de actividades que puedan dañar el medio ambiente.",
-            "c": "De Responsabilidad Civil de las Administraciones Públicas.",
-            "d": "Relativos al Derecho de petición, a que se refiere el artículo 30 de la Constitución."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 4,
-        "pregunta": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, toda notificación deberá ser cursada a partir de la fecha en que el acto haya sido dictado, dentro del plazo de:",
-        "opciones": {
-            "a": "10 días.",
-            "b": "15 días.",
-            "c": "20 días.",
-            "d": "1 mes."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 5,
-        "pregunta": "La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva:",
-        "opciones": {
-            "a": "Se realizará de conformidad con lo que disponga la Ley 39/2015",
-            "b": "Se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte.",
-            "c": "Se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, sin necesidad de que queden acreditados en el procedimiento los fundamentos de la resolución que se adopte.",
-            "d": "No precisarán de motivación."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 6,
-        "pregunta": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde:",
-        "opciones": {
-            "a": "La fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
-            "b": "El día siguiente a la fecha en que se dicten, en cualquier caso.",
-            "c": "El día siguiente a la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
-            "d": "La fecha en que se dicten, en cualquier caso."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 7,
-        "pregunta": "Habrá lugar a la ejecución subsidiaria cuando se trate de actos que:",
-        "opciones": {
-            "a": "Por ser personalísimos puedan ser realizados por sujeto distinto del obligado.",
-            "b": "Por no ser personalísimos no puedan ser realizados por sujeto distinto del obligado.",
-            "c": "Por no ser personalísimos puedan ser realizados por sujeto distinto del obligado.",
-            "d": "Por ser personalísimos no puedan ser realizados por sujeto distinto del obligado."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 8,
-        "pregunta": "Según el artículo 47 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas son nulos de pleno derecho en el caso siguiente:",
-        "opciones": {
-            "a": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional.",
-            "b": "Los dictados por órgano competente por razón de la jurisdicción o del territorio.",
-            "c": "Los que tengan un contenido posible de tramitar.",
-            "d": "Los que no sean constitutivos de cualquier infracción administrativa."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 9,
-        "pregunta": "Según el artículo 50 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
-        "opciones": {
-            "a": "Todos los actos anulables que, sin embargo, contengan los elementos constitutivos de otro distinto no producirán los efectos de este.",
-            "b": "Los actos anulables que, sin embargo, contengan los elementos constitutivos de otro distinto siempre producirán los efectos de este.",
-            "c": "Los actos nulos que, sin embargo, contengan los elementos constitutivos de otro distinto nunca producirán los efectos de este.",
-            "d": "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de este."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 10,
-        "pregunta": "Según el artículo 52 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
-        "opciones": {
-            "a": "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.",
-            "b": "Nunca podrá convalidar un acto nulo o anulable.",
-            "c": "La Administración podrá convalidar los actos nulos o anulables, sin necesidad de subsanar los vicios de que adolezcan.",
-            "d": "La Administración podrá convalidar, a solicitud del interesado, los actos nulos subsanando los vicios de que adolezcan."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 11,
-        "pregunta": "Según establece el artículo 96 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en:",
-        "opciones": {
-            "a": "Un mes.",
-            "b": "Sesenta días.",
-            "c": "Dos meses.",
-            "d": "Treinta días."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 12,
-        "pregunta": "Si la solicitud de iniciación no reúne los requisitos que señala el artículo 66 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y, en su caso, los que señala el artículo 67 u otros exigidos por la legislación específica aplicable:",
-        "opciones": {
-            "a": "Se requerirá al interesado para que, en un plazo de quince días, subsane la falta o acompañe los documentos preceptivos.",
-            "b": "Se requerirá al interesado para que, en un plazo de cinco días, subsane la falta o acompañe los documentos preceptivos.",
-            "c": "Se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos.",
-            "d": "Se le declarará directamente como desistido."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 13,
-        "pregunta": "Respecto al plazo para la interposición del recurso de alzada, señale la respuesta correcta:",
-        "opciones": {
-            "a": "El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.",
-            "b": "El plazo para la interposición del recurso de alzada será de tres meses, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.",
-            "c": "El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera presunto. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.",
-            "d": "El plazo para la interposición del recurso de alzada será de tres meses, si el acto fuera presunto. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 14,
-        "pregunta": "Respecto al recurso de alzada, el plazo máximo para dictar y notificar la resolución será de:",
-        "opciones": {
-            "a": "Un mes.",
-            "b": "Dos meses.",
-            "c": "Tres meses.",
-            "d": "Cuatro meses."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 15,
-        "pregunta": "Respecto al trámite de audiencia recogido en el artículo 118 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la respuesta correcta:",
-        "opciones": {
-            "a": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo inferior a diez días, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.",
-            "b": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo inferior a siete días, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.",
-            "c": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.",
-            "d": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a cinco días ni superior a diez, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 16,
-        "pregunta": "Según el artículo 8 de la Ley 40/2015:",
-        "opciones": {
-            "a": "La competencia es renunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación, cuando se efectúen en los términos previstos en ésta u otras leyes.",
-            "b": "La delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia ni de los elementos determinantes de su ejercicio.",
-            "c": "La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser concentradas en otros jerárquicamente dependientes de aquellos en los términos y con los requisitos que prevean las propias normas de atribución de competencias.",
-            "d": "Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de la materia y del territorio."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 17,
-        "pregunta": "La delegación de firma:",
-        "opciones": {
-            "a": "Alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.",
-            "b": "No alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.",
-            "c": "Alterará la competencia del órgano delegante y para su validez será necesaria su publicación.",
-            "d": "No alterará la competencia del órgano delegante y para su validez será necesaria su publicación."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 18,
-        "pregunta": "Según el artículo 19 de la Ley 40/2015, en caso de vacante, ausencia, enfermedad, u otra causa legal:",
-        "opciones": {
-            "a": "El Presidente del órgano colegiado será sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden.",
-            "b": "El Presidente del órgano colegiado será sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del órgano colegiado de mayor antigüedad, jerarquía y edad, por este orden.",
-            "c": "El Presidente del órgano colegiado será sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del órgano colegiado de mayor edad, jerarquía y antigüedad, por este orden.",
-            "d": "El Presidente del órgano colegiado será sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del órgano colegiado de mayor jerarquía, edad y antigüedad, por este orden."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 19,
-        "pregunta": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son contratos de obras:",
-        "opciones": {
-            "a": "Aquellos contratos que tienen por objeto la ejecución de una obra, aislada o conjuntamente con la redacción del proyecto.",
-            "b": "Aquellos contratos que tienen por objeto la adquisición de bienes consumibles.",
-            "c": "Aquellos contratos que tienen por objeto la adquisición de material informático.",
-            "d": "Aquellos contratos que tienen por objeto sustituir a la Administración en el ejercicio de sus competencias."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 20,
-        "pregunta": "El contrato de concesión de servicios es aquel en cuya virtud uno o varios poderes adjudicadores encomiendan:",
-        "opciones": {
-            "a": "A título oneroso a una o varias personas jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia.",
-            "b": "A título oneroso o gratuito a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia.",
-            "c": "A título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia.",
-            "d": "A título oneroso o gratuito a una o varias personas jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 21,
-        "pregunta": "Respecto al perfil del contratante, la publicación de la información relativa a los contratos menores deberá realizarse, al menos:",
-        "opciones": {
-            "a": "Semanalmente.",
-            "b": "Mensualmente.",
-            "c": "Trimestralmente.",
-            "d": "Anualmente."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 22,
-        "pregunta": "Los precios de los contratos del sector público:",
-        "opciones": {
-            "a": "Solo podrán ser objeto de revisión periódica y predeterminada en los términos establecidos en el Capítulo II, del Título III, de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.",
-            "b": "No podrán ser objeto de revisión periódica.",
-            "c": "Serán objeto de revisión periódica y predeterminada en los términos establecidos en la legislación de la Unión Europea.",
-            "d": "Serán objeto de revisión periódica y predeterminada en los términos establecidos en la Ley de Bases de Régimen Local."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 23,
-        "pregunta": "De acuerdo con lo establecido en el artículo 21 del Decreto 220/2014, de 12 de diciembre, del Consell, por el que se aprueba el Reglamento de Administración Electrónica de la Comunitat Valenciana, la sede de la Generalitat Valenciana es:",
-        "opciones": {
-            "a": "Aquella dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad, gestión y administración corresponde a la Generalitat en el ejercicio de sus competencias y que la identifica cuando se relaciona por medios electrónicos con los ciudadanos y con otras administraciones públicas.",
-            "b": "Una plataforma disponible para la ciudadanía cuya gestión corresponde a la Generalitat en el ejercicio de sus competencias y que la identifica cuando se relaciona por medios electrónicos con la ciudadanía y con otras administraciones públicas.",
-            "c": "Aquella dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad, y gestión expresamente corresponde a la Generalitat en el ejercicio de sus competencias y que la identifica cuando se relaciona por medios electrónicos con los ciudadanos y con otras administraciones públicas.",
-            "d": "Aquella dirección habilitada para los ciudadanos a través de redes de telecomunicaciones cuya titularidad, gestión y administración corresponde a la Generalitat en el ejercicio de sus competencias y que la identifica cuando se relaciona por medios electrónicos con los ciudadanos y con otras administraciones públicas."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 24,
-        "pregunta": "De acuerdo con lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales:",
-        "opciones": {
-            "a": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años.",
-            "b": "El tratamiento de los datos personales de un menor de edad podrá fundarse en su consentimiento cuando sea mayor de catorce años.",
-            "c": "De conformidad con lo dispuesto en el artículo 4.11 del Reglamento (UE) 2016/679 se entiende por consentimiento del afectado toda manifestación de voluntad libre, informada e inequívoca por la que este acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que le conciernen.",
-            "d": "El tratamiento de los datos de los mayores de catorce años y menores de dieciséis años, fundado en el consentimiento, solo será lícito si consta el del titular de la patria potestad o tutela, con el alcance que determinen los titulares de la patria potestad o tutela."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 25,
-        "pregunta": "Atendiendo a lo establecido en el artículo 33 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, ¿cuál de las siguientes aseveraciones es la correcta?",
-        "opciones": {
-            "a": "Tendrá la consideración de encargado del tratamiento y no la de responsable quien en su propio nombre y sin que conste que actúa por cuenta de otro, establezca relaciones con los afectados, aun cuando exista un contrato o acto jurídico con el contenido fijado en el artículo 28.3 del Reglamento (UE) 2016/679. Esta previsión no será aplicable a los encargos de tratamiento efectuados en el marco de la legislación de contratación del sector público.",
-            "b": "El encargado del tratamiento determinará si, cuando finalice la prestación de los servicios del responsable, los datos personales deben ser destruidos, devueltos al encargado o entregados, en su caso, a un nuevo responsable.",
-            "c": "No procederá la destrucción de los datos cuando exista una previsión legal que obligue a su conservación, en cuyo caso deberán ser devueltos al responsable, que garantizará su conservación mientras tal obligación persista.",
-            "d": "El encargado del tratamiento deberá conservar, debidamente bloqueados, los datos en tanto pudieran derivarse responsabilidades de su relación con el responsable del tratamiento."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 26,
-        "pregunta": "El personal empleado público, en el desarrollo de sus funciones, para cumplir los objetivos asignados actuará de acuerdo con:",
-        "opciones": {
-            "a": "Los principios de imparcialidad, profesionalidad, seriedad, buena fe, confidencialidad, responsabilidad, ejemplaridad y honradez.",
-            "b": "Los principios de parcialidad, profesionalidad, diligencia, buena fe, confidencialidad, responsabilidad, ejemplaridad y honestidad.",
-            "c": "Los principios de imparcialidad, profesionalidad, seriedad, buena fe, confidencialidad, responsabilidad, ejemplaridad y honestidad.",
-            "d": "Los principios de imparcialidad, profesionalidad, diligencia, buena fe, confidencialidad, responsabilidad, ejemplaridad y honradez."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 27,
-        "pregunta": "Respecto al Consell Assessor de la Funció Pública Valenciana, regulado en el artículo 12 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, señale la respuesta correcta:",
-        "opciones": {
-            "a": "El Consell Assessor de la Funció Pública Valenciana es el órgano de consulta que tiene encomendada la selección del personal empleado público de la administración de la Generalitat.",
-            "b": "El Consell Assessor de la Funció Pública Valenciana es el órgano técnico de coordinación e información a través del cual se instrumenta la interlocución entre la conselleria competente en materia de función pública, los órganos gestores en materia de personal de los ámbitos sectoriales correspondientes a sanidad, educación y justicia, y el sector público instrumental de la Generalitat.",
-            "c": "Los informes y propuestas del Consell Assessor de la Funció Pública Valenciana tendrán carácter vinculante. De manera que quienes se aparten del criterio contenido en los mismos, deberán motivar esta decisión.",
-            "d": "Los informes y propuestas del Consell Assessor de la Funció Pública Valenciana no tendrán carácter vinculante. No obstante, quienes se aparten del criterio contenido en los mismos, deberán motivar esta decisión."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 28,
-        "pregunta": "Respecto a la composición del Consell Assessor de la Funció Pública Valenciana, señale la respuesta correcta:",
-        "opciones": {
-            "a": "Integran el Consell Assessor de la Funció Pública Valenciana el o la presidenta, los vocales natos y 6 vocales electivos.",
-            "b": "Integran el Consell Assessor de la Funció Pública Valenciana el o la presidenta, los vocales natos y 7 vocales electivos.",
-            "c": "Integran el Consell Assessor de la Funció Pública Valenciana el o la presidenta, los vocales natos y 8 vocales electivos.",
-            "d": "Integran el Consell Assessor de la Funció Pública Valenciana el o la presidenta, los vocales natos y 9 vocales electivos."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 29,
-        "pregunta": "Serán vocales natos del Consell Assessor de la Funció Pública Valenciana, las siguientes personas:",
-        "opciones": {
-            "a": "Una, en representación de la Federación Valenciana de Municipios y Provincias. Dos, en representación de las universidades públicas valencianas. Una por cada organización sindical con representación en la Mesa General de Negociación I.",
-            "b": "Una, en representación de la Federación Valenciana de Municipios y Provincias. Una, en representación de las universidades públicas valencianas. Una por cada organización sindical con representación en la Mesa General de Negociación I.",
-            "c": "Dos, en representación de la Federación Valenciana de Municipios y Provincias. Dos, en representación de las universidades públicas valencianas. Una por cada organización sindical con representación en la Mesa General de Negociación I.",
-            "d": "Dos, en representación de la Federación Valenciana de Municipios y Provincias. Una, en representación de las universidades públicas valencianas. Dos por cada organización sindical con representación en la Mesa General de Negociación I."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 30,
-        "pregunta": "Las retribuciones que retribuyen la carrera administrativa, las características de los puestos de trabajo, el resultado de la actividad profesional, así como los servicios extraordinarios prestados fuera de la jornada normal de trabajo son:",
-        "opciones": {
-            "a": "Retribuciones básicas.",
-            "b": "Retribuciones accesorias.",
-            "c": "Retribuciones complementarias.",
-            "d": "Retribuciones extraordinarias."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 31,
-        "pregunta": "Según establece el artículo 82 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, al haber completado los veinte años de servicio, se tendrá derecho al disfrute de los siguientes días de vacaciones anuales:",
-        "opciones": {
-            "a": "Veinticuatro días.",
-            "b": "Veinticinco días.",
-            "c": "Veintiséis días.",
-            "d": "Veintisiete días."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 32,
-        "pregunta": "Según establece el artículo 162 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, el personal funcionario cuyo puesto de trabajo haya sido suprimido como consecuencia de la aplicación de una medida de redistribución de efectivos o de racionalización de la organización administrativa y de personal reguladas por esta ley y no hayan obtenido otro puesto de trabajo, podrá ser declarado:",
-        "opciones": {
-            "a": "En situación de excedencia forzosa.",
-            "b": "En situación asimilada al servicio activo.",
-            "c": "En situación de expectativa de destino.",
-            "d": "Ninguna respuesta es correcta."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 33,
-        "pregunta": "Según establece el artículo 170 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, se considera falta disciplinaria muy grave del personal funcionario público:",
-        "opciones": {
-            "a": "El abuso de autoridad en el ejercicio del cargo.",
-            "b": "La emisión de informes manifiestamente ilegales que causen perjuicio grave a la Administración o a la ciudadanía.",
-            "c": "Intervenir en un procedimiento administrativo cuando se dé alguna de las causas de abstención legalmente señaladas.",
-            "d": "La falta de obediencia debida a las personas que sean sus superiores jerárquicos y a las que sean autoridades."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 34,
-        "pregunta": "En el ámbito de la Administración de la Generalitat y de los organismos autónomos de la Generalitat, el crédito presupuestario se determina, atendiendo a la clasificación orgánica, de acuerdo a su naturaleza económica y funcional, de la forma siguiente:",
-        "opciones": {
-            "a": "Para los gastos de inversiones reales: consignación por proyecto de inversión, capítulo económico y programa presupuestario.",
-            "b": "Para los gastos de activos y pasivos financieros: consignación por capítulo económico y programa presupuestario.",
-            "c": "Para los gastos de transferencias, corrientes y de capital: consignación por línea, ya sea de subvención o transferencia, capítulo económico y programa presupuestario.",
-            "d": "Para los gastos de personal: consignación por artículo económico y programa presupuestario."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 35,
-        "pregunta": "Señale la respuesta correcta:",
-        "opciones": {
-            "a": "Los Presupuestos de la Generalitat determinarán las obligaciones económicas y los derechos que, como máximo, pueden reconocer durante el correspondiente ejercicio la Generalitat y los sujetos que forman parte del sector público de la Generalitat.",
-            "b": "Los Presupuestos de la Generalitat constituyen la expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio por cada uno de los sujetos que forman parte del sector público de la Generalitat.",
-            "c": "Los Presupuestos de la Generalitat constituyen la expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio por la administración de la Generalitat.",
-            "d": "Los Presupuestos de la Generalitat no recogen los presupuestos de explotación y capital de las entidades del sector público empresarial y fundacional."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 36,
-        "pregunta": "Si Les Corts no aprobaran el presupuesto de la Generalitat antes del primer día del ejercicio económico correspondiente:",
-        "opciones": {
-            "a": "Se entenderá prorrogado el del ejercicio anterior hasta el ejercicio siguiente y la prórroga no afectará a los créditos para gastos correspondientes a programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan.",
-            "b": "Se entenderá prorrogado el del ejercicio anterior hasta la aprobación y publicación del nuevo en el Diari Oficial de la Comunitat Valenciana y la prórroga afectará a todos los créditos incluidos en el presupuesto que se prorroga.",
-            "c": "Se entenderá prorrogado el del ejercicio anterior hasta el ejercicio siguiente y la prórroga afectará a todos los créditos incluidos en el presupuesto que se prorroga.",
-            "d": "Se entenderá prorrogado el del ejercicio anterior hasta la aprobación y publicación del nuevo en el Diari Oficial de la Comunitat Valenciana y la prórroga no afectará a los créditos para gastos correspondientes a programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 37,
-        "pregunta": "Señale la respuesta correcta:",
-        "opciones": {
-            "a": "El compromiso o disposición del gasto inicia el procedimiento de ejecución del gasto.",
-            "b": "La aprobación del gasto es el acto por el que se autoriza la realización de un gasto por cuantía cierta o aproximada, reservándose, a tal fin, la totalidad o una parte de un crédito presupuestario.",
-            "c": "La aprobación del gasto es un acto con relevancia jurídica para con terceros.",
-            "d": "El compromiso o disposición del gasto es el acto mediante el que se declara la existencia de un crédito exigible contra la Hacienda Pública de la Generalitat."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 38,
-        "pregunta": "Las fases de gestión del presupuesto de ingresos son las siguientes:",
-        "opciones": {
-            "a": "Compromiso de ingreso, reconocimiento del derecho y propuesta de ingreso.",
-            "b": "Reconocimiento del derecho e ingreso material.",
-            "c": "Compromiso de ingreso, reconocimiento del derecho e ingreso material.",
-            "d": "Reconocimiento del derecho y propuesta de ingreso."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 39,
-        "pregunta": "El documento contable mixto que se expide para contabilizar la autorización y el compromiso de gastos sobre créditos disponibles es el siguiente:",
-        "opciones": {
-            "a": "RA.",
-            "b": "ADO.",
-            "c": "T/.",
-            "d": "A."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 40,
-        "pregunta": "A la apertura del ejercicio presupuestario se formalizará la proyección anual de la nómina:",
-        "opciones": {
-            "a": "Mediante la contabilización de los documentos de retención de crédito correspondientes a las retribuciones del personal en los puestos ocupados.",
-            "b": "Mediante la contabilización de los documentos de autorización y disposición del gasto correspondientes a las retribuciones del personal en los puestos ocupados.",
-            "c": "Mediante la contabilización de los documentos de autorización y disposición del gasto correspondientes a las retribuciones del personal en los puestos ocupados y vacantes.",
-            "d": "Mediante la contabilización de los documentos de reconocimiento de la obligación correspondientes a las retribuciones del personal en los puestos ocupados."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 41,
-        "pregunta": "En las convocatorias en régimen de concurrencia competitiva:",
-        "opciones": {
-            "a": "Cuando la cuantía total máxima de las subvenciones convocadas se distribuya entre distintos créditos presupuestarios y se otorgue expresamente a dicha distribución carácter estimativo, la alteración de dicha distribución precisará de las modificaciones que procedan en el expediente de gasto antes de la resolución de la concesión.",
-            "b": "Cuando la cuantía total máxima de las subvenciones convocadas se distribuya entre distintos créditos presupuestarios y se otorgue expresamente a dicha distribución carácter estimativo, la alteración de dicha distribución precisará de nueva convocatoria.",
-            "c": "En ningún caso podrán concederse subvenciones por importe superior a la cuantía total máxima fijada en las mismas sin que previamente se realice una nueva convocatoria.",
-            "d": "La convocatoria no podrá prever que eventuales aumentos sobrevenidos en el crédito disponible posibiliten una resolución complementaria de la concesión de la subvención que incluya solicitudes que, aun cumpliendo todos los requisitos, no hayan sido beneficiarias por agotamiento del mismo."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 42,
-        "pregunta": "Efectuada la apertura del presupuesto de gastos del correspondiente ejercicio, se registrarán, en la fase contable que corresponda y con carácter previo al registro de cualquier otro expediente:",
-        "opciones": {
-            "a": "Los créditos derivados de sentencias judiciales.",
-            "b": "Las anualidades que, correspondiendo al ejercicio corriente, deriven de compromisos de carácter plurianual contraídos en ejercicios anteriores.",
-            "c": "Los compromisos de gasto de ejercicios anteriores que hubieran quedado pendientes de alcanzar la fase contable de reconocimiento de la obligación.",
-            "d": "Las obligaciones reconocidas pendientes de pago del ejercicio anterior."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 43,
-        "pregunta": "¿Qué es lo que no incluye LibreOffice?",
-        "opciones": {
-            "a": "Un procesador de texto.",
-            "b": "Un cliente de correo electrónico.",
-            "c": "Un editor de presentaciones.",
-            "d": "Entre otras clases de aplicaciones LibreOffice incorpora todas las que anteriormente se indica."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 44,
-        "pregunta": "La extensión de un archivo creado con Writer:",
-        "opciones": {
-            "a": ".ocr",
-            "b": ".odt",
-            "c": ".dot",
-            "d": ".doc"
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 45,
-        "pregunta": "¿Qué combinación de teclas hemos de pulsar si queremos realizar un atajo para cerrar una ventana en una hoja de cálculo Calc?",
-        "opciones": {
-            "a": "Crtl+W",
-            "b": "Crtl+C",
-            "c": "Crtl+E",
-            "d": "Crtl+T"
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 46,
-        "pregunta": "Según lo establecido en la Constitución Española:",
-        "opciones": {
-            "a": "El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y de usarla.",
-            "b": "Las demás lenguas españolas serán también cooficiales en las respectivas Comunidades Autónomas.",
-            "c": "La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial protección.",
-            "d": "El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 47,
-        "pregunta": "Según lo establecido en el artículo 20 de la Constitución Española referente a la libertad de expresión, indique cuál de los siguientes es un derecho reconocido como derecho fundamental:",
-        "opciones": {
-            "a": "Expresar y difundir libremente los pensamientos, ideas y opiniones de otras personas mediante la palabra, el escrito o cualquier otro medio de difusión.",
-            "b": "La reproducción, creación y adaptación literaria, artística, científica y técnica.",
-            "c": "La libertad de cátedra.",
-            "d": "Comunicar o recibir libremente información por cualquier medio. La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 48,
-        "pregunta": "Según lo establecido en la Constitución Española, son fundamento del orden político y de la paz social:",
-        "opciones": {
-            "a": "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás.",
-            "b": "La dignidad de la persona, los derechos que le son inherentes, el desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás.",
-            "c": "La integridad de la persona, los derechos inviolables que le son inherentes, el desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás.",
-            "d": "La dignidad de la persona, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 49,
-        "pregunta": "Según el Título III de la Constitución Española, las sesiones conjuntas de las Cámaras:",
-        "opciones": {
-            "a": "Serán presididas alternativamente por el Presidente del Congreso y por el Presidente del Senado.",
-            "b": "Serán presididas conjuntamente por el Presidente del Congreso y por el Presidente del Senado.",
-            "c": "Serán presididas por el Presidente del Congreso.",
-            "d": "Serán presididas por el Presidente del Senado."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 50,
-        "pregunta": "Según la Constitución Española, la Ley distribuirá el número total de Diputados:",
-        "opciones": {
-            "a": "Asignando un número fijo de Diputados por cada circunscripción electoral.",
-            "b": "Asignando una representación máxima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.",
-            "c": "Asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.",
-            "d": "Distribuyendo dicho número total en proporción a la población."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 51,
-        "pregunta": "Según la Constitución Española, ¿quién proveerá a la sucesión en la Corona si se extinguen todas las líneas llamadas en derecho?",
-        "opciones": {
-            "a": "El Congreso de los Diputados.",
-            "b": "El Consejo de Estado.",
-            "c": "El Senado.",
-            "d": "Las Cortes Generales."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 52,
-        "pregunta": "Según el artículo 98 de la Constitución Española de 1978:",
-        "opciones": {
-            "a": "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.",
-            "b": "El Gobierno se compone del Presidente, de los Ministros y de los demás miembros que establezca la ley.",
-            "c": "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, y de los demás miembros que establezca la ley.",
-            "d": "El Gobierno se compone únicamente del Presidente y de los Vicepresidentes."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 53,
-        "pregunta": "Según el artículo 103 de la Constitución Española de 1978, la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
-        "opciones": {
-            "a": "Justicia, igualdad, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
-            "b": "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
-            "c": "Transparencia, eficiencia, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
-            "d": "Igualdad, transparencia, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 54,
-        "pregunta": "Según el artículo 116 de la Constitución Española de 1978, la declaración de los estados de alarma, de excepción y de sitio:",
-        "opciones": {
-            "a": "No modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes.",
-            "b": "Modificarán el principio de responsabilidad del Gobierno.",
-            "c": "Según su duración, podrán modificar el principio de responsabilidad del Gobierno.",
-            "d": "Podrán modificar el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 55,
-        "pregunta": "Según establece la Constitución Española, el procedimiento judicial será:",
-        "opciones": {
-            "a": "Predominantemente oral, sobre todo en materia criminal.",
-            "b": "Predominantemente escrito, sobre todo en materia civil.",
-            "c": "Predominantemente escrito, sobre todo en materia criminal.",
-            "d": "Predominantemente oral, sobre todo en materia civil."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 56,
-        "pregunta": "El Presidente del Tribunal Supremo será nombrado:",
-        "opciones": {
-            "a": "Por el Presidente del Gobierno, a propuesta del Congreso.",
-            "b": "Por el Rey, a propuesta del Presidente del Gobierno.",
-            "c": "Por el Congreso, a propuesta del Consejo General del Poder Judicial.",
-            "d": "Por el Rey, a propuesta del Consejo General del Poder Judicial."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 57,
-        "pregunta": "Los miembros del Tribunal Constitucional serán designados por un período de:",
-        "opciones": {
-            "a": "Cinco años.",
-            "b": "Cuatro años.",
-            "c": "Seis años.",
-            "d": "Nueve años."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 58,
-        "pregunta": "Señale la respuesta correcta de acuerdo con el artículo 139 de la Constitución Española:",
-        "opciones": {
-            "a": "Todos los españoles tienen los mismos derechos y deberes en cualquier parte del territorio del Estado.",
-            "b": "Todos los ciudadanos tienen los mismos derechos y deberes en cualquier parte del territorio del Estado.",
-            "c": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.",
-            "d": "Todos los ciudadanos tienen los mismos deberes y obligaciones en cualquier parte del territorio del Estado."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 59,
-        "pregunta": "De las siguientes competencias, señale ¿cuál es una competencia exclusiva del Estado, recogida en el artículo 149 de la Constitución Española?",
-        "opciones": {
-            "a": "Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.",
-            "b": "Legislación sobre propiedad intelectual e industrial.",
-            "c": "Asistencia social.",
-            "d": "La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 60,
-        "pregunta": "Según el artículo 153 de la Constitución Española, el control de la actividad de los órganos de las Comunidades Autónomas se ejercerá:",
-        "opciones": {
-            "a": "Por el Consejo Jurídico Consultivo, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.",
-            "b": "Por el Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150.",
-            "c": "Por la jurisdicción civil, el de la administración autónoma y sus normas reglamentarias.",
-            "d": "Por el Tribunal de Cuentas, el económico y presupuestario."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 61,
-        "pregunta": "Son funciones de Les Corts:",
-        "opciones": {
-            "a": "Ejercer el control parlamentario sobre la acción de la Administración situada bajo la autoridad de la Generalitat.",
-            "b": "Presentar ante la Mesa del Congreso proyectos de ley y nombrar a los Diputados encargados de defenderlas.",
-            "c": "Solicitar al Gobierno del Estado la adopción de proposiciones de ley.",
-            "d": "Elaborar los convenios y los acuerdos de cooperación con el Estado y con las demás Comunidades Autónomas."
-        },
-        "respuesta_correcta": "a",
-        "explicacion": null
-    },
-    {
-        "numero": 62,
-        "pregunta": "Según el artículo 9 del Estatuto de Autonomía de la Comunitat Valenciana:",
-        "opciones": {
-            "a": "Sin perjuicio de lo que dispone la legislación básica del Estado, una Ley de Les Corts regulará el acceso a una buena administración y el acceso a los documentos de las instituciones y administraciones públicas y privadas valencianas.",
-            "b": "Todos los ciudadanos tienen derecho a que las administraciones públicas de la Generalitat traten sus asuntos de modo equitativo y parcial y en un plazo razonable, y a gozar de servicios públicos de calidad.",
-            "c": "Los ciudadanos valencianos tendrán derecho a dirigirse a la Administración de la Comunitat Valenciana en cualquiera de sus dos lenguas oficiales y a recibir respuesta en la misma lengua utilizada.",
-            "d": "Todos los ciudadanos tienen derecho a participar únicamente de forma individual en la vida política, económica, cultural y social de la Comunitat Valenciana."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 63,
-        "pregunta": "Según el artículo 29 del Estatuto de Autonomía de la Comunitat Valenciana:",
-        "opciones": {
-            "a": "El Consell es el órgano colegiado de gobierno de la Generalitat, que ostenta la potestad legislativa y reglamentaria.",
-            "b": "Los miembros del Consell que reciben el nombre de Consellers son designados por el President de Les Corts.",
-            "c": "Los organismos, servicios y dependencias del Consell se podrán establecer en diferentes lugares del territorio de la Comunitat Valenciana, de acuerdo con criterios de centralización y coordinación de funciones.",
-            "d": "Todas las normas, disposiciones y actos emanados del Consell, que por su naturaleza lo exijan, serán publicados en el 'Diario Oficial de la Generalitat' en las dos lenguas oficiales."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 64,
-        "pregunta": "La Generalitat tiene competencia exclusiva sobre:",
-        "opciones": {
-            "a": "Pesca en aguas exteriores, marisqueo, acuicultura, caza y pesca fluvial y lacustre.",
-            "b": "Archivos, bibliotecas, museos, hemerotecas y demás centros de depósito de titularidad estatal.",
-            "c": "Promoción de la mujer.",
-            "d": "Casinos, juego y apuestas deportivas y benéficas."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 65,
-        "pregunta": "Según la Ley 5/1983, de 30 de diciembre, del Consell, al President de la Generalitat, como más alto representante de la Comunitat Valenciana, le corresponden las siguientes funciones:",
-        "opciones": {
-            "a": "Solicitar de las Cortes Generales, previo acuerdo del Consell, la facultad de dictar normas legislativas en materias de competencia estatal, de conformidad con el artículo 150.1 de la Constitución y el artículo 60.1 del Estatut d'Autonomia de la Comunitat Valenciana.",
-            "b": "Mantener las relaciones con las otras Instituciones de la Generalitat, sin perjuicio de las facultades atribuidas al respecto a los consellers.",
-            "c": "Firmar los Convenios y Acuerdos de colaboración con la Administración del Estado y las demás Comunidades Autónomas.",
-            "d": "Fomentar las peculiaridades del pueblo valenciano y solicitar la participación de los valencianos en la vida política, económica, cultural y social."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 66,
-        "pregunta": "Según el artículo 16 de la Ley 5/1983, de 30 de diciembre, del Consell, en materia de política general de la Generalitat, corresponden al Consell las siguientes competencias:",
-        "opciones": {
-            "a": "Nombrar y separar a los altos cargos de la Administración de la Generalitat, a propuesta del conseller correspondiente.",
-            "b": "Ejercer las competencias en materia de acción interior atribuidas por el artículo 62 del Estatut d'Autonomia.",
-            "c": "La planificación y desarrollo de la política valenciana.",
-            "d": "Determinar las directrices de la acción de gobierno, de acuerdo con lo que establezca al respecto el President de Les Corts."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 67,
-        "pregunta": "De acuerdo con lo establecido en el artículo 51 de la Ley 5/1983, de 30 de diciembre, del Consell, el President de la Generalitat:",
-        "opciones": {
-            "a": "Previa deliberación de Les Corts puede plantear al Consell, la cuestión de confianza sobre su programa, una decisión política o un proyecto de Ley, conforme se establece en el artículo 30 del Estatut d'Autonomia.",
-            "b": "Previa deliberación del Consell puede plantear ante Les Corts, la cuestión de confianza sobre su programa, una decisión política o una proposición de Ley, conforme se establece en el artículo 30 del Estatut d'Autonomia.",
-            "c": "Previa deliberación de Les Corts puede plantear al Consell, una moción de censura sobre su programa, una decisión política o un proyecto de Ley, conforme se establece en el artículo 30 del Estatut d'Autonomia.",
-            "d": "Previa deliberación del Consell puede plantear ante Les Corts, la cuestión de confianza sobre su programa, una decisión política o un proyecto de Ley, conforme se establece en el artículo 30 del Estatut d'Autonomia."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 68,
-        "pregunta": "Los consellers, como miembros del Consell y jefes de Departamento, tienen entre otras la siguiente función:",
-        "opciones": {
-            "a": "Determinar las directrices de la acción de gobierno.",
-            "b": "Suscribir convenios y acuerdos de cooperación con el estado.",
-            "c": "Formular motivadamente el anteproyecto de Presupuesto de la Conselleria.",
-            "d": "Participar en la fijación de demarcaciones correspondientes a los Registros de la Propiedad y Mercantiles."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 69,
-        "pregunta": "Constituye una función del President de la Generalitat:",
-        "opciones": {
-            "a": "Nombrar y separar a los altos cargos de la Generalitat, a propuesta del conseller correspondiente.",
-            "b": "Proponer a Les Corts la reforma del Estatut d'Autonomia de la Comunitat Valenciana.",
-            "c": "Emitir deuda pública para gastos de inversión, previo acuerdo de Les Corts.",
-            "d": "Nombrar, entre los vicepresidentes o los consellers, un secretario del Consell, para que ejerza las funciones establecidas en la Ley del Consell."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 70,
-        "pregunta": "No es una función del Consell en materia normativa, concretada en la siguiente competencia:",
-        "opciones": {
-            "a": "Dictar decretos legislativos en los términos y con las formalidades previstas en la Ley del Consell.",
-            "b": "Nombrar y separar a los consellers.",
-            "c": "Ejercer la potestad reglamentaria de acuerdo con la Constitución Española, el Estatut d'Autonomia de la Comunitat Valenciana y las leyes.",
-            "d": "Emitir deuda pública para gastos de inversión, previo acuerdo de Les Corts."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 71,
-        "pregunta": "El Consejo Europeo se reunirá:",
-        "opciones": {
-            "a": "Una vez al año.",
-            "b": "Dos veces al año.",
-            "c": "Una vez por trimestre.",
-            "d": "Dos veces por semestre."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 72,
-        "pregunta": "En la Unión Europea, ¿quién velará por que se apliquen los Tratados y las medidas adoptadas por las instituciones en virtud de éstos?",
-        "opciones": {
-            "a": "El Parlamento.",
-            "b": "El Consejo.",
-            "c": "La Comisión.",
-            "d": "El Tribunal de Justicia."
-        },
-        "respuesta_correcta": "c",
-        "explicacion": null
-    },
-    {
-        "numero": 73,
-        "pregunta": "El Parlamento Europeo estará compuesto por representantes de los ciudadanos de la Unión. Su número no excederá de:",
-        "opciones": {
-            "a": "750, con el Presidente.",
-            "b": "750, más el Presidente.",
-            "c": "736, con el Presidente.",
-            "d": "736, más el Presidente."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    },
-    {
-        "numero": 74,
-        "pregunta": "Según el artículo 13 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres:",
-        "opciones": {
-            "a": "De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad en cualquier tipo de procedimiento judicial.",
-            "b": "De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad, en todo caso.",
-            "c": "De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por razón de sexo, corresponderá a la persona demandante probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad.",
-            "d": "De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad, salvo en los procesos penales."
-        },
-        "respuesta_correcta": "d",
-        "explicacion": null
-    },
-    {
-        "numero": 75,
-        "pregunta": "Según el artículo 3 de la Ley 9/2003, de 2 de abril, de la Generalitat, para la igualdad entre mujeres y hombres:",
-        "opciones": {
-            "a": "Las actuaciones reguladas están referidas solamente a las nuevas medidas que se implementen, ya sean promovidas o realizadas por personas físicas o jurídicas, de naturaleza pública o privada.",
-            "b": "Las actuaciones reguladas están referidas tanto a las nuevas medidas que se implementen como a las que actualmente se están realizando, así como las que ya existen en materia de igualdad de oportunidades entre mujeres y hombres, ya sean promovidas o realizadas por personas físicas o jurídicas, de naturaleza pública o privada.",
-            "c": "Las actuaciones reguladas están referidas tanto a las nuevas medidas que se implementen como a las que actualmente se están realizando, así como las que ya existen en materia de igualdad de oportunidades entre mujeres y hombres, ya sean promovidas o realizadas por personas jurídicas, de naturaleza pública o privada.",
-            "d": "Las actuaciones reguladas están referidas tanto a las nuevas medidas que se implementen como a las que actualmente se están realizando, así como las que ya existen en materia de igualdad de oportunidades entre mujeres y hombres, ya sean promovidas o realizadas por personas físicas o jurídicas, de naturaleza pública."
-        },
-        "respuesta_correcta": "b",
-        "explicacion": null
-    }
+  {
+    "numero": 1,
+    "pregunta": "Seg\u00fan el art\u00edculo 6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, los asientos que se realicen en los registros electr\u00f3nicos generales y particulares de apoderamientos deber\u00e1n contener, al menos, la siguiente documentaci\u00f3n:",
+    "opciones": {
+      "a": "Nombre y apellidos o la denominaci\u00f3n o raz\u00f3n social, documento nacional de identidad, n\u00famero de identificaci\u00f3n fiscal o documento equivalente del interesado.",
+      "b": "Fecha de aprobaci\u00f3n.",
+      "c": "Per\u00edodo de tiempo por el cual se otorga el poder.",
+      "d": "Tipo de registro seg\u00fan las facultades que otorgue."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 6.3.c exige que el asiento indique el per\u00edodo por el que se otorga el poder; las dem\u00e1s opciones no reproducen ese dato m\u00ednimo. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 2,
+    "pregunta": "De acuerdo con el art\u00edculo 21 de la Ley 39/2015, de 1 de octubre, el plazo m\u00e1ximo en el que debe notificarse la resoluci\u00f3n expresa:",
+    "opciones": {
+      "a": "El fijado por la Administraci\u00f3n reguladora del correspondiente procedimiento.",
+      "b": "No podr\u00e1 exceder de seis meses, salvo que una norma con rango de Ley establezca uno menor o as\u00ed venga previsto en el Derecho de la Uni\u00f3n Europea.",
+      "c": "Ser\u00e1 de tres meses, cuando las normas reguladoras de los procedimientos no fijen el plazo m\u00ednimo.",
+      "d": "Ser\u00e1 de tres meses, cuando las normas reguladoras de los procedimientos no fijen el plazo m\u00e1ximo."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 21.2 fija tres meses como plazo supletorio cuando la norma del procedimiento no establece uno. La opci\u00f3n D recoge esta regla. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 3,
+    "pregunta": "De acuerdo con el art\u00edculo 24 de la Ley 39/2015, de 1 de octubre, el silencio administrativo en procedimientos iniciados a solicitud del interesado tendr\u00e1 efecto desestimatorio en los procedimientos:",
+    "opciones": {
+      "a": "Cuya desestimaci\u00f3n tuviera como consecuencia que se transfieran al solicitante o a terceros facultades relativas al dominio privado o al servicio p\u00fablico.",
+      "b": "Que impliquen el ejercicio de actividades que puedan da\u00f1ar el medio ambiente.",
+      "c": "De Responsabilidad Civil de las Administraciones P\u00fablicas.",
+      "d": "Relativos al Derecho de petici\u00f3n, a que se refiere el art\u00edculo 30 de la Constituci\u00f3n."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 24.1.b atribuye silencio desestimatorio, entre otros, a los procedimientos cuya estimaci\u00f3n permitir\u00eda actividades con impacto ambiental; por eso es correcta la B. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 4,
+    "pregunta": "Seg\u00fan la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, toda notificaci\u00f3n deber\u00e1 ser cursada a partir de la fecha en que el acto haya sido dictado, dentro del plazo de:",
+    "opciones": {
+      "a": "10 d\u00edas.",
+      "b": "15 d\u00edas.",
+      "c": "20 d\u00edas.",
+      "d": "1 mes."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 40.2 ordena cursar la notificaci\u00f3n dentro de los diez d\u00edas siguientes a la fecha del acto. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 5,
+    "pregunta": "La motivaci\u00f3n de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva:",
+    "opciones": {
+      "a": "Se realizar\u00e1 de conformidad con lo que disponga la Ley 39/2015",
+      "b": "Se realizar\u00e1 de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resoluci\u00f3n que se adopte.",
+      "c": "Se realizar\u00e1 de conformidad con lo que dispongan las normas que regulen sus convocatorias, sin necesidad de que queden acreditados en el procedimiento los fundamentos de la resoluci\u00f3n que se adopte.",
+      "d": "No precisar\u00e1n de motivaci\u00f3n."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 35.2 remite la motivaci\u00f3n de los procesos selectivos y de concurrencia competitiva a sus normas reguladoras, pero exige que consten los fundamentos de la resoluci\u00f3n. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 6,
+    "pregunta": "Los actos de las Administraciones P\u00fablicas sujetos al Derecho Administrativo se presumir\u00e1n v\u00e1lidos y producir\u00e1n efectos desde:",
+    "opciones": {
+      "a": "La fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+      "b": "El d\u00eda siguiente a la fecha en que se dicten, en cualquier caso.",
+      "c": "El d\u00eda siguiente a la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+      "d": "La fecha en que se dicten, en cualquier caso."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. Conforme al art\u00edculo 39.1, los actos sujetos al Derecho Administrativo se presumen v\u00e1lidos y producen efectos desde la fecha en que se dictan, salvo disposici\u00f3n en contrario. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 7,
+    "pregunta": "Habr\u00e1 lugar a la ejecuci\u00f3n subsidiaria cuando se trate de actos que:",
+    "opciones": {
+      "a": "Por ser personal\u00edsimos puedan ser realizados por sujeto distinto del obligado.",
+      "b": "Por no ser personal\u00edsimos no puedan ser realizados por sujeto distinto del obligado.",
+      "c": "Por no ser personal\u00edsimos puedan ser realizados por sujeto distinto del obligado.",
+      "d": "Por ser personal\u00edsimos no puedan ser realizados por sujeto distinto del obligado."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 102 permite la ejecuci\u00f3n subsidiaria para obligaciones no personal\u00edsimas que puedan ser realizadas por otra persona a costa del obligado. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 8,
+    "pregunta": "Seg\u00fan el art\u00edculo 47 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, los actos de las Administraciones P\u00fablicas son nulos de pleno derecho en el caso siguiente:",
+    "opciones": {
+      "a": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional.",
+      "b": "Los dictados por \u00f3rgano competente por raz\u00f3n de la jurisdicci\u00f3n o del territorio.",
+      "c": "Los que tengan un contenido posible de tramitar.",
+      "d": "Los que no sean constitutivos de cualquier infracci\u00f3n administrativa."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 47.1.a declara nulos los actos que lesionen derechos y libertades susceptibles de amparo constitucional. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 9,
+    "pregunta": "Seg\u00fan el art\u00edculo 50 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas:",
+    "opciones": {
+      "a": "Todos los actos anulables que, sin embargo, contengan los elementos constitutivos de otro distinto no producir\u00e1n los efectos de este.",
+      "b": "Los actos anulables que, sin embargo, contengan los elementos constitutivos de otro distinto siempre producir\u00e1n los efectos de este.",
+      "c": "Los actos nulos que, sin embargo, contengan los elementos constitutivos de otro distinto nunca producir\u00e1n los efectos de este.",
+      "d": "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producir\u00e1n los efectos de este."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 50 regula la conversi\u00f3n: los actos nulos o anulables que contengan los elementos de otro acto producen los efectos de este \u00faltimo. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 10,
+    "pregunta": "Seg\u00fan el art\u00edculo 52 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas:",
+    "opciones": {
+      "a": "La Administraci\u00f3n podr\u00e1 convalidar los actos anulables, subsanando los vicios de que adolezcan.",
+      "b": "Nunca podr\u00e1 convalidar un acto nulo o anulable.",
+      "c": "La Administraci\u00f3n podr\u00e1 convalidar los actos nulos o anulables, sin necesidad de subsanar los vicios de que adolezcan.",
+      "d": "La Administraci\u00f3n podr\u00e1 convalidar, a solicitud del interesado, los actos nulos subsanando los vicios de que adolezcan."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 52.1 permite a la Administraci\u00f3n convalidar actos anulables mediante la subsanaci\u00f3n del vicio que los afecta; no contempla convalidar los nulos. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 11,
+    "pregunta": "Seg\u00fan establece el art\u00edculo 96 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, salvo que reste menos para su tramitaci\u00f3n ordinaria, los procedimientos administrativos tramitados de manera simplificada deber\u00e1n ser resueltos en:",
+    "opciones": {
+      "a": "Un mes.",
+      "b": "Sesenta d\u00edas.",
+      "c": "Dos meses.",
+      "d": "Treinta d\u00edas."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 96.6 establece que el procedimiento simplificado debe resolverse en treinta d\u00edas desde el d\u00eda siguiente a su notificaci\u00f3n, salvo que reste menos para la tramitaci\u00f3n ordinaria. Consulta el tema 12 del temario y la fuente enlazada.",
+    "tema_numero": 12,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 12,
+    "pregunta": "Si la solicitud de iniciaci\u00f3n no re\u00fane los requisitos que se\u00f1ala el art\u00edculo 66 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, y, en su caso, los que se\u00f1ala el art\u00edculo 67 u otros exigidos por la legislaci\u00f3n espec\u00edfica aplicable:",
+    "opciones": {
+      "a": "Se requerir\u00e1 al interesado para que, en un plazo de quince d\u00edas, subsane la falta o acompa\u00f1e los documentos preceptivos.",
+      "b": "Se requerir\u00e1 al interesado para que, en un plazo de cinco d\u00edas, subsane la falta o acompa\u00f1e los documentos preceptivos.",
+      "c": "Se requerir\u00e1 al interesado para que, en un plazo de diez d\u00edas, subsane la falta o acompa\u00f1e los documentos preceptivos.",
+      "d": "Se le declarar\u00e1 directamente como desistido."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 68.1 concede diez d\u00edas para subsanar la solicitud o aportar los documentos preceptivos; si no se atiende el requerimiento, procede declarar el desistimiento. Consulta el tema 11 del temario y la fuente enlazada.",
+    "tema_numero": 11,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 13,
+    "pregunta": "Respecto al plazo para la interposici\u00f3n del recurso de alzada, se\u00f1ale la respuesta correcta:",
+    "opciones": {
+      "a": "El plazo para la interposici\u00f3n del recurso de alzada ser\u00e1 de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resoluci\u00f3n ser\u00e1 firme a todos los efectos.",
+      "b": "El plazo para la interposici\u00f3n del recurso de alzada ser\u00e1 de tres meses, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resoluci\u00f3n ser\u00e1 firme a todos los efectos.",
+      "c": "El plazo para la interposici\u00f3n del recurso de alzada ser\u00e1 de un mes, si el acto fuera presunto. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resoluci\u00f3n ser\u00e1 firme a todos los efectos.",
+      "d": "El plazo para la interposici\u00f3n del recurso de alzada ser\u00e1 de tres meses, si el acto fuera presunto. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resoluci\u00f3n ser\u00e1 firme a todos los efectos."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 122.1 establece un mes para recurrir en alzada un acto expreso. Una vez vencido sin recurso, el acto queda firme. Consulta el tema 12 del temario y la fuente enlazada.",
+    "tema_numero": 12,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 14,
+    "pregunta": "Respecto al recurso de alzada, el plazo m\u00e1ximo para dictar y notificar la resoluci\u00f3n ser\u00e1 de:",
+    "opciones": {
+      "a": "Un mes.",
+      "b": "Dos meses.",
+      "c": "Tres meses.",
+      "d": "Cuatro meses."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 122.2 fija en tres meses el plazo m\u00e1ximo para dictar y notificar la resoluci\u00f3n del recurso de alzada. Consulta el tema 12 del temario y la fuente enlazada.",
+    "tema_numero": 12,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 15,
+    "pregunta": "Respecto al tr\u00e1mite de audiencia recogido en el art\u00edculo 118 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, se\u00f1ale la respuesta correcta:",
+    "opciones": {
+      "a": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondr\u00e1n de manifiesto a los interesados para que, en un plazo inferior a diez d\u00edas, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.",
+      "b": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondr\u00e1n de manifiesto a los interesados para que, en un plazo inferior a siete d\u00edas, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.",
+      "c": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondr\u00e1n de manifiesto a los interesados para que, en un plazo no inferior a diez d\u00edas ni superior a quince, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.",
+      "d": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondr\u00e1n de manifiesto a los interesados para que, en un plazo no inferior a cinco d\u00edas ni superior a diez, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 118.1 concede a los interesados un plazo entre diez y quince d\u00edas para alegar y aportar documentos cuando se incorporen nuevos hechos o documentos. Consulta el tema 12 del temario y la fuente enlazada.",
+    "tema_numero": 12,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "numero": 16,
+    "pregunta": "Seg\u00fan el art\u00edculo 8 de la Ley 40/2015:",
+    "opciones": {
+      "a": "La competencia es renunciable y se ejercer\u00e1 por los \u00f3rganos administrativos que la tengan atribuida como propia, salvo los casos de delegaci\u00f3n o avocaci\u00f3n, cuando se efect\u00faen en los t\u00e9rminos previstos en \u00e9sta u otras leyes.",
+      "b": "La delegaci\u00f3n de competencias, las encomiendas de gesti\u00f3n, la delegaci\u00f3n de firma y la suplencia no suponen alteraci\u00f3n de la titularidad de la competencia ni de los elementos determinantes de su ejercicio.",
+      "c": "La titularidad y el ejercicio de las competencias atribuidas a los \u00f3rganos administrativos podr\u00e1n ser concentradas en otros jer\u00e1rquicamente dependientes de aquellos en los t\u00e9rminos y con los requisitos que prevean las propias normas de atribuci\u00f3n de competencias.",
+      "d": "Si alguna disposici\u00f3n atribuye la competencia a una Administraci\u00f3n, sin especificar el \u00f3rgano que debe ejercerla, se entender\u00e1 que la facultad de instruir y resolver los expedientes corresponde a los \u00f3rganos inferiores competentes por raz\u00f3n de la materia y del territorio."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 8.3 dispone que, si la norma atribuye una competencia a una Administraci\u00f3n sin identificar \u00f3rgano, instrucci\u00f3n y resoluci\u00f3n corresponden a los \u00f3rganos inferiores competentes por materia y territorio. Consulta el tema 13 del temario y la fuente enlazada.",
+    "tema_numero": 13,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+  },
+  {
+    "numero": 17,
+    "pregunta": "La delegaci\u00f3n de firma:",
+    "opciones": {
+      "a": "Alterar\u00e1 la competencia del \u00f3rgano delegante y para su validez no ser\u00e1 necesaria su publicaci\u00f3n.",
+      "b": "No alterar\u00e1 la competencia del \u00f3rgano delegante y para su validez no ser\u00e1 necesaria su publicaci\u00f3n.",
+      "c": "Alterar\u00e1 la competencia del \u00f3rgano delegante y para su validez ser\u00e1 necesaria su publicaci\u00f3n.",
+      "d": "No alterar\u00e1 la competencia del \u00f3rgano delegante y para su validez ser\u00e1 necesaria su publicaci\u00f3n."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 12.1 establece que la delegaci\u00f3n de firma no altera la competencia y no necesita publicaci\u00f3n para ser v\u00e1lida. Consulta el tema 13 del temario y la fuente enlazada.",
+    "tema_numero": 13,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+  },
+  {
+    "numero": 18,
+    "pregunta": "Seg\u00fan el art\u00edculo 19 de la Ley 40/2015, en caso de vacante, ausencia, enfermedad, u otra causa legal:",
+    "opciones": {
+      "a": "El Presidente del \u00f3rgano colegiado ser\u00e1 sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del \u00f3rgano colegiado de mayor jerarqu\u00eda, antig\u00fcedad y edad, por este orden.",
+      "b": "El Presidente del \u00f3rgano colegiado ser\u00e1 sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del \u00f3rgano colegiado de mayor antig\u00fcedad, jerarqu\u00eda y edad, por este orden.",
+      "c": "El Presidente del \u00f3rgano colegiado ser\u00e1 sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del \u00f3rgano colegiado de mayor edad, jerarqu\u00eda y antig\u00fcedad, por este orden.",
+      "d": "El Presidente del \u00f3rgano colegiado ser\u00e1 sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del \u00f3rgano colegiado de mayor jerarqu\u00eda, edad y antig\u00fcedad, por este orden."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 19.2.a fija este orden de sustituci\u00f3n: vicepresidente y, en su defecto, miembro de mayor jerarqu\u00eda, antig\u00fcedad y edad. Consulta el tema 13 del temario y la fuente enlazada.",
+    "tema_numero": 13,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+  },
+  {
+    "numero": 19,
+    "pregunta": "Seg\u00fan la Ley 9/2017, de 8 de noviembre, de Contratos del Sector P\u00fablico, son contratos de obras:",
+    "opciones": {
+      "a": "Aquellos contratos que tienen por objeto la ejecuci\u00f3n de una obra, aislada o conjuntamente con la redacci\u00f3n del proyecto.",
+      "b": "Aquellos contratos que tienen por objeto la adquisici\u00f3n de bienes consumibles.",
+      "c": "Aquellos contratos que tienen por objeto la adquisici\u00f3n de material inform\u00e1tico.",
+      "d": "Aquellos contratos que tienen por objeto sustituir a la Administraci\u00f3n en el ejercicio de sus competencias."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 13.1 define el contrato de obras como el que tiene por objeto ejecutar una obra, aislada o junto con la redacci\u00f3n del proyecto. Consulta el tema 14 del temario y la fuente enlazada.",
+    "tema_numero": 14,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902"
+  },
+  {
+    "numero": 20,
+    "pregunta": "El contrato de concesi\u00f3n de servicios es aquel en cuya virtud uno o varios poderes adjudicadores encomiendan:",
+    "opciones": {
+      "a": "A t\u00edtulo oneroso a una o varias personas jur\u00eddicas, la gesti\u00f3n de un servicio cuya prestaci\u00f3n sea de su titularidad o competencia.",
+      "b": "A t\u00edtulo oneroso o gratuito a una o varias personas, naturales o jur\u00eddicas, la gesti\u00f3n de un servicio cuya prestaci\u00f3n sea de su titularidad o competencia.",
+      "c": "A t\u00edtulo oneroso a una o varias personas, naturales o jur\u00eddicas, la gesti\u00f3n de un servicio cuya prestaci\u00f3n sea de su titularidad o competencia.",
+      "d": "A t\u00edtulo oneroso o gratuito a una o varias personas jur\u00eddicas, la gesti\u00f3n de un servicio cuya prestaci\u00f3n sea de su titularidad o competencia."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 15 define la concesi\u00f3n de servicios como el encargo oneroso de gestionar un servicio de titularidad o competencia del poder adjudicador, a una persona f\u00edsica o jur\u00eddica. Consulta el tema 14 del temario y la fuente enlazada.",
+    "tema_numero": 14,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902"
+  },
+  {
+    "numero": 21,
+    "pregunta": "Respecto al perfil del contratante, la publicaci\u00f3n de la informaci\u00f3n relativa a los contratos menores deber\u00e1 realizarse, al menos:",
+    "opciones": {
+      "a": "Semanalmente.",
+      "b": "Mensualmente.",
+      "c": "Trimestralmente.",
+      "d": "Anualmente."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 63.4 exige publicar la informaci\u00f3n de los contratos menores al menos trimestralmente. Consulta el tema 14 del temario y la fuente enlazada.",
+    "tema_numero": 14,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902"
+  },
+  {
+    "numero": 22,
+    "pregunta": "Los precios de los contratos del sector p\u00fablico:",
+    "opciones": {
+      "a": "Solo podr\u00e1n ser objeto de revisi\u00f3n peri\u00f3dica y predeterminada en los t\u00e9rminos establecidos en el Cap\u00edtulo II, del T\u00edtulo III, de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector P\u00fablico.",
+      "b": "No podr\u00e1n ser objeto de revisi\u00f3n peri\u00f3dica.",
+      "c": "Ser\u00e1n objeto de revisi\u00f3n peri\u00f3dica y predeterminada en los t\u00e9rminos establecidos en la legislaci\u00f3n de la Uni\u00f3n Europea.",
+      "d": "Ser\u00e1n objeto de revisi\u00f3n peri\u00f3dica y predeterminada en los t\u00e9rminos establecidos en la Ley de Bases de R\u00e9gimen Local."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 103.1 permite revisar los precios peri\u00f3dica y predeterminadamente solo en los t\u00e9rminos y con los l\u00edmites del cap\u00edtulo correspondiente de la Ley. Consulta el tema 14 del temario y la fuente enlazada.",
+    "tema_numero": 14,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902"
+  },
+  {
+    "numero": 23,
+    "pregunta": "De acuerdo con lo establecido en el art\u00edculo 21 del Decreto 220/2014, de 12 de diciembre, del Consell, por el que se aprueba el Reglamento de Administraci\u00f3n Electr\u00f3nica de la Comunitat Valenciana, la sede de la Generalitat Valenciana es:",
+    "opciones": {
+      "a": "Aquella direcci\u00f3n electr\u00f3nica disponible para los ciudadanos a trav\u00e9s de redes de telecomunicaciones cuya titularidad, gesti\u00f3n y administraci\u00f3n corresponde a la Generalitat en el ejercicio de sus competencias y que la identifica cuando se relaciona por medios electr\u00f3nicos con los ciudadanos y con otras administraciones p\u00fablicas.",
+      "b": "Una plataforma disponible para la ciudadan\u00eda cuya gesti\u00f3n corresponde a la Generalitat en el ejercicio de sus competencias y que la identifica cuando se relaciona por medios electr\u00f3nicos con la ciudadan\u00eda y con otras administraciones p\u00fablicas.",
+      "c": "Aquella direcci\u00f3n electr\u00f3nica disponible para los ciudadanos a trav\u00e9s de redes de telecomunicaciones cuya titularidad, y gesti\u00f3n expresamente corresponde a la Generalitat en el ejercicio de sus competencias y que la identifica cuando se relaciona por medios electr\u00f3nicos con los ciudadanos y con otras administraciones p\u00fablicas.",
+      "d": "Aquella direcci\u00f3n habilitada para los ciudadanos a trav\u00e9s de redes de telecomunicaciones cuya titularidad, gesti\u00f3n y administraci\u00f3n corresponde a la Generalitat en el ejercicio de sus competencias y que la identifica cuando se relaciona por medios electr\u00f3nicos con los ciudadanos y con otras administraciones p\u00fablicas."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 21 del Decreto 220/2014 define la sede electr\u00f3nica como direcci\u00f3n electr\u00f3nica titularidad de la Generalitat que la identifica en sus relaciones electr\u00f3nicas. La opci\u00f3n A reproduce esa definici\u00f3n. Consulta el tema 19 del temario y la fuente enlazada.",
+    "tema_numero": 19,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/d/2014/12/12/220/"
+  },
+  {
+    "numero": 24,
+    "pregunta": "De acuerdo con lo establecido en la Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de Datos Personales y garant\u00eda de los derechos digitales:",
+    "opciones": {
+      "a": "El tratamiento de los datos personales de un menor de edad \u00fanicamente podr\u00e1 fundarse en su consentimiento cuando sea mayor de catorce a\u00f1os.",
+      "b": "El tratamiento de los datos personales de un menor de edad podr\u00e1 fundarse en su consentimiento cuando sea mayor de catorce a\u00f1os.",
+      "c": "De conformidad con lo dispuesto en el art\u00edculo 4.11 del Reglamento (UE) 2016/679 se entiende por consentimiento del afectado toda manifestaci\u00f3n de voluntad libre, informada e inequ\u00edvoca por la que este acepta, ya sea mediante una declaraci\u00f3n o una clara acci\u00f3n afirmativa, el tratamiento de datos personales que le conciernen.",
+      "d": "El tratamiento de los datos de los mayores de catorce a\u00f1os y menores de diecis\u00e9is a\u00f1os, fundado en el consentimiento, solo ser\u00e1 l\u00edcito si consta el del titular de la patria potestad o tutela, con el alcance que determinen los titulares de la patria potestad o tutela."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 7 de la LO 3/2018 permite fundar el tratamiento basado en el consentimiento del menor cuando tenga m\u00e1s de catorce a\u00f1os; la opci\u00f3n A expresa el umbral legal. Consulta el tema 09 del temario y la fuente enlazada.",
+    "tema_numero": 9,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+  },
+  {
+    "numero": 25,
+    "pregunta": "Atendiendo a lo establecido en el art\u00edculo 33 de la Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de Datos Personales y garant\u00eda de los derechos digitales, \u00bfcu\u00e1l de las siguientes aseveraciones es la correcta?",
+    "opciones": {
+      "a": "Tendr\u00e1 la consideraci\u00f3n de encargado del tratamiento y no la de responsable quien en su propio nombre y sin que conste que act\u00faa por cuenta de otro, establezca relaciones con los afectados, aun cuando exista un contrato o acto jur\u00eddico con el contenido fijado en el art\u00edculo 28.3 del Reglamento (UE) 2016/679. Esta previsi\u00f3n no ser\u00e1 aplicable a los encargos de tratamiento efectuados en el marco de la legislaci\u00f3n de contrataci\u00f3n del sector p\u00fablico.",
+      "b": "El encargado del tratamiento determinar\u00e1 si, cuando finalice la prestaci\u00f3n de los servicios del responsable, los datos personales deben ser destruidos, devueltos al encargado o entregados, en su caso, a un nuevo responsable.",
+      "c": "No proceder\u00e1 la destrucci\u00f3n de los datos cuando exista una previsi\u00f3n legal que obligue a su conservaci\u00f3n, en cuyo caso deber\u00e1n ser devueltos al responsable, que garantizar\u00e1 su conservaci\u00f3n mientras tal obligaci\u00f3n persista.",
+      "d": "El encargado del tratamiento deber\u00e1 conservar, debidamente bloqueados, los datos en tanto pudieran derivarse responsabilidades de su relaci\u00f3n con el responsable del tratamiento."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 33.3 de la LO 3/2018 dispone que, si hay deber legal de conservaci\u00f3n, los datos no se destruyen y se devuelven al responsable, que debe conservarlos mientras subsista la obligaci\u00f3n. Consulta el tema 09 del temario y la fuente enlazada.",
+    "tema_numero": 9,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+  },
+  {
+    "numero": 26,
+    "pregunta": "El personal empleado p\u00fablico, en el desarrollo de sus funciones, para cumplir los objetivos asignados actuar\u00e1 de acuerdo con:",
+    "opciones": {
+      "a": "Los principios de imparcialidad, profesionalidad, seriedad, buena fe, confidencialidad, responsabilidad, ejemplaridad y honradez.",
+      "b": "Los principios de parcialidad, profesionalidad, diligencia, buena fe, confidencialidad, responsabilidad, ejemplaridad y honestidad.",
+      "c": "Los principios de imparcialidad, profesionalidad, seriedad, buena fe, confidencialidad, responsabilidad, ejemplaridad y honestidad.",
+      "d": "Los principios de imparcialidad, profesionalidad, diligencia, buena fe, confidencialidad, responsabilidad, ejemplaridad y honradez."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 3.1 de la Ley 4/2021 exige imparcialidad, profesionalidad, diligencia, buena fe, confidencialidad, responsabilidad, ejemplaridad y honradez. Consulta el tema 15 del temario y la fuente enlazada.",
+    "tema_numero": 15,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2021/04/16/4/"
+  },
+  {
+    "numero": 27,
+    "pregunta": "Respecto al Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana, regulado en el art\u00edculo 12 de la Ley 4/2021, de 16 de abril, de la Funci\u00f3n P\u00fablica Valenciana, se\u00f1ale la respuesta correcta:",
+    "opciones": {
+      "a": "El Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana es el \u00f3rgano de consulta que tiene encomendada la selecci\u00f3n del personal empleado p\u00fablico de la administraci\u00f3n de la Generalitat.",
+      "b": "El Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana es el \u00f3rgano t\u00e9cnico de coordinaci\u00f3n e informaci\u00f3n a trav\u00e9s del cual se instrumenta la interlocuci\u00f3n entre la conselleria competente en materia de funci\u00f3n p\u00fablica, los \u00f3rganos gestores en materia de personal de los \u00e1mbitos sectoriales correspondientes a sanidad, educaci\u00f3n y justicia, y el sector p\u00fablico instrumental de la Generalitat.",
+      "c": "Los informes y propuestas del Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana tendr\u00e1n car\u00e1cter vinculante. De manera que quienes se aparten del criterio contenido en los mismos, deber\u00e1n motivar esta decisi\u00f3n.",
+      "d": "Los informes y propuestas del Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana no tendr\u00e1n car\u00e1cter vinculante. No obstante, quienes se aparten del criterio contenido en los mismos, deber\u00e1n motivar esta decisi\u00f3n."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 12 de la Ley 4/2021 configura el Consell Assessor como \u00f3rgano consultivo y establece que sus informes y propuestas no son vinculantes; apartarse de ellos requiere motivaci\u00f3n. Consulta el tema 15 del temario y la fuente enlazada.",
+    "tema_numero": 15,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2021/04/16/4/"
+  },
+  {
+    "numero": 28,
+    "pregunta": "Respecto a la composici\u00f3n del Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana, se\u00f1ale la respuesta correcta:",
+    "opciones": {
+      "a": "Integran el Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana el o la presidenta, los vocales natos y 6 vocales electivos.",
+      "b": "Integran el Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana el o la presidenta, los vocales natos y 7 vocales electivos.",
+      "c": "Integran el Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana el o la presidenta, los vocales natos y 8 vocales electivos.",
+      "d": "Integran el Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana el o la presidenta, los vocales natos y 9 vocales electivos."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 12 de la Ley 4/2021 establece que forman parte del Consell Assessor la presidencia, los vocales natos y nueve vocales electivos. Consulta el tema 15 del temario y la fuente enlazada.",
+    "tema_numero": 15,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2021/04/16/4/"
+  },
+  {
+    "numero": 29,
+    "pregunta": "Ser\u00e1n vocales natos del Consell Assessor de la Funci\u00f3 P\u00fablica Valenciana, las siguientes personas:",
+    "opciones": {
+      "a": "Una, en representaci\u00f3n de la Federaci\u00f3n Valenciana de Municipios y Provincias. Dos, en representaci\u00f3n de las universidades p\u00fablicas valencianas. Una por cada organizaci\u00f3n sindical con representaci\u00f3n en la Mesa General de Negociaci\u00f3n I.",
+      "b": "Una, en representaci\u00f3n de la Federaci\u00f3n Valenciana de Municipios y Provincias. Una, en representaci\u00f3n de las universidades p\u00fablicas valencianas. Una por cada organizaci\u00f3n sindical con representaci\u00f3n en la Mesa General de Negociaci\u00f3n I.",
+      "c": "Dos, en representaci\u00f3n de la Federaci\u00f3n Valenciana de Municipios y Provincias. Dos, en representaci\u00f3n de las universidades p\u00fablicas valencianas. Una por cada organizaci\u00f3n sindical con representaci\u00f3n en la Mesa General de Negociaci\u00f3n I.",
+      "d": "Dos, en representaci\u00f3n de la Federaci\u00f3n Valenciana de Municipios y Provincias. Una, en representaci\u00f3n de las universidades p\u00fablicas valencianas. Dos por cada organizaci\u00f3n sindical con representaci\u00f3n en la Mesa General de Negociaci\u00f3n I."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 12 de la Ley 4/2021 atribuye la representaci\u00f3n indicada: una persona por la FVMP, dos por las universidades p\u00fablicas valencianas y una por cada sindicato representado en la Mesa General I. Consulta el tema 15 del temario y la fuente enlazada.",
+    "tema_numero": 15,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2021/04/16/4/"
+  },
+  {
+    "numero": 30,
+    "pregunta": "Las retribuciones que retribuyen la carrera administrativa, las caracter\u00edsticas de los puestos de trabajo, el resultado de la actividad profesional, as\u00ed como los servicios extraordinarios prestados fuera de la jornada normal de trabajo son:",
+    "opciones": {
+      "a": "Retribuciones b\u00e1sicas.",
+      "b": "Retribuciones accesorias.",
+      "c": "Retribuciones complementarias.",
+      "d": "Retribuciones extraordinarias."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 76 de la Ley 4/2021 considera complementarias las retribuciones ligadas a la carrera, al puesto, al rendimiento y a servicios extraordinarios. Consulta el tema 15 del temario y la fuente enlazada.",
+    "tema_numero": 15,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2021/04/16/4/"
+  },
+  {
+    "numero": 31,
+    "pregunta": "Seg\u00fan establece el art\u00edculo 82 de la Ley 4/2021, de 16 de abril, de la Funci\u00f3n P\u00fablica Valenciana, al haber completado los veinte a\u00f1os de servicio, se tendr\u00e1 derecho al disfrute de los siguientes d\u00edas de vacaciones anuales:",
+    "opciones": {
+      "a": "Veinticuatro d\u00edas.",
+      "b": "Veinticinco d\u00edas.",
+      "c": "Veintis\u00e9is d\u00edas.",
+      "d": "Veintisiete d\u00edas."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 82 de la Ley 4/2021 reconoce, al cumplir veinte a\u00f1os de servicio, cuatro d\u00edas adicionales a los veinte h\u00e1biles ordinarios: veinticuatro d\u00edas en total. Consulta el tema 15 del temario y la fuente enlazada.",
+    "tema_numero": 15,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2021/04/16/4/"
+  },
+  {
+    "numero": 32,
+    "pregunta": "Seg\u00fan establece el art\u00edculo 162 de la Ley 4/2021, de 16 de abril, de la Funci\u00f3n P\u00fablica Valenciana, el personal funcionario cuyo puesto de trabajo haya sido suprimido como consecuencia de la aplicaci\u00f3n de una medida de redistribuci\u00f3n de efectivos o de racionalizaci\u00f3n de la organizaci\u00f3n administrativa y de personal reguladas por esta ley y no hayan obtenido otro puesto de trabajo, podr\u00e1 ser declarado:",
+    "opciones": {
+      "a": "En situaci\u00f3n de excedencia forzosa.",
+      "b": "En situaci\u00f3n asimilada al servicio activo.",
+      "c": "En situaci\u00f3n de expectativa de destino.",
+      "d": "Ninguna respuesta es correcta."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 162 de la Ley 4/2021 prev\u00e9 la situaci\u00f3n de expectativa de destino para el personal cuyo puesto se suprime y que no obtiene otro puesto en los supuestos descritos. Consulta el tema 15 del temario y la fuente enlazada.",
+    "tema_numero": 15,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2021/04/16/4/"
+  },
+  {
+    "numero": 33,
+    "pregunta": "Seg\u00fan establece el art\u00edculo 170 de la Ley 4/2021, de 16 de abril, de la Funci\u00f3n P\u00fablica Valenciana, se considera falta disciplinaria muy grave del personal funcionario p\u00fablico:",
+    "opciones": {
+      "a": "El abuso de autoridad en el ejercicio del cargo.",
+      "b": "La emisi\u00f3n de informes manifiestamente ilegales que causen perjuicio grave a la Administraci\u00f3n o a la ciudadan\u00eda.",
+      "c": "Intervenir en un procedimiento administrativo cuando se d\u00e9 alguna de las causas de abstenci\u00f3n legalmente se\u00f1aladas.",
+      "d": "La falta de obediencia debida a las personas que sean sus superiores jer\u00e1rquicos y a las que sean autoridades."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 170 de la Ley 4/2021 tipifica como muy grave emitir informes manifiestamente ilegales que ocasionen perjuicio grave a la Administraci\u00f3n o a la ciudadan\u00eda. Consulta el tema 15 del temario y la fuente enlazada.",
+    "tema_numero": 15,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2021/04/16/4/"
+  },
+  {
+    "numero": 34,
+    "pregunta": "En el \u00e1mbito de la Administraci\u00f3n de la Generalitat y de los organismos aut\u00f3nomos de la Generalitat, el cr\u00e9dito presupuestario se determina, atendiendo a la clasificaci\u00f3n org\u00e1nica, de acuerdo a su naturaleza econ\u00f3mica y funcional, de la forma siguiente:",
+    "opciones": {
+      "a": "Para los gastos de inversiones reales: consignaci\u00f3n por proyecto de inversi\u00f3n, cap\u00edtulo econ\u00f3mico y programa presupuestario.",
+      "b": "Para los gastos de activos y pasivos financieros: consignaci\u00f3n por cap\u00edtulo econ\u00f3mico y programa presupuestario.",
+      "c": "Para los gastos de transferencias, corrientes y de capital: consignaci\u00f3n por l\u00ednea, ya sea de subvenci\u00f3n o transferencia, cap\u00edtulo econ\u00f3mico y programa presupuestario.",
+      "d": "Para los gastos de personal: consignaci\u00f3n por art\u00edculo econ\u00f3mico y programa presupuestario."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 37 de la Ley 1/2015 determina el cr\u00e9dito de las transferencias corrientes y de capital por l\u00ednea, cap\u00edtulo econ\u00f3mico y programa presupuestario. Consulta el tema 17 del temario y la fuente enlazada.",
+    "tema_numero": 17,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2015/02/06/1/"
+  },
+  {
+    "numero": 35,
+    "pregunta": "Se\u00f1ale la respuesta correcta:",
+    "opciones": {
+      "a": "Los Presupuestos de la Generalitat determinar\u00e1n las obligaciones econ\u00f3micas y los derechos que, como m\u00e1ximo, pueden reconocer durante el correspondiente ejercicio la Generalitat y los sujetos que forman parte del sector p\u00fablico de la Generalitat.",
+      "b": "Los Presupuestos de la Generalitat constituyen la expresi\u00f3n cifrada, conjunta y sistem\u00e1tica de los derechos y obligaciones a liquidar durante el ejercicio por cada uno de los sujetos que forman parte del sector p\u00fablico de la Generalitat.",
+      "c": "Los Presupuestos de la Generalitat constituyen la expresi\u00f3n cifrada, conjunta y sistem\u00e1tica de los derechos y obligaciones a liquidar durante el ejercicio por la administraci\u00f3n de la Generalitat.",
+      "d": "Los Presupuestos de la Generalitat no recogen los presupuestos de explotaci\u00f3n y capital de las entidades del sector p\u00fablico empresarial y fundacional."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 24 de la Ley 1/2015 define los presupuestos como expresi\u00f3n cifrada, conjunta y sistem\u00e1tica de los derechos y obligaciones a liquidar durante el ejercicio por cada sujeto del sector p\u00fablico auton\u00f3mico. Consulta el tema 17 del temario y la fuente enlazada.",
+    "tema_numero": 17,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2015/02/06/1/"
+  },
+  {
+    "numero": 36,
+    "pregunta": "Si Les Corts no aprobaran el presupuesto de la Generalitat antes del primer d\u00eda del ejercicio econ\u00f3mico correspondiente:",
+    "opciones": {
+      "a": "Se entender\u00e1 prorrogado el del ejercicio anterior hasta el ejercicio siguiente y la pr\u00f3rroga no afectar\u00e1 a los cr\u00e9ditos para gastos correspondientes a programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan.",
+      "b": "Se entender\u00e1 prorrogado el del ejercicio anterior hasta la aprobaci\u00f3n y publicaci\u00f3n del nuevo en el Diari Oficial de la Comunitat Valenciana y la pr\u00f3rroga afectar\u00e1 a todos los cr\u00e9ditos incluidos en el presupuesto que se prorroga.",
+      "c": "Se entender\u00e1 prorrogado el del ejercicio anterior hasta el ejercicio siguiente y la pr\u00f3rroga afectar\u00e1 a todos los cr\u00e9ditos incluidos en el presupuesto que se prorroga.",
+      "d": "Se entender\u00e1 prorrogado el del ejercicio anterior hasta la aprobaci\u00f3n y publicaci\u00f3n del nuevo en el Diari Oficial de la Comunitat Valenciana y la pr\u00f3rroga no afectar\u00e1 a los cr\u00e9ditos para gastos correspondientes a programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 28.4 de la Ley 1/2015 establece la pr\u00f3rroga autom\u00e1tica del presupuesto anterior hasta que se apruebe y publique el nuevo, excluyendo los cr\u00e9ditos de programas o actuaciones que finalicen en el ejercicio prorrogado. Consulta el tema 17 del temario y la fuente enlazada.",
+    "tema_numero": 17,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2015/02/06/1/"
+  },
+  {
+    "numero": 37,
+    "pregunta": "Se\u00f1ale la respuesta correcta:",
+    "opciones": {
+      "a": "El compromiso o disposici\u00f3n del gasto inicia el procedimiento de ejecuci\u00f3n del gasto.",
+      "b": "La aprobaci\u00f3n del gasto es el acto por el que se autoriza la realizaci\u00f3n de un gasto por cuant\u00eda cierta o aproximada, reserv\u00e1ndose, a tal fin, la totalidad o una parte de un cr\u00e9dito presupuestario.",
+      "c": "La aprobaci\u00f3n del gasto es un acto con relevancia jur\u00eddica para con terceros.",
+      "d": "El compromiso o disposici\u00f3n del gasto es el acto mediante el que se declara la existencia de un cr\u00e9dito exigible contra la Hacienda P\u00fablica de la Generalitat."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 56.2 de la Ley 1/2015 define la aprobaci\u00f3n del gasto como el acto que autoriza realizarlo por una cuant\u00eda cierta o aproximada y reserva cr\u00e9dito para ello. Consulta el tema 18 del temario y la fuente enlazada.",
+    "tema_numero": 18,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2015/02/06/1/"
+  },
+  {
+    "numero": 38,
+    "pregunta": "Las fases de gesti\u00f3n del presupuesto de ingresos son las siguientes:",
+    "opciones": {
+      "a": "Compromiso de ingreso, reconocimiento del derecho y propuesta de ingreso.",
+      "b": "Reconocimiento del derecho e ingreso material.",
+      "c": "Compromiso de ingreso, reconocimiento del derecho e ingreso material.",
+      "d": "Reconocimiento del derecho y propuesta de ingreso."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 58 de la Ley 1/2015 establece que la gesti\u00f3n del presupuesto de ingresos comprende el reconocimiento del derecho y la propuesta de ingreso. Consulta el tema 18 del temario y la fuente enlazada.",
+    "tema_numero": 18,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2015/02/06/1/"
+  },
+  {
+    "numero": 39,
+    "pregunta": "El documento contable mixto que se expide para contabilizar la autorizaci\u00f3n y el compromiso de gastos sobre cr\u00e9ditos disponibles es el siguiente:",
+    "opciones": {
+      "a": "RA.",
+      "b": "ADO.",
+      "c": "T/.",
+      "d": "A."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El documento ADO re\u00fane las fases de autorizaci\u00f3n y disposici\u00f3n del gasto y, adem\u00e1s, el reconocimiento de la obligaci\u00f3n; por eso es el documento mixto que incluye autorizaci\u00f3n y compromiso. Consulta el tema 18 del temario y la fuente enlazada.",
+    "tema_numero": 18,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2015/02/06/1/"
+  },
+  {
+    "numero": 40,
+    "pregunta": "A la apertura del ejercicio presupuestario se formalizar\u00e1 la proyecci\u00f3n anual de la n\u00f3mina:",
+    "opciones": {
+      "a": "Mediante la contabilizaci\u00f3n de los documentos de retenci\u00f3n de cr\u00e9dito correspondientes a las retribuciones del personal en los puestos ocupados.",
+      "b": "Mediante la contabilizaci\u00f3n de los documentos de autorizaci\u00f3n y disposici\u00f3n del gasto correspondientes a las retribuciones del personal en los puestos ocupados.",
+      "c": "Mediante la contabilizaci\u00f3n de los documentos de autorizaci\u00f3n y disposici\u00f3n del gasto correspondientes a las retribuciones del personal en los puestos ocupados y vacantes.",
+      "d": "Mediante la contabilizaci\u00f3n de los documentos de reconocimiento de la obligaci\u00f3n correspondientes a las retribuciones del personal en los puestos ocupados."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. Las reglas de ejecuci\u00f3n presupuestaria de la Generalitat disponen que la proyecci\u00f3n anual de n\u00f3mina se formaliza con documentos de autorizaci\u00f3n y disposici\u00f3n relativos a las retribuciones del personal en puestos ocupados. Consulta el tema 18 del temario y la fuente enlazada.",
+    "tema_numero": 18,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2015/02/06/1/"
+  },
+  {
+    "numero": 41,
+    "pregunta": "En las convocatorias en r\u00e9gimen de concurrencia competitiva:",
+    "opciones": {
+      "a": "Cuando la cuant\u00eda total m\u00e1xima de las subvenciones convocadas se distribuya entre distintos cr\u00e9ditos presupuestarios y se otorgue expresamente a dicha distribuci\u00f3n car\u00e1cter estimativo, la alteraci\u00f3n de dicha distribuci\u00f3n precisar\u00e1 de las modificaciones que procedan en el expediente de gasto antes de la resoluci\u00f3n de la concesi\u00f3n.",
+      "b": "Cuando la cuant\u00eda total m\u00e1xima de las subvenciones convocadas se distribuya entre distintos cr\u00e9ditos presupuestarios y se otorgue expresamente a dicha distribuci\u00f3n car\u00e1cter estimativo, la alteraci\u00f3n de dicha distribuci\u00f3n precisar\u00e1 de nueva convocatoria.",
+      "c": "En ning\u00fan caso podr\u00e1n concederse subvenciones por importe superior a la cuant\u00eda total m\u00e1xima fijada en las mismas sin que previamente se realice una nueva convocatoria.",
+      "d": "La convocatoria no podr\u00e1 prever que eventuales aumentos sobrevenidos en el cr\u00e9dito disponible posibiliten una resoluci\u00f3n complementaria de la concesi\u00f3n de la subvenci\u00f3n que incluya solicitudes que, aun cumpliendo todos los requisitos, no hayan sido beneficiarias por agotamiento del mismo."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 58.4 del texto refundido de la Ley General de Subvenciones permite que la distribuci\u00f3n estimativa entre cr\u00e9ditos se modifique mediante las modificaciones presupuestarias necesarias antes de resolver la concesi\u00f3n. Consulta el tema 17 del temario y la fuente enlazada.",
+    "tema_numero": 17,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977"
+  },
+  {
+    "numero": 42,
+    "pregunta": "Efectuada la apertura del presupuesto de gastos del correspondiente ejercicio, se registrar\u00e1n, en la fase contable que corresponda y con car\u00e1cter previo al registro de cualquier otro expediente:",
+    "opciones": {
+      "a": "Los cr\u00e9ditos derivados de sentencias judiciales.",
+      "b": "Las anualidades que, correspondiendo al ejercicio corriente, deriven de compromisos de car\u00e1cter plurianual contra\u00eddos en ejercicios anteriores.",
+      "c": "Los compromisos de gasto de ejercicios anteriores que hubieran quedado pendientes de alcanzar la fase contable de reconocimiento de la obligaci\u00f3n.",
+      "d": "Las obligaciones reconocidas pendientes de pago del ejercicio anterior."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. La regla de apertura presupuestaria exige registrar primero las anualidades del ejercicio corriente derivadas de compromisos plurianuales adquiridos en ejercicios anteriores. Consulta el tema 18 del temario y la fuente enlazada.",
+    "tema_numero": 18,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2015/02/06/1/"
+  },
+  {
+    "numero": 43,
+    "pregunta": "\u00bfQu\u00e9 es lo que no incluye LibreOffice?",
+    "opciones": {
+      "a": "Un procesador de texto.",
+      "b": "Un cliente de correo electr\u00f3nico.",
+      "c": "Un editor de presentaciones.",
+      "d": "Entre otras clases de aplicaciones LibreOffice incorpora todas las que anteriormente se indica."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. LibreOffice incluye Writer, un procesador de textos, e Impress, para presentaciones, pero no incorpora un cliente de correo electr\u00f3nico integrado. Consulta el tema 23 del temario y la fuente enlazada.",
+    "tema_numero": 23,
+    "fuente_oficial": "https://www.libreoffice.org/discover/calc/"
+  },
+  {
+    "numero": 44,
+    "pregunta": "La extensi\u00f3n de un archivo creado con Writer:",
+    "opciones": {
+      "a": ".ocr",
+      "b": ".odt",
+      "c": ".dot",
+      "d": ".doc"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El formato nativo de documento de texto de Writer es OpenDocument Text, cuya extensi\u00f3n es .odt. Consulta el tema 23 del temario y la fuente enlazada.",
+    "tema_numero": 23,
+    "fuente_oficial": "https://www.libreoffice.org/discover/calc/"
+  },
+  {
+    "numero": 45,
+    "pregunta": "\u00bfQu\u00e9 combinaci\u00f3n de teclas hemos de pulsar si queremos realizar un atajo para cerrar una ventana en una hoja de c\u00e1lculo Calc?",
+    "opciones": {
+      "a": "Crtl+W",
+      "b": "Crtl+C",
+      "c": "Crtl+E",
+      "d": "Crtl+T"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. En Calc, Ctrl+W cierra la ventana o documento actual; Ctrl+C copia y las otras combinaciones propuestas no son el atajo de cierre. Consulta el tema 23 del temario y la fuente enlazada.",
+    "tema_numero": 23,
+    "fuente_oficial": "https://www.libreoffice.org/discover/calc/"
+  },
+  {
+    "numero": 46,
+    "pregunta": "Seg\u00fan lo establecido en la Constituci\u00f3n Espa\u00f1ola:",
+    "opciones": {
+      "a": "El castellano es la lengua espa\u00f1ola oficial del Estado. Todos los espa\u00f1oles tienen el deber de conocerla y de usarla.",
+      "b": "Las dem\u00e1s lenguas espa\u00f1olas ser\u00e1n tambi\u00e9n cooficiales en las respectivas Comunidades Aut\u00f3nomas.",
+      "c": "La riqueza de las distintas modalidades ling\u00fc\u00edsticas de Espa\u00f1a es un patrimonio cultural que ser\u00e1 objeto de especial protecci\u00f3n.",
+      "d": "El castellano es la lengua espa\u00f1ola oficial del Estado. Todos los espa\u00f1oles tienen el deber de conocerla y el derecho a usarla."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 3.1 reconoce el castellano como lengua oficial del Estado, establece el deber de conocerla y el derecho a usarla. Consulta el tema 01 del temario y la fuente enlazada.",
+    "tema_numero": 1,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 47,
+    "pregunta": "Seg\u00fan lo establecido en el art\u00edculo 20 de la Constituci\u00f3n Espa\u00f1ola referente a la libertad de expresi\u00f3n, indique cu\u00e1l de los siguientes es un derecho reconocido como derecho fundamental:",
+    "opciones": {
+      "a": "Expresar y difundir libremente los pensamientos, ideas y opiniones de otras personas mediante la palabra, el escrito o cualquier otro medio de difusi\u00f3n.",
+      "b": "La reproducci\u00f3n, creaci\u00f3n y adaptaci\u00f3n literaria, art\u00edstica, cient\u00edfica y t\u00e9cnica.",
+      "c": "La libertad de c\u00e1tedra.",
+      "d": "Comunicar o recibir libremente informaci\u00f3n por cualquier medio. La ley regular\u00e1 el derecho a la cl\u00e1usula de conciencia y al secreto profesional en el ejercicio de estas libertades."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 20.1.c reconoce y protege la libertad de c\u00e1tedra como derecho fundamental. Consulta el tema 01 del temario y la fuente enlazada.",
+    "tema_numero": 1,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 48,
+    "pregunta": "Seg\u00fan lo establecido en la Constituci\u00f3n Espa\u00f1ola, son fundamento del orden pol\u00edtico y de la paz social:",
+    "opciones": {
+      "a": "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los dem\u00e1s.",
+      "b": "La dignidad de la persona, los derechos que le son inherentes, el desarrollo de la personalidad, el respeto a la ley y a los derechos de los dem\u00e1s.",
+      "c": "La integridad de la persona, los derechos inviolables que le son inherentes, el desarrollo de la personalidad, el respeto a la ley y a los derechos de los dem\u00e1s.",
+      "d": "La dignidad de la persona, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los dem\u00e1s."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 10.1 enumera como fundamento del orden pol\u00edtico y de la paz social la dignidad, los derechos inviolables, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos ajenos. Consulta el tema 01 del temario y la fuente enlazada.",
+    "tema_numero": 1,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 49,
+    "pregunta": "Seg\u00fan el T\u00edtulo III de la Constituci\u00f3n Espa\u00f1ola, las sesiones conjuntas de las C\u00e1maras:",
+    "opciones": {
+      "a": "Ser\u00e1n presididas alternativamente por el Presidente del Congreso y por el Presidente del Senado.",
+      "b": "Ser\u00e1n presididas conjuntamente por el Presidente del Congreso y por el Presidente del Senado.",
+      "c": "Ser\u00e1n presididas por el Presidente del Congreso.",
+      "d": "Ser\u00e1n presididas por el Presidente del Senado."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 72.2 de la Constituci\u00f3n establece que las sesiones conjuntas de las C\u00e1maras ser\u00e1n presididas por el Presidente del Congreso. Consulta el tema 02 del temario y la fuente enlazada.",
+    "tema_numero": 2,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 50,
+    "pregunta": "Seg\u00fan la Constituci\u00f3n Espa\u00f1ola, la Ley distribuir\u00e1 el n\u00famero total de Diputados:",
+    "opciones": {
+      "a": "Asignando un n\u00famero fijo de Diputados por cada circunscripci\u00f3n electoral.",
+      "b": "Asignando una representaci\u00f3n m\u00e1xima inicial a cada circunscripci\u00f3n y distribuyendo los dem\u00e1s en proporci\u00f3n a la poblaci\u00f3n.",
+      "c": "Asignando una representaci\u00f3n m\u00ednima inicial a cada circunscripci\u00f3n y distribuyendo los dem\u00e1s en proporci\u00f3n a la poblaci\u00f3n.",
+      "d": "Distribuyendo dicho n\u00famero total en proporci\u00f3n a la poblaci\u00f3n."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 68.2 ordena asignar una representaci\u00f3n m\u00ednima inicial a cada circunscripci\u00f3n y distribuir los dem\u00e1s esca\u00f1os en proporci\u00f3n a la poblaci\u00f3n. Consulta el tema 02 del temario y la fuente enlazada.",
+    "tema_numero": 2,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 51,
+    "pregunta": "Seg\u00fan la Constituci\u00f3n Espa\u00f1ola, \u00bfqui\u00e9n proveer\u00e1 a la sucesi\u00f3n en la Corona si se extinguen todas las l\u00edneas llamadas en derecho?",
+    "opciones": {
+      "a": "El Congreso de los Diputados.",
+      "b": "El Consejo de Estado.",
+      "c": "El Senado.",
+      "d": "Las Cortes Generales."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 57.3 encomienda a las Cortes Generales proveer a la sucesi\u00f3n en la Corona cuando se extingan todas las l\u00edneas llamadas en derecho. Consulta el tema 02 del temario y la fuente enlazada.",
+    "tema_numero": 2,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 52,
+    "pregunta": "Seg\u00fan el art\u00edculo 98 de la Constituci\u00f3n Espa\u00f1ola de 1978:",
+    "opciones": {
+      "a": "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los dem\u00e1s miembros que establezca la ley.",
+      "b": "El Gobierno se compone del Presidente, de los Ministros y de los dem\u00e1s miembros que establezca la ley.",
+      "c": "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, y de los dem\u00e1s miembros que establezca la ley.",
+      "d": "El Gobierno se compone \u00fanicamente del Presidente y de los Vicepresidentes."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 98.1 establece que el Gobierno se compone del Presidente, los Vicepresidentes, en su caso, los Ministros y los dem\u00e1s miembros que establezca la ley. Consulta el tema 03 del temario y la fuente enlazada.",
+    "tema_numero": 3,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 53,
+    "pregunta": "Seg\u00fan el art\u00edculo 103 de la Constituci\u00f3n Espa\u00f1ola de 1978, la Administraci\u00f3n P\u00fablica sirve con objetividad los intereses generales y act\u00faa de acuerdo con los principios de:",
+    "opciones": {
+      "a": "Justicia, igualdad, descentralizaci\u00f3n, desconcentraci\u00f3n y coordinaci\u00f3n, con sometimiento pleno a la ley y al Derecho.",
+      "b": "Eficacia, jerarqu\u00eda, descentralizaci\u00f3n, desconcentraci\u00f3n y coordinaci\u00f3n, con sometimiento pleno a la ley y al Derecho.",
+      "c": "Transparencia, eficiencia, descentralizaci\u00f3n, desconcentraci\u00f3n y coordinaci\u00f3n, con sometimiento pleno a la ley y al Derecho.",
+      "d": "Igualdad, transparencia, descentralizaci\u00f3n, desconcentraci\u00f3n y coordinaci\u00f3n, con sometimiento pleno a la ley y al Derecho."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 103.1 recoge los principios de eficacia, jerarqu\u00eda, descentralizaci\u00f3n, desconcentraci\u00f3n y coordinaci\u00f3n, con sometimiento pleno a la ley y al Derecho. Consulta el tema 03 del temario y la fuente enlazada.",
+    "tema_numero": 3,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 54,
+    "pregunta": "Seg\u00fan el art\u00edculo 116 de la Constituci\u00f3n Espa\u00f1ola de 1978, la declaraci\u00f3n de los estados de alarma, de excepci\u00f3n y de sitio:",
+    "opciones": {
+      "a": "No modificar\u00e1n el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constituci\u00f3n y en las leyes.",
+      "b": "Modificar\u00e1n el principio de responsabilidad del Gobierno.",
+      "c": "Seg\u00fan su duraci\u00f3n, podr\u00e1n modificar el principio de responsabilidad del Gobierno.",
+      "d": "Podr\u00e1n modificar el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constituci\u00f3n y en las leyes."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 116.6 dispone que la declaraci\u00f3n de los estados de alarma, excepci\u00f3n y sitio no modifica el principio de responsabilidad del Gobierno y sus agentes. Consulta el tema 01 del temario y la fuente enlazada.",
+    "tema_numero": 1,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 55,
+    "pregunta": "Seg\u00fan establece la Constituci\u00f3n Espa\u00f1ola, el procedimiento judicial ser\u00e1:",
+    "opciones": {
+      "a": "Predominantemente oral, sobre todo en materia criminal.",
+      "b": "Predominantemente escrito, sobre todo en materia civil.",
+      "c": "Predominantemente escrito, sobre todo en materia criminal.",
+      "d": "Predominantemente oral, sobre todo en materia civil."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 120.2 establece que el procedimiento ser\u00e1 predominantemente oral, sobre todo en materia criminal. Consulta el tema 03 del temario y la fuente enlazada.",
+    "tema_numero": 3,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 56,
+    "pregunta": "El Presidente del Tribunal Supremo ser\u00e1 nombrado:",
+    "opciones": {
+      "a": "Por el Presidente del Gobierno, a propuesta del Congreso.",
+      "b": "Por el Rey, a propuesta del Presidente del Gobierno.",
+      "c": "Por el Congreso, a propuesta del Consejo General del Poder Judicial.",
+      "d": "Por el Rey, a propuesta del Consejo General del Poder Judicial."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 123.2 dispone que el Rey nombra al Presidente del Tribunal Supremo a propuesta del Consejo General del Poder Judicial. Consulta el tema 03 del temario y la fuente enlazada.",
+    "tema_numero": 3,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 57,
+    "pregunta": "Los miembros del Tribunal Constitucional ser\u00e1n designados por un per\u00edodo de:",
+    "opciones": {
+      "a": "Cinco a\u00f1os.",
+      "b": "Cuatro a\u00f1os.",
+      "c": "Seis a\u00f1os.",
+      "d": "Nueve a\u00f1os."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 159.3 establece que los miembros del Tribunal Constitucional son designados por nueve a\u00f1os. Consulta el tema 03 del temario y la fuente enlazada.",
+    "tema_numero": 3,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 58,
+    "pregunta": "Se\u00f1ale la respuesta correcta de acuerdo con el art\u00edculo 139 de la Constituci\u00f3n Espa\u00f1ola:",
+    "opciones": {
+      "a": "Todos los espa\u00f1oles tienen los mismos derechos y deberes en cualquier parte del territorio del Estado.",
+      "b": "Todos los ciudadanos tienen los mismos derechos y deberes en cualquier parte del territorio del Estado.",
+      "c": "Todos los espa\u00f1oles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.",
+      "d": "Todos los ciudadanos tienen los mismos deberes y obligaciones en cualquier parte del territorio del Estado."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 139.1 dice literalmente que todos los espa\u00f1oles tienen los mismos derechos y deberes en cualquier parte del territorio del Estado. Consulta el tema 01 del temario y la fuente enlazada.",
+    "tema_numero": 1,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 59,
+    "pregunta": "De las siguientes competencias, se\u00f1ale \u00bfcu\u00e1l es una competencia exclusiva del Estado, recogida en el art\u00edculo 149 de la Constituci\u00f3n Espa\u00f1ola?",
+    "opciones": {
+      "a": "Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.",
+      "b": "Legislaci\u00f3n sobre propiedad intelectual e industrial.",
+      "c": "Asistencia social.",
+      "d": "La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 149.1.9 atribuye al Estado competencia exclusiva sobre la legislaci\u00f3n en materia de propiedad intelectual e industrial. Consulta el tema 01 del temario y la fuente enlazada.",
+    "tema_numero": 1,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 60,
+    "pregunta": "Seg\u00fan el art\u00edculo 153 de la Constituci\u00f3n Espa\u00f1ola, el control de la actividad de los \u00f3rganos de las Comunidades Aut\u00f3nomas se ejercer\u00e1:",
+    "opciones": {
+      "a": "Por el Consejo Jur\u00eddico Consultivo, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.",
+      "b": "Por el Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del art\u00edculo 150.",
+      "c": "Por la jurisdicci\u00f3n civil, el de la administraci\u00f3n aut\u00f3noma y sus normas reglamentarias.",
+      "d": "Por el Tribunal de Cuentas, el econ\u00f3mico y presupuestario."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 153.d atribuye al Tribunal de Cuentas el control econ\u00f3mico y presupuestario de la actividad de los \u00f3rganos auton\u00f3micos. Consulta el tema 01 del temario y la fuente enlazada.",
+    "tema_numero": 1,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+  },
+  {
+    "numero": 61,
+    "pregunta": "Son funciones de Les Corts:",
+    "opciones": {
+      "a": "Ejercer el control parlamentario sobre la acci\u00f3n de la Administraci\u00f3n situada bajo la autoridad de la Generalitat.",
+      "b": "Presentar ante la Mesa del Congreso proyectos de ley y nombrar a los Diputados encargados de defenderlas.",
+      "c": "Solicitar al Gobierno del Estado la adopci\u00f3n de proposiciones de ley.",
+      "d": "Elaborar los convenios y los acuerdos de cooperaci\u00f3n con el Estado y con las dem\u00e1s Comunidades Aut\u00f3nomas."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Respuesta A. El art\u00edculo 22 del Estatuto atribuye a Les Corts el control parlamentario de la acci\u00f3n de la Administraci\u00f3n bajo la autoridad de la Generalitat. Consulta el tema 04 del temario y la fuente enlazada.",
+    "tema_numero": 4,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-6472"
+  },
+  {
+    "numero": 62,
+    "pregunta": "Seg\u00fan el art\u00edculo 9 del Estatuto de Autonom\u00eda de la Comunitat Valenciana:",
+    "opciones": {
+      "a": "Sin perjuicio de lo que dispone la legislaci\u00f3n b\u00e1sica del Estado, una Ley de Les Corts regular\u00e1 el acceso a una buena administraci\u00f3n y el acceso a los documentos de las instituciones y administraciones p\u00fablicas y privadas valencianas.",
+      "b": "Todos los ciudadanos tienen derecho a que las administraciones p\u00fablicas de la Generalitat traten sus asuntos de modo equitativo y parcial y en un plazo razonable, y a gozar de servicios p\u00fablicos de calidad.",
+      "c": "Los ciudadanos valencianos tendr\u00e1n derecho a dirigirse a la Administraci\u00f3n de la Comunitat Valenciana en cualquiera de sus dos lenguas oficiales y a recibir respuesta en la misma lengua utilizada.",
+      "d": "Todos los ciudadanos tienen derecho a participar \u00fanicamente de forma individual en la vida pol\u00edtica, econ\u00f3mica, cultural y social de la Comunitat Valenciana."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 9.2 del Estatuto reconoce el derecho a dirigirse a la Administraci\u00f3n de la Comunitat Valenciana en cualquiera de las dos lenguas oficiales y recibir respuesta en la misma lengua. Consulta el tema 04 del temario y la fuente enlazada.",
+    "tema_numero": 4,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-6472"
+  },
+  {
+    "numero": 63,
+    "pregunta": "Seg\u00fan el art\u00edculo 29 del Estatuto de Autonom\u00eda de la Comunitat Valenciana:",
+    "opciones": {
+      "a": "El Consell es el \u00f3rgano colegiado de gobierno de la Generalitat, que ostenta la potestad legislativa y reglamentaria.",
+      "b": "Los miembros del Consell que reciben el nombre de Consellers son designados por el President de Les Corts.",
+      "c": "Los organismos, servicios y dependencias del Consell se podr\u00e1n establecer en diferentes lugares del territorio de la Comunitat Valenciana, de acuerdo con criterios de centralizaci\u00f3n y coordinaci\u00f3n de funciones.",
+      "d": "Todas las normas, disposiciones y actos emanados del Consell, que por su naturaleza lo exijan, ser\u00e1n publicados en el 'Diario Oficial de la Generalitat' en las dos lenguas oficiales."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 29.5 del Estatuto exige publicar en el Diari Oficial de la Generalitat, en las dos lenguas oficiales, las normas, disposiciones y actos del Consell que por su naturaleza lo requieran. Consulta el tema 04 del temario y la fuente enlazada.",
+    "tema_numero": 4,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-6472"
+  },
+  {
+    "numero": 64,
+    "pregunta": "La Generalitat tiene competencia exclusiva sobre:",
+    "opciones": {
+      "a": "Pesca en aguas exteriores, marisqueo, acuicultura, caza y pesca fluvial y lacustre.",
+      "b": "Archivos, bibliotecas, museos, hemerotecas y dem\u00e1s centros de dep\u00f3sito de titularidad estatal.",
+      "c": "Promoci\u00f3n de la mujer.",
+      "d": "Casinos, juego y apuestas deportivas y ben\u00e9ficas."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 49.1.25 del Estatuto atribuye competencia exclusiva sobre promoci\u00f3n de la mujer; las otras opciones no corresponden a esa competencia en los t\u00e9rminos indicados. Consulta el tema 04 del temario y la fuente enlazada.",
+    "tema_numero": 4,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-6472"
+  },
+  {
+    "numero": 65,
+    "pregunta": "Seg\u00fan la Ley 5/1983, de 30 de diciembre, del Consell, al President de la Generalitat, como m\u00e1s alto representante de la Comunitat Valenciana, le corresponden las siguientes funciones:",
+    "opciones": {
+      "a": "Solicitar de las Cortes Generales, previo acuerdo del Consell, la facultad de dictar normas legislativas en materias de competencia estatal, de conformidad con el art\u00edculo 150.1 de la Constituci\u00f3n y el art\u00edculo 60.1 del Estatut d'Autonomia de la Comunitat Valenciana.",
+      "b": "Mantener las relaciones con las otras Instituciones de la Generalitat, sin perjuicio de las facultades atribuidas al respecto a los consellers.",
+      "c": "Firmar los Convenios y Acuerdos de colaboraci\u00f3n con la Administraci\u00f3n del Estado y las dem\u00e1s Comunidades Aut\u00f3nomas.",
+      "d": "Fomentar las peculiaridades del pueblo valenciano y solicitar la participaci\u00f3n de los valencianos en la vida pol\u00edtica, econ\u00f3mica, cultural y social."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 10 de la Ley 5/1983 atribuye al President fomentar las peculiaridades del pueblo valenciano y solicitar la participaci\u00f3n de los valencianos en la vida pol\u00edtica, econ\u00f3mica, cultural y social. Consulta el tema 05 del temario y la fuente enlazada.",
+    "tema_numero": 5,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/1983/12/30/5/"
+  },
+  {
+    "numero": 66,
+    "pregunta": "Seg\u00fan el art\u00edculo 16 de la Ley 5/1983, de 30 de diciembre, del Consell, en materia de pol\u00edtica general de la Generalitat, corresponden al Consell las siguientes competencias:",
+    "opciones": {
+      "a": "Nombrar y separar a los altos cargos de la Administraci\u00f3n de la Generalitat, a propuesta del conseller correspondiente.",
+      "b": "Ejercer las competencias en materia de acci\u00f3n interior atribuidas por el art\u00edculo 62 del Estatut d'Autonomia.",
+      "c": "La planificaci\u00f3n y desarrollo de la pol\u00edtica valenciana.",
+      "d": "Determinar las directrices de la acci\u00f3n de gobierno, de acuerdo con lo que establezca al respecto el President de Les Corts."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 16 de la Ley 5/1983 atribuye al Consell la planificaci\u00f3n y desarrollo de la pol\u00edtica valenciana. Consulta el tema 05 del temario y la fuente enlazada.",
+    "tema_numero": 5,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/1983/12/30/5/"
+  },
+  {
+    "numero": 67,
+    "pregunta": "De acuerdo con lo establecido en el art\u00edculo 51 de la Ley 5/1983, de 30 de diciembre, del Consell, el President de la Generalitat:",
+    "opciones": {
+      "a": "Previa deliberaci\u00f3n de Les Corts puede plantear al Consell, la cuesti\u00f3n de confianza sobre su programa, una decisi\u00f3n pol\u00edtica o un proyecto de Ley, conforme se establece en el art\u00edculo 30 del Estatut d'Autonomia.",
+      "b": "Previa deliberaci\u00f3n del Consell puede plantear ante Les Corts, la cuesti\u00f3n de confianza sobre su programa, una decisi\u00f3n pol\u00edtica o una proposici\u00f3n de Ley, conforme se establece en el art\u00edculo 30 del Estatut d'Autonomia.",
+      "c": "Previa deliberaci\u00f3n de Les Corts puede plantear al Consell, una moci\u00f3n de censura sobre su programa, una decisi\u00f3n pol\u00edtica o un proyecto de Ley, conforme se establece en el art\u00edculo 30 del Estatut d'Autonomia.",
+      "d": "Previa deliberaci\u00f3n del Consell puede plantear ante Les Corts, la cuesti\u00f3n de confianza sobre su programa, una decisi\u00f3n pol\u00edtica o un proyecto de Ley, conforme se establece en el art\u00edculo 30 del Estatut d'Autonomia."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 51 de la Ley 5/1983 establece que el President, previa deliberaci\u00f3n del Consell, puede plantear ante Les Corts una cuesti\u00f3n de confianza sobre su programa, una decisi\u00f3n pol\u00edtica o un proyecto de ley. Consulta el tema 05 del temario y la fuente enlazada.",
+    "tema_numero": 5,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/1983/12/30/5/"
+  },
+  {
+    "numero": 68,
+    "pregunta": "Los consellers, como miembros del Consell y jefes de Departamento, tienen entre otras la siguiente funci\u00f3n:",
+    "opciones": {
+      "a": "Determinar las directrices de la acci\u00f3n de gobierno.",
+      "b": "Suscribir convenios y acuerdos de cooperaci\u00f3n con el estado.",
+      "c": "Formular motivadamente el anteproyecto de Presupuesto de la Conselleria.",
+      "d": "Participar en la fijaci\u00f3n de demarcaciones correspondientes a los Registros de la Propiedad y Mercantiles."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. La Ley 5/1983 atribuye a cada conseller formular motivadamente el anteproyecto del presupuesto de su conselleria; no es una atribuci\u00f3n general del President ni del Consell. Consulta el tema 06 del temario y la fuente enlazada.",
+    "tema_numero": 6,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/1983/12/30/5/"
+  },
+  {
+    "numero": 69,
+    "pregunta": "Constituye una funci\u00f3n del President de la Generalitat:",
+    "opciones": {
+      "a": "Nombrar y separar a los altos cargos de la Generalitat, a propuesta del conseller correspondiente.",
+      "b": "Proponer a Les Corts la reforma del Estatut d'Autonomia de la Comunitat Valenciana.",
+      "c": "Emitir deuda p\u00fablica para gastos de inversi\u00f3n, previo acuerdo de Les Corts.",
+      "d": "Nombrar, entre los vicepresidentes o los consellers, un secretario del Consell, para que ejerza las funciones establecidas en la Ley del Consell."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 16 de la Ley 5/1983 permite al Consell nombrar, entre vicepresidentes o consellers, a quien ejerza la secretar\u00eda del Consell; de ah\u00ed la funci\u00f3n indicada en la opci\u00f3n D. Consulta el tema 05 del temario y la fuente enlazada.",
+    "tema_numero": 5,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/1983/12/30/5/"
+  },
+  {
+    "numero": 70,
+    "pregunta": "No es una funci\u00f3n del Consell en materia normativa, concretada en la siguiente competencia:",
+    "opciones": {
+      "a": "Dictar decretos legislativos en los t\u00e9rminos y con las formalidades previstas en la Ley del Consell.",
+      "b": "Nombrar y separar a los consellers.",
+      "c": "Ejercer la potestad reglamentaria de acuerdo con la Constituci\u00f3n Espa\u00f1ola, el Estatut d'Autonomia de la Comunitat Valenciana y las leyes.",
+      "d": "Emitir deuda p\u00fablica para gastos de inversi\u00f3n, previo acuerdo de Les Corts."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 18 de la Ley 5/1983 incluye entre las atribuciones del Consell dictar decretos legislativos y ejercer la potestad reglamentaria; nombrar y separar consellers corresponde al President, no al Consell como funci\u00f3n normativa. Consulta el tema 05 del temario y la fuente enlazada.",
+    "tema_numero": 5,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/1983/12/30/5/"
+  },
+  {
+    "numero": 71,
+    "pregunta": "El Consejo Europeo se reunir\u00e1:",
+    "opciones": {
+      "a": "Una vez al a\u00f1o.",
+      "b": "Dos veces al a\u00f1o.",
+      "c": "Una vez por trimestre.",
+      "d": "Dos veces por semestre."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 15.3 del Tratado de la Uni\u00f3n Europea dispone que el Consejo Europeo se re\u00fane dos veces por semestre, por convocatoria de su Presidente. Consulta el tema 07 del temario y la fuente enlazada.",
+    "tema_numero": 7,
+    "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
+  },
+  {
+    "numero": 72,
+    "pregunta": "En la Uni\u00f3n Europea, \u00bfqui\u00e9n velar\u00e1 por que se apliquen los Tratados y las medidas adoptadas por las instituciones en virtud de \u00e9stos?",
+    "opciones": {
+      "a": "El Parlamento.",
+      "b": "El Consejo.",
+      "c": "La Comisi\u00f3n.",
+      "d": "El Tribunal de Justicia."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Respuesta C. El art\u00edculo 17.1 del Tratado de la Uni\u00f3n Europea encomienda a la Comisi\u00f3n velar por la aplicaci\u00f3n de los Tratados y de las medidas adoptadas por las instituciones en virtud de ellos. Consulta el tema 07 del temario y la fuente enlazada.",
+    "tema_numero": 7,
+    "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
+  },
+  {
+    "numero": 73,
+    "pregunta": "El Parlamento Europeo estar\u00e1 compuesto por representantes de los ciudadanos de la Uni\u00f3n. Su n\u00famero no exceder\u00e1 de:",
+    "opciones": {
+      "a": "750, con el Presidente.",
+      "b": "750, m\u00e1s el Presidente.",
+      "c": "736, con el Presidente.",
+      "d": "736, m\u00e1s el Presidente."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 14.2 del Tratado de la Uni\u00f3n Europea establece un m\u00e1ximo de 750 representantes m\u00e1s el Presidente del Parlamento Europeo. Consulta el tema 07 del temario y la fuente enlazada.",
+    "tema_numero": 7,
+    "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
+  },
+  {
+    "numero": 74,
+    "pregunta": "Seg\u00fan el art\u00edculo 13 de la Ley Org\u00e1nica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres:",
+    "opciones": {
+      "a": "De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por raz\u00f3n de sexo, corresponder\u00e1 a la persona demandada probar la ausencia de discriminaci\u00f3n en las medidas adoptadas y su proporcionalidad en cualquier tipo de procedimiento judicial.",
+      "b": "De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por raz\u00f3n de sexo, corresponder\u00e1 a la persona demandada probar la ausencia de discriminaci\u00f3n en las medidas adoptadas y su proporcionalidad, en todo caso.",
+      "c": "De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por raz\u00f3n de sexo, corresponder\u00e1 a la persona demandante probar la ausencia de discriminaci\u00f3n en las medidas adoptadas y su proporcionalidad.",
+      "d": "De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por raz\u00f3n de sexo, corresponder\u00e1 a la persona demandada probar la ausencia de discriminaci\u00f3n en las medidas adoptadas y su proporcionalidad, salvo en los procesos penales."
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Respuesta D. El art\u00edculo 13 de la LO 3/2007 establece la regla de inversi\u00f3n de la carga de la prueba en procesos civiles, salvo los penales; la opci\u00f3n D incluye esa excepci\u00f3n. Consulta el tema 08 del temario y la fuente enlazada.",
+    "tema_numero": 8,
+    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+  },
+  {
+    "numero": 75,
+    "pregunta": "Seg\u00fan el art\u00edculo 3 de la Ley 9/2003, de 2 de abril, de la Generalitat, para la igualdad entre mujeres y hombres:",
+    "opciones": {
+      "a": "Las actuaciones reguladas est\u00e1n referidas solamente a las nuevas medidas que se implementen, ya sean promovidas o realizadas por personas f\u00edsicas o jur\u00eddicas, de naturaleza p\u00fablica o privada.",
+      "b": "Las actuaciones reguladas est\u00e1n referidas tanto a las nuevas medidas que se implementen como a las que actualmente se est\u00e1n realizando, as\u00ed como las que ya existen en materia de igualdad de oportunidades entre mujeres y hombres, ya sean promovidas o realizadas por personas f\u00edsicas o jur\u00eddicas, de naturaleza p\u00fablica o privada.",
+      "c": "Las actuaciones reguladas est\u00e1n referidas tanto a las nuevas medidas que se implementen como a las que actualmente se est\u00e1n realizando, as\u00ed como las que ya existen en materia de igualdad de oportunidades entre mujeres y hombres, ya sean promovidas o realizadas por personas jur\u00eddicas, de naturaleza p\u00fablica o privada.",
+      "d": "Las actuaciones reguladas est\u00e1n referidas tanto a las nuevas medidas que se implementen como a las que actualmente se est\u00e1n realizando, as\u00ed como las que ya existen en materia de igualdad de oportunidades entre mujeres y hombres, ya sean promovidas o realizadas por personas f\u00edsicas o jur\u00eddicas, de naturaleza p\u00fablica."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Respuesta B. El art\u00edculo 3 de la Ley valenciana 9/2003 incluye medidas nuevas y las que ya se realizan o existen, promovidas por personas f\u00edsicas o jur\u00eddicas, p\u00fablicas o privadas. Consulta el tema 08 del temario y la fuente enlazada.",
+    "tema_numero": 8,
+    "fuente_oficial": "https://dogv.gva.es/eli/es-vc/l/2003/04/02/9/"
+  }
 ]
