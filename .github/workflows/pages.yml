@@ -30,13 +30,14 @@ jobs:
       - name: Preparar archivos del sitio
         shell: bash
         run: |
-          mkdir -p _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES
-          cp index.html _site/
+          mkdir -p _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES "_site/OPOSICIONES/AUX ADM AGE/EXAMENES"
+          cp index.html age.html _site/
           cp -R css js assets _site/
           cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2018_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
           cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2021_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
           cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2022_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
           cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2023_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
+          cp "OPOSICIONES/AUX ADM AGE/EXAMENES/"*.pdf "_site/OPOSICIONES/AUX ADM AGE/EXAMENES/"
           touch _site/.nojekyll
 
       - name: Subir el sitio

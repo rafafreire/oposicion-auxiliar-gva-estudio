@@ -4,7 +4,7 @@ Esta guía explica con palabras sencillas qué tecnologías utiliza la aplicaci�
 
 ## En pocas palabras
 
-OpoGVA es una página web estática. Está hecha con **HTML, CSS y JavaScript**, los tres lenguajes básicos de las páginas web. No necesita instalarse y, por ahora, no tiene una base de datos ni un servidor propio.
+OpoGVA es una página web estática. Permite elegir entre Auxiliar Administrativo GVA y Auxiliar Administrativo AGE. Está hecha con **HTML, CSS y JavaScript**, los tres lenguajes básicos de las páginas web. No necesita instalarse y, por ahora, no tiene una base de datos ni un servidor propio.
 
 ## ¿Qué hace cada tecnología?
 
@@ -18,7 +18,9 @@ No se ha usado un programa adicional como React ni hace falta compilar la aplica
 
 - `js/data.js` contiene los datos generales de los temas y sus fuentes.
 - `js/materials/tema-01.js` a `tema-24.js` contienen los apuntes de cada tema preparados para que la aplicación pueda mostrarlos.
-- `js/past-exams.js` contiene las preguntas importadas de los exámenes anteriores.
+- `js/past-exams.js` contiene las preguntas importadas de los exámenes GVA.
+- `js/age-exams.js` contiene los cuestionarios AGE importados desde sus JSON; solo algunos incluyen respuestas correctas.
+- `age.html` y `js/age-app.js` forman la sección AGE. Su índice temático enlaza al programa oficial porque no hay apuntes completos en la carpeta AUX ADM AGE.
 - La carpeta `OPOSICIONES` conserva los materiales locales. Al publicar, el flujo de GitHub Pages copia a la web solo los archivos que necesita la aplicación y los PDF enlazados.
 
 ## ¿Dónde se guarda mi progreso?

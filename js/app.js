@@ -3,7 +3,7 @@ const fresh=()=>({done:[],wrong:[],answers:{},stats:{answered:0,correct:0}});
 function state(){try{return {...fresh(),...JSON.parse(localStorage.getItem(KEY)||'{}')}}catch{return fresh()}}
 function persist(s){localStorage.setItem(KEY,JSON.stringify(s));renderStats()}
 function view(name){document.querySelectorAll('.view').forEach(x=>x.classList.remove('active-view'));$(`#view-${name}`).classList.add('active-view');document.querySelectorAll('.nav-item').forEach(x=>x.classList.toggle('active',x.dataset.view===name));if(name==='fallos')renderReview();window.scrollTo({top:0,behavior:'smooth'})}
-document.querySelectorAll('[data-view]').forEach(x=>x.addEventListener('click',()=>view(x.dataset.view)));document.querySelectorAll('[data-go]').forEach(x=>x.addEventListener('click',()=>view(x.dataset.go)));
+document.querySelectorAll('[data-view]').forEach(x=>x.addEventListener('click',()=>view(x.dataset.view)));document.querySelector('#opposition-switch')?.addEventListener('change',e=>{if(e.target.value==='age')window.location.href='age.html'});document.querySelectorAll('[data-go]').forEach(x=>x.addEventListener('click',()=>view(x.dataset.go)));
 function sourceList(t){return [['Bases · Anexo IV (DOGV)',DOGV],...t.src.map(k=>S[k]),...(t.extra||[])]}
 function topicStudy(s,n){return s.topicProgress?.[n]||{status:s.done.includes(n)?'done':'pending',rating:0}}function renderStats(){const s=state(),completed=topics.filter(t=>topicStudy(s,t.n).status==='done').length;$('#topics-done').textContent=completed;$('#topic-progress').style.width=`${completed/topics.length*100}%`;
 $('#answered-count').textContent=s.stats.answered;$('#correct-count').textContent=s.stats.correct;$('#missed-count').textContent=s.wrong.length;$('#error-badge').textContent=s.wrong.length;
