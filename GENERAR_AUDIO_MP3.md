@@ -41,8 +41,24 @@ También puedes cambiar la voz o la velocidad:
 python scripts/generate_topic_mp3.py --tema 1 --voz es-ES-AlvaroNeural --velocidad=-10%
 ```
 
+### Temas AGE (1–28)
+
+Para generar los audios de los bloques I y II del temario de AUX ADM AGE, usa el generador independiente:
+
+```powershell
+python scripts/generate_age_topic_mp3.py
+```
+
+Los archivos se guardan como `assets/audio/age-tema-01.mp3` hasta `age-tema-28.mp3` y se actualiza `assets/audio/age-manifest.json`. Para generar un tema concreto:
+
+```powershell
+python scripts/generate_age_topic_mp3.py --tema 1
+```
+
+También admite `--voz` y `--velocidad`, igual que el generador de GVA. La lectura en voz alta de AGE funciona en el navegador sin MP3; la descarga solo aparece para los temas cuyo audio se haya generado. El tema 26 usa la ficha local de Access porque BLOQUE II no contiene su apunte completo.
+
 ## Publicarlos en GitHub Pages
 
-Sube a GitHub los MP3 generados y el manifiesto. GitHub Pages publica la carpeta `assets`; al desplegar los archivos, se activarán los botones de descarga de esos temas.
+Sube a GitHub los MP3 generados y su manifiesto correspondiente (`manifest.json` para GVA o `age-manifest.json` para AGE). GitHub Pages publica la carpeta `assets`; al desplegar los archivos, se activarán los botones de descarga de esos temas.
 
 Los audios largos pueden ocupar bastante espacio. Puedes generarlos por tema y publicar solo los que quieras tener disponibles.
