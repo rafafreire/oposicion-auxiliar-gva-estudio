@@ -1,3 +1,4 @@
+// Shared playback controls for standalone topic readers.
 (() => {
   const start = document.getElementById('speak-start');
   const pause = document.getElementById('speak-pause');

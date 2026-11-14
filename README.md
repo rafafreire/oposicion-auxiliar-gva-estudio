@@ -8,15 +8,16 @@ Abre `index.html` en el navegador. No requiere instalación. El avance se guarda
 
 ## Incluye
 
-- Selector entre las oposiciones GVA y AGE, con progreso separado para cada una.
+- Selector entre las oposiciones GVA, AGE y Auxiliar Administrativo del Ayuntamiento de València, con progreso separado para cada una.
 - Los 24 temas del Anexo IV de GVA, agrupados en parte general y especial.
 - Temario AGE para los 28 temas, con visor de lectura y apuntes locales de los bloques I y II.
-- Enlaces al DOGV y a normas publicadas por BOE, EUR-Lex o DOGV.
-- Dos preguntas de práctica por tema (48 en total), con corrección y explicación.
-- Exámenes GVA de 2018, 2021, 2022 y 2023, y diez cuestionarios AGE de 2008 a 2025, con acceso a sus PDF. En AGE solo se puntúan las preguntas cuya plantilla está incluida en el JSON.
+- Temario del Ayuntamiento de València con 21 temas completos en los bloques I y II.
+- Enlaces al DOGV, al BOP de València y a normas publicadas por BOE o EUR-Lex.
+- En GVA, dos preguntas de práctica por tema (48 en total), con corrección y explicación.
+- Exámenes GVA de 2018, 2021, 2022 y 2023, diez cuestionarios AGE de 2008 a 2025 y un banco de 208 preguntas de Auxiliar Administrativo de València, con acceso a los PDF.
 - Temario completo de los 24 temas, desplegado dentro de la app a partir de los apuntes de `OPOSICIONES/AUX ADM GVA/TEMARIO`.
 - Seguimiento local de temas estudiados, autoevaluación, preguntas respondidas y fallos pendientes.
-- Lectura de los temas GVA y AGE en ventanas independientes, con barra de progreso, velocidad ajustable y duración estimada; descarga de MP3 cuando está disponible.
+- Lectura de temas GVA, AGE y València en ventanas independientes, con barra de progreso, velocidad ajustable y duración estimada; descarga de MP3 donde hay audios generados.
 - Repaso de fallos y diseño adaptable a móvil y escritorio.
 - Lectura en voz alta de las preguntas y sus opciones mediante la voz del navegador.
 
@@ -36,6 +37,6 @@ El repositorio incluye un flujo de GitHub Actions que publica la aplicación al 
 2. En el repositorio, abre **Settings → Pages** y selecciona **GitHub Actions** como origen de publicación.
 3. Cuando termine el flujo **Publicar OpoGVA en GitHub Pages** en la pestaña **Actions**, usa la URL que muestra **Settings → Pages** para abrir la app desde cualquier dispositivo.
 
-El flujo publica ambas pantallas, los datos integrados, los PDF de exámenes necesarios y los apuntes de AGE BLOQUES I y II. Los MP3 son opcionales: consulta [GENERAR_AUDIO_MP3.md](./GENERAR_AUDIO_MP3.md) para generarlos. Si el repositorio es público, el sitio y su contenido también serán accesibles públicamente.
+El flujo publica las tres pantallas, los datos integrados, los PDF de exámenes necesarios y los apuntes de AGE y València. Los MP3 son opcionales: consulta [GENERAR_AUDIO_MP3.md](./GENERAR_AUDIO_MP3.md) para generarlos. Si el repositorio es público, el sitio y su contenido también serán accesibles públicamente.
 
 El progreso se guarda en el almacenamiento local del navegador. Se conserva en cada dispositivo, pero no se sincroniza entre ellos.

@@ -65,3 +65,14 @@ $('#start-test').addEventListener('click',beginTest);$('#start-exam').addEventLi
 function renderReview(){const area=$('#review-area'),s=state();if(!s.wrong.length){area.innerHTML='<div class="empty-review panel"><span>✦</span><h2>¡Todo al día!</h2><p>Las preguntas que falles aparecerán aquí para que puedas repasarlas.</p></div>';return}area.innerHTML=`<p class="review-count">${s.wrong.length} pregunta${s.wrong.length===1?'':'s'} pendiente${s.wrong.length===1?'':'s'}</p>`+s.wrong.map(q=>`<article class="review-card panel"><div class="quiz-meta"><span>${q.year?`EXAMEN ${q.year} · PREGUNTA ${q.number}`:`TEMA ${String(q.n).padStart(2,'0')}`}</span><span>REPASO PENDIENTE</span></div><h2>${q.q}</h2><div class="answers">${q.opts.map((a,i)=>`<button class="answer" data-review="${q.id}" data-answer="${i}">${String.fromCharCode(65+i)}. &nbsp;${a}</button>`).join('')}</div><div class="review-feedback" id="review-${q.id}"></div><details class="review-source"><summary>Ver explicación y fuente</summary><p>${q.why}</p>${questionReferences(q)}<a href="${q.source[1]}" target="_blank" rel="noopener">${q.source[0]} ↗</a></details></article>`).join('');
 document.querySelectorAll('[data-review]').forEach(b=>b.addEventListener('click',()=>{const q=state().wrong.find(x=>x.id===b.dataset.review),choice=Number(b.dataset.answer),ok=choice===q.correct;document.querySelectorAll(`[data-review="${q.id}"]`).forEach((x,i)=>{x.disabled=true;if(i===q.correct)x.classList.add('correct');else if(i===choice)x.classList.add('incorrect')});if(ok){const st=state();st.wrong=st.wrong.filter(x=>x.id!==q.id);persist(st);$(`#review-${q.id}`).innerHTML='<p class="feedback good">¡Bien! Pregunta repasada y retirada de pendientes.</p>';setTimeout(renderReview,900)}else $(`#review-${q.id}`).innerHTML='<p class="feedback bad">Todavía no. Revisa la explicación y vuelve a intentarlo en otro repaso.</p>'}))}
 renderTopics();renderStats();refreshAudioLibrary();openTopicFromHash();
+
+const gvaOppositionSwitch = document.querySelector('#opposition-switch');
+if (gvaOppositionSwitch && ![...gvaOppositionSwitch.options].some(option => option.value === 'valencia')) {
+  const valenciaOption = document.createElement('option');
+  valenciaOption.value = 'valencia';
+  valenciaOption.textContent = 'Ayuntamiento de València';
+  gvaOppositionSwitch.append(valenciaOption);
+}
+gvaOppositionSwitch?.addEventListener('change', event => {
+  if (event.target.value === 'valencia') window.location.href = 'valencia.html';
+});
