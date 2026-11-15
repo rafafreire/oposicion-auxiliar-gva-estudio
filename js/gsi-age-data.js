@@ -104,9 +104,22 @@ window.gsiAgeData = {
   ],
   testExams: [
     { year: '2007', path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2007.json' },
-    { year: '2008', path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2008.json' },
-    { year: '2011', path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2011.json' },
-    { year: '2013', path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2013.json' },
+    {
+      year: '2008',
+      path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2008.json',
+      answerTemplate: 'OPOSICIONES/GSI AGE/EXAMENES/2008/GSI_AGE_2008_Plantilla_Definitiva_Primer_Ejercicio.pdf',
+      source: 'https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado'
+    },
+    { year: '2011', path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2011.json',
+      answerTemplate: 'OPOSICIONES/GSI AGE/EXAMENES/2011/GSI_AGE_2011_Plantilla_Definitiva_Primer_Ejercicio.pdf',
+      source: 'https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado'
+    },
+    {
+      year: '2013',
+      path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2013.json',
+      answerTemplate: 'OPOSICIONES/GSI AGE/EXAMENES/2013/GSI_AGE_2013_Plantilla_Definitiva_Primer_Ejercicio.pdf',
+      source: 'https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado'
+    },
     { year: '2014', path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2014.json' },
     { year: '2015', path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2015.json' },
     { year: '2016', path: 'OPOSICIONES/GSI AGE/EXAMENES/JSON/EXAMEN_GSI_2016.json' },

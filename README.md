@@ -11,7 +11,7 @@ Abre `index.html` en el navegador. No requiere instalación. El avance se guarda
 - Selector entre las oposiciones GVA, AGE, Ayuntamiento de València y Gestión de Sistemas e Informática AGE, con progreso separado para cada una.
 - Los 24 temas del Anexo IV de GVA, agrupados en parte general y especial.
 - Temario AGE para los 28 temas, con visor de lectura y apuntes locales de los bloques I y II.
-- Programa oficial GSI AGE de ingreso libre (OEP 2025), con 57 temas en cuatro bloques, doce cuestionarios históricos en JSON y plantillas INAP de 2018, 2019, 2022 y 2024.
+- Programa oficial GSI AGE de ingreso libre (OEP 2025), con 57 temas en cuatro bloques, doce cuestionarios históricos en JSON y plantillas INAP de 2008, 2011, 2013, 2018, 2019, 2022 y 2024.
 - Temario del Ayuntamiento de València con 21 temas completos en los bloques I y II.
 - Enlaces al DOGV, al BOP de València y a normas publicadas por BOE o EUR-Lex.
 - En GVA, dos preguntas de práctica por tema (48 en total), con corrección y explicación.

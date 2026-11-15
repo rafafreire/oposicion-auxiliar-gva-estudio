@@ -76,6 +76,14 @@ def parse_exam(path):
 def answer_for(question_number, answer_key):
     if answer_key is None:
         return None
+    if answer_key.get('estructura') == 'bloques_50':
+        if question_number <= 50:
+            block, block_question = 'I y II', question_number
+        elif question_number <= 100:
+            block, block_question = 'III', question_number - 50
+        else:
+            block, block_question = 'IV', question_number - 100
+        return answer_key['respuestas_por_bloque'][block].get(str(block_question))
     answers = answer_key['respuestas'] if question_number <= 100 else answer_key['reserva']
     answer_number = question_number if question_number <= 100 else question_number - 100
     return answers.get(str(answer_number))

@@ -8,10 +8,10 @@
       "c": "Nombrar y separar a los miembros del Gobierno previa consulta al Presidente del Gobierno.",
       "d": "Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 2,
@@ -22,10 +22,10 @@
       "c": "Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución.",
       "d": "La delegación legislativa deberá otorgarse mediante una ley orgánica cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 3,
@@ -36,10 +36,10 @@
       "c": "En Consejo de Ministros y en Comisiones Delegadas de las Cortes Generales.",
       "d": "En Comisiones Delegadas del Gobierno y Consejo de Estado."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 4,
@@ -50,10 +50,10 @@
       "c": "Los Reglamentos de las Cámaras.",
       "d": "El Reglamento del Congreso de los Diputados, exclusivamente."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 5,
@@ -64,10 +64,10 @@
       "c": "Intercambio electrónico de datos en entornos cerrados de comunicación, conforme a lo específicamente acordado en las partes.",
       "d": "La identidad electrónica reconocida del órgano administrativo."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 6,
@@ -78,10 +78,10 @@
       "c": "Encaminamiento adaptativo aislado.",
       "d": "Encaminamiento determinístico estático."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 7,
@@ -92,10 +92,10 @@
       "c": "Monolítico",
       "d": "Exonúcleo"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 8,
@@ -106,10 +106,10 @@
       "c": "DSE",
       "d": "DAP"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "Anulada",
+    "explicacion": "Pregunta anulada según la plantilla definitiva del INAP; no se puntúa.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 9,
@@ -120,10 +120,10 @@
       "c": "Los SGM por paginación producen fragmentación externa.",
       "d": "Los SGM por segmentación no producen fragmentación interna."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 10,
@@ -134,10 +134,10 @@
       "c": "Tienen protecciones y privilegios en las rutinas para manejar diferentes aspectos de los recursos del ordenador, como memoria, disco, etc.",
       "d": "Generalmente están hechos a medida, por lo que son eficientes y rápidos en su ejecución y gestión, pero por lo mismo carecen de flexibilidad para soportar diferentes ambientes de trabajo o tipos de aplicaciones."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 11,
@@ -148,10 +148,10 @@
       "c": "Kernel o núcleo",
       "d": "Entrada / salida"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "Anulada",
+    "explicacion": "Pregunta anulada según la plantilla definitiva del INAP; no se puntúa.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 12,
@@ -162,10 +162,10 @@
       "c": "Utilidad para instalar programas.",
       "d": "Monitoriza el sistema."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 13,
@@ -176,10 +176,10 @@
       "c": "Bytecode",
       "d": "JIT"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 14,
@@ -190,10 +190,10 @@
       "c": "Java solo admite SSL para programar clientes web.",
       "d": "Sí, cuenta con las CRL o listas de revocación de certificados."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 15,
@@ -204,10 +204,10 @@
       "c": "Trabajan exclusivamente con bases de datos Oracle y Adabas.",
       "d": "Se denominan también sistemas OLTP."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 16,
@@ -218,10 +218,10 @@
       "c": "Lenguaje de Consulta y de Definición de datos.",
       "d": "Lenguaje de Consulta, de Manipulación y de Definición de datos."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 17,
@@ -232,10 +232,10 @@
       "c": "Select SP.IdP,sum(distinct SP.Cant) from SP",
       "d": "Select distinct SP.IdP, sum (distinct SP.Cant) from SP"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 18,
@@ -246,10 +246,10 @@
       "c": "AXIS",
       "d": "WSE"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 19,
@@ -260,10 +260,10 @@
       "c": "Los mensajes SOAP se pueden transportar, entre otros medios, sobre HTTP, SMTP o palomas mensajeras.",
       "d": "Para que dos aplicaciones se comuniquen mediante SOAP siempre será necesario alterar las configuraciones de los posibles firewalls entre ellas."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 20,
@@ -274,10 +274,10 @@
       "c": "Los datos van formados mediante etiquetas de lo que significan.",
       "d": "Si las reglas sintácticas del DTD se cumplen, el documento es válido."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 21,
@@ -288,10 +288,10 @@
       "c": "Un documento XML válido es aquél que está bien formado y también cumple con las reglas de un DTD",
       "d": "Un documento XML bien formado es aquél que cumple las reglas de un DTD"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 22,
@@ -302,10 +302,10 @@
       "c": "Eficacia, eficiencia, disponibilidad, integridad, confidencialidad, conformidad y fiabilidad.",
       "d": "Disponibilidad, integridad de los datos, confidencialidad de los datos, autenticidad de los usuarios del servicio, autenticidad del origen de los datos, trazabilidad del servicio, trazabilidad de los datos."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 23,
@@ -316,10 +316,10 @@
       "c": "La supervisión de los controles efectivamente implementados en una organización y la determinación de la eficiencia de los mismos.",
       "d": "Establecer la política de seguridad de las organizaciones."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "Anulada",
+    "explicacion": "Pregunta anulada según la plantilla definitiva del INAP; no se puntúa.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 24,
@@ -330,10 +330,10 @@
       "c": "RTO (Objetivo de Tiempo de Recuperación)",
       "d": "SDO (Objetivo de Entrega del Servicio)"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 25,
@@ -344,10 +344,10 @@
       "c": "La clasificación de las dependencias en función de su valor crítico.",
       "d": "Los puntos de control para determinar la seguridad operativa frente a caída de líneas, averías."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 26,
@@ -358,10 +358,10 @@
       "c": "Se otorgan niveles de protección tanto a los programas de ordenador como a la documentación técnica y manuales de uso.",
       "d": "La protección se concederá tanto a personas físicas como jurídicas."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 27,
@@ -372,10 +372,10 @@
       "c": "Se pude usar con cualquier propósito, adaptarlo a las necesidades, mejorar el programa, distribuir copias y está protegido con copyleft.",
       "d": "Se pude usar con cualquier propósito, adaptarlo a las necesidades, mejorar el programa y a partir de aquí ya puede ser software privativo."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 28,
@@ -386,10 +386,10 @@
       "c": "Las versiones sucesivas del programa así como a los programas derivados, salvo aquellas creadas con el fin de ocasionar efectos nocivos a un sistema informático.",
       "d": "Las ideas y principios en los que se basan cualquiera de los elementos de un programa de ordenador incluidos los que sirven de fundamento a sus interfaces."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 29,
@@ -400,10 +400,10 @@
       "c": "Lexicográfico",
       "d": "De concordancia"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 30,
@@ -414,10 +414,10 @@
       "c": "ROI = 100 x (Beneficio Neto Anual - Coste Desarrollo Anualizado) / Inversión Promedio.",
       "d": "ROI = (Beneficio Neto Anual - Coste Desarrollo Anualizado) / Inversión total."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 31,
@@ -428,10 +428,10 @@
       "c": "Estimar adecuadamente los recursos económicos necesarios en el plazo de realización del proyecto.",
       "d": "Determinar el punto de amortización del proyecto."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 32,
@@ -442,10 +442,10 @@
       "c": "La última versión disponible es RSS 1.0",
       "d": "Todos los documentos RSS deben ser conformes a la especificación XML 1.0."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 33,
@@ -456,10 +456,10 @@
       "c": "XP",
       "d": "Warnier-Orr"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 34,
@@ -470,10 +470,10 @@
       "c": "Petición de Cambio de Requisitos.",
       "d": "Archivo de la Documentación de Gestión de Proyecto."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "Anulada",
+    "explicacion": "Pregunta anulada según la plantilla definitiva del INAP; no se puntúa.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 35,
@@ -484,10 +484,10 @@
       "c": "Estudio de viabilidad del sistema.",
       "d": "Diseño del sistema de información."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 36,
@@ -498,10 +498,10 @@
       "c": "Procesos.",
       "d": "Almacenes de datos."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 37,
@@ -512,10 +512,10 @@
       "c": "Entidad.",
       "d": "Nodo."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 38,
@@ -526,10 +526,10 @@
       "c": "Construcción del Sistema de Información.",
       "d": "Implantación y Aceptación del Sistema"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 39,
@@ -540,10 +540,10 @@
       "c": "Planificación Detallada de Actividades y Recursos Necesarios.",
       "d": "Presentación y Aceptación de la Planificación General del Proyecto."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 40,
@@ -554,10 +554,10 @@
       "c": "Si cada requerimiento especificado puede ser verificado.",
       "d": "Si ninguno de los requisitos especificados entra en conflicto con alguno de los otros requisitos o con otros documentos."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 41,
@@ -568,10 +568,10 @@
       "c": "Durante la propia sesión se elaboran los modelos empleando diagramas fáciles de entender y mantener, directamente sobre herramientas CASE.",
       "d": "Se realiza un cronograma con las actuaciones a desarrollar."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 42,
@@ -582,10 +582,10 @@
       "c": "Que todos los elementos del DFD resultante deben estar conectados directa o indirectamente con los flujos del proceso origen.",
       "d": "Que todos los flujos de control de procesos provengan sólo de procesos del mismo nivel."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 43,
@@ -596,10 +596,10 @@
       "c": "Consulta, actualización, diálogo.",
       "d": "Consulta, modificación, borrado, intercambio."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 44,
@@ -610,10 +610,10 @@
       "c": "Entidad externa.",
       "d": "Entidad interna."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 45,
@@ -624,10 +624,10 @@
       "c": "Entidad",
       "d": "Diccionario de datos"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 46,
@@ -638,10 +638,10 @@
       "c": "Cardinalidad",
       "d": "Dominio"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 47,
@@ -652,10 +652,10 @@
       "c": "Intersección",
       "d": "Join"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 48,
@@ -666,10 +666,10 @@
       "c": "Nivel lógico",
       "d": "Nivel de aplicación"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 49,
@@ -680,10 +680,10 @@
       "c": "Si la relación es de dependencia, la clave propagada es la clave ajena.",
       "d": "Si la relación es de dependencia la clave propagada es la clave primaria."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 50,
@@ -694,10 +694,10 @@
       "c": "Determinar la organización interna del modelo lógico de los datos en una base de datos.",
       "d": "Representar el flujo de datos entre procesos y almacenes de datos lógicos."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 51,
@@ -708,10 +708,10 @@
       "c": "Longitud del camino: Es el número de nodos que componen el camino.",
       "d": "Grafo euleriano: Es un grafo que tiene un camino euleriano cerrado."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 52,
@@ -722,10 +722,10 @@
       "c": "Por contenido.",
       "d": "Por secuencia."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 53,
@@ -736,10 +736,10 @@
       "c": "Los datos y contenido son niveles de cohesión.",
       "d": "Funcional y lógico son grados de acoplamiento."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 54,
@@ -750,10 +750,10 @@
       "c": "Casual, Lógica, Temporal, Procedimental, De Comunicación, Secuencial y Funcional.",
       "d": "Funcional, Secuencial, De Comunicación, Procedimental, Cohesión, Lógica y Casual."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 55,
@@ -764,10 +764,10 @@
       "c": "La fase de Implantación y Aceptación del Sistema.",
       "d": "Fuera del ámbito de Métrica v3."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 56,
@@ -778,10 +778,10 @@
       "c": "Jefe de Proyecto, Auditor de Sistemas, Equipo Operación y Administrador Base de Datos.",
       "d": "Técnicos de Sistemas, Equipo de Operación, Administrador de la Base de Datos y responsable de Seguridad."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 57,
@@ -792,10 +792,10 @@
       "c": "De regresión.",
       "d": "De disponibilidad de datos."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 58,
@@ -806,10 +806,10 @@
       "c": "Pruebas de sobrecarga.",
       "d": "Pruebas de operación."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 59,
@@ -820,10 +820,10 @@
       "c": "Pruebas de volumen.",
       "d": "Pruebas de integración."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 60,
@@ -834,10 +834,10 @@
       "c": "Mantenimiento de sistemas de información.",
       "d": "Planificación de sistemas de información."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 61,
@@ -848,10 +848,10 @@
       "c": "Pruebas de aceptación.",
       "d": "Pruebas de integración."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 62,
@@ -862,10 +862,10 @@
       "c": "Identificación de los Cambios, Validación Pruebas de Regresión, Aprobación y Cierre de las Peticiones.",
       "d": "Verificación y Estudio de la Petición, Estudio de la Propuesta de Petición."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 63,
@@ -876,10 +876,10 @@
       "c": "Controlador.",
       "d": "Modelo y Controlador."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 64,
@@ -890,10 +890,10 @@
       "c": "Abstracción.",
       "d": "Encapsulación."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "Anulada",
+    "explicacion": "Pregunta anulada según la plantilla definitiva del INAP; no se puntúa.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 65,
@@ -904,10 +904,10 @@
       "c": "Diagramas de Colaboración y Diagramas de Actividades.",
       "d": "Diagramas de Colaboración y Diagramas de Flujo."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 66,
@@ -918,10 +918,10 @@
       "c": "page",
       "d": "out"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 67,
@@ -932,10 +932,10 @@
       "c": "Tiempo de verificación.",
       "d": "Tiempo de ensamblaje."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 68,
@@ -946,10 +946,10 @@
       "c": "Sobreescritura de métodos.",
       "d": "Conversiones implícitas."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 69,
@@ -960,10 +960,10 @@
       "c": "JavaServer Servlets.",
       "d": "JavaServer Components."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 70,
@@ -974,10 +974,10 @@
       "c": "Los componentes EJB pueden encontrarse físicamente ubicados en máquinas distintas de las que albergan los componentes que les invocan.",
       "d": "Los stateful session beans son componentes sin estado, es decir, no guardan información entre distintas llamadas de un cliente."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 71,
@@ -988,10 +988,10 @@
       "c": "DataAdapter",
       "d": "RecordSet"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 72,
@@ -1002,10 +1002,10 @@
       "c": "DataAdapter.",
       "d": "DataSet."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 73,
@@ -1016,10 +1016,10 @@
       "c": "CLR (Common Language runtime) se encarga de realizar la compilación del código fuente al Lenguaje Intermedio independiente de la platafoma.",
       "d": "En la arquitectura . NET se permite la utilización de varios lenguajes de programación."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 74,
@@ -1030,10 +1030,10 @@
       "c": "Código máquina",
       "d": "Código ensamblador"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 75,
@@ -1044,10 +1044,10 @@
       "c": "Atributos generales entre etiquetas <%@ y %> asociados a un fragmento JavaScript",
       "d": "Declaraciones de métodos y variables entre etiquetas <%! y %> en una página JSP."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 76,
@@ -1058,10 +1058,10 @@
       "c": "PHP",
       "d": "JSP"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 77,
@@ -1072,10 +1072,10 @@
       "c": "UDDI (Universal Description, Discovery and Integration).",
       "d": "SOAP (Simple Object Access Protocol)."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 78,
@@ -1086,10 +1086,10 @@
       "c": "ISO/IEC 27002",
       "d": "ISO 9126"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 79,
@@ -1100,10 +1100,10 @@
       "c": "La finalidad de los procedimientos extraordinarios de Auditoría es revisar las actividades propias de aseguramiento de calidad.",
       "d": "El Grupo de Aseguramiento de Calidad debe contar con miembros del equipo de desarrollo."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 80,
@@ -1114,10 +1114,10 @@
       "c": "ISO/IEC 15504",
       "d": "ISO/IEC 17799"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 81,
@@ -1128,10 +1128,10 @@
       "c": "Técnicas CSS.",
       "d": "Técnicas XSL."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 82,
@@ -1142,10 +1142,10 @@
       "c": "El sitio web debe haber superado las validaciones de las herramientas de detección de enlaces rotos y de validación de código",
       "d": "Asegurar una correcta transformación y hacer comprensible y navegable el contenido."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 83,
@@ -1156,10 +1156,10 @@
       "c": "De prioridad 3",
       "d": "De prioridad 2 para contenidos no textuales con información importante y de prioridad 3 para contenidos no textuales decorativos"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 84,
@@ -1170,10 +1170,10 @@
       "c": "Permite visualizar el estado de uno o varios procesos.",
       "d": "Encontrar archivos en un determinado directorio a partir de diversas reglas de búsqueda."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 85,
@@ -1184,10 +1184,10 @@
       "c": "Una partición para rutinas y programas del sistema operativo y de dump; y otra para el log y los datos de usuario.",
       "d": "Una partición para rutinas y programas del sistema operativo; otra para el log; otra de dump; y otra para los datos de usuario."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 86,
@@ -1198,10 +1198,10 @@
       "c": "Nivel de ejecución 5",
       "d": "Nivel de ejecución 6"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 87,
@@ -1212,10 +1212,10 @@
       "c": "Es gratuito.",
       "d": "Puede ser redistribuido."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 88,
@@ -1226,10 +1226,10 @@
       "c": "En los entornos UNIX / Linux o MAC debe estar instalado el módulo PKCS#11.",
       "d": "En un entorno Microsoft Windows debe estar instalado el módulo PKCS#11."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 89,
@@ -1240,10 +1240,10 @@
       "c": "Los valores de los datos sean auténticos, conforme a las reglas semánticas establecidas por diseño.",
       "d": "En caso de fallo (hardware, alimentación, etc) la Base de Datos vuelva a un estado íntegro anterior al fallo."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 90,
@@ -1254,10 +1254,10 @@
       "c": "NEDAES",
       "d": "BADARAL"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 91,
@@ -1268,10 +1268,10 @@
       "c": "SGMP",
       "d": "TL-1"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 92,
@@ -1282,10 +1282,10 @@
       "c": "awstats",
       "d": "amberpoint"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 93,
@@ -1296,10 +1296,10 @@
       "c": "Presenta menor resistencia a ralladuras y tolera peor la suciedad que el formato DVD.",
       "d": "Soporta los formatos de compresión MPEG-2 y MPEG-4."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 94,
@@ -1310,10 +1310,10 @@
       "c": "La ejecución de tareas puede especificarse con una precisión de segundos.",
       "d": "Cuando se programa la ejecución de una nueva tarea es necesario reiniciar el servicio para que se tenga en cuenta esta nueva tarea."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 95,
@@ -1324,10 +1324,10 @@
       "c": "La primera sentencia es JOB",
       "d": "Todas las sentencias han de escribirse en MAYÚSCULAS"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 96,
@@ -1338,10 +1338,10 @@
       "c": "loadRunner",
       "d": "Jmeter"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 97,
@@ -1352,10 +1352,10 @@
       "c": "Overhead: Porcentaje de tiempo durante el cual los distintos dispositivos del sistema están siendo utilizados por tareas del sistema.",
       "d": "Frecuencia de paginación: Numero de programas sacados de memoria por unidad de tiempo a causa de falta de espacio."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 98,
@@ -1366,10 +1366,10 @@
       "c": "iSCSI (Internet Small Computer System Interface).",
       "d": "WDM (Wave Division Multiplexing)."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 99,
@@ -1380,10 +1380,10 @@
       "c": "RAID 0+1",
       "d": "RAID 5"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 100,
@@ -1394,10 +1394,10 @@
       "c": "Un RAID 2 divide los bits a nivel de bloque. Por cada “palabra” enviada a escritura calcula un código de Hamming que permite recuperar la información en caso de fallo de un disco y envía posteriormente cada bloque a su disco correspondiente para mantener la paridad.",
       "d": "Un RAID 5 Este nivel de RAID es similar a RAID 4, salvo que no utiliza un disco de paridad dedicado, sino que distribuye los bloques de paridad por todos los discos del array."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 101,
@@ -1408,10 +1408,10 @@
       "c": "Caracterizan los cables de pares trenzados.",
       "d": "Se define en la especificación ANSI/TIA/EIA-568-B2-1"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 102,
@@ -1422,10 +1422,10 @@
       "c": "En Estrella",
       "d": "En Bucle"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 103,
@@ -1436,10 +1436,10 @@
       "c": "CSMA/CR",
       "d": "CSMA/CP"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 104,
@@ -1450,10 +1450,10 @@
       "c": "10 Gbit/s.",
       "d": "1 Tbit/s."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 105,
@@ -1464,10 +1464,10 @@
       "c": "El standar RMON se define en la RFC 2613",
       "d": "SMON ofrece información sobre las redes locales virtuales VLAN"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 106,
@@ -1478,10 +1478,10 @@
       "c": "Esta asociado al cifrado basado en Secure Socket Layers (SSL).",
       "d": "Permite a través del protocolo de red HTTPS identificar a los usuarios en el acceso a servicios Web."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 107,
@@ -1492,10 +1492,10 @@
       "c": "SEND",
       "d": "ECHO"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 108,
@@ -1506,10 +1506,10 @@
       "c": "Correo.",
       "d": "Acceso a archivos."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 109,
@@ -1520,10 +1520,10 @@
       "c": "25",
       "d": "80"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 110,
@@ -1534,10 +1534,10 @@
       "c": "Igual que la de IPv4.",
       "d": "No hay cabecera propiamente dicha."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 111,
@@ -1548,10 +1548,10 @@
       "c": "Mecanismo de detección y prevención de impacto producido por tormentas eléctricas.",
       "d": "Tecnología que permite neutralizar las radiaciones térmicas de los dispositivos electrónicos."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 112,
@@ -1562,10 +1562,10 @@
       "c": "El CPD no debería ubicarse sobre un aparcamiento o estacionamiento de coches.",
       "d": "Dentro de un CPD, en el área de ordenadores, debería utilizarse para la extinción de incendios polvo seco."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 113,
@@ -1576,10 +1576,10 @@
       "c": "Esta metodología se basa en la utilización de programas para simular la realidad. Al igual que la teoría de colas es aplicable a fenómenos de espera y requiere que estén establecidos los niveles de servicio, de igual forma necesita una proyección del comportamiento del sistema.",
       "d": "Las principales dificultades que se plantean en relación con el Benchmark radica en determinar la carga característica y en valorar el aprovechamiento que hacen los programas de las peculiaridades de los distintos software utilizados."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 114,
@@ -1590,10 +1590,10 @@
       "c": "BGP (Border Gateway Protocol)",
       "d": "RIP (Routing Information Protocol)"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 115,
@@ -1604,10 +1604,10 @@
       "c": "Conmutación de mensajes.",
       "d": "Conmutación de tiempo."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 116,
@@ -1618,10 +1618,10 @@
       "c": "53 Bytes.",
       "d": "53 bits."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 117,
@@ -1632,10 +1632,10 @@
       "c": "Idea",
       "d": "ElGamal"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 118,
@@ -1646,10 +1646,10 @@
       "c": "256 bits",
       "d": "512 bits"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 119,
@@ -1660,10 +1660,10 @@
       "c": "IPSEC",
       "d": "SECIP"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 120,
@@ -1674,10 +1674,10 @@
       "c": "OWL (Web Ontology Language)",
       "d": "XPointer (XML Pointer Language)"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 121,
@@ -1688,10 +1688,10 @@
       "c": "INIC",
       "d": "ITU"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 122,
@@ -1702,10 +1702,10 @@
       "c": "443",
       "d": "22"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 123,
@@ -1716,10 +1716,10 @@
       "c": "RDSI, HDSL, ADSL, VDSL.",
       "d": "RDSI, HDSL, VDSL, ADSL."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 124,
@@ -1730,10 +1730,10 @@
       "c": "ITU-T G.992.5",
       "d": "ITU-T G.707"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 125,
@@ -1744,10 +1744,10 @@
       "c": "De seguridad, WTSL",
       "d": "De transporte, WDP"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 126,
@@ -1758,10 +1758,10 @@
       "c": "Ley \"Mu\" y Ley \"Gamma\"",
       "d": "Ley \"Gamma\"."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "Anulada",
+    "explicacion": "Pregunta anulada según la plantilla definitiva del INAP; no se puntúa.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 127,
@@ -1772,10 +1772,10 @@
       "c": "H323",
       "d": "TDM"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 128,
@@ -1786,10 +1786,10 @@
       "c": "Clustering",
       "d": "Trunking"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 129,
@@ -1800,10 +1800,10 @@
       "c": "Broadcast Control Channel, BCCH",
       "d": "Paging channel (PCH)"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "b",
+    "explicacion": "Plantilla definitiva del INAP: respuesta B.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 130,
@@ -1814,10 +1814,10 @@
       "c": "IEEE 802.15",
       "d": "IEEE 802.16"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "a",
+    "explicacion": "Plantilla definitiva del INAP: respuesta A.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 131,
@@ -1828,10 +1828,10 @@
       "c": "Variación de impedancia con el tiempo.",
       "d": "Refracción"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "d",
+    "explicacion": "Plantilla definitiva del INAP: respuesta D.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 132,
@@ -1842,10 +1842,10 @@
       "c": "MPEG-2",
       "d": "MPEG-3"
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   },
   {
     "numero": 133,
@@ -1856,9 +1856,9 @@
       "c": "GMSK (Gaussian Minimum Shift Keying), que optimiza el uso del ancho de banda.",
       "d": "DMT (Discrete multi-tone modulation) Es un tipo de modulación multiportadora, que elimina el problema de las altas frecuencias que aumentan considerablemente las pérdidas debido al ruido."
     },
-    "respuesta_correcta": null,
-    "explicacion": "No se dispone de plantilla de respuestas para esta pregunta; se muestra sin puntuación automática.",
+    "respuesta_correcta": "c",
+    "explicacion": "Plantilla definitiva del INAP: respuesta C.",
     "tema_numero": null,
-    "fuente_oficial": null
+    "fuente_oficial": "https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado"
   }
 ]
