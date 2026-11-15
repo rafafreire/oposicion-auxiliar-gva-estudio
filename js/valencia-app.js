@@ -1,6 +1,29 @@
 const VALENCIA_KEY = 'opogva-progress-ayuntamiento-valencia-v1';
 const VALENCIA_EXAM_PATH = 'OPOSICIONES/AUX ADM AYUNT VALENCIA/EXAMENES/EXAMEN_AUXADMVAL_2025.json';
 const VALENCIA_EXAM_PDF = 'OPOSICIONES/AUX ADM AYUNT VALENCIA/EXAMENES/EXAMENES_AUXILIAR_ADMINISTRATIVO.pdf';
+const VALENCIA_ARTICLE_STYLES = `
+body{font:16px/1.8 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{margin:30px auto;box-shadow:0 8px 30px #233b1710}
+h1{font:700 28px/1.3 system-ui,-apple-system,"Segoe UI",sans-serif;color:#245c43;margin:0 0 24px}
+h2,h3,h4{color:#286342;line-height:1.4;margin:25px 0 8px}
+h2{font-size:24px}
+h3{font-size:18.72px}
+h4{font-size:16px}
+li{margin:6px 0}
+.article-block{margin:18px 0;padding:16px 20px;border:1px solid #e3ebe1;border-left:4px solid #8bb497;border-radius:10px;background:#f4f8f3}
+.article-tone-1{border-color:#e0e9f0;border-left-color:#8baec4;background:#f1f6fa}
+.article-tone-2{border-color:#f0e8d2;border-left-color:#d5ba72;background:#fbf7ec}
+.article-tone-3{border-color:#e9e2f1;border-left-color:#aa96c1;background:#f6f3fa}
+.article-block h2,.article-block h3,.article-block h4{margin-top:8px}
+.article-block>h3:first-child{font-size:18.72px;font-weight:700}
+.article-block>p:first-child{font-weight:700;color:#45664b}
+.article-block ul,.article-block ol{padding-left:24px}
+.exam-reference-inline{display:inline-flex;align-items:center;gap:5px;margin-left:12px;vertical-align:middle;flex-wrap:wrap;font:500 10px/1.3 system-ui,-apple-system,"Segoe UI",sans-serif}
+.exam-reference-label{color:#8a6821;font-size:9px;font-weight:700}
+.exam-reference-pill{display:inline-flex;padding:3px 7px;border:1px solid #f0d48c;border-radius:999px;background:#fff2cc;color:#705314;font-size:9px;font-weight:600}
+.exam-highlight{padding:0 .12em;border-radius:3px;background:#ffe08a;color:#493400;box-shadow:inset 0 -1px 0 #d7a62d;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+@media(max-width:700px){main{margin:12px;padding:18px 16px;border-radius:10px;box-shadow:none}h1{font-size:22px}.article-block{padding:12px 13px;margin:12px 0}}
+`;
 const valenciaTopics = [
   { n: 1, block: 'BLOQUE I', title: 'La Constitución Española de 1978. Derechos y libertades fundamentales' },
   { n: 2, block: 'BLOQUE I', title: 'La Corona. Las Cortes Generales. El Tribunal Constitucional' },
@@ -133,6 +156,7 @@ function valenciaRenderTopics() {
 
 function valenciaInlineMarkdown(text) {
   return valenciaEscape(text)
+    .replace(/\[\[HIGHLIGHT\]\](.+?)\[\[\/HIGHLIGHT\]\]/g, '<mark class="exam-highlight">$1</mark>')
     .replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.+?)\*/g, '<em>$1</em>')
@@ -180,6 +204,22 @@ function valenciaMarkdownToHtml(markdown) {
       output.push('<hr>');
       continue;
     }
+    const examReference = line.match(/^\[\[EXAM-REF:(.+)\]\]$/);
+    if (examReference) {
+      flush();
+      const references = examReference[1].split('|').map(reference => {
+        const [year, questions] = reference.split(':');
+        return `<span class="exam-reference-pill">${valenciaEscape(year)} ${valenciaEscape(questions)}</span>`;
+      }).join('');
+      const badge = `<span class="exam-reference-inline"><span class="exam-reference-label">Preguntado en</span>${references}</span>`;
+      const lastOutput = output.length - 1;
+      if (lastOutput >= 0 && /^<h[23]>/i.test(output[lastOutput])) {
+        output[lastOutput] = output[lastOutput].replace(/<\/h([23])>$/, `${badge}</h$1>`);
+      } else {
+        output.push(badge);
+      }
+      continue;
+    }
     if (isTableLine(line)) {
       flush();
       const rows = [];
@@ -220,13 +260,32 @@ function valenciaMarkdownToHtml(markdown) {
   return output.join('');
 }
 
+function valenciaRenderArticleCards(html) {
+  const articleStart = /(?=<h[1-6]>Art(?:ículo)?\.?\s+\d+[a-z]?(?:\s|<|\.|$))/i;
+  const articleHeading = /^<h[1-6]>Art(?:ículo)?\.?\s+\d+/i;
+  const articleTones = [
+    'background:#f4f8f3;border:1px solid #e3ebe1;border-left:4px solid #8bb497',
+    'background:#f1f6fa;border:1px solid #e0e9f0;border-left:4px solid #8baec4',
+    'background:#fbf7ec;border:1px solid #f0e8d2;border-left:4px solid #d5ba72',
+    'background:#f6f3fa;border:1px solid #e9e2f1;border-left:4px solid #aa96c1'
+  ];
+  let articleIndex = 0;
+  return html.split(articleStart).map(part => {
+    if (!articleHeading.test(part)) return part;
+    const tone = articleIndex++ % articleTones.length;
+    return `<section class="article-block article-tone-${tone}" style="${articleTones[tone]}">${part}</section>`;
+  }).join('');
+}
+
 async function valenciaLoadTopic(number) {
   if (valenciaTopicCache.has(number)) return valenciaTopicCache.get(number);
   const block = number <= 10 ? 'BLOQUE I' : 'BLOQUE II';
   const file = `OPOSICIONES/AUX ADM AYUNT VALENCIA/TEMARIO/${block}/TEMA ${String(number).padStart(2, '0')}.md`;
   const response = await fetch(new URL(file, location.href), { cache: 'no-cache' });
   if (!response.ok) throw new Error(`No se pudo cargar el Tema ${number}: HTTP ${response.status}`);
-  const html = valenciaMarkdownToHtml(await response.text());
+  const markdown = await response.text();
+  const cleanMarkdown = markdown.replace(/^# Tema \d+:[^\r\n]*\r?\n+/, '');
+  const html = valenciaRenderArticleCards(valenciaMarkdownToHtml(cleanMarkdown));
   valenciaTopicCache.set(number, html);
   return html;
 }
@@ -247,8 +306,9 @@ function valenciaOpenTopic(number) {
   reader.document.close();
   valenciaLoadTopic(number).then(content => {
     if (reader.closed) return;
+    const readerHtml = valenciaReaderPage(topic, content).replace('</style>', `${VALENCIA_ARTICLE_STYLES}</style>`);
     reader.document.open();
-    reader.document.write(valenciaReaderPage(topic, content));
+    reader.document.write(readerHtml);
     reader.document.close();
   }).catch(error => {
     console.error(error);
