@@ -115,6 +115,7 @@ document.querySelectorAll('[data-vlc-go]').forEach(button => button.addEventList
 $vlc('#opposition-switch-valencia').addEventListener('change', event => {
   if (event.target.value === 'gva') window.location.href = 'index.html';
   if (event.target.value === 'age') window.location.href = 'age.html';
+  if (event.target.value === 'gsi-age') window.location.href = 'gsi-age.html';
 });
 
 function valenciaRenderTopics() {

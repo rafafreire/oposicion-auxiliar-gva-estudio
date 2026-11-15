@@ -1,0 +1,1041 @@
+EJERCICIO 2018
+
+**1.** Según el artículo 59 de la Constitución, si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer inmediatamente la Regencia:
+
+a)        El padre o la madre del Rey.
+
+b)       El pariente de mayor edad más próximo a suceder en la Corona.
+
+c)        El Príncipe heredero de la Corona, si fuese mayor de edad.
+
+d)       El Príncipe heredero de la Corona, aunque fuese menor de edad.
+
+**2.** Señale la respuesta correcta en relación a Diputados y Senadores, según lo establecido en el artículo 71 de la Constitución
+
+a)        Los Diputados y Senadores no gozarán de inviolabilidad por opiniones manifestadas en el ejercicio de sus funciones.
+
+b)       Durante el periodo de su mandato los Diputados y Senadores gozarán de inmunidad y sólo podrán ser detenidos en caso de flagrante delito.
+
+c)        En las causas contra Diputados y Senadores será competente la sala de lo Penal de la Audiencia Nacional.
+
+d)       Diputados y Senadores percibiran una asignación que será fijada por el Gobierno.
+
+**3.** De acuerdo con lo establecido en el artículo 2 de la Ley 50/1997, del Gobierno, corresponde en todo caso al Presidente del Gobierno:
+
+a)        Sancionar y Promulgar las leyes.
+
+b)       Ejercer el derecho de gracia con acuerdo a la ley, que no podrá autorizar indultos generales.
+
+c)        Plantear ante el Congreso, previa deliberación del Consejo de Ministros, la cuestión de confianza.
+
+d)       Convocar a referéndum los casos previstos en la Constitución.
+
+**4.** Según el artículo 112 de la Constitución, para entender otorgada la cuestión de confianza es necesario que:
+
+a)        Vota a favor de la misma la mayoría simple de los Diputados.
+
+b)       Vota a favor de la misma la mayoría simple de los Diputados y Senadores.
+
+c)        Vota a favor de la misma la mayoría absoluta de los Diputados.
+
+d)       Vota a favor de la misma la mayoría absoluta de los Diputados y Senadores.
+
+**5.** Según la orden PCI/383/2019, de 2 de abril, señale la respuesta correcta en relación al Grupo de Trabajo Interministerial para la Agenda 2030:
+
+a)        Será presidido por el Alto Comisionado contra la Pobreza infantil
+
+b)       Tiene la finalidad de ser un foro técnico para procurar la colaboración y coordinación entre los Ministerios implicados, en la aplicación en España de la Agenda 2030 y el logro de los Objetivos de Desarrollo Sostenible
+
+c)        Entre sus funciones, se encuentra la de crear grupos de trabajo relacionados con los ODS, cuya composición dependerá del tema a tratar
+
+d)       Elevará anualmente informes a la Comisión Delegada del Gobierno para Asuntos Económicos
+
+**6.** La creación de un Foro sobre el Gobierno Abierto fue un compromiso del:
+
+a)        Primer Plan de Acción de España de la Alianza para el Gobierno Abierto
+
+b)       Segundo Plan de Acción de España de la Alianza para el Gobierno Abierto
+
+c)        Tercer Plan de Acción de España de la Alianza para el Gobierno Abierto
+
+d)       Cuarto Plan de Acción de España de la Alianza para el Gobierno Abierto
+
+**7.** Señale cual de los siguientes NO forma parte de la Comisión de Transparencia y Buen Gobierno:
+
+a)        Un representante de la Agencia Española de Protección de Datos
+
+b)       Un representante del Tribunal Supremo
+
+c)        Un representante del Defensor del Pueblo
+
+d)       Un representante de la Autoridad Independiente de Responsabilidad Fiscal
+
+**8.** Según la Ley 40/2015, de Régimen Jurídico del Sector Público, ¿a quién corresponde desempeñar la jefatura superior de todo el personal de un Departamento Ministerial?
+
+a)        Al Ministro
+
+b)       Al Secretario de Estado
+
+c)        Al Subsecretario
+
+d)       Al Subdirector General de Recursos Humanos
+
+**9.** Según lo establecido en la Constitución, los Alcaldes serán elegidos:
+
+a)        Por el Pleno de la Corporación
+
+b)       Por los concejales o por los vecinos
+
+c)        Por los concejales en aquellos municipios de más de 100 habitantes
+
+d)       Por los concejales en aquellos municipios de menos de 100 habitantes
+
+**10.** Según el artículo 26 del Reglamento eIDAS, ¿cuál de los siguientes es un requisito para firmas electrónicas avanzadas?
+
+a)        Permitir identificar de forma unívoca el dispositivo que realiza la firma
+
+b)       Permitir la identificación del directorio raíz
+
+c)        Haber sido creada utilizando datos de creación de la firma electrónica que el firmante puede utilizar, con un alto nivel de confianza, bajo su control exclusivo
+
+d)       Estar vinculada a los datos del certificado, de forma que se pueda detectar cualquier modificación ulterior de los datos firmados
+
+**11.** De acuerdo con lo establecido en la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género, señale la respuesta INCORRECTA:
+
+a)        Las mujeres víctimas de violencia de género tienen derecho a recibir plena información y asesoramiento adecuado a su situación personal, a través de los servicios, organismos u oficinas que puedan disponer las Administraciones Públicas
+
+b)       Las mujeres víctimas de violencia de género tienen derecho a servicios sociales de atención, de emergencia, de apoyo y acogida y de recuperación integral
+
+c)        A las trabajadoras por cuenta propia víctimas de violencia de género que cesen en su actividad para hacer efectiva su protección o su derecho a la asistencia social integral, no se les suspenderá la obligación de cotización durante un período de seis meses
+
+d)       La trabajadora víctima de violencia de género tendrá derecho, en los términos previstos en el Estatuto de los Trabajadores, a la reducción o a la reordenación de su tiempo de trabajo, a la movilidad geográfica, al cambio de centro de trabajo, a la suspensión de la relación laboral con reserva de puesto de trabajo y a la extinción del contrato de trabajo
+
+**12.** Según la Ley Orgánica 3/2018, de Protección de Datos Personales y Garantía de los Derechos Digitales, ¿qué consideración tiene la reversión deliberada de un procedimiento de anonimización a fin de permitir la reidentificación de los afectados?
+
+a)        Infracción leve
+
+b)       Infracción grave
+
+c)        Infracción muy grave
+
+d)       Infracción no contemplada en la Ley Orgánica, sino en el RGPD
+
+**13.** Según la Ley Orgánica 3/2018, de Protección de Datos Personales y Garantía de los Derechos Digitales, se establece que el modo que tiene la Agencia Española de Protección de datos de relacionarse con el Gobierno es a través de:
+
+a)        Secretaría de Estado de Telecomunicaciones y Sociedad de la Información
+
+b)       Secretaría General de Administración Digital
+
+c)        Ministerio de Justicia
+
+d)       Ministerio de Economía y Empresa
+
+**14.** De acuerdo al ENS, ¿cuál de las siguientes medidas de protección debe aplicarse en un CPD que preste servicio a un sistema con Disponibilidad de nivel Bajo?
+
+a)        Protección frente a inundaciones
+
+b)       Análisis de impacto
+
+c)        Protección frente a la denegación de servicio
+
+d)       Protección frente a incendios
+
+**15.** Según el Esquema Nacional de Interoperabilidad, ¿qué se entiende por Interoperabilidad Semántica?
+
+a)        Es aquella dimensión de la interoperabilidad relativa a la relación entre sistemas y servicios de tecnologías de la información, incluyendo aspectos tales como las interfaces, la interconexión, la integración de datos y servicios, la presentación de la información, la accesibilidad y la seguridad, u otros de naturaleza análoga
+
+b)       Es aquella dimensión de la interoperabilidad relativa a la interacción entre elementos que corresponden a diversas oleadas tecnológicas; se manifiesta especialmente en la conservación de la información en soporte electrónico
+
+c)        Es aquella dimensión de la interoperabilidad relativa a la capacidad de las entidades y de los procesos a través de los cuales llevan a cabo sus actividades para colaborar con el objeto de alcanzar logros mutuamente acordados relativos a los servicios que prestan
+
+d)       Es aquella dimensión de la interoperabilidad relativa a que la información intercambiada pueda ser interpretable de forma automática y reutilizable por aplicaciones que no intervinieron en su creación
+
+**16.** Indique la respuesta INCORRECTA en relación a la lengua de los procedimientos, según el artículo 15 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas
+
+a)        La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano. No obstante !o anterior, los interesados que se dirijan a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma podrán utilizar también la lengua que sea cooficial en ella
+
+b)       En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente
+
+c)        La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente
+
+d)       Cuando la sede del órgano de la Administración General del Estado esté en el territorio de una Comunidad Autónoma con lengua cooficial, el procedimiento se tramitará en la lengua elegida por el interesado. Si concurrieran varios interesados en el procedimiento, y existiera discrepancia en cuanto a la lengua, el procedimiento se tramitará en castellano, con independencia de cualquier documento o testimonio requerido por los interesados
+
+**17.** Según el artículo 6 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de las siguientes afirmaciones es INCORRECTA en relación al registro electrónico de apoderamientos?
+
+a)        Cada Comunidad Autónoma aprobará los modelos de poderes inscribibles en el registro cuando se circunscriba a actuaciones ante su respectiva Administración.
+
+b)       Los poderes inscritos en el registro tendrán una validez determinada máxima de cuatro años a contar desde la fecha de inscripción.
+
+c)        Los registros mercantiles, de la propiedad y de los protocolos notariales serán interoperables con los registros electrónicos generales y particulares de apoderamientos.
+
+d)       Se posibilita inscribir un poder para que el apoderado pueda actuar en nombre del poderdante únicamente para la realización de determinados trámites especificados en el poder.
+
+**18.** Con respecto a la solución Notifica, señale la respuesta INCORRECTA
+
+a)        Proporciona una plataforma para gestionar la práctica de notificaciones y comunicaciones
+
+b)       Su modo de uso puede ser mediante interfaz para usuario final o integrable en aplicaciones cliente
+
+c)        Permite la entrega de notificaciones y comunicaciones mediante comparecencia electrónica, en papel o en la DEN
+
+d)       La herramienta no se encarga del control de plazos, que será responsabilidad del organismo cliente
+
+**19.** ¿Qué órgano colegiado se encarga de la definición y supervisión de la aplicación de la Estrategia TIC en la AGE y sus organismos públicos?
+
+a)        Consejo de Estrategia TIC.
+
+b)       Comisión de Estrategia TIC.
+
+c)        Subsecretaría de Estrategia TIC.
+
+d)       Comité de Estrategia TIC.
+
+**20.** Si se quiere contratar un sistema de computación en la nube que proporcione capacidad de decisión sobre configuración de servidores, de memoria y de procesadores, cuál de los siguientes servicios elegiría:
+
+a)        Software como servicio (SaaS)
+
+b)       Infraestructura como servicio (IaaS)
+
+c)        Plataforma como servicio (PaaS)
+
+d)       SaaS, IaaS y PaaS tienen la misma capacidad de decisión sobre la configuración
+
+**21.** ¿Cuántos pines tiene el conector USB Tipo-C?
+
+a)        24.
+
+b)       5.
+
+c)        7.
+
+d)       30.
+
+**22.** En un sistema operativo con tres niveles de planificación (corto plazo, medio plazo y largo plazo), el planificador a largo plazo se encarga de
+
+a)        Decidir qué trabajos (conjunto de procesos) son candidatos a convertirse en procesos listos para competir por los recursos del sistema
+
+b)       Decidir qué procesos se suspenden o se reanudan para lograr ciertas metas de rendimiento
+
+c)        Decidir qué proceso, de los que ya están preparados, es al que le corresponde estar ejecutándose en la unidad central de proceso
+
+d)       Decidir si la planificación es apropiativa o no apropiativa
+
+**23.** En sistemas operativos, cuando hablamos de Registro de Instrucción, ¿a qué nos estamos refiriendo?
+
+a)        Al registro que contiene el identificador único asociado al proceso de la instrucción
+
+b)       Al registro que contiene la última instrucción leída y que se está ejecutando
+
+c)        Al registro que contiene la dirección de la siguiente instrucción que se leerá de la memoria
+
+d)       Al registro que contiene el número de instrucciones que deben ejecutarse
+
+**24.** Señale qué permisos tendría el propietario sobre un archivo prueba.txt al que se le aplica la instrucción de Unix: chmod 457 prueba.txt
+
+a)        Lectura, escritura y ejecución
+
+b)       Escritura
+
+c)        Lectura
+
+d)       Lectura y ejecución
+
+**25.** Entre las nuevas características para desarrolladores de aplicaciones móviles que permite el Sistema Operativo Android 9 Pie NO se encuentra:
+
+a)        Una API mediante la que se puede medir la distancia a los puntos de acceso (PA) WiFi cercanos con capacidad para RTT
+
+b)       Compatibilidad con recorte de pantalla, permitiendo que las aplicaciones muestren su contenido en los recortes de un dispositivo
+
+c)        Ofrecer un diálogo estandarizado de autenticación biométrica del que pueden hacer uso las aplicaciones
+
+d)       Posibilidad de realizar shells programables para adaptar el Kernel Android a la aplicación según el perfil de usuario
+
+**26.** Indique la afirmación correcta, según la clasificación de gramáticas y lenguajes formales de Chomsky
+
+a)        Los lenguajes representados por las gramáticas del tipo 1 se llaman lenguajes regulares
+
+b)       Los lenguajes representados por las gramáticas del tipo 2 se llaman lenguajes independientes del contexto
+
+c)        Los lenguajes representados por las gramáticas del tipo 3 se llaman lenguajes irregulares
+
+d)       Los lenguajes representados por las gramáticas del tipo 4 se llaman lenguajes sin restricciones
+
+**27.** La arquitectura de aplicaciones descrita por los acrónimos LAMP está formada por los siguientes componentes:
+
+a)        Linux + Apache + MongoDB + Python
+
+b)       Linux + Apache + MongoDB + PHP
+
+c)        Linux + Apache + MySQL/MariaDB + Python
+
+d)       Linux + Apache + MySQL/MariaDB + PHP
+
+**28.** En el ecosistema Hadoop, ¿qué sistema de almacenamiento de datos hace posible la lectura, escritura y administración de grandes conjuntos de datos que residen en almacenamiento distribuido mediante SQL?
+
+a)        Mahout
+
+b)       Oozie
+
+c)        ZooKeeper
+
+d)       Hive
+
+**29.** Señale cuál de las siguientes herramientas es empleada en la implementación de un cuadro de mando integral:
+
+a)        Trello
+
+b)       DashBI
+
+c)        Qlik Sense
+
+d)       DashboardMaker
+
+**30.** En un SGBD Oracle, ¿cómo se denomina al tipo de vista que almacena físicamente los datos resultantes de ejecutar la consulta definida?
+
+a)        Vista tableada
+
+b)       Vista almacenada
+
+c)        Vista cacheada
+
+d)       Vista materializada
+
+**31.** En relación con la arquitectura de microservicios, señale la característica que NO es correcta
+
+a)        Cada servicio se puede desplegar independientemente
+
+b)       Cada servicio está controlado por un service worker
+
+c)        Cada servicio puede estar programado en distintos lenguajes
+
+d)       Cada servicio puede utilizar su propia base de datos
+
+**32.** RTSP (Real Time Streaming Protocol) es un protocolo de nivel de:
+
+a)        Sesión
+
+b)       Red
+
+c)        Enlace
+
+d)       Aplicación
+
+**33.** De acuerdo a MAGERIT v3, según la técnica de análisis algorítmico en su modelo cuantitativo, un activo valorado en 1000000 que sufre una degradación del 70%, su impacto acumulado tendrá una cuantía de:
+
+a)        700000
+
+b)       300000
+
+c)        No puede calcularse sin conocer el valor de la amenaza
+
+d)       No puede calcularse sin conocer el valor acumulado del activo
+
+**34.** De acuerdo al Esquema Nacional de Seguridad, señale la propiedad o característica consistente en que las actuaciones de una entidad pueden ser imputadas exclusivamente a dicha entidad:
+
+a)        Integridad
+
+b)       Autenticidad
+
+c)        Confidencialidad
+
+d)       Trazabilidad
+
+**35.** De acuerdo con la Guía de Seguridad para la auditoría del ENS, señale cuál es uno de los requisitos mínimos para los integrantes del equipo de auditoría:
+
+a)        En ningún caso los integrantes del equipo auditor, deben haber participado o detentado responsabilidades previas a la auditoría, al menos en los tres últimos años, en el sistema de información auditado
+
+b)       El Auditor Jefe debe probar conocimientos de seguridad y gestión de riesgos de seguridad (certificación y experiencia probada de al menos 4 años en estos elementos)
+
+c)        Todos los miembros del equipo auditor deben probar acreditación de formación y experiencia en auditoría de sistemas de información, a través de certificaciones reconocidas a nivel nacional o internacional.
+
+d)       Todos los miembros del equipo auditor deben probar conocimiento de los requisitos del RD 4/2010
+
+**36.** ¿Qué solución desarrollada por el CCN-CERT es un sistema de auditoría continua que tiene por objetivo incrementar la capacidad de vigilancia, reducir los tiempos en la gestión de la seguridad, mediante una gestión eficiente de la detección de vulnerabilidades y de la notificación de alertas, así como ofrecer recomendaciones para un tratamiento oportuno de las mismas?
+
+a)        MARIA
+
+b)       ANA
+
+c)        GLORIA
+
+d)       CARMEN
+
+**37.** Señale cuál de los siguientes es un sistema de gestión documental:
+
+a)        SonarQube Content Suite
+
+b)       Kanban Content Suite
+
+c)        Arduino Content Suite
+
+d)       OpenText Content Suite
+
+**38.** ¿Cuál de estos modelos de ciclo de vida se basa en la repetición de varios ciclos de vida en cascada?
+
+a)        Ciclo de vida en V
+
+b)       Ciclo de vida evolutivo
+
+c)        Ciclo de vida tipo sashimi
+
+d)       Ciclo de vida incremental
+
+**39.** Señale cuál de las siguientes NO es un tipo de evento contemplado en la metodología Scrum:
+
+a)        Reunión de Planificación del Sprint (Sprint Planning Meeting).
+
+b)       Scrums Diarios (Daily Scrums)
+
+c)        Iteración del Sprint (Sprint lteration)
+
+d)       Retrospectiva del Sprint (Sprint Retrospective)
+
+**40.** La técnica de gestión de proyectos que integra las mediciones de alcance, costo y cronograma para ayudar al equipo de dirección a medir y evaluar el desempeño de un proyecto se denomina:
+
+a)        Gantt de seguimiento
+
+b)       Diagrama de Ishikawa
+
+c)        Análisis del Valor Ganado (EVM)
+
+d)       Técnica de Compresión (Crashing)
+
+**41.** ¿Cuál de los siguientes diagramas de Métrica v3 describe el comportamiento dinámico del sistema de información mediante el paso de mensajes entre los objetos del mismo?
+
+a)        Diagrama de interacción
+
+b)       Diagrama de clases
+
+c)        Diagrama de transición de estados
+
+d)       Diagrama de componentes
+
+**42.** En la técnica JAD (Joint Application Design), la figura encargada de dirigir las sesiones entre cuyas características están el tener experiencia en dinámica de grupos, psicología del comportamiento, así como un buen conocimiento de los procesos de la organización objeto del estudio es el:
+
+a)        Moderador
+
+b)       Director de Sesión
+
+c)        Promotor
+
+d)       Especialista en modelización
+
+**43.** Señale la respuesta correcta en relación a la creación y construcción de diagramas de flujos de datos (DFD):
+
+a)        El diagrama de nivel 1 se denomina diagrama de contexto
+
+b)       Un proceso representa un ente ajeno al sistema que proporciona o recibe información del mismo
+
+c)        No puede haber flujos de datos entre una entidad externa y un almacén
+
+d)       Las funciones primitivas se pueden descomponer, son funciones o procesos no atómicos
+
+**44.** En el modelo E/R, ¿cuál es el motivo por el cual un tipo de entidad es débil?
+
+a)        Porque no tiene una dependencia de existencia con otro tipo de entidad
+
+b)       Porque tiene poca importancia en la base de datos
+
+c)        Porque no tiene suficientes atributos para formar una clave primaria
+
+d)       Porque la existencia de cada ocurrencia de entidad débil depende de la existencia de otra entidad débil
+
+**45.** Considere un modelo E/R con un tipo de relación muchos a muchos (N:M) "Trabaja" en el que participan los tipos de entidad "Empleado" y "Proyecto". "Trabaja" tiene además el atributo "fecha". La clave primaria del tipo de entidad "Empleado" es "idEmp" y la clave primaria del tipo de entidad "Proyecto" es "idProy". Por definición del modelo EIR, la clave primaria del tipo de relación "Trabaja":
+
+a)        Puede ser (idProy, idEmp) o bien (idProy, idEmp, fecha)
+
+b)       Sólo puede ser (idProy, idEmp, fecha)
+
+c)        Puede ser (idProy, idEmp), (idProy, idEmp, fecha), (idProy, fecha) o bien (idEmp, fecha)
+
+d)       Sólo puede ser (idProy, idEmp)
+
+**46.** ¿Cuál de las siguientes sentencias es correcta en relación al término "superclave"?
+
+a)        En una tabla siempre hay una única superclave que es la formada por el total de sus atributos
+
+b)       Dada una clave candidata, cualquier subconjunto de atributos de ella es una superclave
+
+c)        Una superclave es un conjunto de uno o varios atributos que identifican de modo único las tupías de la relación
+
+d)       Una superclave es el conjunto mínimo de atributos que identifican de modo único las tupías de la relación
+
+**47.** ¿Cuál de los siguientes es un algoritmo de ordenación?
+
+a)        Algoritmo dicotómico (Binary)
+
+b)       Algoritmo por montículos (Heapsort)
+
+c)        Algoritmo de búsqueda atrás (Backtracking)
+
+d)       Algoritmo devorador (Greedy)
+
+**48.** En relación con las estructuras de datos conocidas como listas, señale la afirmación correcta:
+
+a)        La pila es una lista en la que sólo se pueden hacer inserts y updates en su final, llamado "top".
+
+b)       La pila puede ser interpretada como una lista FIFO
+
+c)        Se pueden usar pilas para trabajar con operaciones aritméticas en notación postfix
+
+d)       Las pilas con las operaciones "push" y "pop" coincidentes se conocen como colas ADT
+
+**49.** YAML es
+
+a)        Un lenguaje para señalizar datos, legible por seres humanos, usado en el despliegue de contenedores de aplicaciones (dockers)
+
+b)       Una librería que facilita la creación de aplicaciones dirigidas a mejorar la experiencia de usuario (UX) mediante la realidad aumentada
+
+c)        Un comando que permite parametrizaciones avanzadas en el despliegue de políticas de grupo (GPO) en entornas de Directorio Activo
+
+d)       Una herramienta con un potente interfaz visual que, mediante el análisis de logs, permite la monitorización del rendimiento de la infraestructura T.I. de las organizaciones
+
+**50.** ¿Cuál de las siguientes herramientas soporta el Desarrollo Dirigido por Comportamiento (Behaviour Driven Development) y permite generar pruebas?
+
+a)        Herkin
+
+b)       Cucumber
+
+c)        RabbitMQ
+
+d)       Trocla
+
+**51.** ¿Qué es la herramienta Selenium?
+
+a)        Un framework que permite el procesamiento distribuido de grandes conjuntos de datos utilizando modelos de programación simple
+
+b)       Un conjunto de bibliotecas y programas que transforman documentos XML utilizando las hojas de estilo estándar XSLT
+
+c)        Un conjunto de utilidades que facilita la labor de obtener juegos de pruebas para aplicaciones web
+
+d)       Un framework para e! desarrollo de aplicaciones Web del patrón MVC bajo la plataforma Java EE
+
+**52.** ¿Quiénes son los participantes en la realización de las Pruebas de Aceptación?
+
+a)        Jefe de Proyecto
+
+b)       Equipo de Operación
+
+c)        Jefe de Proyecto y Equipo de Operación
+
+d)       Usuarios expertos
+
+**53.** Si tenemos tres clases A, B y C, ¿qué se entiende como herencia múltiple en la programación orientada a objetos?
+
+a)        Cuando la clase A hereda los atributos de las superclases B y C
+
+b)       Cuando la clase B y la clase C heredan los atributos de la superclase A
+
+c)        Cuando la clase A hereda los atributos de la superclase B, que a su vez hereda los atributos de la clase C
+
+d)       Ese concepto no existe en programación orientada a objetos, sólo existe el concepto de herencia
+
+**54.** Los conceptos 'activación', 'línea de vida' y 'mensaje', ¿de cuál de los siguientes diagramas UML forman parte?
+
+a)        Diagrama de secuencia
+
+b)       Diagrama de componentes
+
+c)        Diagrama de objetos
+
+d)       Diagrama de actividades
+
+**55.** En relación al diseño de software, el patrón que define una dependencia de uno a muchos entre objetos, de forma que cuando un objeto cambie de estado se notifique y actualicen automáticamente todos los objetos que dependen de él, se denomina:
+
+a)        Iterator
+
+b)       Builder
+
+c)        Observer
+
+d)       State
+
+**56.** Bouncy Castle es una librería Java que proporciona una API para:
+
+a)        Aritmética
+
+b)       Tratamiento de XML
+
+c)        Criptografía
+
+d)       Generación de informes
+
+**57.** En JAVA la palabra reservada "volatile" se utiliza para:
+
+a)        Marcar variables que deben ser eliminadas por el recolector de basura cuando no se usen
+
+b)       Marcar variables cuyo valor pueda ser modificado por diferentes hilos
+
+c)        Marcar variables que no se incluirán en la serialización de su clase
+
+d)       Marcar variables cuyo valor no puede cambiar una vez asignado
+
+**58.** En JAVA la palabra reservada "volatile" se utiliza para:
+
+a)        Marcar variables que deben ser eliminadas por el recolector de basura cuando no se usen.
+
+b)       Marcar variables cuyo valor pueda ser modificado por diferentes hilos.
+
+c)        Marcar variables que no se incluirán en la serialización de su clase.
+
+d)       Marcar variables cuyo valor no puede cambiar una vez asignado.
+
+**59.** ¿Con cuál de los siguientes objetos de .NET tendríamos una caché en memoria de tablas de la BBDD, así como sus relaciones, para operar con ellas?
+
+a)        DataTableRelation
+
+b)       DataTableCollection
+
+c)        Dataset
+
+d)       DataTable
+
+**60.** De entre las siguientes, ¿qué características NO incluye Visual Studio 2019?
+
+a)        Ayudar a escribir código con menos errores gracias a las sugerencias de código de IntelliSense
+
+b)       Posibilidad de crear aplicaciones de Azure o Amazon en local, sin necesidad de iniciar sesión en la nube
+
+c)        Edición, depuración, desarrollo interactivo y control de código fuente para Python
+
+d)       Creación de interfaces de usuario con Windows Form o Windows Presentation Foundation
+
+**61.** ¿Cuál de las siguientes opciones NO usa JAVA como lenguaje base?
+
+a)        Applets
+
+b)       Thymeleaf
+
+c)        Angular
+
+d)       Java Server Pages
+
+**62.** Seleccione una característica del nuevo protocolo HTTP/2 (versión 2 del protocolo HTTP)
+
+a)        Procesamiento más eficiente de los mensajes mediante el uso de mensajes de texto optimizados
+
+b)       Es incompatible con la versión HTTP/1.1
+
+c)        Permite el entrelazado de mensajes de petición y respuesta en la misma conexión
+
+d)       No permite priorizar peticiones
+
+**63.** ¿Cuál de las siguientes opciones se considera una metodología aplicada a estrategias de Seguridad del Software?
+
+a)        OWASP XP
+
+b)       OWASP SCRUM
+
+c)        OWASP RUP
+
+d)       OWASP SAMM
+
+**64.** CMMI define varios niveles de madurez para una organización que gestiona proyectos de desarrollo de software. El nivel 2 de madurez se corresponde con la definición:
+
+a)        Los trabajos se completan pero a menudo se retrasan y sobrepasan el presupuesto
+
+b)       Los proyectos son planificados, ejecutados, medidos y controlados
+
+c)        El trabajo puede llegar a completarse o no
+
+d)       La organización utiliza estándares como guías para los proyectos, programas y portfolios
+
+**65.** En el ámbito de proyectos de desarrollo de software, el término "deuda técnica" hace referencia a:
+
+a)        Las consecuencias derivadas de la inexistencia de un plan de inversión en infraestructuras TI
+
+b)       Las consecuencias derivadas de no tener un plan de capacitación dirigido a los desarrolladores de software.
+
+c)        Las consecuencias derivadas de la falta de atención a la calidad en el proceso de desarrollo de software.
+
+d)       Las consecuencias derivadas de la externalización de servicios de desarrollo en las organizaciones
+
+**66.** En relación con las pautas de accesibilidad al contenido web 2.1 (WCAG 2.1), señale cuál de las siguientes pautas NO pertenece al principio 2 - Operable:
+
+a)        Ataques epilépticos: No diseñar contenido que pueda causar ataques epilépticos
+
+b)       Modalidades de entrada: Facilitar a los usuarios operar la funcionalidad a través de varios métodos de entrada además del teclado
+
+c)        Teclado accesible: Poder controlar todas las funciones desde el teclado.
+
+d)       Asistencia a la entrada de datos: Ayudar a los usuarios a evitar y corregir errores
+
+**67.** ¿Qué significa el término "sharding" en bases de datos NoSQL?
+
+a)        Que el sistema de gestión de bases de datos tiene las propiedades ACID (Atomicity, Consistency, Isolation and Durability).
+
+b)       Que el sistema de gestión de bases de datos tiene las propiedades ACI (Atomicity, Consistency, Isolation) pero no Durability.
+
+c)        Es un método para distribuir la información en distintos nodos.
+
+d)       Es un método para la ejecución concurrente de transacciones.
+
+**68.** Señale la afirmación correcta en relación a MongoDB:
+
+a)        Almacena la información en documentos BSON.
+
+b)       Por defecto soporta consultas SQL.
+
+c)        Sigue siendo vulnerable a las clásicas inyecciones SQL.
+
+d)       Al no utilizar tablas, no incorpora el concepto de transacción.
+
+**69.** Entre las características de AppLocker del sistema operativo Windows se encuentra:
+
+a)        Cifrar ficheros para impedir el acceso de un usuario determinado
+
+b)       Crear reglas de excepción para impedir el uso de un proceso determinado
+
+c)        Controla el comportamiento de las aplicaciones después de que éstas se han ejecutado bloqueando usuarios o accione: especificadas
+
+d)       Establecer una red virtual privada (VPN) entre los clientes y la red a la que se conecta
+
+**70.** De las siguientes opciones, ¿cuál es una certificación para administradores de bases de datos NOSQL?
+
+a)        Voldemort Certified DBA.
+
+b)       CouchDB Certified DBA.
+
+c)        MongoDB Certified DBA.
+
+d)       Riak Certified DBA.
+
+**71.** En relación a las diferentes estrategias de backup, señale la correcta:
+
+a)        La estrategia de backup incrementa! hace copia de lo que cambió desde el último backup, ya sea completo o incremental
+
+b)       La estrategia de backup diferencial hace copia de lo que cambió desde el último backup, ya sea incrementa] o diferencial
+
+c)        La estrategia de backup incremental hace copia de lo que cambió desde el último backup completo, pero no desde uno incremental
+
+d)       La estrategia de backup diferencial hace copia de lo que cambió desde el último backup incremental
+
+**72.** ¿Cuál de las siguientes NO puede ser considerada una herramienta de gestión de la configuración?
+
+a)        Ansible
+
+b)       Puppet
+
+c)        Chef
+
+d)       Flume
+
+**73.** En JCL, la longitud máxima en caracteres alfanuméricos para el nombre de un job se establece en:
+
+a)        8
+
+b)       14
+
+c)        16
+
+d)       20
+
+**74.** ¿Qué tipo de benchmark utilizaría para medir el rendimiento de un componente de manera individual y extraer el máximo rendimiento de ese componente?
+
+a)        Benchmark artificial
+
+b)       Benchmark ficticio
+
+c)        Benchmark forzado
+
+d)       Benchmark sintético
+
+**75.** ¿Qué es NVMe (Non Volatile Memory Express)?
+
+a)        Memoria no volátil que permite la lectura y escritura de múltiples posiciones de memoria en la misma operación mediante impulsos eléctricos a través del puerto SATA Express (SATAe)
+
+b)       Simulación de memoria flash con discos HDD que llega a alcanzar los 695 MB/s en los test de lectura secuencial
+
+c)        Especificación para el acceso a las unidades de estado sólido (SSD) conectadas a través del bus PCI Express (PCie)
+
+d)       Memoria flash volátil que puede estar sin alimentación externa (conservando los datos) entre 5 y 10 horas gracias a sus nanobaterías integradas
+
+**76.** ¿Cuál de las siguientes opciones es la plataforma segura de los servicios en la nube de Amazon?
+
+a)        APS
+
+b)       AWS
+
+c)        ASS
+
+d)       ASN
+
+**77.** Indique cuál de las siguientes NO es una técnica de virtualización de almacenamiento VSAN:
+
+a)        En servidor
+
+b)       En sombra
+
+c)        En red
+
+d)       En cabina
+
+**78.** ¿Cuál de las siguientes respuestas NO es una banda utilizada por los satélites?
+
+a)        Banda L
+
+b)       Banda Ku
+
+c)        Banda Ka
+
+d)       Banda D
+
+**79.** Señale cuál NO es un factor en las pérdidas de potencia en Fibras Ópticas:
+
+a)        Absorción de luz
+
+b)       Dispersión de Rayleigh
+
+c)        Radiación
+
+d)       Difracción de Maxwell
+
+**80.** Respecto al protocolo de control de acceso al medio CSMA/CA, es FALSO que:
+
+a)        Opera al nivel 2 del modelo OSI
+
+b)       Se utiliza en redes inalámbricas 802.11
+
+c)        RTS/CTS es el método usado para reducir colisiones
+
+d)       Es necesario el modo de operación PCF
+
+**81.** El término IT Shadow hace referencia a:
+
+a)        Conjunto de sistemas tecnológicos, soluciones y usos de los dispositivos empleados en una empresa y que no han sido explícitamente reconocidos por la organización
+
+b)       Zonas sin cobertura 5G o 4G LTE
+
+c)        Conjunto de soluciones y contenidos especialmente protegidos por el departamento de tecnología de la organización
+
+d)       Información tecnológica contenida en la Deep Web
+
+**82.** El protocolo ICMP tiene como propósito:
+
+a)        Ante pérdidas, redireccionar los paquetes IP entre diferentes host
+
+b)       Hacer que la comunicación sea fiable
+
+c)        Decidir la ruta menos congestionada para enviar un paquete
+
+d)       Informar de incidencias en la entrega de paquetes
+
+**83.** El rango completo asignado por IANA a direcciones IPv4 multicast es:
+
+a)        224.0.0.0/4
+
+b)       232.0.0.0/8
+
+c)        239.0.0.0/8
+
+d)       240.0.0.0/4
+
+**84.** Señale cuál de las siguientes opciones NO es una cabecera de extensión en IPv6:
+
+a)        Cabecera de fragmento (Fragment Header)
+
+b)       Cabecera de enrutamiento (Routing Header)
+
+c)        Cabecera de opciones en origen (Origin Options Header)
+
+d)       Cabecera de autenticación (Authentication Header)
+
+**85.** ¿Cuáles son las capacidades que combinan las infraestructuras hiperconvergentes (HCI)?
+
+a)        Telefonía fija, telefonía móvil y datos
+
+b)       Criptografía simétrica, criptografía asimétrica y técnicas hash
+
+c)        Computación, almacenamiento y redes
+
+d)       Integración continua, entrega continua y despliegue continuo
+
+**86.** Señale cuál de los siguientes es un protocolo de acceso empleado en VDI:
+
+a)        IPX/SPX
+
+b)       FCoE
+
+c)        RDP
+
+d)       SIP
+
+**87.** ¿Cuál de las siguientes afirmaciones sobre Ethernet Conmutada es cierta?
+
+a)        Es una tecnología WAN
+
+b)       Separa dominios de broadcast
+
+c)        No soporta velocidades de transmisión superiores a 10 Mbps
+
+d)       Cada segmento es un dominio de colisión independiente
+
+**88.** De acuerdo a la RFC 3032, señale cuál es la respuesta correcta en relación al campo TTL de la cabecera de MPLS:
+
+a)        Se compone de 6 bits
+
+b)       Se compone de 8 bits
+
+c)        Se compone de 10 bits
+
+d)       Se compone de 16 bits
+
+**89.** ¿Qué algoritmo usa el protocolo de encaminamiento OSPF versión 2 para calcular la ruta más corta entre dos nodos?
+
+a)        Algoritmo de Búsqueda A*
+
+b)       Algoritmo de Floyd — Warshall
+
+c)        Algoritmo de Cherkassky
+
+d)       Algoritmo de Dijkstra
+
+**90.** Las siglas DLP (Data Loss Prevention) se corresponde con:
+
+a)        Un código de detección de errores usado frecuentemente en redes digitales y en dispositivos de almacenamiento para detectar cambios accidentales en los datos
+
+b)       Una herramienta que tiene como finalidad prevenir las fugas de información dentro de la organización
+
+c)        Una cabecera de extensión del protocolo IPv6 que contiene la codificación del identificador del paquete previo para una posible reconstrucción de la información en el nodo de destino
+
+d)       Un estándar que evita que un tercero sin autorización pueda acceder a la información en tránsito en una comunicación inalámbrica
+
+**91.** ¿Cuál de los siguientes formatos de firma permite la adición de sellos de tiempo periódicos para garantizar la integridad de la firma archivada?
+
+a)        AdES - T
+
+b)       AdES - XL
+
+c)        AdES - A
+
+d)       AdES C
+
+**92.** ¿Cuál de los siguientes NO es un protocolo perteneciente a IPSec?
+
+a)        IKE (Internet Key Exchange)
+
+b)       HMAC (Keyed-Hashing for Message Authentication)
+
+c)        AH (Authentication Header)
+
+d)       ESP (Encapsulating Security Payload)
+
+**93.** Señale cuál es la respuesta correcta en relación al modelo RDF (Resource Description Framework) y la web semántica:
+
+a)        RDF no favorece la extensibilidad, dado que no permite crear nuevos esquemas
+
+b)       Una propiedad puede tener más de un valor para rdfs:range
+
+c)        Una URI de identificador persistente es una combinación de dirección de mail o nombre de dominio, la fecha en la que se creó el identificador y el nombre del identificador
+
+d)       rdf:Property identifica a cualquier elemento que pueda poseer una URI
+
+**94.** ¿Cuál es la norma de la ITU (Unión Internacional de Telecomunicaciones), referido al ADSL G.Lite?
+
+a)        ITU G.992.2
+
+b)       ITU 0.993.2
+
+c)        ITU G.995.2
+
+d)       ITU G.995.3
+
+**95.** Según la ITU-T una "red basada en paquetes que permite prestar servicios de telecomunicación y en la que se pueden utilizar múltiples tecnologías de transporte de banda ancha propiciadas por la QOS, y en la que las funciones relacionadas con los servicios son independientes de las tecnologías subyacentes relacionadas con el transporte. Permite a los usuarios el acceso sin trabas a redes y a proveedores de servicios y/a servicios de su elección. Se soporta movilidad generalizada que permitirá la prestación coherente y ubicua de servicios a los usuarios" es:
+
+a)        RDSI (Red Digital de Servicios Integrados)
+
+b)       RTPC (Red Telefónica Pública Conmutada)
+
+c)        GSM (Sistema Global para comunicaciones móviles)
+
+d)       NGN (Red de próxima generación)
+
+**96.** Señale la respuesta correcta en relación a H.323 y SIP:
+
+a)        Ambos protocolos fueron desarrollados por la Internet Engineering Task Force
+
+b)       El protocolo H.323 es mucho más flexible y abierto que el protocolo SIP, lo que facilita su implementación
+
+c)        Los mensajes del protocolo H.323 utilizan una codificación binaria mientras que SIP codifica los mensajes en formato ASCII
+
+d)       La especificación de H.323 se detalla en la RFC 3250 y la de SIP en la RFC 3261
+
+**97.** Señale cuál de las siguientes NO es una solución MDM (Mobile Device Management):
+
+a)        VMware Airwatch
+
+b)       Cisco Meraki
+
+c)        Citrix Endpoint Management
+
+d)       Apache MPM
+
+**98.** El estándar WPA3 ofrece dos variantes:
+
+a)        WPA3-Personal y WPA3-Enterprise
+
+b)       WPA3-Home y WPA3-Business
+
+c)        WPA3-Standard y WPA3-Pro
+
+d)       WPA3-In y WPA3-Out
+
+**99.** El estándar BLE (Bluetooth Low Energy) consume menos energía que el Bluetooth clásico gracias a que:
+
+a)        Su distancia de alcance es menor
+
+b)       Está en distintas bandas de frecuencia
+
+c)        Utiliza un sistema de modulación diferente
+
+d)       Permite la conexión de un único dispositivo
+
+**100.** Según la Norma Técnica de Interoperabilidad de Digitalización de Documentos, ¿qué nivel de resolución mínimo debentener las imágenes electrónicas?
+
+a)        150 píxeles por pulgada
+
+b)       200 píxeles por pulgada
+
+c)        250 píxeles por pulgada
+
+d)       300 píxeles por pulgada
+
+**101.** En Linux, ¿qué comando usaremos para ver la información relativa a una interfaz de red concreta (dirección IP, máscara de red, etc.), por ejemplo, 'ethO'?
+
+a)        ethtool eth0
+
+b)       dhclient eth0
+
+c)        ifconfig eth0
+
+d)       tcpdump eth0
+
+**102.** Según la metodología MAGERIT v3, señale la opción INCORRECTA:
+
+a)        Denomina degradación a la pérdida de valor de un activo como consecuencia de la materialización de una amenaza
+
+b)       Denomina vulnerabilidad como toda debilidad que puede ser aprovechada por una amenaza
+
+c)        Denomina un riesgo como una causa potencial de un incidente que puede causar daños a un sistema de información o a una organización
+
+d)       Se ha estructurado en tres libros: "Método", "Catálogo de Elementos" y "Guía de Técnicas"
+
+**103.** Según Métrica v3, ¿cuál de las siguientes es una técnica de estimación del coste de, desarrollo usada en la gestión de proyectos?
+
+a)        JAD (Joint Application Design)
+
+b)       JRP (Joint Requirements Planning)
+
+c)        Método Albrecht
+
+d)       Diagrama de Gantt
+
+**104.** El estándar internacional ISO/IEC 11801 establece para la Clase F una frecuencia de hasta:
+
+a)        600 MHz
+
+b)       500 MHz
+
+c)        1000 MHz
+
+d)       1250 MHz

@@ -166,4 +166,5 @@ if (ageOppositionSwitch && ![...ageOppositionSwitch.options].some(option => opti
 }
 ageOppositionSwitch?.addEventListener('change', event => {
   if (event.target.value === 'valencia') window.location.href = 'valencia.html';
+  if (event.target.value === 'gsi-age') window.location.href = 'gsi-age.html';
 });

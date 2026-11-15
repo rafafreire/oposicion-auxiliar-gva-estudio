@@ -1,6 +1,6 @@
 # OpoGVA · Auxiliar administrativo C2-01
 
-Aplicación web estática para estudiar varias oposiciones de auxiliar administrativo. Incluye la convocatoria 70/26 de la Generalitat Valenciana y el Cuerpo General Auxiliar de la Administración del Estado.
+Aplicación web estática para estudiar varias oposiciones administrativas e informáticas. Incluye la convocatoria 70/26 de la Generalitat Valenciana, cuerpos de la Administración General del Estado y el Ayuntamiento de València.
 
 ## Uso
 
@@ -8,9 +8,10 @@ Abre `index.html` en el navegador. No requiere instalación. El avance se guarda
 
 ## Incluye
 
-- Selector entre las oposiciones GVA, AGE y Auxiliar Administrativo del Ayuntamiento de València, con progreso separado para cada una.
+- Selector entre las oposiciones GVA, AGE, Ayuntamiento de València y Gestión de Sistemas e Informática AGE, con progreso separado para cada una.
 - Los 24 temas del Anexo IV de GVA, agrupados en parte general y especial.
 - Temario AGE para los 28 temas, con visor de lectura y apuntes locales de los bloques I y II.
+- Programa oficial GSI AGE de ingreso libre (OEP 2025), con 57 temas en cuatro bloques, doce cuestionarios históricos en JSON y plantillas INAP de 2018, 2019, 2022 y 2024.
 - Temario del Ayuntamiento de València con 21 temas completos en los bloques I y II.
 - Enlaces al DOGV, al BOP de València y a normas publicadas por BOE o EUR-Lex.
 - En GVA, dos preguntas de práctica por tema (48 en total), con corrección y explicación.
@@ -28,6 +29,8 @@ Las preguntas de práctica son material didáctico, no preguntas oficiales. Los 
 - [Orden 9/2026, convocatoria 70/26, DOGV núm. 10331 (PDF)](https://dogv.gva.es/datos/2026/03/27/pdf/2026_8071_es.pdf)
 - [Ficha oficial de la convocatoria en la Sede GVA](https://sede.gva.es/es/detall-ocupacio-publica?id_emp=110135)
 - [Convocatoria AGE 2025 en el BOE (Anexo I)](https://boe.es/buscar/doc.php?id=BOE-A-2025-26262)
+- [GSI AGE · ingreso libre, convocatoria 2025 (INAP)](https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado-ingreso-libre-convocatoria-2025)
+- [GSI AGE · ingreso libre, OEP 2021–2024 (INAP)](https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado/cgseiae-ingreso-libre-oferta-de-empleo-publico-2021-2024)
 
 ## Publicar en GitHub Pages
 
@@ -37,6 +40,6 @@ El repositorio incluye un flujo de GitHub Actions que publica la aplicación al 
 2. En el repositorio, abre **Settings → Pages** y selecciona **GitHub Actions** como origen de publicación.
 3. Cuando termine el flujo **Publicar OpoGVA en GitHub Pages** en la pestaña **Actions**, usa la URL que muestra **Settings → Pages** para abrir la app desde cualquier dispositivo.
 
-El flujo publica las tres pantallas, los datos integrados, los PDF de exámenes necesarios y los apuntes de AGE y València. Los MP3 son opcionales: consulta [GENERAR_AUDIO_MP3.md](./GENERAR_AUDIO_MP3.md) para generarlos. Si el repositorio es público, el sitio y su contenido también serán accesibles públicamente.
+El flujo publica las pantallas, los datos integrados, los PDF de exámenes necesarios y los apuntes de AGE, GSI AGE y València. Los MP3 son opcionales: consulta [GENERAR_AUDIO_MP3.md](./GENERAR_AUDIO_MP3.md) para generarlos. Si el repositorio es público, el sitio y su contenido también serán accesibles públicamente.
 
 El progreso se guarda en el almacenamiento local del navegador. Se conserva en cada dispositivo, pero no se sincroniza entre ellos.

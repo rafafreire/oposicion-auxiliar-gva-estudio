@@ -2,9 +2,15 @@
   const buttonLabel = '🔊 Escuchar pregunta y respuestas';
   let activeButton = null;
 
+  window.quizSpeechRate = 1;
   window.quizSpeechAvailable = () => Boolean(
     window.speechSynthesis && typeof window.SpeechSynthesisUtterance === 'function'
   );
+
+  document.addEventListener('change', event => {
+    const speed = event.target.closest('[data-quiz-speech-rate]');
+    if (speed) window.quizSpeechRate = Number(speed.value);
+  });
 
   window.stopQuizSpeech = () => {
     if (!activeButton) return;
@@ -39,6 +45,7 @@
 
     const utterance = new window.SpeechSynthesisUtterance(`${question}. ${answers.join('. ')}`);
     utterance.lang = 'es-ES';
+    utterance.rate = window.quizSpeechRate;
     const spanishVoice = speech.getVoices().find(voice => /^es[-_]/i.test(voice.lang));
     if (spanishVoice) utterance.voice = spanishVoice;
 

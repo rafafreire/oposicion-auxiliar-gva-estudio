@@ -1,0 +1,1021 @@
+EJERCICIO 2017
+
+**1.** Señale cuál de las siguientes funciones corresponde al Rey:
+
+a)        Plantear ante el Congreso de los Diputados, previa deliberación del Consejo de Ministros, la cuestión de confianza.
+
+b)       Dirigir la política de defensa y ejercer respecto de las Fuerzas Armadas las funciones previstas en la legislación reguladora de la defensa nacional y de la organización militar.
+
+c)        Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.
+
+d)       Interponer el recurso de inconstitucionalidad.
+
+**2.** Según el artículo 66 de la Constitución Española, ¿a quién corresponde aprobar los Presupuestos del Estado?
+
+a)        Al Gobierno.
+
+b)       Al Congreso de los Diputados.
+
+c)        Al Congreso de los Diputados y Senado, en sesión conjunta.
+
+d)       A las Cortes Generales.
+
+**3.** Según se establece por la Constitución Española de 1978, las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:
+
+a)        Decretos Legislativos.
+
+b)       Decretos Leyes.
+
+c)        Proposiciones de Ley.
+
+d)       Leyes Orgánicas.
+
+**4.** De acuerdo con el artículo 116 de la Constitución Española, el estado de sitio será declarado por:
+
+a)        El Gobierno mediante Decreto acordado en el Consejo de Ministros, dando cuenta al Congreso de los Diputados.
+
+b)       Mayoría de 3/5 de las Cortes Generales, a propuesta del Gobierno.
+
+c)        Mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno.
+
+d)       El Gobierno mediante Decreto acordado en el Consejo de Ministros y previa autorización del Congreso de los Diputados.
+
+**5.** Señale la respuesta correcta en relación con la moción de censura regulada en el artículo 113 de la Constitución:
+
+a)        El Congreso de los Diputados puede exigir responsabilidad política del Gobierno mediante la adopción por mayoría simple de la moción de censura.
+
+b)       La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados y habrá de incluir un candidato a la Presidencia del Gobierno.
+
+c)        La moción de censura no podrá ser votada hasta que transcurran 5 días desde su presentación. No podrán presentarse mociones alternativas.
+
+d)       Si la moción de censura no fuera aprobada por el Congreso, sus signatarios podrán volver a presentarla transcurrido el plazo de un mes.
+
+**6.** Según se establece en la Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno, en su artículo 14 en el que se establece los límites al derecho de acceso, este derecho podrá ser limitado cuando acceder a la información suponga un perjuicio para:
+
+a)        La seguridad social.
+
+b)       La protección del Patrimonio Histórico.
+
+c)        El turismo.
+
+d)       La protección del medio ambiente.
+
+**7.** El III Plan de Acción de España 2017-2019 de la Alianza para el Gobierno Abierto contiene 20 compromisos estructurados en torno a los siguientes 5 ejes:
+
+a)        Colaboración, participación, transparencia, rendición de cuentas y buen gobierno.
+
+b)       Colaboración, participación, transparencia, rendición de cuentas y formación.
+
+c)        Colaboración, participación, publicidad activa, derecho de acceso a la información y rendición de cuentas.
+
+d)       Colaboración, participación, transparencia, rendición de cuentas y datos abiertos.
+
+**8.** En relación con la reclamación ante el Consejo de la Transparencia y Buen Gobierno regulada en el artículo 24 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, es cierto que:
+
+a)        Tiene carácter potestativo y previo a su impugnación en vía contencioso-administrativa.
+
+b)       Las resoluciones se publicarán íntegramente, conteniendo los datos personales de los interesados.
+
+c)        El plazo para interponerla será de 6 meses desde el día siguiente a la notificación del acto impugnado.
+
+d)       Transcurrido el plazo máximo para resolver y notificar la resolución, la reclamación se entenderá estimada.
+
+**9.** Según se establece en el Real Decreto Legislativo 5/2015, texto refundido de la Ley del Estatuto Básico del Empleado Público, para una Unidad electoral con un censo de 451 funcionarios, el número de representantes a elegir para esa Junta de Personal será de:
+
+a)        9
+
+b)       13
+
+c)        17
+
+d)       21
+
+**10.** En relación con la estructura de la Administración General del Estado, el artículo 55 de la Ley 40/2015 de 1 de octubre, de Régimen del Sector Público establece que:
+
+a)        Los Ministros y los Secretarios de Estado son órganos directivos.
+
+b)       Los Subsecretarios y Secretarios Generales son órganos superiores.
+
+c)        Los Delegados del Gobierno son órganos superiores y los Subdelegados del Gobierno órganos directivos.
+
+d)       Los Directores Generales y los Subdirectores Generales son órganos directivos.
+
+**11.** De acuerdo con el Real Decreto 5/2015 de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, una de las circunstancias que debe darse para el nombramiento de un funcionario interino son el exceso o acumulación de tareas por plazo máximo de:
+
+a)        3 meses, dentro de un período de 6 meses.
+
+b)       12 meses, dentro de un período de 18 meses.
+
+c)        9 meses, dentro de un período de 18 meses.
+
+d)       8 meses, dentro de un período de 12 meses.
+
+**12.** De acuerdo con la Constitución española de 1978, cualquier alteración de los límites provinciales habrá de ser aprobada por:
+
+a)        Real Decreto del Consejo de Ministros.
+
+b)       Decreto de la Comunidad Autónoma respectiva.
+
+c)        Ley ordinaria de las Cortes Generales.
+
+d)       Ley Orgánica de las Cortes Generales.
+
+**13.** De acuerdo al artículo 6 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, se define discriminación directa por razón de sexo a:
+
+a)        cualquier comportamiento realizado con el propósito de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo.
+
+b)       hacer efectivo el derecho constitucional de la Igualdad.
+
+c)        la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable.
+
+d)       legislar contra el derecho al aborto.
+
+**14.** El artículo 17 de la Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad efectiva de mujeres y hombres obliga a establecer un Plan Estratégico de Igualdad de Oportunidades:
+
+a)        A todas las Comunidades Autónomas.
+
+b)       Al Gobierno, en las materias que sean competencia del Estado.
+
+c)        A todas las empresas.
+
+d)       A las empresas con más de 250 trabajadores.
+
+**15.** Según se establece en el reglamento eIDAS, Reglamento (UE) 910/2014, en su artículo 22, las listas de confianza las publicará, firmadas o selladas electrónicamente, y en una forma apropiada para el tratamiento automático:
+
+a)        La Comisión Europea.
+
+b)       Cada Estado miembro de la Unión Europea.
+
+c)        El Parlamento Europeo.
+
+d)       El Consejo de la Unión Europea.
+
+**16.** Según el Reglamento (UE) 2016/679 de Protección de Datos (RGPD), ¿quién debe llevar un registro de las actividades de tratamiento efectuadas bajo su responsabilidad?
+
+a)        El delegado de protección de datos.
+
+b)       Cada responsable y, en su caso, su representante.
+
+c)        El interesado.
+
+d)       El responsable de seguridad.
+
+**17.** Según el del Reglamento (UE) 2016/679 de 27 de abril, Reglamento General de Protección de Datos, ¿resulta obligatoria la designación de un Delegado de Protección de Datos en las Administraciones Públicas?
+
+a)        No.
+
+b)       Si, excepto los Tribunales cuándo actúen en ejercicio de su función judicial.
+
+c)        Si, con excepción de la Administración Local.
+
+d)       Únicamente en el ámbito de la Administración General del Estado.
+
+**18.** La Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, establece en su artículo 100 los medios por los que se efectuará la ejecución forzosa, entre ellos Incluye:
+
+a)        Compulsión tributaria.
+
+b)       Multa sobre el patrimonio.
+
+c)        Apremio coercitivo.
+
+d)       Ejecución subsidiaria.
+
+**19.** Según el artículo 17 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración deberá mantener un archivo electrónico único de documentos electrónicos:
+
+a)        que correspondan a procedimientos finalizados.
+
+b)       y en papel, que correspondan a procedimientos finalizados.
+
+c)        que correspondan a procedimientos abiertos o finalizados.
+
+d)       y en papel, que correspondan a procedimientos abiertos o finalizados
+
+**20.** En el Real Decreto 1495/2011, que desarrolla la Ley 37/2007, sobre reutilización de la información del sector público estatal, en su artículo 5 establece por parte de la Secretaría de Estado para la Función Pública y la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información del mantenimiento de lo que se conoce como:
+
+a)        Plataforma de Intermediación.
+
+b)       Catálogo de Información Pública reutilizable.
+
+c)        Catálogo de Servicios y Datos reutilizables Comunes.
+
+d)       Infraestructura de Uso Común.
+
+**21.** Entre los servicios que encontramos en el Centro de Transferencia de Tecnología entre Administraciones (CTT), ¿qué es FIRe?
+
+a)        Una solución que simplifica el uso y realización de firmas electrónicas de usuario.
+
+b)       Un sistema que permite generar formularios y encuestas para su cumplimentación vía web.
+
+c)        El Punto General de entrada de facturas de la Administración General del Estado.
+
+d)       Una aplicación web de archivo definitivo de expedientes y documentos electrónicos.
+
+**22.** ¿En cuál de las siguientes tecnologías los datos son procesados en el punto más lejano a donde son recogidos?
+
+a)        Device Computing.
+
+b)       Edge Computing.
+
+c)        Fog Computing.
+
+d)       Cloud Computing.
+
+**23.** Cuál de las siguientes afirmaciones es FALSA en relación con el proyecto OpeNStack:
+
+a)        Es un proyecto de computación en la nube.
+
+b)       Es software libre y código abierto distribuido bajo los términos de la licencia Apache.
+
+c)        En su arquitectura modular se encuentra Neutron para la gestión de redes y direcciones IP.
+
+d)       Proporciona una solución de Software como Servicio (SaaS) a través de un conjunto de servicios interrelacionados.
+
+**24.** La ejecución especulativa es un mecanismo de paralelización automática que:
+
+a)        no usa la memoria caché.
+
+b)       se usa en tiempo de ejecución.
+
+c)        no usa predicciones de saltos.
+
+d)       se usa en tiempo de compilación.
+
+**25.** En Linux, si queremos añadir una entrada en la tabla de rutas IPs del kernel, utilizamos el comando:
+
+a)        route add
+
+b)       traceroute add
+
+c)        ifconfig -a
+
+d)       wget -a
+
+**26.** ¿Cuál es la versión de Android pensada para los teléfonos de menos de 1GB de RAM?
+
+a)        Oreo Little
+
+b)       Oreo Go
+
+c)        L-Oreo
+
+d)       Oreo Agile
+
+**27.** El comando en Linux que muestra la versión del kernel es:
+
+a)        cat /proc/version
+
+b)       cat /proc/kernel
+
+c)        cat /proc/cpuinfo
+
+d)       cat /proc/sys
+
+**28.** ¿Cuál de las siguientes soluciones que se proponen es la más óptima para almacenar grandes cantidades de datos sin procesar?
+
+a)        Data Lake.
+
+b)       Data Warehouse
+
+c)        Data Marts.
+
+d)       Data Universe.
+
+**29.** ¿Qué capa del modelo OSI se encarga de la sincronización, requerimiento de respuestas, establecimiento, disolución y vigilancia de una sesión?
+
+a)        Aplicación.
+
+b)       Presentación.
+
+c)        Sesión.
+
+d)       Estas tareas se comparten entre las tres capas anteriores.
+
+**30.** Señale la respuesta correcta sobre el campo ToS de la cabecera del protocolo IPv4 según la RFC 791 un valor en sus tres primeros bits (precedencia) de:
+
+a)        001 indica que el paquete es de control de red.
+
+b)       010 indica que el paquete es prioritario.
+
+c)        011 indica que el paquete es prioritario.
+
+d)       111 indica que el paquete es de control de red.
+
+**31.** ¿Cuál de los siguientes es un tipo de almacenamiento en HTML5?
+
+a)        HTMLStorage
+
+b)       SessionStorage
+
+c)        HTMLCookie
+
+d)       SessionCookie
+
+**32.** El formato de un JWT (JSON Web Token) tiene una estructura definida y estándar que está basada en tres partes denominadas:
+
+a)        Header, payload, signature.
+
+b)       Envelope, body, foot.
+
+c)        Id, timestamp, checksum.
+
+d)       Session, id, duration.
+
+**33.** Señale cuál de las siguientes etiquetas de HTML5 permite definir contenido autónomo que podría existir independientemente del resto del contenido:
+
+a)        <article>
+
+b)       <aside>
+
+c)        <section>
+
+d)       <main>
+
+**34.** Señale cuál de las siguientes versiones de PILAR es una versión reducida, destinada a la realización de análisis de riesgos muy rápidos:
+
+a)        PILAR Basic
+
+b)       PILAR Mini
+
+c)        .PILAR
+
+d)       RMAT
+
+**35.** La técnica de MAGERIT v3 que se utiliza para modelar las diferentes formas de alcanzar un objetivo se denomina:
+
+a)        Análisis logarítmico.
+
+b)       Árboles de ataque.
+
+c)        Valoración Delphi.
+
+d)       Gráficos de radar.
+
+**36.** Las herramientas que permiten realizar técnicas de auditoría asistidas por ordenador se conocen como:
+
+a)        CASEs
+
+b)       CAATs
+
+c)        CATEs
+
+d)       CAdES
+
+**37.** Señale cuál de las siguientes herramientas utilizadas en informática forense es software propietario:
+
+a)        The Sleuth Kit
+
+b)       Oxygen Forensic Suite
+
+c)        Volatility
+
+d)       Santoku
+
+**38.** Señale qué herramienta del CCN-CERT permite el Intercambio de información de ciberamenazas:
+
+a)        LUCIA
+
+b)       CARMEN
+
+c)        ROCIO
+
+d)       REYES
+
+**39.** Señale cuál de los siguientes tipos de licencia es de software libre con copyleft:
+
+a)        Apache 2.0
+
+b)       X11
+
+c)        BSD (original)
+
+d)       GPL
+
+**40.** El "cuadrante mágico" de Gartner es:
+
+a)        Un gráfico en el que se muestran las debilidades, amenazas y oportunidades.
+
+b)       Un análisis detallado de áreas y mercados específicos de soluciones y fabricantes de tecnología.
+
+c)        Una herramienta para la planificación de proyectos cuyo resultado es un gráfico con 4 cuadrantes que clasifican la viabilidad y oportunidad de la acometida del mismo en base a los parámetros introducidos.
+
+d)       División visual del estado de una tarea que utiliza el método Kanban.
+
+**41.** Señale cuál de las siguientes es una técnica de posicionamiento SEO:
+
+a)        Trunking
+
+b)       Jigsaw
+
+c)        Link baiting
+
+d)       Link hanging
+
+**42.** En relación a los almacenes de datos, ¿en qué consiste un proceso ETL?
+
+a)        Es un proceso que permite extraer datos heterogéneos, transformarlos y cargarlos sobre un sistema homogéneo.
+
+b)       Es un proceso que permite extraer datos homogéneos, truncarlos y cargarlos sobre un sistema heterogéneo.
+
+c)        Es un lenguaje estandarizado para consolidar los procesos de extracción de datos.
+
+d)       Es una carga extendida que permite realizar la carga de datos heterogéneos sobre un sistema homogéneo sin procesarlos (raw).
+
+**43.** La técnica del Diagrama de Extrapolación, definido en el documento de Técnicas y Prácticas de Métrica v3, se utiliza para:
+
+a)        La representación del plan de trabajo, mostrando las tareas a realizar, el momento de su comienzo y su terminación y la forma en que las distintas tareas están encadenadas entre sí.
+
+b)       Realizar un seguimiento de los proyectos software y obtener previsiones de desviaciones en la duración del desarrollo del proyecto.
+
+c)        Documentar mediante una imagen una situación específica.
+
+d)       Representar las actividades de un proceso, definir las dependencias y relaciones entre dichas actividades, los controles que determinan o limitan su ejecución, los mecanismos que los ponen en marcha, así como los datos que se utilizan, comparten o transforman en los procesos.
+
+**44.** Señale el principio que NO se encuentra recogido en el Manifiesto Ágil para el desarrollo de software:
+
+a)        La simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial.
+
+b)       El software funcionando es la medida principal de progreso.
+
+c)        Los proyectos se desarrollan sobre procesos y herramientas consolidados.
+
+d)       Aceptamos que los requisitos cambien, incluso en etapas tardías del desarrollo.
+
+**45.** Dentro de la metodología para gestión y desarrollo de software Scrum, ¿a qué se refiere el concepto 'sprint planning'?
+
+a)        Reunión en la que se determinan los elementos del Product Backlog que van a formar parte del sprint.
+
+b)       Tablero con notas cuyo objetivo es planificar de manera general, mediante fases predeterminadas, como se van completando las tareas.
+
+c)        Reunión diaria de seguimiento de proyecto en la que se controla el cumplimiento de las tareas del backlog.
+
+d)       Técnica que tiene como objetivo la representación del sprint, mostrando las tareas a realizar, el momento de su comienzo y su terminación y la forma en que las distintas tareas están encadenadas entre sí.
+
+**46.** De acuerdo a Métrica v3, indique cuál de los siguientes participantes pertenece a la categoría de perfil Analista:
+
+a)        Especialista en Comunicaciones.
+
+b)       Equipo de Arquitectura.
+
+c)        Consultor Informático.
+
+d)       Usuarios expertos.
+
+**47.** Según la metodología MÉTRICA v3, el conjunto de pruebas de integración consistente en determinar que los tiempos de respuesta están dentro de los intervalos establecidos en las especificaciones del sistema son pruebas de:
+
+a)        Volumen
+
+b)       Comunicaciones
+
+c)        Rendimiento
+
+d)       Sobrecarga
+
+**48.** Indique los participantes de la tarea "Definición del Esquema de Formación" de la actividad CSI-7.1 de Métrica v3, definición de la formación de usuarios finales:
+
+a)        Analistas.
+
+b)       Analistas y Equipo de Formación.
+
+c)        Equipo de Formación.
+
+d)       Equipo de Formación y Equipo del Proyecto.
+
+**49.** De acuerdo al estándar IEEE 830, ¿cuáles de las siguientes combinaciones de características es deseable que posean los requisitos?
+
+a)        Confidencialidad, No ambiguos, Completos, Consistentes, Clasificados, Verificables, Modificables, Trazables.
+
+b)       Corrección, No ambiguos, Completos, Consistentes, Clasificados, Verificables, Modificables, Trazables.
+
+c)        Corrección, No ambiguos, Completos, Consistentes, Disponibles, Verificables, Modificables, Trazables.
+
+d)       Corrección, No ambiguos, Completos, íntegros, Clasificados, Verificables, Modificables, Trazables.
+
+**50.** La agregación en el modelo entidad/relación extendido sirve para:
+
+a)        Indicar que un conjunto (o tipo) de entidades está formado por otro conjunto de entidades.
+
+b)       Construir un nuevo tipo de entidad como composición de otros y su tipo de relación.
+
+c)        Especializar un conjunto (o tipo) de entidades, por ejemplo un empleado puede ser un administrativo, un analista, etc.
+
+d)       Indicar que un conjunto (o tipo) de entidades se identifican con el identificador de otro conjunto de entidades, más un conjunto de atributos propios.
+
+**51.** Dentro del modelo entidad/relación extendido, la característica que representa la participación en la relación de cada una de las entidades afectadas, se denomina:
+
+a)        Grado
+
+b)       Tipo de correspondencia
+
+c)        Cardinalidad
+
+d)       Asociación
+
+**52.** Respecto del algoritmo de Dijkstra:
+
+a)        Entre otros, como el de Kruskal y Prim, está considerado como un algoritmo greedy.
+
+b)       Es un método general para hallar el camino más corto dado un vértice origen en grafos sin pesos.
+
+c)        Es un método para calcular el "minimum spanning tree".
+
+d)       Funciona en cualquier tipo de grafo.
+
+**53.** Atendiendo al manual de Técnicas de Métrica v3, ¿qué cualidades debe cumplir la calidad estructural de un diseño?
+
+a)        Alta cohesión y alto acoplamiento.
+
+b)       Alta cohesión y bajo acoplamiento.
+
+c)        Baja cohesión y alto acoplamiento.
+
+d)       Baja cohesión y bajo acoplamiento.
+
+**54.** En el contexto del diseño software, ordene los siguientes niveles de cohesión definidos en la metodología Métrica v3, de mayor a menor cohesión:
+
+a)        Casual > Temporal > Procedimental > Secuencial > Funcional
+
+b)       Secuencial > Procedimental > Funcional > Casual > Temporal
+
+c)        Funcional > Secuencial > Procedimental > Temporal > Casual
+
+d)       Temporal > Casual > Secuencial > Procedimental > Funcional
+
+**55.** ¿Cuál de los siguientes estándares proporciona requisitos para el diseño y desarrollo de la documentación del usuario del software como parte de los procesos del ciclo de vida?
+
+a)        ISO/IEC 26514
+
+b)       ISO/IEC 9295
+
+c)        ISO/IEC 27002
+
+d)       ISO/IEC 25101
+
+**56.** Señale cuál de los siguientes tipos de prueba se considera una técnica de pruebas de caja blanca:
+
+a)        Particiones o clases de equivalencia.
+
+b)       Análisis de valores límite.
+
+c)        Cobertura de sentencias.
+
+d)       Grafos causa-efecto.
+
+**57.** Indique cuál de los siguientes entornos de virtualización de servidores es de código abierto:
+
+a)        Proxmox VE
+
+b)       Vmware
+
+c)        PowerVM
+
+d)       XenApp
+
+**58.** ¿En qué proceso de Métrica v3 se establece el acuerdo de nivel de servicio?
+
+a)        DSI
+
+b)       CSI
+
+c)        IAS
+
+d)       MSI
+
+**59.** En un modelo de casos de uso de UML, un caso de uso A tiene una relación de extensión (con el estereotipo "extend") con un caso de uso B. El caso de uso extendido es A (la flecha de la relación apunta a A):
+
+a)        El caso de uso A tiene que incluir el caso de uso B para que sea un caso de uso completo.
+
+b)       El caso de uso A puede opcionalmente incluir el caso de uso B, pero el caso de uso A es completo por sí solo.
+
+c)        Antes de que se ejecute el caso de uso A, es necesaria la ejecución del caso de uso B.
+
+d)       Antes de que se ejecute el caso de uso B, es necesaria la ejecución del caso de uso A.
+
+**60.** ¿Cuál de las siguientes afirmaciones sobre el protocolo AJP (Apache Jserv Protocol) es cierta?
+
+a)        Es un protocolo orientado a paquetes que permite la comunicación desde un servidor web Apache hasta uno o varios servidores de aplicaciones.
+
+b)       La comunicación entre el servidor web Apache y el servidor de aplicaciones se realiza mediante el protocolo UDP.
+
+c)        El formato de los paquetes intercambiados por AJP es texto plano por motivos de rendimiento.
+
+d)       AJP no permite persistencia de sesiones entre el servidor web y el de aplicaciones.
+
+**61.** ¿Cuál de las siguientes opciones define una interfaz estándar de proveedor de servicios (SPI) con la que se puede desarrollar un agente de autenticación de nivel de mensaje para contenedores Java EE en el lado del cliente o del servidor?
+
+a)        JSR 196
+
+b)       JSR 197
+
+c)        JSR 198
+
+d)       JSR 199
+
+**62.** Señale cuál de los siguientes servidores, se debería utilizar para tener una plataforma de integración de procesos de negocio basados en .NET:
+
+a)        Geronimo
+
+b)       BizTalk
+
+c)        Rails
+
+d)       WebLogic
+
+**63.** Señale cuál de las siguientes opciones NO está relacionada con el ámbito del software de contenedores:
+
+a)        Kubernetes
+
+b)       Bitbucket
+
+c)        Docker
+
+d)       OpenShift
+
+**64.** ¿Qué tecnología está relacionada con la creación de contenidos RIA (Rich Internet Application)?
+
+a)        La tabla de particiones GUID (GPT).
+
+b)       Extensible Firmware Interface (EFI).
+
+c)        JavaFX.
+
+d)       AptX.
+
+**65.** En relación a la creación de conexiones SSL (Secure Socket Layer) en aplicaciones Java entre cliente y servidor:
+
+a)        Para la inclusión de certificadas en el fichero Keystore se utiliza la herramienta tkeytoolT, mientras que para la inclusión de certificados en el Truststore se utiliza la herramienta itrustedt.or
+
+b)       El fichero Keystore almacena únicamente claves públicas para la verificación de credenciales.
+
+c)        El formato del fichero Keystore es texto plano.
+
+d)       El fichero Truststore almacena certificados de terceras partes u otras autoridades certificadoras (CAs) que permiten a la aplicación java la identificación de éstas terceras partes.
+
+**66.** ¿Cuál de las siguientes afirmaciones es correcta respecto a mod_security?
+
+a)        Permite el control de acceso a Bases de Datos distribuidas.
+
+b)       Monitorización en tiempo real y control de acceso de aplicaciones web.
+
+c)        Control de acceso en la transmisión de paquetes a través del protocolo SFTP.
+
+d)       Control y monitorización para despliegues automatizados en un entorno de integración continua.
+
+**67.** En relación a las siguientes tecnologías de gestión de entornos, señale la correcta:
+
+a)        Vagrant es un software de gestión de flujos de trabajo, utilizado en la creación, despliegue y mantenimiento de recursos.
+
+b)       Docker es una herramienta de gestión de la configuración de código abierto.
+
+c)        Ansible es una herramienta que permite orquestar, provisionar y desplegar entornos y aplicaciones de manera automatizada.
+
+d)       Puppet es un software utilizado para la creación y mantenimiento de entornas virtuales sobre los que se ejecutaran las distintas aplicaciones.
+
+**68.** Indique cuál de los siguientes NO es un factor de calidad que haga referencia a la "Revisión del producto" según el Modelo de Calidad de McCall:
+
+a)        Facilidad de mantenimiento
+
+b)       Reusabilidad
+
+c)        Facilidad de prueba
+
+d)       Flexibilidad
+
+**69.** Según la WCAG 2.0, la pauta de accesibilidad del contenido: "No diseñe un contenido de manera que se sepa que puede causar ataques", se corresponde con el principio:
+
+a)        Operable
+
+b)       Perceptible
+
+c)        Robusto
+
+d)       Comprensible
+
+**70.** ¿Cuál de las siguientes características en relación a las bases de datos SQL y NoSQL es FALSA?
+
+a)        NoSQL no suele utilizar SQL como lenguaje de consultas.
+
+b)       No se suelen realizar operaciones J0IN en NoSQL por el alto coste.
+
+c)        Es más sencillo realizar escalado horizontal en NoSQL que en una base de datos SQL.
+
+d)       Las bases de datos NoSQL garantizan completamente las propiedades ACID.
+
+**71.** La operación Pivot sobre un modelo multidimensional consiste en:
+
+a)        Ir de lo específico a lo general mediante la eliminación de un atributo de la consulta, eliminando de esta manera un criterio de análisis.
+
+b)       Bajar por una jerarquía definida en un cubo; es ir de los general a lo específico.
+
+c)        Seleccionar el orden de visualización de los atributos e indicadores, con el objetivo de analizar la información desde diferentes perspectivas.
+
+d)       Apreciar los datos en menor nivel de detalle, subiendo por una jerarquía definida en un cubo.
+
+**72.** ¿Cuál de las siguientes Bases de Datos NoSQL es del tipo clave-valor?
+
+a)        mongoDB
+
+b)       Redis
+
+c)        CouchDB
+
+d)       Knosys
+
+**73.** ¿Cuál de las siguientes afirmaciones es INCORRECTA respecto al concepto MapReduce?
+
+a)        El proceso Map consiste en tomar las salidas del proceso Reduce y combina dichas tuplas en un conjunto más pequeño.
+
+b)       Además de los procesos Map y Reduce, incorpora una fase intermedia de Shuffle que permite balancear la carga de las tuplas de entrada.
+
+c)        Es un paradigma de programación utilizado en plataformas de Big Data.
+
+d)       Proceso Map toma un conjunto de datos y lo convierte en otro conjunto, separando los elementos individuales en tuplas (pares clave/valor).
+
+**74.** Según estándar Filesystem Hierarchy Standard (FHS) en un sistema Linux, ¿en qué ruta deberían residir los comandos Is, cp, cat, mkdir y rm?
+
+a)        /srv
+
+b)       /usr
+
+c)        /bin
+
+d)       /opt
+
+**75.** ¿Qué tipo de mantenimiento hace referencia a los cambios que sufre el equipo por motivos de ampliaciones de la capacidad del sistema, un aumento del nivel de servicio, entre otros?
+
+a)        Perfectivo
+
+b)       Adaptativo
+
+c)        Preventivo
+
+d)       Correctivo
+
+**76.** El comando Linux que deberemos usar si queremos saber las dependencias de librerías que tiene el programa bash:
+
+a)        lib /bin/bash
+
+b)       ldd /bin/bash
+
+c)        lcd /bin/bash
+
+d)       lsoft /bin/bash
+
+**77.** Señale cuál es la longitud máxima en caracteres del campo nombre de un job en JCL:
+
+a)        8
+
+b)       10
+
+c)        14
+
+d)       16
+
+**78.** Señale qué configuración RAID se conoce como distribuida de doble paridad:
+
+a)        RAID 5
+
+b)       RAID 6
+
+c)        RAID 0+1
+
+d)       RAID 1+0
+
+**79.** La revisión 3.2 de la interfaz de bus SATA, eleva el ancho de banda disponible hasta los:
+
+a)        6 Gbit/s
+
+b)       10 Gbit/s
+
+c)        12 Gbit/s
+
+d)       16 Gbit/s
+
+**80.** La especificación OVF es un:
+
+a)        Formato abierto para gestores de bases de datos volátiles.
+
+b)       Formato abierto para aplicaciones ofimáticas.
+
+c)        Estándar abierto para empaquetar y distribuir appliances para ejecutar en máquinas virtuales.
+
+d)       Estándar abierto para formatos de imagen admitido en la NTI de catálogo de estándares.
+
+**81.** NO es una herramienta para monitorización de redes:
+
+a)        Zabbix
+
+b)       Nagios
+
+c)        WhatsUp Goid
+
+d)       Sinnaps
+
+**82.** ¿Qué valor toma el campo "tipo" de la cabecera ICMPv6 para indicar que se trata de un mensaje de solicitud de eco (echo request)
+
+a)        127
+
+b)       128
+
+c)        129
+
+d)       130
+
+**83.** Protegería un CPD de los ataques Tempest mediante:
+
+a)        Sistemas biométricos.
+
+b)       Jaulas de Faraday.
+
+c)        Cifrados asimétricos.
+
+d)       Antivirus.
+
+**84.** Según Magerit v3, un riesgo es:
+
+a)        Consecuencia que sobre un activo tiene la materialización de una amenaza.
+
+b)       Evento que puede desencadenar un incidente en la Organización, produciendo daños materiales o pérdidas inmateriales en sus archivos.
+
+c)        Estimación del grado de exposición a que una amenaza se materialice sobre uno o más activos causando daños o perjuicios a la Organización.
+
+d)       Debilidad en la seguridad de un sistema de información. Se determina por dos medidas: frecuencia de ocurrencia y degradación causada.
+
+**85.** Si necesitamos una disponibilidad del 99,76% anual para los servicios online, necesitaremos disponer de un CPD con un nivel de al menos:
+
+a)        Tier I
+
+b)       Tier II
+
+c)        Tier III
+
+d)       Tier IV
+
+**86.** En relación con los centros de tratamiento de información y la recuperación ante posibles desastres, el tiempo que un proceso permanecerá detenido antes de que su funcionamiento sea restaurado, se conoce como:
+
+a)        RPO
+
+b)       RTO
+
+c)        MTD
+
+d)       ROL
+
+**87.** ¿Cuál de las siguientes opciones NO corresponde a un tipo de mensaje en el protocolo BGP?
+
+a)        OPEN
+
+b)       UPDATE
+
+c)        NOTIFICATION
+
+d)       ACKNOWLEDGE
+
+**88.** En un sistema de control de accesos, el EER (Equal Error Rate) se da cuando:
+
+a)        La tasa de falsos positivos es igual a la de falsos negativos (FAR = FRR).
+
+b)       La tasa de falsos positivos es mayor a la de falsos negativos (FAR > FRR).
+
+c)        La tasa de falsos positivos es menor a la de falsos negativos (FAR < FRR).
+
+d)       La tasa de falsos positivos es igual cero (FAR =0) y la tasa de falsos negativos es mayor que O y menor que 1 (0 < FRR <1).
+
+**89.** Señale cuál de las siguientes es una variante de phishing, que en lugar del correo electrónico, se realiza a través de llamadas telefónicas a las víctimas:
+
+a)        Spear phishing
+
+b)       Smishing
+
+c)        Whaling
+
+d)       Vishing
+
+**90.** El cert nacional competente para la respuesta a incidentes de seguridad de referencia para los ciudadanos y entidades de derecho privado es
+
+a)        INCIBE-CERT
+
+b)       CERT-CCN
+
+c)        OSI
+
+d)       CNI
+
+**91.** Meltdown y Spectre son dos tipos de:
+
+a)        Sistemas operativos de software libre.
+
+b)       Vulnerabilidades críticas que afectan a procesadores Intel, entre otros.
+
+c)        Ransomware que afectan a la criptomoneda.
+
+d)       Phishing que afectan a aplicaciones como Netflix y Paypal.
+
+**92.** La herramienta web del CCN que nos permite realizar auditorías de seguridad sobre configuraciones de equipos de comunicaciones es:
+
+a)        CLARA
+
+b)       INES
+
+c)        ROCIO
+
+d)       VANESA
+
+**93.** Señale el protocolo de publicación/suscripción utilizado para la comunicación machine-to-machine (M2M) en el Internet of Things (IoT):
+
+a)        ATP (AppleTalk Transacction Protocol).
+
+b)       ACSE (Association Control Service Element).
+
+c)        RSVP (Resource Reservation Protocol).
+
+d)       MQTT (Message Queue Telemetry Transport).
+
+**94.** Si queremos realizar una transmisión de audio sobre una red IP, ¿con que códec ocuparíamos más ancho de banda?
+
+a)        G.711
+
+b)       G.726
+
+c)        G.728
+
+d)       G.729
+
+**95.** IP Multimedia Subsystem (IMS) consta de los siguientes planos o capas:
+
+a)        Acceso, enlace, transporte, sesión y aplicación.
+
+b)       Acceso, transporte, control y aplicación.
+
+c)        Físico, enlace, red, transporte, sesión, presentación y aplicación.
+
+d)       Físico, adaptación, control, usuario y administración.
+
+**96.** Según la Ley General de Telecomunicaciones 9/2014, artículo 27, ¿qué operadores deberán financiar el coste neto de la obligación de prestación del servicio universal?
+
+a)        El operador más significativo del mercado, siendo Telefónica desde la existencia del servicio.
+
+b)       Los operadores más significativos del mercado, pudiendo la CNMV exonerar a determinados operadores de la obligación de contribuir a la financiación del servicio universal cuando su volumen de negocios a escala nacional se sitúe por debajo de un umbral preestablecido.
+
+c)        Aquellos operadores que obtengan por la explotación de redes o la prestación de servicios de comunicaciones electrónicas unos ingresos brutos de explotación anuales superiores a 100 millones de euros.
+
+d)       Telefónica, Vodafone y Orange.
+
+**97.** Señale qué técnica mejorada de retransmisión de paquetes se emplea en NSDPA para la mejora de velocidad en el enlace descendente:
+
+a)        CDMA
+
+b)       DS-CDMA
+
+c)        OVSF
+
+d)       HARQ
+
+**98.** En una infraestructura de red WI-FI, un servidor RADIUS es un servidor de:
+
+a)        direcciones IP.
+
+b)       estado de la red.
+
+c)        autenticación.
+
+d)       almacenamiento.
+
+**99.** Los servicios de televisión OTT (Over The Top):
+
+a)        Pueden ser ofertados por empresas que no sean operadores de telecomunicaciones.
+
+b)       Son regulados por los operadores de comunicaciones de cada país.
+
+c)        Son sontrolados por la Comisión Nacional de los Mercados y la Competencia.
+
+d)       Están obligados a inscribirse en el Registro de servicios OTT del Ministerio de Energía, Turismo y Agenda Digital.
+
+**100.** Unidad de información que se corresponde con 128 bytes:
+
+a)        1 Gigabit
+
+b)       1 Kibibit (Kibit)
+
+c)        1 Mebibit (Mibit)
+
+d)       1 Megabit
+
+**101.** ¿Cuál de las siguientes definiciones se refiere a las pruebas Benchmark?
+
+a)        Verifican la estructura interna del componente con independencia de la funcionalidad establecida para el mismo.
+
+b)       Son pruebas que se realizan para medir el rendimiento de un sistema o uno de sus componentes y poder comparar los resultados con máquinas similares.
+
+c)        Comprueban el correcto funcionamiento de los componentes del sistema analizando entradas y salidas y verificando que el resultado es correcto.
+
+d)       Son pruebas que tienen como objetivo ejercitar profundamente el sistema comprobando la integración del sistema de información globalmente.
+
+**102.** Señale la respuesta correcta en relación a DNS (Domain Name Server), el tipo de registro AAAA:
+
+a)        Especifica una clave pública asociada a un nombre DNS.
+
+b)       Define un sistema principal intercambiador de correo para el dominio.
+
+c)        Proporciona información sobre el servidor DNS primario de la zona.
+
+d)       Especifica la dirección IPv6 de un sistema principal.

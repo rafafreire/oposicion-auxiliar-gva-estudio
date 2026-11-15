@@ -28,7 +28,7 @@ jobs:
         shell: bash
         run: |
           mkdir -p _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES "_site/OPOSICIONES/AUX ADM AGE/EXAMENES" "_site/OPOSICIONES/AUX ADM AGE/TEMARIO" "_site/OPOSICIONES/AUX ADM AYUNT VALENCIA/EXAMENES" "_site/OPOSICIONES/AUX ADM AYUNT VALENCIA/TEMARIO"
-          cp index.html age.html valencia.html _site/
+          cp index.html age.html valencia.html gsi-age.html _site/
           cp -R css js assets _site/
           cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2018_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
           cp "OPOSICIONES/AUX ADM GVA/EXAMENES/EXAMEN_AUXADMGVA_2021_L.pdf" _site/OPOSICIONES/AUX\ ADM\ GVA/EXAMENES/
@@ -42,6 +42,7 @@ jobs:
           cp "OPOSICIONES/AUX ADM AYUNT VALENCIA/TEMARIO/bop 134_bases convocatoria.pdf" "_site/OPOSICIONES/AUX ADM AYUNT VALENCIA/TEMARIO/"
           cp "OPOSICIONES/AUX ADM AYUNT VALENCIA/EXAMENES/EXAMEN_AUXADMVAL_2025.json" "_site/OPOSICIONES/AUX ADM AYUNT VALENCIA/EXAMENES/"
           cp "OPOSICIONES/AUX ADM AYUNT VALENCIA/EXAMENES/EXAMENES_AUXILIAR_ADMINISTRATIVO.pdf" "_site/OPOSICIONES/AUX ADM AYUNT VALENCIA/EXAMENES/"
+          cp -R "OPOSICIONES/GSI AGE" "_site/OPOSICIONES/"
           touch _site/.nojekyll
 
       - name: Subir el sitio

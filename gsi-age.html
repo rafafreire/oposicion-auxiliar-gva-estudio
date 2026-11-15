@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f7f2">
+  <title>OpoGVA · Gestión de Sistemas e Informática AGE</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/quiz-speech.js" defer></script>
+  <script src="js/gsi-age-data.js" defer></script>
+  <script src="js/gsi-age-app.js" defer></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#inicio"><span class="brand-mark">O</span><span>opo<span class="brand-accent">gva</span><small>GESTIÓN DE SISTEMAS · A2</small></span></a>
+      <div class="nav-label">ESTUDIO</div>
+      <nav class="main-nav" aria-label="Navegación">
+        <button class="nav-item active" data-gsi-view="inicio"><span>⌂</span> Resumen</button>
+        <button class="nav-item" data-gsi-view="temario"><span>▤</span> Temario</button>
+        <button class="nav-item" data-gsi-view="test"><span>☷</span> Hacer test</button>
+        <button class="nav-item" data-gsi-view="examenes"><span>▣</span> Exámenes INAP</button>
+        <button class="nav-item" data-gsi-view="documentos"><span>↗</span> Documentación</button>
+      </nav>
+      <div class="sidebar-bottom"><div class="streak-icon">✦</div><div><strong>Estudia a tu ritmo</strong><p>Tu avance se guarda en este dispositivo.</p></div></div>
+      <div class="profile"><div class="avatar">I</div><div><strong>Oposición GSI AGE</strong><small>Ingreso libre · Cuerpo A2</small></div></div>
+    </aside>
+    <main class="main-content">
+      <header class="topbar">
+        <div class="breadcrumb">OPOSICIONES <span>/</span> <strong>GESTIÓN DE SISTEMAS E INFORMÁTICA AGE</strong></div>
+        <label class="opposition-switch-label" for="opposition-switch-gsi">Oposición
+          <select id="opposition-switch-gsi" class="opposition-switch">
+            <option value="gva">Auxiliar administrativo GVA</option>
+            <option value="age">Auxiliar administrativo AGE</option>
+            <option value="valencia">Ayuntamiento de València</option>
+            <option value="gsi-age" selected>Gestión de Sistemas e Informática AGE</option>
+          </select>
+        </label>
+        <a class="source-chip" href="https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado-ingreso-libre-convocatoria-2025" target="_blank" rel="noopener">INAP · OEP 2025 ↗</a>
+      </header>
+
+      <section id="gsi-view-inicio" class="view active-view">
+        <div class="welcome-row">
+          <div><p class="eyebrow">CUERPO GSI AGE · INGRESO LIBRE</p><h1>Tu preparación, <em>GSI.</em></h1><p class="subtitle">Programa oficial, seguimiento de estudio y exámenes publicados por el INAP.</p></div>
+          <button class="primary-button" data-gsi-go="temario">Ver el temario <span>→</span></button>
+        </div>
+        <div class="stats-grid">
+          <article class="stat-card"><div class="stat-top"><span>TEMAS ESTUDIADOS</span><span class="stat-icon green">▤</span></div><div class="stat-value"><span id="gsi-topics-done">0</span><small> / 57 temas</small></div><div class="progress-track"><span id="gsi-topic-progress"></span></div></article>
+          <article class="stat-card"><div class="stat-top"><span>BLOQUES OFICIALES</span><span class="stat-icon yellow">✓</span></div><div class="stat-value">4</div><div class="stat-note">Programa vigente · OEP 2025</div></article>
+          <article class="stat-card"><div class="stat-top"><span>DOCUMENTOS DE EXAMEN</span><span class="stat-icon lilac">▣</span></div><div class="stat-value" id="gsi-exam-document-count">0</div><div class="stat-note">Cuestionarios, supuestos y plantillas INAP</div></article>
+        </div>
+        <div class="content-grid">
+          <section class="panel"><div class="panel-heading"><div><p class="eyebrow">PROGRESO</p><h2>Temas pendientes</h2></div><button class="text-button" data-gsi-go="temario">Ver temario ↗</button></div><div id="gsi-remaining" class="topic-remaining"></div></section>
+          <section class="panel"><div class="panel-heading"><div><p class="eyebrow">FUENTE OFICIAL</p><h2>Material del INAP</h2></div></div><p class="panel-description">El programa y los exámenes se han organizado a partir de las páginas oficiales del proceso selectivo de ingreso libre.</p><button class="secondary-button wide-button" data-gsi-go="examenes">Consultar exámenes anteriores <span>→</span></button></section>
+        </div>
+      </section>
+
+      <section id="gsi-view-temario" class="view">
+        <div class="page-heading"><p class="eyebrow">PROGRAMA OFICIAL · OEP 2025 · ANEXO IX</p><h1>Temario <em>GSI.</em></h1><p class="subtitle">57 temas en cuatro bloques, según las normas específicas publicadas por el INAP.</p></div>
+        <div class="notice"><span>ⓘ</span><p>Los epígrafes se basan en el programa oficial de la convocatoria de ingreso libre OEP 2025. Pulsa el enlace para consultar el documento completo; contrasta siempre el programa con la convocatoria vigente.</p></div>
+        <p><a class="material-link" href="OPOSICIONES/GSI%20AGE/TEMARIO/Programa_oficial_GSI_AGE_OEP_2025.pdf" target="_blank" rel="noopener">Abrir programa y normas específicas del INAP (PDF) ↗</a></p>
+        <div id="gsi-topic-list" class="topic-list"></div>
+      </section>
+
+      <section id="gsi-view-examenes" class="view">
+        <div class="page-heading"><p class="eyebrow">CUESTIONARIOS Y PLANTILLAS OFICIALES</p><h1>Exámenes <em>INAP.</em></h1><p class="subtitle">Material descargable y cuestionarios de años anteriores para practicar.</p></div>
+        <div class="notice"><span>ⓘ</span><p>Los PDF se publicaron en las páginas oficiales del proceso selectivo. Las plantillas definitivas corresponden al primer ejercicio; los supuestos prácticos se ofrecen como enunciados para practicar.</p></div>
+        <div id="gsi-exam-list" class="content-grid"></div>
+        <div class="panel-heading"><div><p class="eyebrow">BANCO DE PREGUNTAS</p><h2>Cuestionarios anteriores</h2></div></div>
+        <div id="gsi-json-exam-list" class="content-grid"></div>
+      </section>
+
+      <section id="gsi-view-test" class="view">
+        <div class="page-heading"><p class="eyebrow">PRACTICA CON EXÁMENES ANTERIORES</p><h1>Hacer un <em>test.</em></h1><p class="subtitle">Responde preguntas de las convocatorias disponibles y consulta la corrección cuando hay plantilla oficial.</p></div>
+        <div class="notice"><span>ⓘ</span><p>Hay plantillas definitivas del INAP para 2018, 2019, 2022 y 2024. Los cuestionarios sin plantilla se pueden practicar, pero no se puntúan automáticamente. Usa el botón de lectura en voz alta y ajusta la velocidad para escuchar las preguntas y opciones.</p></div>
+        <div class="test-setup panel">
+          <div class="test-field"><label for="gsi-test-year">Convocatoria</label><select id="gsi-test-year"></select></div>
+          <div class="test-field"><label for="gsi-test-size">Preguntas</label><select id="gsi-test-size"><option value="10">10 preguntas</option><option value="20">20 preguntas</option><option value="all">Todas las preguntas</option></select></div>
+          <button class="primary-button" id="gsi-start-test">Comenzar test →</button>
+        </div>
+        <div id="gsi-quiz-source" class="exam-source"></div>
+        <div id="gsi-quiz-area"></div>
+      </section>
+
+      <section id="gsi-view-documentos" class="view">
+        <div class="page-heading"><p class="eyebrow">FUENTES OFICIALES</p><h1>Documentación <em>GSI.</em></h1><p class="subtitle">Convocatoria, programa y páginas de seguimiento en la sede electrónica del INAP.</p></div>
+        <div id="gsi-document-list" class="content-grid"></div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
