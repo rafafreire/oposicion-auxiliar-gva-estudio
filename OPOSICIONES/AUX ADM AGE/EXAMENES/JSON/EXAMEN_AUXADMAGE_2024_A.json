@@ -14,7 +14,9 @@
                         "d": "Voluntaria y de pago."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 1,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
                 {
                     "numero": 2,
@@ -26,7 +28,9 @@
                         "d": "Mayoría de dos tercios del Congreso de los Diputados."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 2,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
                 {
                     "numero": 3,
@@ -38,7 +42,9 @@
                         "d": "En Pleno y por Comisiones."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 1,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
                 {
                     "numero": 4,
@@ -50,7 +56,9 @@
                         "d": "En el poder judicial."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 1,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
                 {
                     "numero": 5,
@@ -62,7 +70,9 @@
                         "d": "A un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 8,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
                 {
                     "numero": 6,
@@ -74,7 +84,9 @@
                         "d": "El Gobierno."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 2,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709"
                 },
                 {
                     "numero": 7,
@@ -86,7 +98,9 @@
                         "d": "Aprobar decretos leyes."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 5,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
                 },
                 {
                     "numero": 8,
@@ -98,7 +112,9 @@
                         "d": "Las retribuciones percibidas por todos los órganos superiores y directivos de la Administración General del Estado."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 7,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
                 },
                 {
                     "numero": 9,
@@ -110,7 +126,9 @@
                         "d": "Sistemas preventivos de integridad pública."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 6,
+                    "fuente_oficial": "https://www.mdsocialesa2030.gob.es/agenda2030/index.htm"
                 },
                 {
                     "numero": 10,
@@ -122,7 +140,9 @@
                         "d": "Seis."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 3,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
                 {
                     "numero": 11,
@@ -134,7 +154,9 @@
                         "d": "Órganos administrativos."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 11,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
                 {
                     "numero": 12,
@@ -146,7 +168,9 @@
                         "d": "Orden del Ministerio de Política Territorial y Memoria Democrática."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 5,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
                 },
                 {
                     "numero": 13,
@@ -158,7 +182,9 @@
                         "d": "Ley de armonización cuando lo exija el interés general."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 9,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
                 {
                     "numero": 14,
@@ -170,7 +196,9 @@
                         "d": "Dos, el Tribunal de Justicia y el Tribunal General."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 10,
+                    "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
                 },
                 {
                     "numero": 15,
@@ -182,7 +210,9 @@
                         "d": "Los embajadores y representantes permanentes ante Organizaciones internacionales y el jefe de la oficina consular."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 8,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
                 {
                     "numero": 16,
@@ -194,7 +224,9 @@
                         "d": "A los principios de división funcional en Organizacion Central, Organización Territorial y Administracion General del Estado en el exterior."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 8,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
                 {
                     "numero": 17,
@@ -206,7 +238,9 @@
                         "d": "Los actos favorables para los interesados, ya sean nulos de pleno derecho o anulables."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 4,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666"
                 },
                 {
                     "numero": 18,
@@ -218,7 +252,9 @@
                         "d": "Cinco días naturales desde el nombramiento."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 13,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
                 },
                 {
                     "numero": 19,
@@ -230,7 +266,9 @@
                         "d": "Cualquier persona mayor de dieciocho años que se encuentre en el domicilio sin ser necesario hacer constar su identidad."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 11,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
                 },
                 {
                     "numero": 20,
@@ -242,7 +280,9 @@
                         "d": "A los seis años."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 14,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
                 },
                 {
                     "numero": 21,
@@ -254,7 +294,9 @@
                         "d": "La evaluación de la gestión realizada por el órgano directivo competente, sin perjuicio del control establecido por la Ley General Presupuestaria."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 8,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
                 {
                     "numero": 22,
@@ -266,7 +308,9 @@
                         "d": "Tendrán capacidad de obrar cuando la ley así lo declare expresamente."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 11,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
                 },
                 {
                     "numero": 23,
@@ -278,7 +322,9 @@
                         "d": "Las Comunidades Autónomas."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 16,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990"
                 },
                 {
                     "numero": 24,
@@ -290,7 +336,9 @@
                         "d": "Entidades Públicas Empresariales."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 15,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
                 },
                 {
                     "numero": 25,
@@ -302,7 +350,9 @@
                         "d": "Las inversiones reales."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 15,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
                 },
                 {
                     "numero": 26,
@@ -314,7 +364,9 @@
                         "d": "La persona acosada."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 16,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
                 },
                 {
                     "numero": 27,
@@ -326,7 +378,9 @@
                         "d": "Ministerio de Inclusión, Seguridad Social y Migraciones."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 16,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366"
                 },
                 {
                     "numero": 28,
@@ -338,7 +392,9 @@
                         "d": "Retribuciones complementarias."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 14,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
                 },
                 {
                     "numero": 29,
@@ -350,7 +406,9 @@
                         "d": "Libre designación."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 13,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
                 },
                 {
                     "numero": 30,
@@ -362,7 +420,9 @@
                         "d": "Nivel mínimo 14 y nivel máximo 20."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 14,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
                 },
                 {
                     "numero": 31,
@@ -374,7 +434,9 @@
                         "d": "Necesario."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 32,
@@ -386,7 +448,9 @@
                         "d": "Franco."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 33,
@@ -398,7 +462,9 @@
                         "d": "Esencial."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 34,
@@ -410,7 +476,9 @@
                         "d": "Cita."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 35,
@@ -422,7 +490,9 @@
                         "d": "Modo."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 36,
@@ -434,7 +504,9 @@
                         "d": "Grabar."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 37,
@@ -446,7 +518,9 @@
                         "d": "Numeroso."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 38,
@@ -458,7 +532,9 @@
                         "d": "ecbd"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 39,
@@ -470,7 +546,9 @@
                         "d": "Ajonjolí."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 40,
@@ -482,7 +560,9 @@
                         "d": "33,33%"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 41,
@@ -494,7 +574,9 @@
                         "d": "Jirón."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 42,
@@ -506,7 +588,9 @@
                         "d": "tdkr"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 43,
@@ -518,7 +602,9 @@
                         "d": "gxai"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 44,
@@ -530,7 +616,9 @@
                         "d": "79,85%"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 45,
@@ -542,7 +630,9 @@
                         "d": "30"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 46,
@@ -554,7 +644,9 @@
                         "d": "15"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 47,
@@ -566,7 +658,9 @@
                         "d": "10,25%"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 48,
@@ -578,7 +672,9 @@
                         "d": "32"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 49,
@@ -590,7 +686,9 @@
                         "d": "Planta: 1. Pasillo: 3 derecha. Estanterías: 1 a 5."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 50,
@@ -602,7 +700,9 @@
                         "d": "Tema: Derecho laboral. Nombre: \"Contratos y acuerdos laborales\"."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 51,
@@ -614,7 +714,9 @@
                         "d": "Geografía Política."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 52,
@@ -626,7 +728,9 @@
                         "d": "Geografía Física."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 53,
@@ -638,7 +742,9 @@
                         "d": "Planta: 3 Pasillo: 1 derecha. Estanterías: 1 a 5."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 54,
@@ -650,7 +756,9 @@
                         "d": "Tema: Derecho económico. Nombre: \"Teoría y práctica del derecho económico\"."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 55,
@@ -662,7 +770,9 @@
                         "d": "Viernes."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 56,
@@ -674,7 +784,9 @@
                         "d": "Planta 4."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 57,
@@ -686,7 +798,9 @@
                         "d": "3"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 58,
@@ -698,7 +812,9 @@
                         "d": "Inmunología."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 59,
@@ -710,7 +826,9 @@
                         "d": "Ignacio Benítez."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 60,
@@ -722,7 +840,9 @@
                         "d": "Antonio Durán."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 }
             ]
         },
@@ -739,7 +859,9 @@
                         "d": "El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 31 de diciembre."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 5,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
                 },
                 {
                     "numero": 2,
@@ -751,7 +873,9 @@
                         "d": "Interesado."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 12,
+                    "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679"
                 },
                 {
                     "numero": 3,
@@ -763,7 +887,9 @@
                         "d": "Desdicha."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 4,
@@ -775,7 +901,9 @@
                         "d": "44,44%"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 5,
@@ -787,7 +915,9 @@
                         "d": "- 10,28"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": null,
+                    "fuente_oficial": "https://www.inap.es/"
                 }
             ]
         },
@@ -804,7 +934,9 @@
                         "d": "Un 7% del total."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 17,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6239"
                 },
                 {
                     "numero": 2,
@@ -816,7 +948,9 @@
                         "d": "10 días hábiles."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 8,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
                 {
                     "numero": 3,
@@ -828,7 +962,9 @@
                         "d": "La garantía de la igualdad de oportunidades."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 24,
+                    "fuente_oficial": "https://support.microsoft.com/word"
                 },
                 {
                     "numero": 4,
@@ -840,7 +976,9 @@
                         "d": "Comisión Superior Digital."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 20,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
                 },
                 {
                     "numero": 5,
@@ -852,7 +990,9 @@
                         "d": "Personalizada."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 14,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
                 },
                 {
                     "numero": 6,
@@ -864,7 +1004,9 @@
                         "d": "Oficinas sectoriales."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 9,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
                 {
                     "numero": 7,
@@ -876,7 +1018,9 @@
                         "d": "Archivo Central."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 23,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 8,
@@ -888,7 +1032,9 @@
                         "d": "Sistema archivístico."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 23,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 9,
@@ -900,7 +1046,9 @@
                         "d": "En el plazo máximo de 3 días."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 8,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
                 {
                     "numero": 10,
@@ -912,7 +1060,9 @@
                         "d": "https://administracionelectronica.gob.es"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 20,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
                 },
                 {
                     "numero": 11,
@@ -924,7 +1074,9 @@
                         "d": "Número de serie CMD."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 19,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
                 },
                 {
                     "numero": 12,
@@ -936,7 +1088,9 @@
                         "d": "Lápiz óptico."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 21,
+                    "fuente_oficial": "https://www.incibe.es/ciudadania"
                 },
                 {
                     "numero": 13,
@@ -948,7 +1102,9 @@
                         "d": "Es un tipo de contenido que se puede seleccionar para que se muestre en Microsoft Edge, al abrir una nueva pestaña."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 22,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 14,
@@ -960,7 +1116,9 @@
                         "d": "Coma flotante."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 21,
+                    "fuente_oficial": "https://www.incibe.es/ciudadania"
                 },
                 {
                     "numero": 15,
@@ -972,7 +1130,9 @@
                         "d": "Disipador."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 21,
+                    "fuente_oficial": "https://www.incibe.es/ciudadania"
                 },
                 {
                     "numero": 16,
@@ -984,7 +1144,9 @@
                         "d": "La edición de Windows únicamente está disponible en Administración de equipos."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 22,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 17,
@@ -996,7 +1158,9 @@
                         "d": "Protocolo de comunicaciones."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 28,
+                    "fuente_oficial": "https://www.rfc-editor.org/"
                 },
                 {
                     "numero": 18,
@@ -1008,7 +1172,9 @@
                         "d": "Es posible vincular teléfonos Android o iPhone con Windows 10, lo que permite utilizar el sistema de audio del equipo en llamadas de teléfono, pero no es posible enviar mensajes de texto y mirar fotos del teléfono directamente en el equipo."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 22,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 19,
@@ -1020,7 +1186,9 @@
                         "d": "Explorador de archivos."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 22,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 20,
@@ -1032,7 +1200,9 @@
                         "d": "Es posible seleccionar distintos diseños para mostrar los archivos, así como también es posible agruparlos por diferentes columnas que podemos elegir."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 23,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 21,
@@ -1044,7 +1214,9 @@
                         "d": "Asistencia rápida."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 22,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 22,
@@ -1056,7 +1228,9 @@
                         "d": "Es posible optar por ocultar la búsqueda, mostrar únicamente el icono de búsqueda, o mostrar el cuadro de búsqueda."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 22,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 23,
@@ -1068,7 +1242,9 @@
                         "d": "Bibliotecas y Configuración."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 23,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 24,
@@ -1080,7 +1256,9 @@
                         "d": "45342,00"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 25,
+                    "fuente_oficial": "https://support.microsoft.com/excel"
                 },
                 {
                     "numero": 25,
@@ -1092,7 +1270,9 @@
                         "d": "Seguridad avanzada."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 23,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 26,
@@ -1104,7 +1284,9 @@
                         "d": "Obtener resultados aún más rápido al buscar archivos, mensajes de correo electrónico u otro contenido local."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 23,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 27,
@@ -1116,7 +1298,9 @@
                         "d": "Alt + símbolo \"<\""
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 24,
+                    "fuente_oficial": "https://support.microsoft.com/word"
                 },
                 {
                     "numero": 28,
@@ -1128,7 +1312,9 @@
                         "d": "Solo es posible reutilizar el remite si lo hemos guardado en Access."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 24,
+                    "fuente_oficial": "https://support.microsoft.com/word"
                 },
                 {
                     "numero": 29,
@@ -1140,7 +1326,9 @@
                         "d": "Estilos."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 24,
+                    "fuente_oficial": "https://support.microsoft.com/word"
                 },
                 {
                     "numero": 30,
@@ -1152,7 +1340,9 @@
                         "d": "Elementos rápidos."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 24,
+                    "fuente_oficial": "https://support.microsoft.com/word"
                 },
                 {
                     "numero": 31,
@@ -1164,7 +1354,9 @@
                         "d": "Ofrece una lista de antónimos de la palabra seleccionada."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 24,
+                    "fuente_oficial": "https://support.microsoft.com/word"
                 },
                 {
                     "numero": 32,
@@ -1176,7 +1368,9 @@
                         "d": "0,0021"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 25,
+                    "fuente_oficial": "https://support.microsoft.com/excel"
                 },
                 {
                     "numero": 33,
@@ -1188,7 +1382,9 @@
                         "d": "Imprimir todas las hojas."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 25,
+                    "fuente_oficial": "https://support.microsoft.com/excel"
                 },
                 {
                     "numero": 34,
@@ -1200,7 +1396,9 @@
                         "d": "Es una función que permite filtrar datos de manera interactiva en tablas o tablas dinámicas."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 25,
+                    "fuente_oficial": "https://support.microsoft.com/excel"
                 },
                 {
                     "numero": 35,
@@ -1212,7 +1410,9 @@
                         "d": "El valor mostrado en la celda G20 será el texto Grande si el valor de la celda E20 es mayor que 1000, y el texto Pequeño, si el valor de la celda E20 es menor de 1000."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 25,
+                    "fuente_oficial": "https://support.microsoft.com/excel"
                 },
                 {
                     "numero": 36,
@@ -1224,7 +1424,9 @@
                         "d": "Número grande."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 26,
+                    "fuente_oficial": "https://support.microsoft.com/access"
                 },
                 {
                     "numero": 37,
@@ -1236,7 +1438,9 @@
                         "d": "Tarea."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 27,
+                    "fuente_oficial": "https://support.microsoft.com/outlook"
                 },
                 {
                     "numero": 38,
@@ -1248,7 +1452,9 @@
                         "d": "64 bytes."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 26,
+                    "fuente_oficial": "https://support.microsoft.com/access"
                 },
                 {
                     "numero": 39,
@@ -1260,7 +1466,9 @@
                         "d": "Escribiendo una expresión válida en el campo Formato de la pestaña General dentro de la Vista de Diseño."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 26,
+                    "fuente_oficial": "https://support.microsoft.com/access"
                 },
                 {
                     "numero": 40,
@@ -1272,7 +1480,9 @@
                         "d": "Tablas y Consultas."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 26,
+                    "fuente_oficial": "https://support.microsoft.com/access"
                 },
                 {
                     "numero": 41,
@@ -1284,7 +1494,9 @@
                         "d": "Es posible tener varios calendarios asociados a la cuenta, pero no se pueden visualizar uno al lado del otro."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 27,
+                    "fuente_oficial": "https://support.microsoft.com/outlook"
                 },
                 {
                     "numero": 42,
@@ -1296,7 +1508,9 @@
                         "d": "Consulta de Eliminación."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 26,
+                    "fuente_oficial": "https://support.microsoft.com/access"
                 },
                 {
                     "numero": 43,
@@ -1308,7 +1522,9 @@
                         "d": "WordPress."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 28,
+                    "fuente_oficial": "https://www.rfc-editor.org/"
                 },
                 {
                     "numero": 44,
@@ -1320,7 +1536,9 @@
                         "d": "La búsqueda se realiza sobre todas las carpetas del buzón de la cuenta de usuario en el que nos encontramos."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 27,
+                    "fuente_oficial": "https://support.microsoft.com/outlook"
                 },
                 {
                     "numero": 45,
@@ -1332,7 +1550,9 @@
                         "d": "Crear grupo."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 27,
+                    "fuente_oficial": "https://support.microsoft.com/outlook"
                 },
                 {
                     "numero": 46,
@@ -1344,7 +1564,9 @@
                         "d": "CSS"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 28,
+                    "fuente_oficial": "https://www.rfc-editor.org/"
                 },
                 {
                     "numero": 47,
@@ -1356,7 +1578,9 @@
                         "d": "Factura electrónica."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 28,
+                    "fuente_oficial": "https://www.rfc-editor.org/"
                 },
                 {
                     "numero": 48,
@@ -1368,7 +1592,9 @@
                         "d": "Microsoft."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 21,
+                    "fuente_oficial": "https://www.microsoft.com/microsoft-copilot"
                 },
                 {
                     "numero": 49,
@@ -1380,7 +1606,9 @@
                         "d": "Voz IP."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 21,
+                    "fuente_oficial": "https://www.incibe.es/ciudadania"
                 },
                 {
                     "numero": 50,
@@ -1392,7 +1620,9 @@
                         "d": "Internet Engineering Task Force (IETF)."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 28,
+                    "fuente_oficial": "https://www.w3.org/"
                 }
             ]
         },
@@ -1409,7 +1639,9 @@
                         "d": "2014."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 28,
+                    "fuente_oficial": "https://www.w3.org/"
                 },
                 {
                     "numero": 2,
@@ -1421,7 +1653,9 @@
                         "d": "01/02/2024"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 25,
+                    "fuente_oficial": "https://support.microsoft.com/excel"
                 },
                 {
                     "numero": 3,
@@ -1433,7 +1667,9 @@
                         "d": "Centro de movilidad."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 22,
+                    "fuente_oficial": "https://support.microsoft.com/windows"
                 },
                 {
                     "numero": 4,
@@ -1445,7 +1681,9 @@
                         "d": "Inmovilizar primera columna."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 25,
+                    "fuente_oficial": "https://support.microsoft.com/excel"
                 },
                 {
                     "numero": 5,
@@ -1457,7 +1695,9 @@
                         "d": "Atención con apoderamiento."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null
+                    "explicacion": null,
+                    "tema_numero": 20,
+                    "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
                 }
             ]
         }
