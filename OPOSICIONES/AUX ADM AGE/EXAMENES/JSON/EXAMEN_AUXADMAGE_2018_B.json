@@ -13,7 +13,7 @@
                         "c": "El Tribunal Supremo, salvo lo dispuesto en materia de garantías constitucionales.",
                         "d": "El Tribunal Supremo en materia de garantías constitucionales."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -27,7 +27,7 @@
                         "c": "Pueden declarar la caducidad de un procedimiento administrativo.",
                         "d": "Pueden formular advertencias, recomendaciones o recordatorios a la Administración Pública."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 3,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-10325"
@@ -41,7 +41,7 @@
                         "c": "El Parlamento Europeo y la Comisión Europea.",
                         "d": "El Consejo de la Unión Europea y el Parlamento Europeo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
@@ -55,7 +55,7 @@
                         "c": "El acto es anulable y el vicio consiste en incompetencia jerárquica.",
                         "d": "El acto es anulable y el vicio consiste en incompetencia por razón de la materia."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
@@ -69,7 +69,7 @@
                         "c": "Mediante una declaración o una clara acción negativa.",
                         "d": "Mediante una declaración o una clara acción afirmativa."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 12,
                     "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679"
@@ -83,7 +83,7 @@
                         "c": "Del recurso de casación.",
                         "d": "De las demás materias que le atribuyan las leyes estatales y las leyes de las Comunidades Autónomas."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 2,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709"
@@ -97,7 +97,7 @@
                         "c": "Subsecretario.",
                         "d": "Director General de Servicios."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 8,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
@@ -111,7 +111,7 @@
                         "c": "Al derecho al trabajo.",
                         "d": "Al derecho a la huelga."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 2,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709"
@@ -125,7 +125,7 @@
                         "c": "Todas las empresas, tanto las de menos de 50 como las de más de 50 personas trabajadoras.",
                         "d": "No es una obligación legal que implique a las empresas de menos de 50 personas trabajadoras, sino que es una actuación voluntaria."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 16,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
@@ -139,7 +139,7 @@
                         "c": "La igualdad de género.",
                         "d": "La protección de la salud."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 7,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
@@ -153,7 +153,7 @@
                         "c": "Unidad de caja.",
                         "d": "Estabilidad presupuestaria."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
@@ -167,7 +167,7 @@
                         "c": "Dos meses.",
                         "d": "Tres meses."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 7,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
@@ -181,7 +181,7 @@
                         "c": "Es una competencia exclusiva del Estado, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan.",
                         "d": "Es una competencia exclusiva de las Comunidades Autónomas."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -195,7 +195,7 @@
                         "c": "Siempre será necesario una instancia por escrito del ciudadano ante el órgano correspondiente.",
                         "d": "De oficio o a solicitud del interesado."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
@@ -209,7 +209,7 @@
                         "c": "Desconcentración.",
                         "d": "Encomienda de gestión."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
@@ -223,7 +223,7 @@
                         "c": "Secretario de Estado.",
                         "d": "Secretario General Técnico."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -237,7 +237,7 @@
                         "c": "Se entiende que son hábiles, excluyendo del cómputo los sábados, domingos y festivos.",
                         "d": "Se entiende que son naturales, excluyendo del cómputo los sábados, domingos y festivos."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
@@ -251,7 +251,7 @@
                         "c": "No podrán superar la cuantía del complemento de destino.",
                         "d": "En ningún caso serán fijas en su cuantía."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -265,7 +265,7 @@
                         "c": "La Comisión Europea.",
                         "d": "El Parlamento Europeo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 10,
                     "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
@@ -279,7 +279,7 @@
                         "c": "El Ministerio de Hacienda.",
                         "d": "El Consejo de Ministros."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
@@ -293,7 +293,7 @@
                         "c": "El demérito.",
                         "d": "Una multa proporcional a la falta cometida."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -307,7 +307,7 @@
                         "c": "Serán nombrados por la Comisión Mixta Congreso-Senado, a propuesta del Presidente del Tribunal Supremo.",
                         "d": "Serán nombrados por el Rey, a propuesta conjunta del Presidente del Gobierno y del Tribunal Supremo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 2,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709"
@@ -321,7 +321,7 @@
                         "c": "Orgánica y funcional.",
                         "d": "Orgánica y por áreas de gasto."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
@@ -335,7 +335,7 @@
                         "c": "18 objetivos con 173 metas.",
                         "d": "17 objetivos con 169 metas."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 6,
                     "fuente_oficial": "https://www.mdsocialesa2030.gob.es/agenda2030/index.htm"
@@ -349,7 +349,7 @@
                         "c": "Ministros.",
                         "d": "Secretarios de Estado."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 5,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
@@ -363,7 +363,7 @@
                         "c": "Dos meses.",
                         "d": "Tres meses."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
@@ -377,7 +377,7 @@
                         "c": "Tres.",
                         "d": "Cuatro."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 3,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -391,7 +391,7 @@
                         "c": "A los tres años.",
                         "d": "A los seis meses."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -405,7 +405,7 @@
                         "c": "La igualdad y el Estado social.",
                         "d": "La legalidad y la Nación española."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -419,7 +419,7 @@
                         "c": "Fijo, por tiempo indefinido o temporal.",
                         "d": "Fijo o eventual."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -433,7 +433,7 @@
                         "c": "2,19",
                         "d": "1,96"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -447,7 +447,7 @@
                         "c": "Solicitar.",
                         "d": "Imbuir."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -461,7 +461,7 @@
                         "c": "99 grados.",
                         "d": "130,66 grados."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -475,7 +475,7 @@
                         "c": "Tiempo que ha vivido una persona o ciertos animales o vegetales.",
                         "d": "Mandato, decreto publicado con autoridad del príncipe o del magistrado."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -489,7 +489,7 @@
                         "c": "28",
                         "d": "63"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -503,7 +503,7 @@
                         "c": "Objetivo.",
                         "d": "Evento."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -517,7 +517,7 @@
                         "c": "Cocinado.",
                         "d": "Hablado."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -531,7 +531,7 @@
                         "c": "9 cargamentos.",
                         "d": "5 cargamentos."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -545,7 +545,7 @@
                         "c": "País Vasco.",
                         "d": "Región de Murcia."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -559,7 +559,7 @@
                         "c": "Castilla-La Mancha.",
                         "d": "Región de Murcia."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -573,7 +573,7 @@
                         "c": "País Vasco.",
                         "d": "Canarias."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -587,7 +587,7 @@
                         "c": "792.459,05",
                         "d": "744.372,65"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -601,7 +601,7 @@
                         "c": "1.976,50",
                         "d": "2.520,60"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -615,7 +615,7 @@
                         "c": "País Vasco.",
                         "d": "Región de Murcia."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -629,7 +629,7 @@
                         "c": "Entorno.",
                         "d": "Página."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -643,7 +643,7 @@
                         "c": "68.000 €.",
                         "d": "56.000 €."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -657,7 +657,7 @@
                         "c": "2",
                         "d": "5"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -671,7 +671,7 @@
                         "c": "f-i-g-h",
                         "d": "f-h-d-h"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -685,7 +685,7 @@
                         "c": "Pobre - Indigente.",
                         "d": "Honrar - Ensalzar."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -699,7 +699,7 @@
                         "c": "Categoría C",
                         "d": "Categoría D"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -713,7 +713,7 @@
                         "c": "Categoría C",
                         "d": "Categoría D"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -727,7 +727,7 @@
                         "c": "Categoría C",
                         "d": "Categoría D"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -741,7 +741,7 @@
                         "c": "Categoría C",
                         "d": "Categoría D"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -755,7 +755,7 @@
                         "c": "Categoría C",
                         "d": "Categoría D"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -770,7 +770,7 @@
                         "d": "Categoría D"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null,
+                    "explicacion": "Pregunta anulada según la plantilla definitiva oficial del INAP.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -783,7 +783,7 @@
                         "c": "Hipoteca.",
                         "d": "Envoltura."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -797,7 +797,7 @@
                         "c": "13, 7, 2",
                         "d": "9, 11, 5"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -811,7 +811,7 @@
                         "c": "Tenaz e Inconstante.",
                         "d": "Apocado y Enérgico."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -825,7 +825,7 @@
                         "c": "Obligar, Obeso, Objeto, Oblicuo, Óbice.",
                         "d": "Obeso, Óbice, Objeto, Oblicuo, Obligar."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -839,7 +839,7 @@
                         "c": "736,75 millones.",
                         "d": "667,55 millones."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 10,
                     "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
@@ -858,7 +858,7 @@
                         "c": "Son órganos directivos los Secretarios de Estado, los Secretarios Generales y los Subsecretarios.",
                         "d": "Son órganos directivos los Secretarios de Estado, los Secretarios Generales, los Subsecretarios y los Directores Generales."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 8,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
@@ -872,7 +872,7 @@
                         "c": "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a 2 años, ampliable hasta 12 meses más...",
                         "d": "El exceso o acumulación de tareas por plazo máximo de 9 meses, dentro de un período de 12 meses."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -886,7 +886,7 @@
                         "c": "El compromiso es un acto con relevancia jurídica para con terceros, vinculando a la Hacienda Pública estatal o a la Seguridad Social a la realización del gasto...",
                         "d": "El reconocimiento de la obligación es el acto mediante el cual la autoridad competente emite una orden a la Tesorería del Estado..."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
@@ -900,7 +900,7 @@
                         "c": "Idéntico.",
                         "d": "Prudente."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -914,7 +914,7 @@
                         "c": "/, -, -",
                         "d": "/, x, -"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -933,7 +933,7 @@
                         "c": "2",
                         "d": "32"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
@@ -947,7 +947,7 @@
                         "c": "Cualquier formato o soporte.",
                         "d": "Siempre en formato papel."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 19,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
@@ -961,7 +961,7 @@
                         "c": "Gusano.",
                         "d": "Monitorización."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
@@ -975,7 +975,7 @@
                         "c": "Máxima de cinco años a contar desde la fecha de inscripción.",
                         "d": "Por el plazo que determine libremente el poderdante al inscribirlo en el Registro."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 20,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
@@ -989,7 +989,7 @@
                         "c": "Varios o uno.",
                         "d": "Uno a uno."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
@@ -1003,7 +1003,7 @@
                         "c": "A los Secretarios Generales Técnicos.",
                         "d": "A los Secretarios de Estado."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 8,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
@@ -1017,7 +1017,7 @@
                         "c": "Intro indica párrafo nuevo, y Mayúscula + Intro indica salto de sección.",
                         "d": "Intro indica salto de línea, y Mayúscula + Intro indica salto de sección."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
@@ -1031,7 +1031,7 @@
                         "c": "La información será publicada en formatos que permitan su reutilización.",
                         "d": "La información se publicará de acuerdo con los estándares de calidad."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 7,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
@@ -1045,7 +1045,7 @@
                         "c": "Panel de detalles.",
                         "d": "Panel de información."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1059,7 +1059,7 @@
                         "c": "Esquema.",
                         "d": "Diseño web."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
@@ -1073,7 +1073,7 @@
                         "c": "Ctrl + 2",
                         "d": "Alt + 2"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
@@ -1087,7 +1087,7 @@
                         "c": "=A1&\"B1\"",
                         "d": "=A1\" \"B1"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1101,7 +1101,7 @@
                         "c": "Un motor de búsqueda o buscador.",
                         "d": "Una inteligencia artificial."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1116,7 +1116,7 @@
                         "d": "No existe la figura de Delegado y nadie puede recibir mis correos."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null,
+                    "explicacion": "Pregunta anulada según la plantilla definitiva oficial del INAP.",
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
                 },
@@ -1129,7 +1129,7 @@
                         "c": "Google Drive.",
                         "d": "Amazon S3."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1143,7 +1143,7 @@
                         "c": "Alt + F4",
                         "d": "Ctrl + Alt + Tabulador"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1157,7 +1157,7 @@
                         "c": "=SI(B10=21%;\"IVA normal\";\"IVA reducido\")",
                         "d": "SI(B10=\"21%\"; \"IVA reducido\"; \"IVA normal\")"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1171,7 +1171,7 @@
                         "c": "Ctrl + Shift + Q",
                         "d": "Alt + Q"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
@@ -1185,7 +1185,7 @@
                         "c": "Internet es un conjunto de redes de comunicación interconectadas mediante redes físicas homogéneas.",
                         "d": "Internet es un conjunto centralizado de redes de comunicación dependientes de organizaciones gubernamentales..."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
@@ -1199,7 +1199,7 @@
                         "c": "Consulta de actualización.",
                         "d": "Consulta de eliminación."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
@@ -1213,7 +1213,7 @@
                         "c": "oferta!",
                         "d": "direccion_web"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
@@ -1227,7 +1227,7 @@
                         "c": "Asunto +oferta -primera",
                         "d": "SI \"oferta\" NO \"primera\""
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
@@ -1241,7 +1241,7 @@
                         "c": "Acerca de.",
                         "d": "Notificaciones y Acciones."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1255,7 +1255,7 @@
                         "c": "ext2.",
                         "d": "SOLARIS."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1269,7 +1269,7 @@
                         "c": "Inhábil en todo caso.",
                         "d": "No se prevé esta casuística en la Ley 39/2015."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -1283,7 +1283,7 @@
                         "c": "Se abre Cortana.",
                         "d": "Se abre el explorador web Microsoft Edge."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1297,7 +1297,7 @@
                         "c": "logotipo de Windows + U",
                         "d": "Ctrl + flecha izquierda"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1311,7 +1311,7 @@
                         "c": "123.457",
                         "d": "123457"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1325,7 +1325,7 @@
                         "c": "Borrará \"539\" y dejará el valor \"Medida\" centrado en la nueva celda.",
                         "d": "Borrará los valores de ambas celdas, y creará una nueva celda vacía."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1339,7 +1339,7 @@
                         "c": "El tráfico de subida y bajada es el mismo porque todo lo que nos envía el servidor, también lo recibe de vuelta.",
                         "d": "No generamos tráfico navegando, solo cuando descargamos ficheros."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
@@ -1358,7 +1358,7 @@
                         "c": "Firma electrónica del empleado público.",
                         "d": "Sello no electrónico de Administración Pública."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
@@ -1372,7 +1372,7 @@
                         "c": "Carácter.",
                         "d": "Booleano."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
@@ -1386,7 +1386,7 @@
                         "c": "Pascal",
                         "d": "Ensamblador"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
@@ -1400,7 +1400,7 @@
                         "c": "OneDrive.",
                         "d": "Subtítulos."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1414,7 +1414,7 @@
                         "c": "Elementos rápidos.",
                         "d": "Símbolo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"

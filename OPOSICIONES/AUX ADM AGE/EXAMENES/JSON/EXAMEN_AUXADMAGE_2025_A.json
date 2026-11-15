@@ -13,7 +13,7 @@
                         "c": "El Rey.",
                         "d": "El Congreso de los Diputados."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -27,7 +27,7 @@
                         "c": "Defender su integridad territorial y el ordenamiento democrático.",
                         "d": "Garantizar la soberanía e individualidad de España."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -41,7 +41,7 @@
                         "c": "Una mayoría de dos tercios del Senado y mayoría absoluta del Congreso.",
                         "d": "Una mayoría de tres quintos de cada una de las Cámaras."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 2,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -55,7 +55,7 @@
                         "c": "Por resolución judicial o administrativa.",
                         "d": "Por Ley orgánica."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 2,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -69,7 +69,7 @@
                         "c": "Un máximo de 21 miembros.",
                         "d": "Un mínimo de 21 miembros y un máximo de 50."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -83,7 +83,7 @@
                         "c": "Previa autorización del Consejo de Ministros.",
                         "d": "Previa autorización de las Cortes Generales."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 2,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -97,7 +97,7 @@
                         "c": "El Rey, a propuesta del presidente del Consejo General del Poder Judicial.",
                         "d": "El presidente del Consejo General del Poder Judicial, a propuesta del Rey."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 4,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666"
@@ -111,7 +111,7 @@
                         "c": "Por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno o del miembro del Gobierno a cuyo Departamento pertenezcan.",
                         "d": "Por Orden Ministerial, previo conocimiento del Consejo de Ministros."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 8,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
@@ -125,7 +125,7 @@
                         "c": "Del Tribunal Constitucional.",
                         "d": "Del Tribunal Supremo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 5,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
@@ -139,7 +139,7 @@
                         "c": "La Comisión Delegada del Gobierno para la Agenda 2030.",
                         "d": "La Dirección General de la Agenda 2030."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 6,
                     "fuente_oficial": "https://www.mdsocialesa2030.gob.es/agenda2030/index.htm"
@@ -153,7 +153,7 @@
                         "c": "Mediante recurso contencioso administrativo.",
                         "d": "Mediante reclamación previa preceptiva ante el Consejo de Transparencia y Buen Gobierno."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 7,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
@@ -167,7 +167,7 @@
                         "c": "Desempeñar la jefatura superior de todo el personal del Departamento.",
                         "d": "Convocar y resolver pruebas selectivas de personal funcionario y laboral."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 8,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
@@ -181,7 +181,7 @@
                         "c": "Tienen la condición de alto cargo.",
                         "d": "Representan ordinariamente al Estado en el territorio de la respectiva Comunidad Autónoma."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -195,7 +195,7 @@
                         "c": "El territorio.",
                         "d": "La población."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -209,7 +209,7 @@
                         "c": "Prevención y extinción de incendios.",
                         "d": "Biblioteca pública."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -223,7 +223,7 @@
                         "c": "Estará compuesto por un representante de cada Estado miembro, de rango ministerial.",
                         "d": "Elegirá a su Presidente por mayoría cualificada para un mandato de cinco años, que podrá renovarse una sola vez."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 10,
                     "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
@@ -237,7 +237,7 @@
                         "c": "Eslovenia.",
                         "d": "Austria."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 10,
                     "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
@@ -251,7 +251,7 @@
                         "c": "Legitimaria al interesado o interesados para entenderla desestimada por silencio administrativo, excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario.",
                         "d": "En los casos de estimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
@@ -265,7 +265,7 @@
                         "c": "Presentar comunicaciones.",
                         "d": "Desistir de derechos."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
@@ -279,7 +279,7 @@
                         "c": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando produzcan efectos desfavorables al interesado.",
                         "d": "La eficacia quedará demorada cuando así lo exija el contenido del acto."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
@@ -293,7 +293,7 @@
                         "c": "La intervención en un procedimiento administrativo cuando se dé alguna de las causas de abstención legalmente señaladas.",
                         "d": "No guardar el debido sigilo respecto a los asuntos que se conozcan por razón del cargo, cuando causen perjuicio a la Administración o se utilice en provecho propio."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 7,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
@@ -307,7 +307,7 @@
                         "c": "La determinación y aplicación de las retribuciones complementarias de los funcionarios.",
                         "d": "Las normas que fijen los criterios y mecanismos generales en materia de evaluación del desempeño."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -321,7 +321,7 @@
                         "c": "Las retribuciones que les correspondan como funcionarios de carrera y no las del puesto o cargo que desempeñen, sin derecho a percibir los trienios que tengan reconocidos en cada momento.",
                         "d": "Las retribuciones del puesto o cargo que desempeñen y no las que les correspondan como funcionarios de carrera, sin perjuicio del derecho a percibir los trienios que tengan reconocidos en cada momento."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -335,7 +335,7 @@
                         "c": "Servicios en Comunidades Autónomas.",
                         "d": "Servicio activo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -349,7 +349,7 @@
                         "c": "No aceptar ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas.",
                         "d": "Obedecer las instrucciones y órdenes profesionales de los superiores, salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -363,7 +363,7 @@
                         "c": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses.",
                         "d": "Las infracciones muy graves prescribirán a los tres años, las graves al año y las leves a los tres meses."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -377,7 +377,7 @@
                         "c": "Separación del servicio.",
                         "d": "Deducción proporcional de retribuciones."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -391,7 +391,7 @@
                         "c": "El Ministerio de Economía, Comercio y Empresa.",
                         "d": "Las Cortes Generales."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
@@ -405,7 +405,7 @@
                         "c": "Las tasas, precios públicos y otros ingresos.",
                         "d": "La enajenación de inversiones reales."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
@@ -419,7 +419,7 @@
                         "c": "Discriminación directa por razón de sexo.",
                         "d": "Discriminación indirecta por razón de sexo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 16,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
@@ -433,7 +433,7 @@
                         "c": "Sonámbulo.",
                         "d": "Hortícola."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -447,7 +447,7 @@
                         "c": "Exhuberante.",
                         "d": "Viudedad."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -461,7 +461,7 @@
                         "c": "Eximio.",
                         "d": "Livido."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -475,7 +475,7 @@
                         "c": "Dulce.",
                         "d": "Rugoso."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -489,7 +489,7 @@
                         "c": "Desierto.",
                         "d": "Descampado."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -503,7 +503,7 @@
                         "c": "Destino.",
                         "d": "Azar."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -517,7 +517,7 @@
                         "c": "Avanzado.",
                         "d": "Atrasado."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -531,7 +531,7 @@
                         "c": "Penitente.",
                         "d": "Heterodoxo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -545,7 +545,7 @@
                         "c": "Estupenda.",
                         "d": "Deplorable."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -559,7 +559,7 @@
                         "c": "38,72 €",
                         "d": "39,05 €"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -573,7 +573,7 @@
                         "c": "61,77 €",
                         "d": "60,32 €"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -587,7 +587,7 @@
                         "c": "34.",
                         "d": "16."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -601,7 +601,7 @@
                         "c": "212.",
                         "d": "244."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -615,7 +615,7 @@
                         "c": "280",
                         "d": "340"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -629,7 +629,7 @@
                         "c": "12",
                         "d": "6"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -643,7 +643,7 @@
                         "c": "0,916",
                         "d": "0,625"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -657,7 +657,7 @@
                         "c": "1,55",
                         "d": "8,08"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -671,7 +671,7 @@
                         "c": "3",
                         "d": "4"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -685,7 +685,7 @@
                         "c": "Alfaguara.",
                         "d": "Santillana."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -699,7 +699,7 @@
                         "c": "Anagrama.",
                         "d": "Plaza & Janés."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -713,7 +713,7 @@
                         "c": "Hija de la fortuna.",
                         "d": "Un calor tan cercano."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -727,7 +727,7 @@
                         "c": "Anagrama.",
                         "d": "Santillana."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -741,7 +741,7 @@
                         "c": "El equipaje del viajero.",
                         "d": "Entre visillos."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -755,7 +755,7 @@
                         "c": "Marías, Javier.",
                         "d": "Martin Gaite, Carmen."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -769,7 +769,7 @@
                         "c": "Tarragona.",
                         "d": "Bilbao."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -783,7 +783,7 @@
                         "c": "Comercial.",
                         "d": "Administración."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -797,7 +797,7 @@
                         "c": "Marketing.",
                         "d": "Técnico."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -811,7 +811,7 @@
                         "c": "A-115",
                         "d": "M-254"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -825,7 +825,7 @@
                         "c": "26,11%",
                         "d": "23,82%"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -839,7 +839,7 @@
                         "c": "33,76%",
                         "d": "31,68%"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -858,7 +858,7 @@
                         "c": "Las acciones que deliberadamente generen un grave perjuicio económico o profesional para las personas con discapacidad.",
                         "d": "La coacción, amenaza, represalia ejercida sobre la persona con discapacidad o sobre otras personas físicas o jurídicas, que hayan entablado o pretendan entablar cualquier clase de acción legal, reclamación, denuncia o participen en procedimientos ya iniciados para exigir el cumplimiento del principio de igualdad de oportunidades, así como la tentativa de ejercitar tales actos."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 16,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632"
@@ -872,7 +872,7 @@
                         "c": "Unanimidad.",
                         "d": "Mayoría simple."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 10,
                     "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
@@ -886,7 +886,7 @@
                         "c": "Idiocincrasia.",
                         "d": "Idiosincrazia."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -900,7 +900,7 @@
                         "c": "Abusado.",
                         "d": "Vivo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -914,7 +914,7 @@
                         "c": "4 y 21.",
                         "d": "8 y 17."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -933,7 +933,7 @@
                         "c": "De asistencia y orientación.",
                         "d": "De recepción y acogida."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 18,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-4447"
@@ -947,7 +947,7 @@
                         "c": "En 2023 y sustituyó el término minusválido por personas con discapacidad.",
                         "d": "En 2023 y sustituyó el término disminuido por personas con discapacidad."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 16,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
@@ -961,7 +961,7 @@
                         "c": "Menores de edad y mujeres.",
                         "d": "Personas con riesgo de exclusión social."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 16,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632"
@@ -975,7 +975,7 @@
                         "c": "Ordinaria y extraordinaria.",
                         "d": "Interna y externa."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 18,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-4447"
@@ -989,7 +989,7 @@
                         "c": "Orden Ministerial del departamento al que pertenezca el órgano y se publicará en el Boletín Oficial del Estado.",
                         "d": "Orden Ministerial del departamento al que pertenezca el órgano sin que sea necesaria la publicacion en el Boletín Oficial del Estado, pero se llevarán a cabo las acciones divulgativas más eficaces, garantizando siempre que puedan ser conocidas por los usuarios en todas sus dependencias con atención al público."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 8,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
@@ -1003,7 +1003,7 @@
                         "c": "Diseño universal.",
                         "d": "Transversalidad de las políticas públicas."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 16,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632"
@@ -1017,7 +1017,7 @@
                         "c": "Accesibles.",
                         "d": "Interoperables."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 20,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
@@ -1031,7 +1031,7 @@
                         "c": "Facilidad de uso.",
                         "d": "Personalización y proactividad."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 20,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
@@ -1045,7 +1045,7 @@
                         "c": "Dirección Electrónica Habilitada única.",
                         "d": "Dirección Electrónica Homologada para usuarios."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 20,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
@@ -1059,7 +1059,7 @@
                         "c": "Código de Seguridad Validado.",
                         "d": "Código Seguro de Verificación."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 20,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
@@ -1073,7 +1073,7 @@
                         "c": "Malvertising.",
                         "d": "Spyware."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
@@ -1087,7 +1087,7 @@
                         "c": "Seguridad de la Información.",
                         "d": "Gestión de Incidentes de Seguridad de la Información."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
@@ -1102,7 +1102,7 @@
                         "d": "Un insider es una persona perteneciente a la propia organización que provoca un incidente de seguridad de forma accidental."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null,
+                    "explicacion": "Pregunta anulada según la plantilla definitiva oficial del INAP.",
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
                 },
@@ -1115,7 +1115,7 @@
                         "c": "Es la técnica que permite a un sistema informático adaptarse a los cambios de hardware con mínima intervención del usuario, permitiendo agregar o quitar dispositivos sin configuración manual.",
                         "d": "Es una función del sistema que optimiza el rendimiento del procesador al detectar nuevos componentes internos instalados."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1129,7 +1129,7 @@
                         "c": "EBCDIC",
                         "d": "Sistema Binario Puro"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1143,7 +1143,7 @@
                         "c": "Es un tipo de memoria de solo lectura que contiene las instrucciones críticas para el arranque del sistema.",
                         "d": "Es el espacio de almacenamiento temporal ubicado dentro de la CPU para acelerar el procesamiento de cálculos."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
@@ -1157,7 +1157,7 @@
                         "c": "Bloquear, Cambiar de usuario; Cerrar sesión; Administrador de tareas.",
                         "d": "Suspender; Cambiar de usuario; Administrador de tareas; Cerrar sesión."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1171,7 +1171,7 @@
                         "c": "Crear carpetas en el Explorador de archivos, editar tareas y crear calendarios.",
                         "d": "Configurar el tiempo de espera para que la pantalla se apague, activar el ahorro de energía y cambiar el plan de rendimiento del procesador."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1185,7 +1185,7 @@
                         "c": "Escritorio, Descargas, Documentos, Imágenes, Música y Videos.",
                         "d": "Fondo, Colores, Iluminación dinámica y Pantalla de bloqueo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1199,7 +1199,7 @@
                         "c": "Habilitar la opción para ajustar automáticamente la temperatura de color de la pantalla según la hora del día, modificando los tonos cálidos y fríos para reducir la fatiga visual.",
                         "d": "Configurar el \"Color principal del sistema\", que permite aplicar temas de color para deficiencias visuales y sensibilidad a la luz."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1213,7 +1213,7 @@
                         "c": "Widget.",
                         "d": "Controles XAML."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1227,7 +1227,7 @@
                         "c": "Crear entornos de trabajo independientes, lo que permiten separar tareas y organizar mejor el trabajo diario.",
                         "d": "Crear perfiles de usuario adicionales con configuraciones y archivos completamente independientes."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1241,7 +1241,7 @@
                         "c": "Automatización inteligente.",
                         "d": "Inteligencia Artificial generativa."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
@@ -1255,7 +1255,7 @@
                         "c": "Solo existe mientras una aplicación está en ejecución.",
                         "d": "No puede organizarse dentro de carpetas."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1269,7 +1269,7 @@
                         "c": "La longitud máxima del tipo Texto corto es de 249 caracteres.",
                         "d": "Todas las propiedades de campo están disponibles para todos los tipos de datos posibles."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
@@ -1283,7 +1283,7 @@
                         "c": "Hacer clic en \"Inicio\", seleccionar \"Configuración\", en el menú lateral izquierdo seleccionar la sección \"Aplicaciones\", en el panel principal seleccionar la opción \"Configuración avanzada de aplicaciones\" y, por último, hacer clic en \"Elegir otra aplicación\" y seleccionar la aplicación correspondiente.",
                         "d": "Hacer clic en \"Inicio\", escribir \"Panel de Control\", seleccionar \"Opciones del Explorador de archivos\", en la pestaña \"General\" ir a la sección \"Acciones al hacer clic en un elemento\", seleccionar \"Elegir otra aplicación\" y seleccionar la aplicación correspondiente."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1297,7 +1297,7 @@
                         "c": "Archivos temporales, archivos duplicados, archivos sincronizados a la nube, aplicaciones en segundo plano.",
                         "d": "Archivos temporales, archivos grandes o sin usar, archivos sincronizados a la nube, aplicaciones sin usar."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1311,7 +1311,7 @@
                         "c": "Saltar registro si",
                         "d": "Rellenar"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
@@ -1325,7 +1325,7 @@
                         "c": "Se guarda el documento con un nuevo nombre.",
                         "d": "Se inserta una nota al pie."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
@@ -1339,7 +1339,7 @@
                         "c": "Se genera automáticamente texto de relleno compuesto por párrafos predefinidos.",
                         "d": "Se abre un cuadro de diálogo para configurar opciones avanzadas de texto."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
@@ -1353,7 +1353,7 @@
                         "c": "Escribir la URL completa de una página web en el documento.",
                         "d": "Utilizar colores sin contraste en el texto."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
@@ -1367,7 +1367,7 @@
                         "c": "No devolverá ningún resultado, ya que el rango de suma y uno de los rangos de criterio son el mismo, lo cual provoca un error.",
                         "d": "Sumará los importes correspondientes a nóminas con importe superior a 2.000 € y cuyas fechas estén comprendidas en el año 2025."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1381,7 +1381,7 @@
                         "c": "COINCIDIRX",
                         "d": "ESTEXTO"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1395,7 +1395,7 @@
                         "c": "Es un error que suele ocurrir al intentar realizar operaciones matemáticas con celdas que contienen información no numérica.",
                         "d": "Es un error que ocurre al escribir incorrectamente la fórmula que se pretende utilizar."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1409,7 +1409,7 @@
                         "c": "BUSCARX",
                         "d": "BUSCARAVANZADO"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1423,7 +1423,7 @@
                         "c": "76%",
                         "d": "1%"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1437,7 +1437,7 @@
                         "c": "01/01/0001",
                         "d": "1 de enero de 2026"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1451,7 +1451,7 @@
                         "c": "De servicios en línea.",
                         "d": "De otros orígenes."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
@@ -1465,7 +1465,7 @@
                         "c": "Diseño, Formulario y Presentación.",
                         "d": "Hoja de datos, Formulario y Diseño."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
@@ -1479,7 +1479,7 @@
                         "c": "Formulario.",
                         "d": "Edición."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
@@ -1493,7 +1493,7 @@
                         "c": "En la fila criterios del campo 'tipo de contrato' escribir Suministros y en la misma fila del campo 'Fecha de adjudicación' escribir >{01/01/2025}",
                         "d": "En la fila criterios del campo 'tipo de contrato' escribir \"Suministros\" y en la misma fila del campo 'Fecha de adjudicación' escribir <#01/01/2025#"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
@@ -1507,7 +1507,7 @@
                         "c": "Máscara de validación.",
                         "d": "Texto de validación."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
@@ -1521,7 +1521,7 @@
                         "c": "Seleccionar la pestaña Opciones, en el grupo Más Opciones, hacer clic en el botón \"Retrasar entrega\", y configurar la opción \"No entregar antes de\" con la fecha y hora deseadas.",
                         "d": "Guardar el correo en la carpeta de Borradores y configurar una tarea de sincronización programada en el menú Archivo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "c",
                     "explicacion": null,
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
@@ -1535,7 +1535,7 @@
                         "c": "Sí, mediante la opción \"Anular entrega\", que requiere instalar un plug-in de administración avanzada en el equipo del remitente para habilitar la eliminación del mensaje en servidores externos.",
                         "d": "No, una vez que el botón \"Enviar\" es pulsado, el protocolo SMTP impide cualquier modificación o eliminación en el buzón de destino por razones de integridad y seguridad."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
@@ -1549,7 +1549,7 @@
                         "c": "No copiar texto.",
                         "d": "No imprimir pantalla."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
@@ -1563,7 +1563,7 @@
                         "c": "Bloquear las franjas horarias en los calendarios de los invitados sin necesidad de conformidad.",
                         "d": "Configurar de forma automática el patrón de periodicidad diaria para convertir cualquier cita puntual en una reunión recurrente."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
@@ -1577,7 +1577,7 @@
                         "c": "Inserta el nombre en el cuerpo del mensaje y añade a la persona en el campo de copia carbón (CC).",
                         "d": "Resalta el nombre, añade a la persona como destinataria y marca el mensaje con \"Importancia alta\" por defecto."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
@@ -1591,7 +1591,7 @@
                         "c": "Punto de acceso.",
                         "d": "Modo avión."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
@@ -1605,7 +1605,7 @@
                         "c": "Es el complemento necesario para que la dirección IP sirva realmente para identificar un dispositivo en una red.",
                         "d": "Es el hardware que permite conectarnos a la red. Puede ser una tarjeta inalámbrica, un adaptador Bluetooth, el conector para red cableada o todos según el tipo de dispositivo."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "a",
                     "explicacion": null,
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
@@ -1619,7 +1619,7 @@
                         "c": "Almacenar páginas web para que carguen más rápido.",
                         "d": "Asignar automáticamente direcciones IP dinámicas a los dispositivos que se conectan."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
@@ -1638,7 +1638,7 @@
                         "c": "Acta_Reunion.docx (modificado el 10/01/2026)",
                         "d": "Instalador_Chrome.exe (modificado el 15/01/2025)"
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "d",
                     "explicacion": null,
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1652,7 +1652,7 @@
                         "c": "Sí, solo si el archivo estaba guardado previamente en un pendrive o disco externo.",
                         "d": "No, si no se pulsó el botón \"Guardar\" antes de cerrar, toda la información se pierde sin posibilidad de recuperarla."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
@@ -1666,7 +1666,7 @@
                         "c": "Realizar cálculos estadísticos avanzados y gestionar bases de datos relacionales.",
                         "d": "Almacenar archivos en la nube en complemento de OneDrive."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app"
@@ -1680,7 +1680,7 @@
                         "c": "La Dirección General del Dato.",
                         "d": "La Dirección General de Digitalización e Inteligencia Artificial."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -1694,7 +1694,7 @@
                         "c": "Cuatro años.",
                         "d": "Cinco años."
                     },
-                    "respuesta_correcta": null,
+                    "respuesta_correcta": "b",
                     "explicacion": null,
                     "tema_numero": 8,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"

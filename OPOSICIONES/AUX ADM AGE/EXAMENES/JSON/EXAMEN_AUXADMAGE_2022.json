@@ -13,8 +13,8 @@
                         "c": "Nombrar y separar a los miembros del Gobierno.",
                         "d": "Proponer al Presidente del Gobierno la disolución de las Cortes Generales."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El artículo 62.f de la Constitución atribuye al Rey el nombramiento y cese de los miembros del Gobierno a propuesta de su Presidente.",
                     "tema_numero": 2,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
@@ -27,8 +27,8 @@
                         "c": "Es el órgano jurisdiccional superior en todos los órdenes.",
                         "d": "Tiene jurisdicción en aquellas Comunidades Autónomas que explícitamente lo reconozcan en sus Estatutos de Autonomía, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 161.1.c de la Constitución atribuye al Tribunal Constitucional los conflictos de competencia entre el Estado y las comunidades autónomas, y los de estas entre sí.",
                     "tema_numero": 2,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709"
                 },
@@ -38,11 +38,11 @@
                     "opciones": {
                         "a": "Es un derecho fundamental que no puede ser suspendido.",
                         "b": "Podrá ser suspendido para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas.",
-                        "c": "Podrá ser suspendido cuando se acuerde la declaración del estado de excepción o de sitio.",
-                        "d": "Podrá ser limitado por motivos políticos."
+                        "c": "Podrá ser limitado por motivos políticos.",
+                        "d": "Podrá ser suspendido cuando se acuerde la declaración del estado de excepción o de sitio."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "El artículo 55.1 permite suspender la libertad de circulación del artículo 19 durante los estados de excepción o de sitio; esa es la opción d de la plantilla oficial.",
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
@@ -55,8 +55,8 @@
                         "c": "El derecho a contraer matrimonio con plena igualdad jurídica.",
                         "d": "El derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "La libertad de comunicar o recibir información veraz está protegida como derecho fundamental en el artículo 20.1.d de la Constitución; los otros derechos citados se regulan en otros capítulos.",
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
@@ -69,8 +69,8 @@
                         "c": "Toda persona natural que invoque un interés legítimo, pero no las personas jurídicas.",
                         "d": "Toda persona natural que invoque un interés legítimo, excepto las personas menores de edad."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El artículo 10 de la Ley Orgánica del Defensor del Pueblo permite reclamar a cualquier persona natural o jurídica con interés legítimo, sin exigir nacionalidad ni residencia española.",
                     "tema_numero": 3,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-10325"
                 },
@@ -83,8 +83,8 @@
                         "c": "El principio de movilidad de Jueces y Magistrados.",
                         "d": "El principio de privacidad de las sentencias."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El artículo 117.5 de la Constitución establece la unidad jurisdiccional como base de la organización y funcionamiento de los tribunales.",
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
@@ -97,8 +97,8 @@
                         "c": "Son elegidas por sufragio universal, libre, indirecto y secreto.",
                         "d": "Se rigen por sus Reglamentos aprobados por el Consejo de Ministros."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 66.2 de la Constitución encomienda a las Cortes Generales el control de la acción del Gobierno, además de la potestad legislativa y presupuestaria.",
                     "tema_numero": 3,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
@@ -111,8 +111,8 @@
                         "c": "La cuarta parte de los miembros del Congreso y aprobada con mayoría absoluta.",
                         "d": "La quinta parte de los miembros del Congreso y aprobada con mayoría absoluta."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El artículo 102.2 exige que la iniciativa la plantee al menos una cuarta parte del Congreso y que la acusación sea aprobada por mayoría absoluta.",
                     "tema_numero": 5,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
                 },
@@ -125,8 +125,8 @@
                         "c": "Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Senado, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.",
                         "d": "Si transcurrido el plazo de tres meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Senado, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El artículo 99.5 fija un plazo de dos meses desde la primera votación de investidura; si nadie obtiene la confianza del Congreso, el Rey disuelve ambas Cámaras con el refrendo del Presidente del Congreso.",
                     "tema_numero": 1,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
@@ -139,8 +139,8 @@
                         "c": "Transparencia activa.",
                         "d": "Informacion institucional."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 13 de la Ley 19/2013 denomina información pública a los contenidos o documentos en poder de los sujetos obligados, elaborados o adquiridos en el ejercicio de sus funciones.",
                     "tema_numero": 7,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
                 },
@@ -153,8 +153,8 @@
                         "c": "Se desestimarán.",
                         "d": "Se archivarán."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 18.1.a de la Ley 19/2013 ordena inadmitir las solicitudes relativas a información en curso de elaboración o de publicación general.",
                     "tema_numero": 7,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
                 },
@@ -167,8 +167,8 @@
                         "c": "Integridad.",
                         "d": "Participación."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El III Plan de Gobierno Abierto incluyó la integridad pública como su tercer eje, junto a transparencia y participación.",
                     "tema_numero": 6,
                     "fuente_oficial": "https://www.mdsocialesa2030.gob.es/agenda2030/index.htm"
                 },
@@ -181,8 +181,8 @@
                         "c": "Secretario General Técnico.",
                         "d": "Director General."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "La Ley 40/2015 considera altos cargos, entre otros, a secretarios generales, secretarios generales técnicos y directores generales; el subdelegado del Gobierno no tiene esa condición.",
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
@@ -195,8 +195,8 @@
                         "c": "En caso de ausencia, vacante o enfermedad del titular de la Delegación del Gobierno, será suplido por el Delegado del Gobierno que determine el Consejo de Ministros.",
                         "d": "En cada una de las provincias pluriprovinciales existirá un Subdelegado del Gobierno, que estará bajo la inmediata dependencia del Delegado del Gobierno."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "El artículo 74 de la Ley 40/2015 sitúa a los subdelegados en las provincias bajo la inmediata dependencia del delegado del Gobierno.",
                     "tema_numero": 8,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
@@ -209,8 +209,8 @@
                         "c": "Se ajustará al procedimiento establecido en los mismos y no será necesaria la aprobación por las Cortes Generales.",
                         "d": "Se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "El artículo 147.3 de la Constitución exige que la reforma de un Estatuto siga su propio procedimiento y sea aprobada en todo caso por ley orgánica de las Cortes Generales.",
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
@@ -223,8 +223,8 @@
                         "c": "Iluminación de costas y señales marítimas.",
                         "d": "Bases y coordinación general de la sanidad."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 148.1.3 de la Constitución permite a las comunidades autónomas asumir competencias en ordenación del territorio, urbanismo y vivienda.",
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
                 },
@@ -237,8 +237,8 @@
                         "c": "El Consejo de Asuntos Generales y el Consejo de Asuntos Exteriores.",
                         "d": "El Consejo de Asuntos Económicos y Financieros (ECOFIN) y el Consejo de Igualdad."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El artículo 16.6 del Tratado de la Unión Europea establece como formaciones obligatorias del Consejo las de Asuntos Generales y Asuntos Exteriores.",
                     "tema_numero": 10,
                     "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
                 },
@@ -251,8 +251,8 @@
                         "c": "El Consejo Europeo.",
                         "d": "El Consejo de la Unión Europea."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El artículo 15 del Tratado de la Unión Europea atribuye al Consejo Europeo el impulso del desarrollo de la Unión y la definición de sus orientaciones y prioridades políticas generales.",
                     "tema_numero": 10,
                     "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
                 },
@@ -265,8 +265,8 @@
                         "c": "La Administración podrá acordar la ampliación general de los plazos cuando haya sufrido un ciberincidente.",
                         "d": "Podrá ser objeto de ampliación un plazo ya vencido."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El artículo 32.5 de la Ley 39/2015 permite ampliar con carácter general los plazos cuando un ciberincidente afecte gravemente a los servicios y sistemas usados para tramitar procedimientos.",
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
                 },
@@ -279,8 +279,8 @@
                         "c": "Sólo podrán acceder a los datos personales los familiares hasta el segundo grado de cosanguinidad o afinidad.",
                         "d": "Los herederos sólo podrán ejercitar el derecho de cancelación."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 3 de la Ley Orgánica 3/2018 reconoce a los herederos el acceso a los datos patrimoniales del causante, salvo prohibición expresa de este o una norma que lo impida.",
                     "tema_numero": 12,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
                 },
@@ -293,8 +293,8 @@
                         "c": "Sólo podrán actuar por medio de representante para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos.",
                         "d": "No podrán actuar por medio de representante, salvo que se trate de procedimientos iniciados de oficio."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 5.4 de la Ley 39/2015 permite acreditar la representación por cualquier medio válido en Derecho que deje constancia fidedigna.",
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
                 },
@@ -307,8 +307,8 @@
                         "c": "Cuando hayan sido obtenidos de una materia clasificada.",
                         "d": "Cuando hayan sido obtenidos directamente del afectado."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El artículo 4 de la Ley Orgánica 3/2018 excluye la imputación al responsable en supuestos tasados, como datos recibidos por portabilidad o de un registro público; la obtención de una materia clasificada no está entre esas excepciones.",
                     "tema_numero": 12,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
                 },
@@ -321,8 +321,8 @@
                         "c": "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta dieciocho meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.",
                         "d": "El exceso o acumulación de tareas por plazo máximo de doce meses, dentro de un periodo de dieciocho meses."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 10.1.b del Estatuto Básico del Empleado Público contempla el nombramiento interino para sustituir transitoriamente a los titulares durante el tiempo estrictamente necesario.",
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
                 },
@@ -335,8 +335,8 @@
                         "c": "Cuando hayan prestado un tiempo mínimo de dos años de servicios previos y teniendo que permanecer un mínimo de un año en dicha situación.",
                         "d": "Cuando hayan prestado un tiempo mínimo de dos años de servicios previos y sin que sea exigible plazo de permanencia en la misma."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 89.5 del Estatuto Básico del Empleado Público reconoce esta excedencia sin servicios previos mínimos y sin exigir un plazo mínimo de permanencia.",
                     "tema_numero": 16,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
                 },
@@ -349,8 +349,8 @@
                         "c": "No durará más de un mes en territorio nacional y de tres en el extranjero.",
                         "d": "No durará más de un tres en territorio nacional y de seis en el extranjero."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El artículo 5 del Real Decreto 462/2002 fija, con carácter general, un máximo de un mes en territorio nacional y tres meses en el extranjero para las comisiones de servicio.",
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
                 },
@@ -363,8 +363,8 @@
                         "c": "Complemento de destino.",
                         "d": "Complemento de responsabilidad."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El complemento específico retribuye las condiciones particulares del puesto, como dificultad técnica, responsabilidad, incompatibilidad, peligrosidad o penosidad.",
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
                 },
@@ -377,8 +377,8 @@
                         "c": "Coherencia.",
                         "d": "Eficacia en la asignación y utilización de los recursos públicos."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El artículo 26 de la Ley General Presupuestaria incluye la estabilidad presupuestaria entre los principios de la programación presupuestaria.",
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
                 },
@@ -391,8 +391,8 @@
                         "c": "Reconocimiento de la obligación.",
                         "d": "Pago material."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 73 de la Ley General Presupuestaria enumera autorización, compromiso, reconocimiento de la obligación, ordenación del pago y pago material; la ordenación del gasto no es una fase distinta de esa lista.",
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
                 },
@@ -405,8 +405,8 @@
                         "c": "Discriminación directa por razón de sexo.",
                         "d": "Discriminación indirecta por razón de sexo."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "La Ley Orgánica 3/2007 define la discriminación directa por razón de sexo como el trato menos favorable de una persona, por su sexo, que otra en situación comparable.",
                     "tema_numero": 16,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
                 },
@@ -419,8 +419,8 @@
                         "c": "Grado II: Dependencia severa.",
                         "d": "Grado III: Gran dependencia."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "La definición corresponde al grado I o dependencia moderada: se necesita ayuda al menos una vez al día o apoyo intermitente o limitado.",
                     "tema_numero": 16,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990"
                 },
@@ -433,8 +433,8 @@
                         "c": "-0,35",
                         "d": "3,05"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "Al desarrollar 2(23x + 9) = -6x se obtiene 46x + 18 = -6x, luego x = -18/52 ≈ -0,35.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -447,8 +447,8 @@
                         "c": "520,7 €",
                         "d": "415,3 €"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El oro puro representa 980 × 0,20 = 196 gramos, es decir, 0,196 kg; a 1.600 € por kilo, su valor es 0,196 × 1.600 = 313,60 €.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -461,8 +461,8 @@
                         "c": "7",
                         "d": "8"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "Se reparte 1/2 + 1/3 + 1/9 = 17/18 del total; queda 1/18, equivalente aproximadamente al 5,56%.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -475,22 +475,22 @@
                         "c": "12",
                         "d": "7"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "Cada término se obtiene dividiendo el anterior entre 3: 189, 63, 21, 7.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
                 {
                     "numero": 35,
-                    "enunciado": "¿Qué operadores se necesitan para que la operación sea correcta: 43 _ 33 _ 12 = 54?",
+                    "enunciado": "¿Qué operadores se necesitan para que la operación sea correcta: 43 __ 33 __ 12 __ 54 = 34?",
                     "opciones": {
-                        "a": "-1+1+",
-                        "b": "+1-1+",
-                        "c": "+++",
-                        "d": "+ + | -"
+                        "a": "- | + | +",
+                        "b": "+ | - | +",
+                        "c": "+ | + | +",
+                        "d": "+ | + | -"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "La combinación oficial es +, + y −: 43 + 33 + 12 − 54 = 34.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -503,8 +503,8 @@
                         "c": "4.480",
                         "d": "4.960"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El segundo porcentaje más alto es el 30%; el 30% de 15.990 es 4.797.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -517,8 +517,8 @@
                         "c": "68",
                         "d": "96"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "La secuencia alterna el 3 con términos que se multiplican por 3: 2, 6, 18, 54; por eso sigue 54.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -531,8 +531,8 @@
                         "c": "104",
                         "d": "72"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "En cada sala hay 6 × 4 = 24 patas de sillas y 2 × 6 = 12 de mesas; son 36 por sala y 36 × 3 = 108 en total.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -545,8 +545,8 @@
                         "c": "*-+",
                         "d": "* - | -"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "La plantilla oficial señala los operadores −, × y +. Aplicándolos en el orden secuencial que plantea el ejercicio: (17 − 13) × 11 + 8 = 52; con la prioridad algebraica habitual, el enunciado necesitaría paréntesis.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -559,8 +559,8 @@
                         "c": "Romo.",
                         "d": "Verdadero."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "Verídico significa verdadero o conforme a la verdad; por eso el sinónimo es «verdadero».",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -573,8 +573,8 @@
                         "c": "Variante.",
                         "d": "Estímulo."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "Acicate es aquello que estimula o incita a actuar; «estímulo» es el sinónimo adecuado.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -587,8 +587,8 @@
                         "c": "Cicatería.",
                         "d": "Egolatría."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "Altruismo es procurar el bien ajeno; egoísmo es priorizar el propio interés, su antónimo.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -601,8 +601,8 @@
                         "c": "Deslizar.",
                         "d": "Desenroscar."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "«Deslizar» significa mover suavemente; las otras opciones expresan acciones de deshacer o separar algo.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -615,8 +615,8 @@
                         "c": "Variado.",
                         "d": "Enjuciable."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "«Tarambana» designa a una persona alocada, de poco juicio o poco responsable.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -629,8 +629,8 @@
                         "c": "Espada usada antiguamente, de un solo filo y de lomo algo encorvado cerca de la punta.",
                         "d": "Conjunto de las dos viguetas largas o gualderas del bastidor de un carruaje o cureña de artillería, que descansan por intermedio de cojinetes sobre los extremos de los ejes de rotación de las ruedas."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "«Venada» se usa coloquialmente para referirse a un arrebato o ataque de locura.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -643,8 +643,8 @@
                         "c": "Advenedizo.",
                         "d": "Subversión."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "La forma correcta es «adverso», con v; «adberso» está mal escrita.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -657,8 +657,8 @@
                         "c": "deambulatoria, deanato, deal, deanazgo.",
                         "d": "deal, deambulatoria, deanazgo, deanato."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "En orden alfabético, «deal» va antes de «deambulatoria»; después se comparan las letras siguientes: «deanato» precede a «deanazgo».",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -671,8 +671,8 @@
                         "c": "D6",
                         "d": "D7"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "«Savino» va después de «Sabio» porque v va después de b; dentro de los Savino, «Andreu» precede a «Pedro», así que se coloca entre D7 y D8.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -685,8 +685,8 @@
                         "c": "21",
                         "d": "14"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "En la fila Tarde, 2.º turno, Comercial, hay 48 alumnos y 2 ponentes: 48 ÷ 2 = 24 alumnos por ponente.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -699,8 +699,8 @@
                         "c": "6",
                         "d": "15"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "En el segundo turno, las filas de Recursos Humanos con material CD tienen 6 ponentes por la mañana y 5 por la tarde: 6 + 5 = 11.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -713,8 +713,8 @@
                         "c": "37",
                         "d": "159"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "En sala 1 por la tarde, las tres ponencias con PDF suman alumnos y ponentes: (56 + 13) + (48 + 2) + (37 + 3) = 159 asistentes.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -727,8 +727,8 @@
                         "c": "43",
                         "d": "37"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "Las ponencias de tipo charla por la tarde tienen 69, 48 y 40 asistentes al sumar alumnos y ponentes; el mínimo es 40.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -741,8 +741,8 @@
                         "c": "93",
                         "d": "89"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "En el segundo turno, los laboratorios que no son de Recursos Humanos son Administración por la mañana (41 + 2 = 43) y Comercial por la tarde (48 + 2 = 50); total: 93.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -755,8 +755,8 @@
                         "c": "93",
                         "d": "119"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "En la sala 1 por la tarde hay 56 + 13, 48 + 2 y 37 + 3 asistentes en los tres turnos: 159 en total.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -769,8 +769,8 @@
                         "c": "1",
                         "d": "2"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "Las flores rosas con entrega a domicilio y ramos de seis unidades son Salvia y Orquídea; la tabla contiene dos.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -783,8 +783,8 @@
                         "c": "Crisantemo.",
                         "d": "Tulipán."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "La Salvia reúne los tres criterios: fragancia potente, ramo de 12 unidades y tamaño pequeño.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -797,8 +797,8 @@
                         "c": "4",
                         "d": "5"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "Cumplen las tres condiciones Cardo, Crisantemo, Orquídea y Gerbera: tienen más de dos pétalos, están en promoción y no son duraderas. Son cuatro.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -811,8 +811,8 @@
                         "c": "19",
                         "d": "21"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "Las flores blancas sin entrega a domicilio son Rosa, Crisantemo, Cardo y Lirio; sus estambres suman 4 + 8 + 4 + 6 = 22.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -825,8 +825,8 @@
                         "c": "Cardo.",
                         "d": "Orquídea."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "Entre las flores pequeñas sin fragancia potente, la Rosa es la más barata: cuesta 2 por unidad, menos que las demás candidatas.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -839,8 +839,8 @@
                         "c": "Crisantemo.",
                         "d": "Orquídea."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "La Orquídea es rosa, pequeña, no duradera, tiene cuatro pétalos y cuesta 3, menos de 5; satisface todos los criterios.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 }
@@ -858,8 +858,8 @@
                         "c": "Será acordada por el Presidente del Gobierno mediante Real Decreto, a propuesta del Ministro o Ministros competentes en la materia.",
                         "d": "Será acordada por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "La Ley 50/1997 atribuye al Consejo de Ministros la supresión de las Comisiones Delegadas mediante Real Decreto, a propuesta del Presidente del Gobierno.",
                     "tema_numero": 5,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
                 },
@@ -872,8 +872,8 @@
                         "c": "Es admisible frente los dictados en aplicación de una disposición general que no haya sido impugnada.",
                         "d": "Es admisible respecto a actos que sean reproducción de otros anteriores firmes."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El artículo 26.2 de la Ley de la Jurisdicción Contencioso-Administrativa permite recurrir los actos de aplicación de una disposición general aunque esta no se haya impugnado directamente.",
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718"
                 },
@@ -886,8 +886,8 @@
                         "c": "Conciso.",
                         "d": "Honorable."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "«Acérrimo» significa muy firme o ferviente en una adhesión; en este contexto, «fanático» es la opción equivalente.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 },
@@ -900,8 +900,8 @@
                         "c": "Transferencias corrientes.",
                         "d": "Inversiones reales."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "La clasificación económica considera las inversiones reales créditos para operaciones de capital; gastos de personal y transferencias corrientes son operaciones corrientes.",
                     "tema_numero": 15,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
                 },
@@ -914,8 +914,8 @@
                         "c": "El día 14.",
                         "d": "El día 10."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "La diferencia es 2.100 − 995 = 1.105; hacen falta 13 tandas de 85 trabajadores. La plantilla oficial marca «día 13», entendiendo el día como número de tanda; interpretado literalmente como una contratación cada dos días, el calendario daría otro número de días naturales.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
                 }
@@ -933,8 +933,8 @@
                         "c": "Al Centro de Información Administrativa.",
                         "d": "A las Oficinas de información y atención al ciudadano en los servicios centrales."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El Real Decreto 208/1996 asigna al Centro de Información Administrativa el sostenimiento del sistema de información sobre servicios y trámites de la Administración General del Estado.",
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
                 },
@@ -947,8 +947,8 @@
                         "c": "Todos los itinerarios que unan los accesos de las oficinas con la vía pública, con los servicios o edificaciones anexas y con los aparcamientos, deberán ser accesibles de acuerdo con las condiciones establecidas para un itinerario urbano accesible.",
                         "d": "Las oficinas de atención al ciudadano, en caso de disponer de plazas de aparcamiento, reservarán un número suficiente de plazas, convenientemente señalizadas, destinadas en exclusividad a personas con discapacidad."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El Real Decreto 366/2007 exige que las oficinas de atención ciudadana estén señalizadas visualmente desde el exterior para que se identifiquen con facilidad.",
                     "tema_numero": 17,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6239"
                 },
@@ -961,8 +961,8 @@
                         "c": "Será aportada por las unidades de gestión de la Administración General del Estado.",
                         "d": "Podrá referirse a los datos de carácter personal que afecten de alguna forma a la intimidad o privacidad de las personas físicas."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "La información general se facilita a cualquier ciudadano sin acreditar legitimación; la información particular de un expediente sí puede requerirla.",
                     "tema_numero": 18,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-4447"
                 },
@@ -975,8 +975,8 @@
                         "c": "Una vez interpuesta una queja, el plazo para responder es de quince días hábiles.",
                         "d": "Si transcurrido el plazo establecido, no se obtiene ninguna respuesta de la Administración, el ciudadano podrá dirigirse a la Unidad de Quejas y Sugerencias del departamento correspondiente para conocer los motivos de la falta de contestación."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El Real Decreto 951/2005 establece expresamente que las quejas no tienen la calificación de recurso administrativo ni sustituyen los recursos previstos legalmente.",
                     "tema_numero": 8,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
                 },
@@ -989,8 +989,8 @@
                         "c": "Expediente electrónico.",
                         "d": "Sistema archivístico."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "La definición coincide con la de documento electrónico del Real Decreto 1708/2011: información electrónica archivada en un soporte y formato identificables y tratables.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1003,8 +1003,8 @@
                         "c": "La suscripción de convenios y otros instrumentos de cooperación entre las administraciones públicas y con los archivos de titularidad pública.",
                         "d": "La elaboración de criterios uniformes para el desarrollo de los servicios archivísticos."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "El Consejo de Cooperación Archivística coordina criterios comunes; entre sus funciones está elaborar criterios uniformes para desarrollar los servicios archivísticos.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1017,8 +1017,8 @@
                         "c": "Aplicar programas de reproducción de documentos en soportes alternativos para garantizar la conservación de documentos originales y fomentar su difusión.",
                         "d": "Realizar las transferencias preceptivas y periódicas de documentos al archivo intermedio, acompañadas de su correspondiente relación de entrega."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El Archivo General de la Administración, como archivo intermedio, realiza las transferencias periódicas al archivo histórico con sus instrumentos de descripción.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1031,8 +1031,8 @@
                         "c": "Presentar declaraciones responsables o comunicaciones.",
                         "d": "Participar en actos administrativos."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El artículo 11.2 de la Ley 39/2015 reserva la firma obligatoria, entre otros supuestos, a presentar declaraciones responsables o comunicaciones.",
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
                 },
@@ -1045,8 +1045,8 @@
                         "c": "Las plataformas de verificación de certificados electrónicos y de otros sistemas de identificación.",
                         "d": "El Registro electrónico."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "La Carpeta Ciudadana es el área personalizada que permite a las personas interesadas consultar y gestionar su relación electrónica con el sector público estatal.",
                     "tema_numero": 20,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
                 },
@@ -1059,8 +1059,8 @@
                         "c": "El punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite el acceso a través de internet a la información publicada.",
                         "d": "La actuación administrativa automatizada de cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El artículo 38.1 de la Ley 40/2015 define la sede electrónica como una dirección electrónica cuya titularidad corresponde a una Administración u organismo público en el ejercicio de sus competencias.",
                     "tema_numero": 20,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
                 },
@@ -1073,8 +1073,8 @@
                         "c": "Ancho de columna fijo.",
                         "d": "Alinear al centro."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "«Autoajustar a la ventana» adapta el ancho de la tabla al de la ventana de Word, de modo que se vea completa en la vista de diseño web.",
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
                 },
@@ -1087,8 +1087,8 @@
                         "c": "Cámara web.",
                         "d": "Pantalla."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "Una cámara web captura imagen y la introduce en el equipo; impresora, altavoces y pantalla son periféricos de salida.",
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
                 },
@@ -1101,8 +1101,8 @@
                         "c": "Android 16",
                         "d": "Android 14"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "La plantilla del examen considera Android 14 la versión más reciente entre las opciones ofrecidas en ese momento; no se refiere a la versión actual hoy.",
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1115,8 +1115,8 @@
                         "c": "Amenaza.",
                         "d": "Impacto."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "Una amenaza es una causa potencial de daño; vulnerabilidad es una debilidad, riesgo combina probabilidad e impacto, e impacto es la consecuencia.",
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
                 },
@@ -1129,8 +1129,8 @@
                         "c": "IBM.",
                         "d": "Speadtrum."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "Intel fabricó el Intel 4004, considerado el primer microprocesador comercial, en 1971.",
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.intel.com/content/www/us/en/history/museum-story-of-intel-4004.html"
                 },
@@ -1143,8 +1143,8 @@
                         "c": "Inicio > Configuración > Accesibilidad.",
                         "d": "Inicio > Configuración > Sistema."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "En Windows 10 se selecciona el icono Red de la barra de tareas y después la red inalámbrica a la que se quiere conectar.",
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1157,8 +1157,8 @@
                         "c": "Opera.",
                         "d": "Microsoft Edge."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "Microsoft Edge fue el navegador de Microsoft que sustituyó a Internet Explorer como navegador predeterminado de Windows 10.",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
                 },
@@ -1168,11 +1168,11 @@
                     "opciones": {
                         "a": "Duplicarla.",
                         "b": "Imprimir cualquier documento.",
-                        "c": "Mover a OneDrive.",
-                        "d": "Restaurar versiones anteriores."
+                        "c": "Restaurar versiones anteriores.",
+                        "d": "Mover a OneDrive."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "La opción de menú contextual para restaurar versiones anteriores permite recuperar estados previos de una carpeta; el orden de opciones se ha ajustado al cuestionario oficial.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1185,8 +1185,8 @@
                         "c": "No recibimos respuesta alguna.",
                         "d": "Se abre la herramienta para certificar archivos de Windows."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El comando certmgr.msc abre el administrador de certificados de Windows, donde se consultan y gestionan los certificados del usuario.",
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1199,8 +1199,8 @@
                         "c": "HTTPS",
                         "d": "AUTOIP"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "DHCP asigna automáticamente direcciones IP y otros parámetros de red a los dispositivos de una LAN.",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
                 },
@@ -1213,8 +1213,8 @@
                         "c": "Tecla Windows + O",
                         "d": "Tecla Ctrl + E"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "Windows + E es el atajo de Windows para abrir el Explorador de archivos.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1227,8 +1227,8 @@
                         "c": "Seleccionar \"Este equipo\" con botón izquierdo de ratón y arrastrar a Dispositivos y Unidades.",
                         "d": "Seleccionar \"Este equipo\" con botón izquierdo de ratón y arrastrar al Escritorio."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "Arrastrar «Este equipo» al escritorio crea un acceso directo al elemento, en lugar de copiar sus contenidos.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1241,8 +1241,8 @@
                         "c": "Alt + Supr",
                         "d": "Alt + símbolo \"+\""
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "Alt + flecha izquierda vuelve a la ubicación anterior en el historial de navegación del Explorador.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1255,8 +1255,8 @@
                         "c": "Visor de eventos.",
                         "d": "Programador de tareas."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El Editor del Registro permite consultar y modificar la base de datos jerárquica de configuración de Windows y de las aplicaciones.",
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
                 },
@@ -1269,8 +1269,8 @@
                         "c": "Liberador de espacio en disco.",
                         "d": "Restaurar sistema."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "El Liberador de espacio en disco identifica archivos temporales y otros elementos prescindibles que pueden eliminarse de forma segura.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1283,8 +1283,8 @@
                         "c": "3 grupos de números separados por puntos.",
                         "d": "3 grupos alfanuméricos separados por guiones."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "Una dirección IPv4 se representa habitualmente con cuatro grupos numéricos separados por puntos, correspondientes a sus cuatro octetos.",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
                 },
@@ -1297,8 +1297,8 @@
                         "c": "Una red PAN.",
                         "d": "Los controladores de función."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "Una VPN crea un túnel protegido hacia otra red y puede permitir el acceso a recursos de una red local; entre las opciones, es la que reúne esas funciones.",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
                 },
@@ -1311,8 +1311,8 @@
                         "c": "HTTP GET",
                         "d": "ARP"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "IMAP permite recibir y sincronizar el correo almacenado en servidores remotos; no es un protocolo de transferencia de archivos.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1325,8 +1325,8 @@
                         "c": "Un protocolo de capa de acceso al medio.",
                         "d": "Un tipo de servidor web."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "FTP son las siglas de File Transfer Protocol, un protocolo de transferencia de archivos entre equipos.",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
                 },
@@ -1339,8 +1339,8 @@
                         "c": "Pascal",
                         "d": "JavaScript"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "JavaScript es interpretado de forma nativa por los navegadores y permite añadir comportamiento dinámico a las páginas web.",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
                 },
@@ -1353,8 +1353,8 @@
                         "c": "Muestra todos los cambios del documento en una lista.",
                         "d": "Permite elegir qué tipo de revisión se muestra en el documento."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El control de cambios registra las modificaciones de un documento para que puedan revisarse y aceptarse o rechazarse.",
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
                 },
@@ -1367,8 +1367,8 @@
                         "c": "Páginas, palabras, caracteres con y sin espacios y líneas únicamente del encabezado.",
                         "d": "Páginas, palabras, caracteres con y sin espacios, caracteres especiales, fórmulas, párrafos y líneas."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El recuento de palabras de Word muestra páginas, palabras, caracteres con y sin espacios, párrafos y líneas.",
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
                 },
@@ -1381,8 +1381,8 @@
                         "c": "Pestaña Diseño, numeración, profundidad.",
                         "d": "Pestaña Inicio, en grupo párrafo elegimos lista multinivel y definir nueva lista multinivel."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "La opción «Definir nuevo estilo de lista» se encuentra en Inicio, dentro de las opciones de listas multinivel del grupo Párrafo.",
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
                 },
@@ -1395,8 +1395,8 @@
                         "c": "Desde la Pestaña Inicio, grupo fuente, más subrayados.",
                         "d": "Desde la Pestaña Insertar, grupo fuente, más subrayados."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "Los estilos de subrayado adicionales se eligen desde Inicio > Fuente, abriendo el menú de subrayado.",
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
                 },
@@ -1409,8 +1409,8 @@
                         "c": "Alt + Ctrl + C",
                         "d": "Alt+Ctrl+W"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "En la versión española de Word 2019, Alt + Ctrl + O inserta una nota al pie.",
                     "tema_numero": 24,
                     "fuente_oficial": "https://support.microsoft.com/word"
                 },
@@ -1423,8 +1423,8 @@
                         "c": "RAIZ, POTENCIA, INT.ACUM",
                         "d": "POTENCIA, ENTERO, INT.ACUM"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "RAIZ, ENTERO y POTENCIA son funciones matemáticas; INT.ACUM pertenece a funciones financieras.",
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
                 },
@@ -1437,8 +1437,8 @@
                         "c": "Introducir la fórmula Hoja2!A1 en la celda A1 de la Hoja 1.",
                         "d": "Introducir la fórmula Hoja2!A2 en la celda A1 de la Hoja 1."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "La referencia a otra hoja se escribe con el nombre de hoja y la celda: =Hoja2!A2, introducida en Hoja1!A1.",
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
                 },
@@ -1451,8 +1451,8 @@
                         "c": "=DIA.LAB(A1)",
                         "d": "=DIASEM(A1, 2)"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "El segundo argumento 2 de DIASEM establece lunes como día 1 y domingo como día 7.",
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
                 },
@@ -1465,8 +1465,8 @@
                         "c": "Número, Fecha, Texto, Externa, Personalizada.",
                         "d": "Vínculo, Número, Fecha, Texto, Personalizada."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "General, Número, Fecha, Texto y Personalizada son categorías del formato de celdas; las otras opciones incluyen categorías que no aparecen allí.",
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
                 },
@@ -1479,8 +1479,8 @@
                         "c": "Un gráfico de dispersión.",
                         "d": "Un gráfico de área."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "Un gráfico de dispersión representa pares de valores x-y y admite intervalos irregulares en el eje horizontal.",
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
                 },
@@ -1493,8 +1493,8 @@
                         "c": "ACDB",
                         "d": "ODB"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "SQL es el lenguaje usado para consultar y manipular conjuntos de datos relacionados, como los gestionados en Access.",
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
                 },
@@ -1508,7 +1508,7 @@
                         "d": "Objeto OLE."
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null,
+                    "explicacion": "Pregunta anulada según la plantilla definitiva oficial del INAP.",
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
                 },
@@ -1522,7 +1522,7 @@
                         "d": "#"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null,
+                    "explicacion": "Pregunta anulada según la plantilla definitiva oficial del INAP.",
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
                 },
@@ -1535,8 +1535,8 @@
                         "c": "73",
                         "d": "64"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "Access limita a 64 caracteres el nombre de sus objetos, como tablas, consultas, formularios e informes.",
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
                 },
@@ -1549,8 +1549,8 @@
                         "c": "De columnas, tabulares y subformularios.",
                         "d": "De columnas, combinados y subformularios."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "Access permite crear formularios en columnas, tabulares y subformularios; son formatos de presentación de datos.",
                     "tema_numero": 26,
                     "fuente_oficial": "https://support.microsoft.com/access"
                 },
@@ -1563,8 +1563,8 @@
                         "c": "CTRL+5",
                         "d": "CTRL+2"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "En Outlook, Ctrl + 3 abre la vista Personas o Contactos en la configuración de navegación indicada.",
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
                 },
@@ -1577,8 +1577,8 @@
                         "c": "Un protocolo de cifrado de mensajes entre servidor y cliente.",
                         "d": "Un protocolo de transferencia simple de correo empleado para el intercambio de mensajes entre dispositivos."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "SMTP significa Simple Mail Transfer Protocol y se utiliza para enviar e intercambiar mensajes de correo.",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
                 },
@@ -1591,8 +1591,8 @@
                         "c": "100",
                         "d": "255"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "b",
+                    "explicacion": "El campo de dirección de correo de Outlook 2019 admite hasta 320 caracteres, que es el límite preguntado para esa aplicación.",
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
                 },
@@ -1605,8 +1605,8 @@
                         "c": "Cuenta de office, Comentarios, Opciones y Salir.",
                         "d": "Archivo, Inicio, Enviar y Recibir, Carpeta y Vista."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "La cinta principal de Outlook 2019 organiza sus comandos en Archivo, Inicio, Enviar y recibir, Carpeta y Vista.",
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
                 },
@@ -1619,8 +1619,8 @@
                         "c": "Carpeta.",
                         "d": "Vista."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "c",
+                    "explicacion": "«Marcar todos como leídos» se encuentra en la pestaña Carpeta de Outlook 2019.",
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
                 }
@@ -1638,8 +1638,8 @@
                         "c": "Se concederá el acceso a documentos de carácter personal, con el consentimiento de sus titulares, cuando se proceda a la oportuna disociación de los datos de modo que se impida la identificación de las personas afectadas.",
                         "d": "La resolución de la solicitud de acceso o de consulta deberá adoptarse y notificarse lo antes posible y, en todo caso, en el plazo máximo de quince días desde la recepción por el órgano competente para tramitarla."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "a",
+                    "explicacion": "El Real Decreto 1708/2011 establece que no es necesario motivar la solicitud de acceso a documentos de archivo.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1652,8 +1652,8 @@
                         "c": "F2FS",
                         "d": "NTFS"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "NTFS es el sistema de archivos estándar de Windows 10; APFS, JFS y F2FS se asocian a otros sistemas o entornos.",
                     "tema_numero": 23,
                     "fuente_oficial": "https://support.microsoft.com/windows"
                 },
@@ -1667,7 +1667,7 @@
                         "d": "DHCP"
                     },
                     "respuesta_correcta": null,
-                    "explicacion": null,
+                    "explicacion": "Pregunta anulada según la plantilla definitiva oficial del INAP.",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
                 },
@@ -1680,8 +1680,8 @@
                         "c": "Es un identificador de 48 bits expresado en código hexadecimal, para identificar de forma única la tarjeta de red.",
                         "d": "Es un número binario de 4 octetos que identifica a un interfaz en red de un dispositivo que utiliza el protocolo IPv4."
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "IPv4 usa direcciones de 32 bits, agrupadas en cuatro octetos; por eso la opción las describe como cuatro octetos que identifican una interfaz de red.",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
                 },
@@ -1694,8 +1694,8 @@
                         "c": "6",
                         "d": "7"
                     },
-                    "respuesta_correcta": null,
-                    "explicacion": null,
+                    "respuesta_correcta": "d",
+                    "explicacion": "La moda es el valor que aparece más veces. En la lista, 7 aparece tres veces, más que cualquier otro número.",
                     "tema_numero": 25,
                     "fuente_oficial": "https://support.microsoft.com/excel"
                 }

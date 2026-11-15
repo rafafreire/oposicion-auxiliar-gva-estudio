@@ -153,7 +153,7 @@
                         "c": "Tienen la condición de alto cargo.",
                         "d": "Representan ordinariamente al Estado en el territorio de la respectiva Comunidad Autónoma."
                     },
-                    "respuesta_correcta": "d",
+                    "respuesta_correcta": "c",
                     "explicacion": "Ley 40/2015, art. 154: Los Delegados del Gobierno representan al Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma.",
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
@@ -167,7 +167,7 @@
                         "c": "Mediante recurso contencioso administrativo.",
                         "d": "Mediante reclamación previa preceptiva ante el Consejo de Transparencia y Buen Gobierno."
                     },
-                    "respuesta_correcta": "d",
+                    "respuesta_correcta": "c",
                     "explicacion": "Ley 19/2013, art. 24: Las resoluciones en materia de acceso a la información pública podrán recurrirse ante el Consejo de Transparencia y Buen Gobierno mediante reclamación previa...",
                     "tema_numero": 7,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
@@ -181,7 +181,7 @@
                         "c": "El territorio.",
                         "d": "La población."
                     },
-                    "respuesta_correcta": "a",
+                    "respuesta_correcta": "b",
                     "explicacion": "Artículo 11 LBRL: El municipio es entidad local básica... Sus elementos son el territorio, la población y la organización (nota: revisando estricto art 11: 'El municipio tiene como elementos básicos el territorio, la población y la organización'? No, art 11 dice: El Municipio es la entidad local básica de la organización territorial del Estado... Sus elementos son el territorio, la población y la organización. Espera, ¿cuál no es? Vamos a verificar LBRL art 11: 'El Municipio persona jurídica... sus elementos básicos son el territorio y la población...'. Comprobemos la opción correcta exacta).",
                     "tema_numero": 9,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
@@ -209,7 +209,7 @@
                         "c": "Se reunirá una vez por semestre por convocatoria de su Presidente.",
                         "d": "Estará compuesto por un representante de cada Estado miembro, de rango ministerial."
                     },
-                    "respuesta_correcta": "b",
+                    "respuesta_correcta": "a",
                     "explicacion": "Artículo 15 TUE: El Consejo Europeo se pronunciará por consenso, excepto cuando los Tratados dispongan otra cosa.",
                     "tema_numero": 10,
                     "fuente_oficial": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M/TXT"
@@ -279,7 +279,7 @@
                         "c": "Presentar comunicaciones.",
                         "d": "Desistir de derechos."
                     },
-                    "respuesta_correcta": "d",
+                    "respuesta_correcta": "c",
                     "explicacion": "Ley 39/2015, art. 11.2.",
                     "tema_numero": 11,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
@@ -377,7 +377,7 @@
                         "c": "No aceptar ningún trato de favor o situación que implique privilegio...",
                         "d": "Obedecer las instrucciones y órdenes profesionales..."
                     },
-                    "respuesta_correcta": "b",
+                    "respuesta_correcta": "c",
                     "explicacion": "Artículo 53 TREBEP (Principios éticos).",
                     "tema_numero": 14,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
@@ -587,7 +587,7 @@
                         "c": "61,77 €",
                         "d": "60,32 €"
                     },
-                    "respuesta_correcta": "a",
+                    "respuesta_correcta": "d",
                     "explicacion": "58 * 1.04 = 60,90 €.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -769,7 +769,7 @@
                         "c": "Marketing.",
                         "d": "Técnico."
                     },
-                    "respuesta_correcta": "a",
+                    "respuesta_correcta": "d",
                     "explicacion": "Cálculo basado en la tabla.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -783,7 +783,7 @@
                         "c": "A-115",
                         "d": "M-254"
                     },
-                    "respuesta_correcta": "a",
+                    "respuesta_correcta": "c",
                     "explicacion": "Cálculo basado en la tabla.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -811,7 +811,7 @@
                         "c": "Comercial.",
                         "d": "Administración."
                     },
-                    "respuesta_correcta": "c",
+                    "respuesta_correcta": "a",
                     "explicacion": "Cálculo basado en la tabla.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -825,7 +825,7 @@
                         "c": "33,76%",
                         "d": "31,68%"
                     },
-                    "respuesta_correcta": "b",
+                    "respuesta_correcta": "c",
                     "explicacion": "Cálculo basado en la tabla.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -839,7 +839,7 @@
                         "c": "26,11%",
                         "d": "23,82%"
                     },
-                    "respuesta_correcta": "d",
+                    "respuesta_correcta": "b",
                     "explicacion": "Cálculo basado en la tabla.",
                     "tema_numero": null,
                     "fuente_oficial": "https://www.inap.es/"
@@ -942,7 +942,7 @@
                         "c": "Accesibilidad.",
                         "d": "Facilidad de uso."
                     },
-                    "respuesta_correcta": "a",
+                    "respuesta_correcta": "d",
                     "explicacion": "RD 203/2021 (Reglamento de actuación y funcionamiento del sector público por medios electrónicos).",
                     "tema_numero": 20,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
@@ -956,7 +956,7 @@
                         "c": "Dirección Electrónica Habilitada para usuarios.",
                         "d": "Dirección Electrónica Homologada para usuarios."
                     },
-                    "respuesta_correcta": "b",
+                    "respuesta_correcta": "c",
                     "explicacion": "DEHu: Dirección Electrónica Habilitada única.",
                     "tema_numero": 20,
                     "fuente_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
@@ -1012,8 +1012,8 @@
                         "c": "Una persona perteneciente a la propia organización que provoca un incidente de seguridad de forma intencionada.",
                         "d": "Persona de la organización que provoca un incidente de forma accidental."
                     },
-                    "respuesta_correcta": "c",
-                    "explicacion": "Un insider (amenaza interna) es alguien perteneciente a la propia organización.",
+                    "respuesta_correcta": null,
+                    "explicacion": "Pregunta anulada según la plantilla definitiva oficial del INAP.",
                     "tema_numero": 21,
                     "fuente_oficial": "https://www.incibe.es/ciudadania"
                 },
@@ -1110,7 +1110,7 @@
                         "c": "Configurar el tiempo de espera...",
                         "d": "Finalizar procesos que no responden, monitorizar el uso de CPU/RAM en tiempo real y gestionar las aplicaciones que utiliza el sistema."
                     },
-                    "respuesta_correcta": "d",
+                    "respuesta_correcta": "a",
                     "explicacion": "Administrador de tareas.",
                     "tema_numero": 22,
                     "fuente_oficial": "https://support.microsoft.com/windows"
@@ -1404,7 +1404,7 @@
                         "c": "De servicios en línea.",
                         "d": "De otros orígenes."
                     },
-                    "respuesta_correcta": "d",
+                    "respuesta_correcta": "a",
                     "explicacion": "Importar desde otros orígenes (Archivo HTML).",
                     "tema_numero": 28,
                     "fuente_oficial": "https://www.rfc-editor.org/"
@@ -1474,7 +1474,7 @@
                         "c": "...",
                         "d": "No..."
                     },
-                    "respuesta_correcta": "b",
+                    "respuesta_correcta": "a",
                     "explicacion": "Opción Deshacer envío (Undo send) en Outlook (configurable de 0 a 10/20 segundos).",
                     "tema_numero": 27,
                     "fuente_oficial": "https://support.microsoft.com/outlook"
