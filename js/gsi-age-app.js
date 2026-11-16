@@ -1,11 +1,12 @@
 const GSI_PROGRESS_KEY = 'opogva-progress-gsi-age-v1';
 const GSI_DATA = window.gsiAgeData;
 const $gsi = selector => document.querySelector(selector);
+let nextGsiTopicNumber = 0;
 const gsiTopics = GSI_DATA.blocks.flatMap(block => block.topics.map((title, index) => ({
   id: `${block.id}-${index + 1}`,
   block: block.id,
   blockTitle: block.title,
-  number: index + 1,
+  number: ++nextGsiTopicNumber,
   title
 })));
 
@@ -73,13 +74,15 @@ function gsiRenderTopics() {
       const id = `${block.id}-${index + 1}`;
       const status = gsiProgress(state, id);
       const statusLabel = status === 'done' ? 'Estudiado' : status === 'progress' ? 'En curso' : 'Pendiente';
+      const topicNumber = gsiTopics.find(topic => topic.id === id).number;
       return `<article class="topic-card age-topic">
-        <div class="age-topic-open">
-          <span class="topic-number">${String(index + 1).padStart(2, '0')}</span>
+        <a class="age-topic-open gsi-topic-link" href="gsi-topic.html?tema=${String(topicNumber).padStart(2, '0')}" target="_blank" rel="noopener" aria-label="Abrir el tema ${String(topicNumber).padStart(2, '0')} en una ventana nueva">
+          <span class="topic-number">${String(topicNumber).padStart(2, '0')}</span>
           <span class="topic-title"><small>BLOQUE ${block.id} · ${gsiEscape(block.title).toUpperCase()}</small><strong>${gsiEscape(title)}</strong></span>
           <span class="topic-state ${status === 'done' ? 'is-done' : ''}">${statusLabel}</span>
-        </div>
-        <div class="study-controls"><label>Progreso<select data-gsi-progress="${id}" aria-label="Progreso del bloque ${block.id}, tema ${index + 1}">
+          <span class="age-topic-arrow" aria-hidden="true">↗</span>
+        </a>
+        <div class="study-controls"><label>Progreso<select data-gsi-progress="${id}" aria-label="Progreso del bloque ${block.id}, tema ${topicNumber}">
           <option value="pending" ${status === 'pending' ? 'selected' : ''}>Pendiente</option>
           <option value="progress" ${status === 'progress' ? 'selected' : ''}>En curso</option>
           <option value="done" ${status === 'done' ? 'selected' : ''}>Estudiado</option>

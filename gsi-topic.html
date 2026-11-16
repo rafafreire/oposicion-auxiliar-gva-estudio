@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f7f2">
+  <title>Lectura de tema · GSI AGE</title>
+  <style>
+    *{box-sizing:border-box}
+    body{margin:0;background:#f5f7f2;color:#263328;font:16px/1.8 system-ui,sans-serif}
+    .bar{position:sticky;top:0;z-index:2;background:#fff;border-bottom:1px solid #e5ebe3;padding:10px 18px}
+    .bar-inner{max-width:900px;margin:auto;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+    .bar button,.bar a{border:1px solid #dce8da;border-radius:7px;padding:8px 11px;background:#f5f8f3;color:#286342;font:600 12px system-ui;cursor:pointer;text-decoration:none}
+    .bar button:disabled{opacity:.5;cursor:default}
+    .reader-title{font-size:12px;color:#55705a}
+    .speech-controls{display:flex;align-items:center;gap:7px;flex-wrap:wrap}
+    .speech-status{font-size:11px;color:#657665}
+    .speech-speed-label{display:flex;align-items:center;gap:5px;color:#55705a;font-size:11px}
+    .speech-speed{border:1px solid #dce8da;border-radius:6px;background:#fff;color:#286342;padding:6px;font:12px system-ui}
+    .speech-progress{max-width:900px;margin:9px auto 0;display:flex;align-items:center;gap:10px}
+    .speech-progress label{font-size:11px;white-space:nowrap}
+    .speech-progress input{flex:1;min-width:70px;accent-color:#286342;cursor:pointer}
+    .speech-progress output{color:#55705a;font-size:11px;white-space:nowrap}
+    .speech-highlight{border-radius:3px;background:#fff2b8!important;color:#263328;box-shadow:inset 0 0 0 1px #e8c94e}
+    ::selection{background:#ffe27a;color:#263328}
+    main{max-width:900px;margin:26px auto;padding:30px 42px;background:#fff;border:1px solid #e7ebe4;border-radius:14px}
+    h1{font:700 26px/1.4 system-ui;color:#245c43}
+    h2,h3,h4{color:#286342;line-height:1.45}
+    h2{font-size:19px}
+    h3{font-size:15px}
+    p{margin:9px 0}
+    li{margin:5px 0}
+    blockquote{margin:18px 0;padding:12px 15px;border-left:3px solid #83a98a;background:#f4f8f3;color:#526453}
+    a{overflow-wrap:anywhere}
+    .reader-error{max-width:900px;margin:18px auto;padding:14px 18px;border:1px solid #e5c4bc;border-radius:9px;background:#fff5f1;color:#7b463e}
+    @media(max-width:700px){
+      main{margin:12px;padding:18px 15px}
+      .bar{padding:9px 11px}
+      .bar-inner{align-items:flex-start}
+      .speech-controls{width:100%}
+      .reader-title{width:100%}
+      .speech-progress{margin-top:8px;gap:7px;flex-wrap:wrap}
+      .speech-progress label{width:100%}
+      .speech-progress output{font-size:10px}
+      h1{font-size:22px}
+    }
+  </style>
+  <script src="js/gsi-age-data.js" defer></script>
+  <script src="js/gsi-topic-reader.js" defer></script>
+</head>
+<body>
+  <header class="bar">
+    <div class="bar-inner">
+      <button type="button" id="reader-back">← Volver al temario</button>
+      <span class="reader-title" id="reader-title">GSI AGE · Cargando tema…</span>
+      <a href="OPOSICIONES/GSI%20AGE/TEMARIO/Programa_oficial_GSI_AGE_OEP_2025.pdf" target="_blank" rel="noopener">Programa oficial ↗</a>
+      <div class="speech-controls">
+        <button type="button" id="speak-start">▶ Escuchar tema</button>
+        <label class="speech-speed-label" for="speak-speed">Velocidad
+          <select class="speech-speed" id="speak-speed">
+            <option value="0.7">0,7×</option>
+            <option value="0.85">0,85×</option>
+            <option value="1" selected>1×</option>
+            <option value="1.25">1,25×</option>
+            <option value="1.5">1,5×</option>
+            <option value="2">2×</option>
+          </select>
+        </label>
+        <button type="button" id="speak-pause" disabled>⏸ Pausar</button>
+        <button type="button" id="speak-stop" disabled>■ Detener</button>
+        <span id="speak-status" class="speech-status" aria-live="polite"></span>
+        <span id="speak-duration" class="speech-status" aria-live="polite"></span>
+        <button type="button" disabled>MP3 no generado</button>
+        <span class="speech-status">Audio MP3 no generado para GSI AGE</span>
+      </div>
+    </div>
+    <div class="speech-progress">
+      <label for="speak-progress">Progreso de lectura</label>
+      <input id="speak-progress" type="range" min="0" max="1000" value="0" aria-label="Elegir el punto del tema que quieres escuchar">
+      <output id="speak-position" for="speak-progress">0:00 / 0:00 aprox.</output>
+    </div>
+  </header>
+  <p id="reader-error" class="reader-error" role="alert" hidden></p>
+  <main id="reader-content"><p>Cargando el contenido del tema…</p></main>
+</body>
+</html>
